@@ -1,0 +1,8 @@
+#EXTM3U
+# Esta playlist deve ser atualizada com o conteúdo gerado localmente pelo comando:
+# python Code/validator.py
+#
+# Após validar, envie o arquivo valid_links.m3u para o GitHub com:
+# git add valid_links.m3u
+# git commit -m "chore: update valid IPTV playlist"
+# git push
