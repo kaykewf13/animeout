@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AnimeOut Streaming</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">AnimeOut</p>
+      <h1>Streaming IPTV organizado por categorias</h1>
+      <p class="subtitle">Canais, Séries e Filmes em uma interface simples, rápida e pronta para evoluir.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Buscar título, categoria ou grupo..." />
+      <div class="tabs">
+        <button class="tab active" data-group="Todos">Todos</button>
+        <button class="tab" data-group="Canais">Canais</button>
+        <button class="tab" data-group="Series">Series</button>
+        <button class="tab" data-group="Filmes">Filmes</button>
+      </div>
+    </section>
+
+    <section class="playerPanel" id="playerPanel">
+      <div class="videoWrap">
+        <video id="videoPlayer" controls playsinline></video>
+      </div>
+      <div class="nowPlaying">
+        <p class="eyebrow">Reproduzindo</p>
+        <h2 id="nowTitle">Selecione um item</h2>
+        <p id="nowMeta">Aguardando stream...</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="sectionTitle">
+        <h2>Catálogo</h2>
+        <span id="countBadge">0 itens</span>
+      </div>
+      <div id="catalogGrid" class="grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Use apenas streams próprios, públicos ou autorizados.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
