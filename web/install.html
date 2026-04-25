@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Instalar IPTV - AnimeOut</title>
+<style>
+body{background:#0b0c10;color:#fff;font-family:sans-serif;text-align:center;padding:20px}
+.box{background:#111;padding:20px;border-radius:12px;margin:20px auto;max-width:500px}
+input{width:100%;padding:10px;border-radius:8px;border:none;margin-top:10px}
+button{padding:10px 20px;border:none;border-radius:8px;background:#b31d1d;color:#fff;margin-top:10px}
+img{margin-top:15px}
+</style>
+</head>
+<body>
+
+<h1>📺 Instalar IPTV</h1>
+
+<div class="box">
+<p>URL Principal:</p>
+<input id="m3u" value="https://raw.githubusercontent.com/kaykewf13/animeout/main/valid_links.m3u">
+<button onclick="copy()">Copiar</button>
+
+<p>QR Code:</p>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://raw.githubusercontent.com/kaykewf13/animeout/main/valid_links.m3u">
+</div>
+
+<div class="box">
+<p>Listas separadas:</p>
+<a href="../output/canais.m3u">Canais</a><br>
+<a href="../output/series.m3u">Séries</a><br>
+<a href="../output/filmes.m3u">Filmes</a>
+</div>
+
+<script>
+function copy(){
+  const el = document.getElementById("m3u");
+  el.select();
+  document.execCommand("copy");
+  alert("Copiado!");
+}
+</script>
+
+</body>
+</html>
