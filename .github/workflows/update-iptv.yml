@@ -23,8 +23,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Import external sources
-        run: python Code/import_external_m3u_sources.py
-
+        run: python Code/
       - name: Import IPTV-org
         run: python Code/import_iptv_org_vod.py
 
