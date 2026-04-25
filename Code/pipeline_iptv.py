@@ -12,6 +12,7 @@ CATALOG_SOURCES = [
     "sources/external_vod_sources.csv",
     "sources/vod_playlist_items.csv",
     "sources/channel_playlist_items.csv",
+    "sources/github_vod_discovered.csv",
 ]
 
 OUTPUT_M3U = "valid_links.m3u"
@@ -68,6 +69,17 @@ def safe_group(value):
     text = re.sub(r"\s*-\s*", " - ", text)
     text = re.sub(r"\s+", " ", text).strip(" -")
     return text or "Geral"
+
+
+def iptv_group_name(group):
+    group = safe_group(group)
+    if group == "Canais":
+        return "Canais"
+    if group == "Filmes":
+        return "Filmes"
+    if group == "Series":
+        return "Series"
+    return "Outros"
 
 
 def title_case(value):
@@ -275,7 +287,7 @@ def gerar_cluster(items):
     return sorted(result, key=lambda x: (x["group"], x["category"], -x["score"], x["title"]))
 
 
-def gerar_m3u(clusters, caminho):
+def gerar_m3u(clusters, caminho, mode="iptv"):
     with open(caminho, "w", encoding="utf-8", newline="\n") as f:
         f.write("#EXTM3U\n")
         idx = 1
@@ -285,9 +297,9 @@ def gerar_m3u(clusters, caminho):
                     continue
                 title = safe_text(ep.get("title") or obra.get("title") or "Sem titulo")
                 logo = safe_text(ep.get("logo") or obra.get("logo") or "", 300)
-                group = safe_group(obra.get("groupTitle") or group_title(obra))
-                tvg_id = f"{slug(obra.get('group'))}_{slug(obra.get('title'))}_{idx}"
-                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-language="pt" tvg-type="{tvg_type(obra.get("group"))}" group-title="{group}",{title}\n')
+                group = iptv_group_name(obra.get("group")) if mode == "iptv" else safe_group(obra.get("groupTitle") or group_title(obra))
+                tvg_id = f"{slug(obra.get('group'))}_{idx}"
+                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-type="{tvg_type(obra.get("group"))}" group-title="{group}",{title}\n')
                 f.write(f"{ep['url']}\n")
                 idx += 1
     print(f"Gerado {caminho}: {idx-1} item(ns)")
@@ -318,14 +330,14 @@ def main():
     itens, invalidos = carregar_catalogos()
     stream_items = [i for i in itens if i.get("stream_url", "").startswith("http") and is_stream_url(i.get("stream_url"))]
     clusters = gerar_cluster(stream_items)
-    gerar_m3u(clusters, OUTPUT_M3U); gerar_m3u(clusters, OUTPUT_MASTER)
-    gerar_m3u([c for c in clusters if c["group"] == "Canais"], OUTPUT_CANAIS)
-    gerar_m3u([c for c in clusters if c["group"] == "Series"], OUTPUT_SERIES)
-    gerar_m3u([c for c in clusters if c["group"] == "Filmes"], OUTPUT_FILMES)
+    gerar_m3u(clusters, OUTPUT_M3U, mode="iptv"); gerar_m3u(clusters, OUTPUT_MASTER, mode="iptv")
+    gerar_m3u([c for c in clusters if c["group"] == "Canais"], OUTPUT_CANAIS, mode="iptv")
+    gerar_m3u([c for c in clusters if c["group"] == "Series"], OUTPUT_SERIES, mode="iptv")
+    gerar_m3u([c for c in clusters if c["group"] == "Filmes"], OUTPUT_FILMES, mode="iptv")
     gerar_flat_json(clusters)
     gerar_csv(INVALID_CSV, invalidos, ["grupo","categoria","titulo","stream_url","fonte","source_file","motivo"])
     gerar_csv("logs/catalog_summary.csv", [{"metric":"total_titles","value":len(clusters)},{"metric":"total_episodes","value":sum(len(c.get("episodes", [])) for c in clusters)},{"metric":"canais","value":sum(1 for c in clusters if c["group"] == "Canais")},{"metric":"series","value":sum(1 for c in clusters if c["group"] == "Series")},{"metric":"filmes","value":sum(1 for c in clusters if c["group"] == "Filmes")},{"metric":"anime","value":sum(1 for c in clusters if c.get("isAnime"))},{"metric":"adult","value":sum(1 for c in clusters if c.get("isAdult"))}], ["metric","value"])
-    print("IPTV premium finalizado com sucesso.")
+    print("IPTV ultra compat finalizado com sucesso.")
 
 
 if __name__ == "__main__":
