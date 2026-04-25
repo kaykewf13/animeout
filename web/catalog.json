@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "Naruto",
+    "grupo": "Series",
+    "categoria": "Anime",
+    "stream_url": "https://exemplo.com/naruto.m3u8",
+    "logo": "https://logo.com/naruto.png",
+    "is_anime": "true",
+    "is_adult": "false",
+    "score": 5
+  },
+  {
+    "titulo": "Hentai Test",
+    "grupo": "Series",
+    "categoria": "Hentai",
+    "stream_url": "https://exemplo.com/hentai.m3u8",
+    "logo": "https://logo.com/hentai.png",
+    "is_anime": "false",
+    "is_adult": "true",
+    "score": 4
+  },
+  {
+    "titulo": "CNN",
+    "grupo": "Canais",
+    "categoria": "Noticias",
+    "stream_url": "https://exemplo.com/cnn.m3u8",
+    "logo": "https://logo.com/cnn.png",
+    "is_anime": "false",
+    "is_adult": "false",
+    "score": 3
+  }
+]
