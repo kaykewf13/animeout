@@ -1,0 +1,33 @@
+name: 🚀 IPTV Auto Pipeline
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4
+
+      - name: Run pipeline
+        run: python Code/pipeline_iptv.py
+
+      - name: Commit update
+        run: |
+          git config user.name "iptv-bot"
+          git config user.email "iptv-bot@users.noreply.github.com"
+          git add .
+          git commit -m "auto update" || echo "no changes"
+          git push
