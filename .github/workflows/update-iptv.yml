@@ -31,10 +31,13 @@ jobs:
       - name: Import IPTV-org VOD
         run: python Code/import_iptv_org_vod.py
 
-      - name: Import scalable VOD playlists
+      - name: Import scalable VOD playlists (cached)
         run: python Code/import_vod_playlists.py
 
-      - name: Run pipeline
+      - name: Import live channels
+        run: python Code/import_channel_playlists.py
+
+      - name: Run pipeline (VOD + LIVE split)
         run: python Code/pipeline_iptv.py
 
       - name: Enrich anime metadata
@@ -50,6 +53,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "auto update VOD scale"
+            git commit -m "auto update live + stable VOD"
             git push
           fi
