@@ -19,6 +19,8 @@ VALID_CONTENT_HINTS = [
     "binary",
 ]
 
+TIMEOUT_SECONDS = 8
+
 
 def ler_playlist(caminho="playlist.m3u"):
     if not os.path.exists(caminho):
@@ -44,7 +46,7 @@ def ler_playlist(caminho="playlist.m3u"):
 
 def validar_m3u8(url):
     try:
-        r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=True)
+        r = requests.get(url, headers=HEADERS, timeout=TIMEOUT_SECONDS, allow_redirects=True)
         status = r.status_code
         content_type = r.headers.get("content-type", "").lower()
         texto = r.text[:500] if r.text else ""
@@ -65,7 +67,7 @@ def validar_video(url):
         headers = HEADERS.copy()
         headers["Range"] = "bytes=0-1024"
 
-        r = requests.get(url, headers=headers, timeout=20, stream=True, allow_redirects=True)
+        r = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS, stream=True, allow_redirects=True)
         status = r.status_code
         content_type = r.headers.get("content-type", "").lower()
         content_length = r.headers.get("content-length", "")
@@ -110,6 +112,13 @@ def gerar_invalidos(invalidos, caminho="invalid_links.csv"):
     print(f"Arquivo gerado: {caminho} ({len(invalidos)} link(s) inválido(s))")
 
 
+def salvar_parcial(validos, invalidos):
+    print("\nSalvando progresso parcial...")
+    gerar_validos(validos)
+    gerar_invalidos(invalidos)
+    print("Progresso salvo. Você pode continuar depois rodando novamente.")
+
+
 def main():
     playlist = input("Arquivo M3U para validar [playlist.m3u]: ").strip() or "playlist.m3u"
     itens = ler_playlist(playlist)
@@ -118,31 +127,44 @@ def main():
         print("Nenhum link encontrado para validar.")
         return
 
+    limite_txt = input(f"Quantos links validar? [Enter = todos / sugestão teste = 20]: ").strip()
+    if limite_txt:
+        try:
+            limite = int(limite_txt)
+            itens = itens[:limite]
+        except ValueError:
+            print("Limite inválido. Vou validar todos.")
+
     validos = []
     invalidos = []
 
-    print(f"Validando {len(itens)} link(s)...\n")
+    print(f"Validando {len(itens)} link(s)...")
+    print("Dica: pressione Ctrl+C para pausar e salvar o progresso parcial.\n")
 
-    for i, item in enumerate(itens, 1):
-        print(f"[{i}/{len(itens)}] Validando: {item['titulo']}")
-        ok, status, content_type, motivo = validar_link(item["url"])
+    try:
+        for i, item in enumerate(itens, 1):
+            print(f"[{i}/{len(itens)}] Validando: {item['titulo']}")
+            ok, status, content_type, motivo = validar_link(item["url"])
 
-        if ok:
-            print(f"  ✅ OK | status={status} | {motivo}")
-            validos.append(item)
-        else:
-            print(f"  ❌ FALHOU | status={status} | {motivo}")
-            invalidos.append({
-                "titulo": item["titulo"],
-                "url": item["url"],
-                "status": status,
-                "content_type": content_type,
-                "motivo": motivo,
-            })
+            if ok:
+                print(f"  OK | status={status} | {motivo}")
+                validos.append(item)
+            else:
+                print(f"  FALHOU | status={status} | {motivo}")
+                invalidos.append({
+                    "titulo": item["titulo"],
+                    "url": item["url"],
+                    "status": status,
+                    "content_type": content_type,
+                    "motivo": motivo,
+                })
+    except KeyboardInterrupt:
+        salvar_parcial(validos, invalidos)
+        return
 
     print("\nResumo:")
-    print(f"✅ Válidos: {len(validos)}")
-    print(f"❌ Inválidos: {len(invalidos)}")
+    print(f"Válidos: {len(validos)}")
+    print(f"Inválidos: {len(invalidos)}")
 
     gerar_validos(validos)
     gerar_invalidos(invalidos)
