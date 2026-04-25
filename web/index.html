@@ -79,4 +79,46 @@
 
     <section id="animeRailBlock" class="railBlock">
       <div class="sectionTitle">
-        <h2>🎎 Animes</h
+        <h2>🎎 Animes</h2>
+        <span id="animeBadge">0 itens</span>
+      </div>
+      <div id="animeRail" class="rail"></div>
+    </section>
+
+    <section id="adultRailBlock" class="railBlock hidden">
+      <div class="sectionTitle">
+        <h2>18+ Adultos</h2>
+        <span id="adultBadge">0 itens</span>
+      </div>
+      <div id="adultRail" class="rail"></div>
+    </section>
+
+    <section id="catalogo" class="railBlock">
+      <div class="sectionTitle">
+        <h2>Catálogo completo</h2>
+        <span id="countBadge">0 itens</span>
+      </div>
+      <div id="catalogGrid" class="grid"></div>
+    </section>
+  </main>
+
+  <div class="modal hidden" id="adultModal">
+    <div class="modalCard">
+      <p class="eyebrow">Conteúdo 18+</p>
+      <h2>Confirmação necessária</h2>
+      <p>Este item foi classificado como adulto. Confirme que deseja continuar.</p>
+
+      <div class="modalActions">
+        <button id="confirmAdult">Confirmar e assistir</button>
+        <button class="ghost" id="cancelAdult">Cancelar</button>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>AnimeOut Premium. Use apenas streams próprios, públicos ou autorizados.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
