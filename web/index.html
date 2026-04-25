@@ -3,7 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b0c10" />
   <title>AnimeOut Premium</title>
+  <link rel="manifest" href="manifest.webmanifest" />
   <link rel="stylesheet" href="styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
@@ -39,6 +41,8 @@
         <button class="tab" data-group="Canais">Canais</button>
         <button class="tab" data-group="Series">Series</button>
         <button class="tab" data-group="Filmes">Filmes</button>
+        <button class="tab" data-filter="anime">🎎 Anime</button>
+        <button class="tab adultTab" data-filter="adult">18+</button>
       </div>
       <select id="categorySelect">
         <option value="Todos">Todas as categorias</option>
@@ -53,6 +57,7 @@
         <p class="eyebrow">Reproduzindo agora</p>
         <h2 id="nowTitle">Selecione um item</h2>
         <p id="nowMeta">Aguardando stream...</p>
+        <p id="nowDescription" class="desc"></p>
         <p class="tiny" id="nowSource"></p>
       </div>
     </section>
@@ -65,6 +70,16 @@
       <div id="featuredRail" class="rail"></div>
     </section>
 
+    <section id="animeRailBlock" class="railBlock">
+      <div class="sectionTitle"><h2>🎎 Animes</h2><span id="animeBadge">0 itens</span></div>
+      <div id="animeRail" class="rail"></div>
+    </section>
+
+    <section id="adultRailBlock" class="railBlock hidden">
+      <div class="sectionTitle"><h2>18+ Adultos</h2><span id="adultBadge">0 itens</span></div>
+      <div id="adultRail" class="rail"></div>
+    </section>
+
     <section id="catalogo" class="railBlock">
       <div class="sectionTitle">
         <h2>Catálogo completo</h2>
@@ -73,6 +88,18 @@
       <div id="catalogGrid" class="grid"></div>
     </section>
   </main>
+
+  <div class="modal hidden" id="adultModal">
+    <div class="modalCard">
+      <p class="eyebrow">Conteúdo 18+</p>
+      <h2>Confirmação necessária</h2>
+      <p>Este item foi classificado como adulto. Confirme que deseja continuar.</p>
+      <div class="modalActions">
+        <button id="confirmAdult">Confirmar e assistir</button>
+        <button class="ghost" id="cancelAdult">Cancelar</button>
+      </div>
+    </div>
+  </div>
 
   <footer>
     <p>AnimeOut Premium. Use apenas streams próprios, públicos ou autorizados.</p>
