@@ -1,0 +1,3 @@
+nome,categoria,url,ativo
+free-tv-br,Brasil,https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8,true
+ibert-jp,Japão,https://m3u.ibert.me/jp.m3u,false
