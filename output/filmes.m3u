@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="filmes_fan_1" tvg-name="FAN" tvg-logo="https://i.imgur.com/mDeTbaF.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Animacao",FAN
 http://31.148.48.15/Fan/index.m3u8
-#EXTINF:-1 tvg-id="filmes_pro100tv_576p_2" tvg-name="Pro100TV (576p)" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Animacao",Pro100TV (576p)
+#EXTINF:-1 tvg-id="filmes_pro100tv_576p_2" tvg-name="Pro100TV 576p" tvg-logo="https://i.imgur.com/YfQEflM.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Animacao",Pro100TV 576p
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="filmes_artflix_movie_classics_3" tvg-name="Artflix Movie Classics" tvg-logo="https://i.imgur.com/5pOZQB4.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",Artflix Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_bollywood_classic_4" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/ugPo6ca.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",Bollywood Classic
 http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_movify_kino_576p_5" tvg-name="Movify Kino (576p)" tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",Movify Kino (576p)
+#EXTINF:-1 tvg-id="filmes_movify_kino_576p_5" tvg-name="Movify Kino 576p" tvg-logo="https://i.imgur.com/XIk5EJN.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",Movify Kino 576p
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 tvg-id="filmes_the_goldbergs_s04_e23_6" tvg-name="The Goldbergs S04 E23" tvg-logo="https://placehold.co/600x900/111218/e7e9ee?text=Filmes" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",The Goldbergs S04 E23
 https://vod007.the6tv.duckdns.org:2443/The_Goldbergs_S04E23.mp4/index.m3u8
@@ -15,17 +15,17 @@ https://vod007.the6tv.duckdns.org:2443/The_Goldbergs_S04E23.mp4/index.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_zb_cinema_8" tvg-name="ZB Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Classicos",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-id="filmes_alpha_moretime_9" tvg-name="Alpha Moretime" tvg-logo="https://i.imgur.com/ibQfUr7.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Comedia",Alpha Moretime
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-id="filmes_alpha_cinema_10" tvg-name="Alpha Cinema" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Comedia",Alpha Cinema
+#EXTINF:-1 tvg-id="filmes_alpha_cinema_9" tvg-name="Alpha Cinema" tvg-logo="https://i.imgur.com/146OgfU.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Comedia",Alpha Cinema
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="filmes_alpha_moretime_10" tvg-name="Alpha Moretime" tvg-logo="https://i.imgur.com/ibQfUr7.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Comedia",Alpha Moretime
+https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 tvg-id="filmes_kcm_11" tvg-name="KCM" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Entretenimento",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_mci_television_12" tvg-name="MCI Television" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" tvg-language="pt" tvg-type="movie" group-title="Filmes - Familia",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="filmes_item_13" tvg-name="Дом Кино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0" tvg-language="pt" tvg-type="movie" group-title="Filmes",Дом Кино
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 tvg-id="filmes_576p_14" tvg-name="Еврокино (576p)" tvg-logo="https://i.imgur.com/8LPtPf6.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Еврокино (576p)
+#EXTINF:-1 tvg-id="filmes_576p_14" tvg-name="Еврокино 576p" tvg-logo="https://i.imgur.com/8LPtPf6.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Еврокино 576p
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="filmes_moviesphere_15" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MovieSphere
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
@@ -39,7 +39,7 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%20HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20MAX%202.m3u8
 #EXTINF:-1 tvg-id="filmes_zylo_cine_western_20" tvg-name="Zylo Cine Western" tvg-logo="https://i.imgur.com/tteOFkL.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zylo Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_tv_576p_21" tvg-name="&TV (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",&TV (576p)
+#EXTINF:-1 tvg-id="filmes_tv_576p_21" tvg-name="&TV 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",&TV 576p
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="filmes_tv_international_22" tvg-name="&TV International" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",&TV International
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
@@ -47,7 +47,7 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 http://103.72.101.252:8080/live/1322.m3u8
 #EXTINF:-1 tvg-id="filmes_pictures_24" tvg-name="&pictures" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",&pictures
 http://103.72.101.252:8080/live/185.m3u8
-#EXTINF:-1 tvg-id="filmes_312_406p_25" tvg-name="312 Кино (406p)" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",312 Кино (406p)
+#EXTINF:-1 tvg-id="filmes_312_406p_25" tvg-name="312 Кино 406p" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",312 Кино 406p
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_70s_cinema_26" tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/mgXeEE4.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
@@ -55,15 +55,15 @@ https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 #EXTINF:-1 tvg-id="filmes_90s_throwback_28" tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/KoGko6M.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 tvg-id="filmes_amc_latin_america_1280p_29" tvg-name="AMC Latin America (1280p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",AMC Latin America (1280p)
+#EXTINF:-1 tvg-id="filmes_amc_latin_america_1280p_29" tvg-name="AMC Latin America 1280p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",AMC Latin America 1280p
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-76.playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_axn_asia_indonesia_30" tvg-name="AXN Asia Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",AXN Asia Indonesia
 http://103.58.160.157:8278/720-AXN/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_axn_latin_america_south_2160p_31" tvg-name="AXN Latin America South (2160p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",AXN Latin America South (2160p)
+#EXTINF:-1 tvg-id="filmes_axn_latin_america_south_2160p_31" tvg-name="AXN Latin America South 2160p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",AXN Latin America South 2160p
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_abzy_dhakad_504p_32" tvg-name="Abzy Dhakad (504p)" tvg-logo="https://i.imgur.com/5ORC4tn.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Abzy Dhakad (504p)
+#EXTINF:-1 tvg-id="filmes_abzy_dhakad_504p_32" tvg-name="Abzy Dhakad 504p" tvg-logo="https://i.imgur.com/5ORC4tn.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Abzy Dhakad 504p
 http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
-#EXTINF:-1 tvg-id="filmes_abzy_movies_504p_33" tvg-name="Abzy Movies (504p)" tvg-logo="https://i.imgur.com/LnVgKVF.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Abzy Movies (504p)
+#EXTINF:-1 tvg-id="filmes_abzy_movies_504p_33" tvg-name="Abzy Movies 504p" tvg-logo="https://i.imgur.com/LnVgKVF.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Abzy Movies 504p
 http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 #EXTINF:-1 tvg-id="filmes_action_34" tvg-name="Action 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Action 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -77,13 +77,13 @@ https://afrafhls.wns.live/hls/stream.m3u8
 https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
 #EXTINF:-1 tvg-id="filmes_alien_nation_by_dust_39" tvg-name="Alien Nation By DUST" tvg-logo="https://i.imgur.com/FxYhME9.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Alien Nation By DUST
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_all_time_movies_576p_40" tvg-name="All Time Movies (576p)" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="movie" group-title="Filmes",All Time Movies (576p)
+#EXTINF:-1 tvg-id="filmes_all_time_movies_576p_40" tvg-name="All Time Movies 576p" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="movie" group-title="Filmes",All Time Movies 576p
 https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="filmes_american_horrors_41" tvg-name="American Horrors" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",American Horrors
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_anmol_cinema_576p_42" tvg-name="Anmol Cinema (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Anmol Cinema (576p)
+#EXTINF:-1 tvg-id="filmes_anmol_cinema_576p_42" tvg-name="Anmol Cinema 576p" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Anmol Cinema 576p
 http://116.90.120.151:8000/play/a0j6/index.m3u8
-#EXTINF:-1 tvg-id="filmes_asianet_movies_576p_43" tvg-name="Asianet Movies (576p)" tvg-logo="https://i.imgur.com/cps67hs.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Asianet Movies (576p)
+#EXTINF:-1 tvg-id="filmes_asianet_movies_576p_43" tvg-name="Asianet Movies 576p" tvg-logo="https://i.imgur.com/cps67hs.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Asianet Movies 576p
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="filmes_atrescine_44" tvg-name="Atrescine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Atrescine
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
@@ -103,15 +103,15 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_bollywood_52" tvg-name="Bollywood" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Bollywood
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_bollywood_russia_576p_53" tvg-name="Bollywood Russia (576p)" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Bollywood Russia (576p)
+#EXTINF:-1 tvg-id="filmes_bollywood_russia_576p_53" tvg-name="Bollywood Russia 576p" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Bollywood Russia 576p
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="filmes_cctv_6_2160p_54" tvg-name="CCTV-6 (2160p)" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",CCTV-6 (2160p)
+#EXTINF:-1 tvg-id="filmes_cctv_6_2160p_54" tvg-name="CCTV-6 2160p" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",CCTV-6 2160p
 http://123.175.209.52:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="filmes_ctb_perth_movies_55" tvg-name="CTB Perth Movies" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" tvg-language="pt" tvg-type="movie" group-title="Filmes",CTB Perth Movies
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-id="filmes_cafe_film_56" tvg-name="Cafe Film" tvg-logo="https://placehold.co/600x900/111218/e7e9ee?text=Filmes" tvg-language="pt" tvg-type="movie" group-title="Filmes",Cafe Film
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="filmes_celestial_movies_576i_57" tvg-name="Celestial Movies (576i)" tvg-logo="https://i.imgur.com/Mb5ssnu.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Celestial Movies (576i)
+#EXTINF:-1 tvg-id="filmes_celestial_movies_576i_57" tvg-name="Celestial Movies 576i" tvg-logo="https://i.imgur.com/Mb5ssnu.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Celestial Movies 576i
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_charge_58" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
@@ -141,21 +141,21 @@ https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHa
 http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_cinevault_80s_71" tvg-name="Cinevault 80s" tvg-logo="https://i.imgur.com/xaCyyDd.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Cinevault 80s
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_bangla_cinema_576p_72" tvg-name="Colors Bangla Cinema (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Bangla Cinema (576p)
+#EXTINF:-1 tvg-id="filmes_colors_bangla_cinema_576p_72" tvg-name="Colors Bangla Cinema 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Bangla Cinema 576p
 http://103.72.101.252:8080/live/1657.m3u8
 #EXTINF:-1 tvg-id="filmes_colors_cineplex_73" tvg-name="Colors Cineplex" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex
 http://103.72.101.252:8080/live/1477.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_cineplex_576p_74" tvg-name="Colors Cineplex (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex (576p)
+#EXTINF:-1 tvg-id="filmes_colors_cineplex_576p_74" tvg-name="Colors Cineplex 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex 576p
 http://103.72.101.252:8080/live/482.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_cineplex_bollywood_576p_75" tvg-name="Colors Cineplex Bollywood (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex Bollywood (576p)
+#EXTINF:-1 tvg-id="filmes_colors_cineplex_bollywood_576p_75" tvg-name="Colors Cineplex Bollywood 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex Bollywood 576p
 http://103.72.101.252:8080/live/1763.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_cineplex_superhits_576p_76" tvg-name="Colors Cineplex Superhits (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex Superhits (576p)
+#EXTINF:-1 tvg-id="filmes_colors_cineplex_superhits_576p_76" tvg-name="Colors Cineplex Superhits 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Cineplex Superhits 576p
 http://103.72.101.252:8080/live/1450.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_gujarati_cinema_77" tvg-name="Colors Gujarati Cinema ( )" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Gujarati Cinema ( )
+#EXTINF:-1 tvg-id="filmes_colors_gujarati_cinema_77" tvg-name="Colors Gujarati Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Gujarati Cinema
 http://103.72.101.252:8080/live/1324.m3u8
-#EXTINF:-1 tvg-id="filmes_colors_kannada_cinema_576p_78" tvg-name="Colors Kannada Cinema (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Kannada Cinema (576p)
+#EXTINF:-1 tvg-id="filmes_colors_kannada_cinema_576p_78" tvg-name="Colors Kannada Cinema 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Colors Kannada Cinema 576p
 http://103.72.101.252:8080/live/1632.m3u8
-#EXTINF:-1 tvg-id="filmes_dhamaka_movies_b4u_576p_79" tvg-name="Dhamaka Movies B4U (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Dhamaka Movies B4U (576p)
+#EXTINF:-1 tvg-id="filmes_dhamaka_movies_b4u_576p_79" tvg-name="Dhamaka Movies B4U 576p" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Dhamaka Movies B4U 576p
 https://cdn-1.pishow.tv/live/235/master.m3u8
 #EXTINF:-1 tvg-id="filmes_discoverfilm_80" tvg-name="DiscoverFilm" tvg-logo="https://i.imgur.com/oMnpsQ5.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",DiscoverFilm
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
@@ -165,26 +165,26 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-id="filmes_etv_cinema_83" tvg-name="ETV Cinema" tvg-logo="https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",ETV Cinema
 https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
-#EXTINF:-1 tvg-id="filmes_eisei_gekijo_544p_84" tvg-name="Eisei Gekijo (544p)" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="movie" group-title="Filmes",Eisei Gekijo (544p)
+#EXTINF:-1 tvg-id="filmes_eisei_gekijo_544p_84" tvg-name="Eisei Gekijo 544p" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="movie" group-title="Filmes",Eisei Gekijo 544p
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 #EXTINF:-1 tvg-id="filmes_ekran_movies_85" tvg-name="Ekran Movies" tvg-logo="https://i.ibb.co/WNyssx28/Screenshot-2025-05-18-211143.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="filmes_epic_bhojpuri_576p_86" tvg-name="Epic Bhojpuri (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Epic Bhojpuri (576p)
+#EXTINF:-1 tvg-id="filmes_epic_bhojpuri_576p_86" tvg-name="Epic Bhojpuri 576p" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Epic Bhojpuri 576p
 http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 tvg-id="filmes_film4_87" tvg-name="Film4" tvg-logo="https://i.imgur.com/MTSgoGI.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Film4
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-id="filmes_filmrise_westerns_88" tvg-name="FilmRise Westerns" tvg-logo="https://i.imgur.com/8j2npVc.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",FilmRise Westerns
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="filmes_filmax_576p_89" tvg-name="Filmax (576p)" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmax (576p)
+#EXTINF:-1 tvg-id="filmes_filmax_576p_89" tvg-name="Filmax 576p" tvg-logo="https://i.imgur.com/eLmdZ6k.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmax 576p
 http://103.250.28.74:8000/play/a02o/index.m3u8
-#EXTINF:-1 tvg-id="filmes_filmazia_576p_90" tvg-name="Filmazia (576p)" tvg-logo="https://i.imgur.com/hpTCANa.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmazia (576p)
+#EXTINF:-1 tvg-id="filmes_filmazia_576p_90" tvg-name="Filmazia 576p" tvg-logo="https://i.imgur.com/hpTCANa.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmazia 576p
 http://103.250.28.74:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="filmes_filmes_suspense_91" tvg-name="Filmes Suspense" tvg-logo="https://i.imgur.com/45V9MKk.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="filmes_filmex_xumo_92" tvg-name="Filmex (Xumo)" tvg-logo="https://i.imgur.com/Hiz2OyC.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmex (Xumo)
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_filmex_clasico_93" tvg-name="Filmex Clasico" tvg-logo="https://i.imgur.com/D3dj4mv.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmex Clasico
+#EXTINF:-1 tvg-id="filmes_filmex_clasico_92" tvg-name="Filmex Clasico" tvg-logo="https://i.imgur.com/D3dj4mv.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmex Clasico
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="filmes_filmex_xumo_93" tvg-name="Filmex Xumo" tvg-logo="https://i.imgur.com/Hiz2OyC.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Filmex Xumo
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_flicks_of_fury_94" tvg-name="Flicks Of Fury" tvg-logo="https://i.imgur.com/rtL5L81.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Flicks Of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 tvg-id="filmes_forensic_files_95" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/8j2npVc.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Forensic Files
@@ -213,10 +213,10 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 tvg-id="filmes_gold_star_107" tvg-name="Gold Star" tvg-logo="https://placehold.co/600x900/111218/e7e9ee?text=Filmes" tvg-language="pt" tvg-type="movie" group-title="Filmes",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="filmes_goldmines_576p_108" tvg-name="Goldmines (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Goldmines (576p)
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="filmes_goldmines_2_576p_109" tvg-name="Goldmines 2 (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Goldmines 2 (576p)
+#EXTINF:-1 tvg-id="filmes_goldmines_2_576p_108" tvg-name="Goldmines 2 576p" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Goldmines 2 576p
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="filmes_goldmines_576p_109" tvg-name="Goldmines 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Goldmines 576p
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="filmes_goldmines_movies_110" tvg-name="Goldmines Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Goldmines Movies
 http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_grand_cinema_111" tvg-name="Grand Cinema" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Grand Cinema
@@ -241,11 +241,11 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-id="filmes_ifilm_persian_121" tvg-name="IFilm Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",IFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1 tvg-id="filmes_j_movie_576p_122" tvg-name="J Movie (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",J Movie (576p)
+#EXTINF:-1 tvg-id="filmes_j_movie_576p_122" tvg-name="J Movie 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",J Movie 576p
 http://103.72.101.252:8080/live/417.m3u8
 #EXTINF:-1 tvg-id="filmes_jalsha_movies_123" tvg-name="Jalsha Movies" tvg-logo="https://i.imgur.com/25eWjX2.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Jalsha Movies
 http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-id="filmes_kairali_we_576p_124" tvg-name="Kairali We (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Kairali We (576p)
+#EXTINF:-1 tvg-id="filmes_kairali_we_576p_124" tvg-name="Kairali We 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Kairali We 576p
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="filmes_kino_125" tvg-name="Kino 24" tvg-logo="https://i.imgur.com/QAdDARF.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -257,27 +257,27 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-id="filmes_like_gecko_chrome_144_0_0_0_safari_537_36_group_title_movies_my_cinema_europe_129" tvg-name="Like Gecko Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',My Cinema Europe" tvg-logo="https://i.imgur.com/jz0d8tH.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',My Cinema Europe
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_24_hour_free_movies_130" tvg-name="Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',24 Hour Free Movies
+#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_24_hour_free_movies_130" tvg-name="Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_box_cinema_131" tvg-name="Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Box Cinema
+#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_box_cinema_131" tvg-name="Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Box Cinema" tvg-logo="https://i.imgur.com/LGJlmtp.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
-#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_revry_her_132" tvg-name="Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Revry Her" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Revry Her
+#EXTINF:-1 tvg-id="filmes_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_movies_revry_her_132" tvg-name="Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Revry Her" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Like Gecko Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' Group-title='Movies',Revry Her
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC
-#EXTINF:-1 tvg-id="filmes_max4_576p_133" tvg-name="MAX4 (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MAX4 (576p)
+#EXTINF:-1 tvg-id="filmes_max4_576p_133" tvg-name="MAX4 576p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MAX4 576p
 http://146.59.85.40:89/max4/index.m3u8
 #EXTINF:-1 tvg-id="filmes_mbc_bollywood_134" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="filmes_mbc_drama_135" tvg-name="MBC+ Drama" tvg-logo="https://i.imgur.com/lxWdjXG.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="filmes_mh_one_movies_576p_136" tvg-name="MH One Movies (576p)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MH One Movies (576p)
+#EXTINF:-1 tvg-id="filmes_mh_one_movies_576p_136" tvg-name="MH One Movies 576p" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MH One Movies 576p
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
-#EXTINF:-1 tvg-id="filmes_mnx_576p_137" tvg-name="MNX (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MNX (576p)
+#EXTINF:-1 tvg-id="filmes_mnx_576p_137" tvg-name="MNX 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MNX 576p
 http://103.161.153.165:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="filmes_moviedome_138" tvg-name="MOVIEDOME" tvg-logo="https://i.imgur.com/8c54ycg.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MOVIEDOME
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="filmes_made_in_hollywood_139" tvg-name="Made In Hollywood" tvg-logo="https://i.imgur.com/p16HNIM.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_maha_movie_576p_140" tvg-name="Maha Movie (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Maha Movie (576p)
+#EXTINF:-1 tvg-id="filmes_maha_movie_576p_140" tvg-name="Maha Movie 576p" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Maha Movie 576p
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 #EXTINF:-1 tvg-id="filmes_manoranjan_grand_141" tvg-name="Manoranjan Grand" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Manoranjan Grand
 https://cdn-1.pishow.tv/live/1011/master.m3u8
@@ -297,7 +297,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="filmes_moviesphere_uk_149" tvg-name="MovieSphere UK" tvg-logo="https://i.imgur.com/h1ejU90.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_movieplex_576p_150" tvg-name="Movieplex (576p)" tvg-logo="https://i.imgur.com/THJEAqJ.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Movieplex (576p)
+#EXTINF:-1 tvg-id="filmes_movieplex_576p_150" tvg-name="Movieplex 576p" tvg-logo="https://i.imgur.com/THJEAqJ.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Movieplex 576p
 https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="filmes_movies_action_151" tvg-name="Movies Action" tvg-logo="https://i.imgur.com/NIVhISa.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
@@ -317,7 +317,7 @@ https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_343&ads.service_id=GB1700007PK
 #EXTINF:-1 tvg-id="filmes_newflix_159" tvg-name="Newflix" tvg-logo="https://placehold.co/600x900/111218/e7e9ee?text=Filmes" tvg-language="pt" tvg-type="movie" group-title="Filmes",Newflix
 https://newfhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="filmes_nihon_eiga_senmon_544p_160" tvg-name="Nihon Eiga Senmon (544p)" tvg-logo="https://i.imgur.com/B2wzA67.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Nihon Eiga Senmon (544p)
+#EXTINF:-1 tvg-id="filmes_nihon_eiga_senmon_544p_160" tvg-name="Nihon Eiga Senmon 544p" tvg-logo="https://i.imgur.com/B2wzA67.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Nihon Eiga Senmon 544p
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 #EXTINF:-1 tvg-id="filmes_nolly_africa_161" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Nolly Africa
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
@@ -341,19 +341,19 @@ https://latinohls.persiana.live/hls/stream.m3u8
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="filmes_pitaara_171" tvg-name="Pitaara" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_public_movies_576p_172" tvg-name="Public Movies (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Public Movies (576p)
+#EXTINF:-1 tvg-id="filmes_public_movies_576p_172" tvg-name="Public Movies 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Public Movies 576p
 https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="filmes_qtv_173" tvg-name="QTV" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" tvg-language="pt" tvg-type="movie" group-title="Filmes",QTV
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 tvg-id="filmes_rtsh_shqip_174" tvg-name="RTSH Shqip" tvg-logo="https://i.imgur.com/88kRsW3.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",RTSH Shqip
 http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_raj_digital_plus_576p_175" tvg-name="Raj Digital Plus (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Raj Digital Plus (576p)
+#EXTINF:-1 tvg-id="filmes_raj_digital_plus_576p_175" tvg-name="Raj Digital Plus 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Raj Digital Plus 576p
 http://103.72.101.252:8080/live/683.m3u8
 #EXTINF:-1 tvg-id="filmes_rakuten_top_movies_uk_176" tvg-name="Rakuten Top Movies UK" tvg-logo="https://i.imgur.com/Meew6eX.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Rakuten Top Movies UK
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-id="filmes_roja_movies_177" tvg-name="Roja Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="filmes_romedy_now_576p_178" tvg-name="Romedy Now (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Romedy Now (576p)
+#EXTINF:-1 tvg-id="filmes_romedy_now_576p_178" tvg-name="Romedy Now 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Romedy Now 576p
 http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="filmes_rotana_cinema_egypt_179" tvg-name="Rotana Cinema Egypt" tvg-logo="https://i.imgur.com/dGlKoLW.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Rotana Cinema Egypt
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -385,9 +385,9 @@ https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8
 #EXTINF:-1 tvg-id="filmes_south_station_193" tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1 tvg-id="filmes_star_2_544p_194" tvg-name="Star 2 (544p)" tvg-logo="https://i.imgur.com/QOriZy5.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star 2 (544p)
+#EXTINF:-1 tvg-id="filmes_star_2_544p_194" tvg-name="Star 2 544p" tvg-logo="https://i.imgur.com/QOriZy5.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star 2 544p
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 tvg-id="filmes_star_3_544p_195" tvg-name="Star 3 (544p)" tvg-logo="https://i.imgur.com/Z1x8ecY.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star 3 (544p)
+#EXTINF:-1 tvg-id="filmes_star_3_544p_195" tvg-name="Star 3 544p" tvg-logo="https://i.imgur.com/Z1x8ecY.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star 3 544p
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 #EXTINF:-1 tvg-id="filmes_star_gold_196" tvg-name="Star Gold" tvg-logo="https://i.imgur.com/xC460sj.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star Gold
 http://103.229.254.25:7001/play/a0dd/index.m3u8
@@ -397,7 +397,7 @@ http://103.229.254.25:7001/play/a032/index.m3u8
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 #EXTINF:-1 tvg-id="filmes_star_movies_199" tvg-name="Star Movies" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star Movies
 http://103.157.248.140:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="filmes_star_tamil_television_200" tvg-name="Star Tamil Television ( )" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star Tamil Television ( )
+#EXTINF:-1 tvg-id="filmes_star_tamil_television_200" tvg-name="Star Tamil Television" tvg-logo="https://i.imgur.com/fjHcr9z.jpg" tvg-language="pt" tvg-type="movie" group-title="Filmes",Star Tamil Television
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 tvg-id="filmes_studio_one_201" tvg-name="Studio One +" tvg-logo="https://i.imgur.com/yOPB7JB.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Studio One +
 https://cdn-1.pishow.tv/live/276/master.m3u8
@@ -407,7 +407,7 @@ https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 #EXTINF:-1 tvg-id="filmes_tv_land_drama_204" tvg-name="TV Land Drama" tvg-logo="https://i.imgur.com/y1rXIAS.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
-#EXTINF:-1 tvg-id="filmes_tvs_drive_in_movie_205" tvg-name="TVS Drive In Movie ( )" tvg-logo="https://i.imgur.com/OR9APjb.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",TVS Drive In Movie ( )
+#EXTINF:-1 tvg-id="filmes_tvs_drive_in_movie_205" tvg-name="TVS Drive In Movie" tvg-logo="https://i.imgur.com/OR9APjb.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",TVS Drive In Movie
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 tvg-id="filmes_tvs_film_noir_network_206" tvg-name="TVS Film Noir Network" tvg-logo="https://i.imgur.com/A4yWhQw.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",TVS Film Noir Network
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
@@ -419,27 +419,27 @@ https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1 tvg-id="filmes_the_movie_club_210" tvg-name="The Movie Club +2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 tvg-id="filmes_viasat_kino_576p_211" tvg-name="Viasat Kino (576p)" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Viasat Kino (576p)
+#EXTINF:-1 tvg-id="filmes_viasat_kino_576p_211" tvg-name="Viasat Kino 576p" tvg-logo="https://i.imgur.com/io0WAkA.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Viasat Kino 576p
 http://89.254.128.5:22280/viasat_kino/index.m3u8
-#EXTINF:-1 tvg-id="filmes_viasat_kino_action_576p_212" tvg-name="Viasat Kino Action (576p)" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Viasat Kino Action (576p)
+#EXTINF:-1 tvg-id="filmes_viasat_kino_action_576p_212" tvg-name="Viasat Kino Action 576p" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Viasat Kino Action 576p
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
-#EXTINF:-1 tvg-id="filmes_vijay_super_576p_213" tvg-name="Vijay Super (576p)" tvg-logo="https://i.imgur.com/3MWm9nD.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Vijay Super (576p)
+#EXTINF:-1 tvg-id="filmes_vijay_super_576p_213" tvg-name="Vijay Super 576p" tvg-logo="https://i.imgur.com/3MWm9nD.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Vijay Super 576p
 http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8
-#EXTINF:-1 tvg-id="filmes_wowow_cinema_544p_214" tvg-name="WOWOW Cinema (544p)" tvg-logo="https://i.imgur.com/Wx9fkCW.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",WOWOW Cinema (544p)
+#EXTINF:-1 tvg-id="filmes_wowow_cinema_544p_214" tvg-name="WOWOW Cinema 544p" tvg-logo="https://i.imgur.com/Wx9fkCW.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",WOWOW Cinema 544p
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 tvg-id="filmes_xtrema_accion_215" tvg-name="Xtrema Accion" tvg-logo="https://i.imgur.com/z5NwizH.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_xtrema_terror_216" tvg-name="Xtrema Terror" tvg-logo="https://i.imgur.com/FcaTUym.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_zee_action_576p_217" tvg-name="Zee Action (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Action (576p)
+#EXTINF:-1 tvg-id="filmes_zee_action_576p_217" tvg-name="Zee Action 576p" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Action 576p
 http://103.72.101.252:8080/live/488.m3u8
-#EXTINF:-1 tvg-id="filmes_zee_biskope_576p_218" tvg-name="Zee Biskope (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Biskope (576p)
+#EXTINF:-1 tvg-id="filmes_zee_biskope_576p_218" tvg-name="Zee Biskope 576p" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Biskope 576p
 http://103.154.3.101:5001/live/559.m3u8
 #EXTINF:-1 tvg-id="filmes_zee_bollymovies_219" tvg-name="Zee Bollymovies" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_zee_bollymovies_australia_220" tvg-name="Zee Bollymovies Australia" tvg-logo="https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Bollymovies Australia
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_zee_bollywood_576p_221" tvg-name="Zee Bollywood (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Bollywood (576p)
+#EXTINF:-1 tvg-id="filmes_zee_bollywood_576p_221" tvg-name="Zee Bollywood 576p" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Bollywood 576p
 http://103.229.254.25:7001/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-id="filmes_zee_cinema_222" tvg-name="Zee Cinema" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Cinema
 http://103.72.101.252:8080/live/165.m3u8
@@ -447,7 +447,7 @@ http://103.72.101.252:8080/live/165.m3u8
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_zee_cinemalu_224" tvg-name="Zee Cinemalu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Cinemalu
 https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
-#EXTINF:-1 tvg-id="filmes_zee_cinemalu_576p_225" tvg-name="Zee Cinemalu (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZNDZ.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Cinemalu (576p)
+#EXTINF:-1 tvg-id="filmes_zee_cinemalu_576p_225" tvg-name="Zee Cinemalu 576p" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZNDZ.png?lock=720x540" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee Cinemalu 576p
 http://103.72.101.252:8080/live/413.m3u8
 #EXTINF:-1 tvg-id="filmes_zee_south_flix_226" tvg-name="Zee South Flix" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zee South Flix
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
@@ -463,7 +463,7 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="filmes_zylo_screamin_232" tvg-name="Zylo ScreamIN" tvg-logo="https://i.imgur.com/tGmKbil.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="filmes_576i_233" tvg-name="Патриот (576i)" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Патриот (576i)
+#EXTINF:-1 tvg-id="filmes_576i_233" tvg-name="Патриот 576i" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png" tvg-language="pt" tvg-type="movie" group-title="Filmes",Патриот 576i
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 tvg-id="filmes_next_234" tvg-name="Next" tvg-logo="https://i.imgur.com/c2rF3SS.png" tvg-language="pt" tvg-type="movie" group-title="Filmes - Musica",Next
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
