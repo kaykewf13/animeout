@@ -1,4 +1,4 @@
-name: IPTV Auto Pipeline
+name: 🚀 IPTV Auto Pipeline
 
 on:
   schedule:
@@ -13,28 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install deps
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Import external sources
-         run: python Code/import_external_m3u_sources.py
+        run: python Code/import_external_m3u_sources.py
 
-      - name: Import IPTV-org VOD
-        run: |
-          python Code/import_iptv_org_vod.py
+      - name: Import IPTV-org
+        run: python Code/import_iptv_org_vod.py
 
       - name: Run pipeline
-        run: |
-          python Code/pipeline_iptv.py
+        run: python Code/pipeline_iptv.py
 
       - name: Commit update
         run: |
