@@ -1,19 +1,103 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="pt-BR">
 <head>
-  <title>AnimeOut</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b0c10" />
+  <title>AnimeOut Premium</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <h1>Catálogo</h1>
-  <div id="app"></div>
+  <header class="hero" id="hero">
+    <nav class="topbar">
+      <div class="brand">AnimeOut<span>Premium</span></div>
+      <div class="toplinks">
+        <a href="install.html">Instalar IPTV</a>
+        <a href="#catalogo">Catálogo</a>
+        <a href="#playerPanel">Player</a>
+        <a href="../valid_links.m3u">M3U</a>
+      </div>
+    </nav>
+    <div class="heroContent">
+      <p class="eyebrow" id="heroGroup">Streaming IPTV</p>
+      <h1 id="heroTitle">Catálogo premium com Canais, Séries e Filmes</h1>
+      <p class="subtitle" id="heroSubtitle">Streams organizados em formato M3U e experiência web com busca, filtros e player HLS.</p>
+      <div class="heroActions">
+        <button id="heroPlay">▶ Assistir destaque</button>
+        <a class="ghostLink" href="install.html">📺 Usar no IPTV</a>
+      </div>
+    </div>
+  </header>
 
-  <script>
-    fetch("catalog.json")
-      .then(r => r.json())
-      .then(data => {
-        document.getElementById("app").innerHTML =
-          data.map(i => `<p>${i.titulo}</p>`).join("");
-      });
-  </script>
+  <main class="container">
+    <section class="stats" id="stats"></section>
+
+    <section class="controls">
+      <input id="searchInput" type="search" placeholder="Buscar título, categoria, grupo ou fonte..." />
+      <div class="tabs">
+        <button class="tab active" data-group="Todos">Todos</button>
+        <button class="tab" data-group="Canais">Canais</button>
+        <button class="tab" data-group="Series">Series</button>
+        <button class="tab" data-group="Filmes">Filmes</button>
+        <button class="tab" data-filter="anime">🎎 Anime</button>
+        <button class="tab adultTab" data-filter="adult">18+</button>
+      </div>
+      <select id="categorySelect">
+        <option value="Todos">Todas as categorias</option>
+      </select>
+    </section>
+
+    <section class="playerPanel" id="playerPanel">
+      <div class="videoWrap">
+        <video id="videoPlayer" controls playsinline poster=""></video>
+      </div>
+      <div class="nowPlaying">
+        <p class="eyebrow">Reproduzindo agora</p>
+        <h2 id="nowTitle">Selecione um item</h2>
+        <p id="nowMeta">Aguardando stream...</p>
+        <p id="nowDescription" class="desc"></p>
+        <p class="tiny" id="nowSource"></p>
+      </div>
+    </section>
+
+    <section id="destaques" class="railBlock">
+      <div class="sectionTitle"><h2>🔥 Destaques</h2><span id="featuredBadge">0 itens</span></div>
+      <div id="featuredRail" class="rail"></div>
+    </section>
+
+    <section id="animeRailBlock" class="railBlock">
+      <div class="sectionTitle"><h2>🎎 Animes</h2><span id="animeBadge">0 itens</span></div>
+      <div id="animeRail" class="rail"></div>
+    </section>
+
+    <section id="adultRailBlock" class="railBlock hidden">
+      <div class="sectionTitle"><h2>18+ Adultos</h2><span id="adultBadge">0 itens</span></div>
+      <div id="adultRail" class="rail"></div>
+    </section>
+
+    <section id="catalogo" class="railBlock">
+      <div class="sectionTitle"><h2>Catálogo completo</h2><span id="countBadge">0 itens</span></div>
+      <div id="catalogGrid" class="grid"></div>
+    </section>
+  </main>
+
+  <div class="modal hidden" id="adultModal">
+    <div class="modalCard">
+      <p class="eyebrow">Conteúdo 18+</p>
+      <h2>Confirmação necessária</h2>
+      <p>Este item foi classificado como adulto. Confirme que deseja continuar.</p>
+      <div class="modalActions">
+        <button id="confirmAdult">Confirmar e assistir</button>
+        <button class="ghost" id="cancelAdult">Cancelar</button>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>AnimeOut Premium. Use apenas streams próprios, públicos ou autorizados.</p>
+  </footer>
+
+  <script src="app.js"></script>
 </body>
 </html>
