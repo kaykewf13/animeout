@@ -2,6 +2,7 @@ import csv
 import json
 import os
 import re
+import unicodedata
 from pathlib import Path
 
 CATALOG_SOURCES = [
@@ -35,6 +36,28 @@ def ensure_dirs():
     Path(LOG_DIR).mkdir(exist_ok=True)
 
 
+def strip_accents(value):
+    text = str(value or "")
+    return "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
+
+
+def safe_text(value, max_len=140):
+    text = strip_accents(value)
+    text = text.replace("\ufeff", " ").replace("\n", " ").replace("\r", " ").replace("\t", " ")
+    text = text.replace('"', "'")
+    text = re.sub(r"[<>{}]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:max_len]
+
+
+def safe_group(value):
+    text = safe_text(value, 80)
+    text = text.replace("|", "-").replace(";", "-").replace("/", "-").replace("\\", "-")
+    text = re.sub(r"\s*-\s*", " - ", text)
+    text = re.sub(r"\s+", " ", text).strip(" -")
+    return text or "Geral"
+
+
 def normalizar_grupo(value):
     raw = (value or "").strip().lower()
     mapa = {"canais":"Canais","canal":"Canais","live":"Canais","lives":"Canais","filmes":"Filmes","filme":"Filmes","movies":"Filmes","movie":"Filmes","series":"Series","séries":"Series","serie":"Series","série":"Series","shows":"Series"}
@@ -46,7 +69,8 @@ def normalizar_categoria(value, grupo=""):
     clean = []
     for part in parts:
         key = part.strip().lower()
-        if not key: continue
+        if not key:
+            continue
         mapped = CATEGORY_MAP.get(key, part.strip())
         if mapped not in clean and mapped != grupo:
             clean.append(mapped)
@@ -57,7 +81,7 @@ def texto_item(*partes): return " ".join(str(p or "") for p in partes).lower()
 def contem(texto, termos): return any(t in texto for t in termos)
 def is_stream_url(url): return (url or "").split("?")[0].lower().endswith((".m3u8", ".mp4", ".ts"))
 def slug(value):
-    value = (value or "item").lower().strip()
+    value = strip_accents(value or "item").lower().strip()
     value = re.sub(r"[^a-z0-9]+", "_", value)
     return value.strip("_") or "item"
 
@@ -85,26 +109,20 @@ def episode_number(title):
 
 
 def obra_key(item):
-    if item.get("anime"):
-        base = item["anime"]
-    else:
-        base = clean_title(item.get("titulo"))
+    base = item.get("anime") or clean_title(item.get("titulo"))
     return (item.get("grupo"), slug(base))
 
 
 def group_title(item):
-    base = item['grupo']
-
-    categoria = item.get("categoria", "").split("|")[0].strip()
-
+    base = safe_group(item.get("grupo") or "Geral")
+    categoria = safe_group((item.get("categoria") or "").split("|")[0])
     if item.get("is_adult") == "true":
         return f"{base} - Adultos"
-
-    if categoria:
+    if categoria and categoria.lower() not in ["geral", base.lower()]:
         return f"{base} - {categoria}"
-
     return base
-    
+
+
 def tvg_type(grupo): return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
 
 
@@ -186,9 +204,9 @@ def gerar_cluster(items):
         key = obra_key(item)
         obra_nome = item.get("anime") or clean_title(item.get("titulo"))
         if key not in clusters:
-            clusters[key] = {"title": obra_nome,"group": item["grupo"],"category": item["categoria"],"groupTitle": group_title(item),"logo": item.get("logo", ""),"description": item.get("description", ""),"rating": item.get("rating", ""),"isAnime": item.get("is_anime") == "true","isAdult": item.get("is_adult") == "true","score": 0,"sourcesCount": 0,"episodes": []}
+            clusters[key] = {"title": safe_text(obra_nome),"group": item["grupo"],"category": item["categoria"],"groupTitle": group_title(item),"logo": item.get("logo", ""),"description": item.get("description", ""),"rating": item.get("rating", ""),"isAnime": item.get("is_anime") == "true","isAdult": item.get("is_adult") == "true","score": 0,"sourcesCount": 0,"episodes": []}
         ep = item.get("episodio") or len(clusters[key]["episodes"]) + 1
-        clusters[key]["episodes"].append({"title": item["titulo"],"episode": ep,"url": item["stream_url"],"source": item.get("fonte", ""),"subtitle": item.get("subtitle", ""),"score": item.get("score", 0),"logo": item.get("logo", "")})
+        clusters[key]["episodes"].append({"title": safe_text(item["titulo"]),"episode": ep,"url": item["stream_url"],"source": item.get("fonte", ""),"subtitle": item.get("subtitle", ""),"score": item.get("score", 0),"logo": item.get("logo", "")})
         clusters[key]["score"] = max(clusters[key]["score"], item.get("score", 0))
         clusters[key]["sourcesCount"] += item.get("sources_count", 1)
         if not clusters[key].get("logo") and item.get("logo"): clusters[key]["logo"] = item["logo"]
@@ -204,16 +222,16 @@ def gerar_cluster(items):
 
 
 def gerar_m3u(clusters, caminho):
-    with open(caminho, "w", encoding="utf-8") as f:
+    with open(caminho, "w", encoding="utf-8", newline="\n") as f:
         f.write("#EXTM3U\n")
         idx = 1
         for obra in clusters:
             for ep in obra.get("episodes", []):
-                title = ep["title"].replace('"', "'")
-                logo = (ep.get("logo") or obra.get("logo") or "").replace('"', "")
-                group = obra["groupTitle"].replace('"', "'")
-                tvg_id = f"{slug(obra['group'])}_{slug(obra['title'])}_{idx}"
-                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-language="pt" tvg-type="{tvg_type(obra["group"])}" group-title="{group}",{title}\n')
+                title = safe_text(ep.get("title") or obra.get("title") or "Sem titulo")
+                logo = safe_text(ep.get("logo") or obra.get("logo") or "", 300)
+                group = safe_group(obra.get("groupTitle") or group_title(obra))
+                tvg_id = f"{slug(obra.get('group'))}_{slug(obra.get('title'))}_{idx}"
+                f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-language="pt" tvg-type="{tvg_type(obra.get("group"))}" group-title="{group}",{title}\n')
                 f.write(f"{ep['url']}\n")
                 idx += 1
     print(f"Gerado {caminho}: {idx-1} item(ns)")
