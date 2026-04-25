@@ -3,44 +3,71 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AnimeOut Streaming</title>
+  <title>AnimeOut Premium</title>
   <link rel="stylesheet" href="styles.css" />
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <header class="hero">
-    <div>
-      <p class="eyebrow">AnimeOut</p>
-      <h1>Streaming IPTV organizado por categorias</h1>
-      <p class="subtitle">Canais, Séries e Filmes em uma interface simples, rápida e pronta para evoluir.</p>
+  <header class="hero" id="hero">
+    <div class="heroShade"></div>
+    <nav class="topbar">
+      <div class="brand">AnimeOut<span>Premium</span></div>
+      <div class="toplinks">
+        <a href="#catalogo">Catálogo</a>
+        <a href="#playerPanel">Player</a>
+        <a href="../valid_links.m3u">M3U</a>
+      </div>
+    </nav>
+    <div class="heroContent">
+      <p class="eyebrow" id="heroGroup">Streaming IPTV</p>
+      <h1 id="heroTitle">Catálogo premium com Canais, Séries e Filmes</h1>
+      <p class="subtitle" id="heroSubtitle">Explore streams públicos/autorizados organizados por grupo, categoria e título da obra.</p>
+      <div class="heroActions">
+        <button id="heroPlay">▶ Assistir destaque</button>
+        <button class="ghost" id="heroShuffle">Trocar destaque</button>
+      </div>
     </div>
   </header>
 
   <main class="container">
+    <section class="stats" id="stats"></section>
+
     <section class="controls">
-      <input id="searchInput" type="search" placeholder="Buscar título, categoria ou grupo..." />
+      <input id="searchInput" type="search" placeholder="Buscar título, categoria, grupo ou fonte..." />
       <div class="tabs">
         <button class="tab active" data-group="Todos">Todos</button>
         <button class="tab" data-group="Canais">Canais</button>
         <button class="tab" data-group="Series">Series</button>
         <button class="tab" data-group="Filmes">Filmes</button>
       </div>
+      <select id="categorySelect">
+        <option value="Todos">Todas as categorias</option>
+      </select>
     </section>
 
     <section class="playerPanel" id="playerPanel">
       <div class="videoWrap">
-        <video id="videoPlayer" controls playsinline></video>
+        <video id="videoPlayer" controls playsinline poster=""></video>
       </div>
       <div class="nowPlaying">
-        <p class="eyebrow">Reproduzindo</p>
+        <p class="eyebrow">Reproduzindo agora</p>
         <h2 id="nowTitle">Selecione um item</h2>
         <p id="nowMeta">Aguardando stream...</p>
+        <p class="tiny" id="nowSource"></p>
       </div>
     </section>
 
-    <section>
+    <section id="destaques" class="railBlock">
       <div class="sectionTitle">
-        <h2>Catálogo</h2>
+        <h2>🔥 Destaques</h2>
+        <span id="featuredBadge">0 itens</span>
+      </div>
+      <div id="featuredRail" class="rail"></div>
+    </section>
+
+    <section id="catalogo" class="railBlock">
+      <div class="sectionTitle">
+        <h2>Catálogo completo</h2>
         <span id="countBadge">0 itens</span>
       </div>
       <div id="catalogGrid" class="grid"></div>
@@ -48,7 +75,7 @@
   </main>
 
   <footer>
-    <p>Use apenas streams próprios, públicos ou autorizados.</p>
+    <p>AnimeOut Premium. Use apenas streams próprios, públicos ou autorizados.</p>
   </footer>
 
   <script src="app.js"></script>
