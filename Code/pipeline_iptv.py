@@ -16,7 +16,7 @@ HEADERS = {
 }
 
 VALID_GROUPS = {"Canais", "Filmes", "Series"}
-CATALOG_SOURCES = ["sources/catalog.csv", "sources/iptv_org_vod.csv"]
+CATALOG_SOURCES = ["sources/catalog.csv", "sources/iptv_org_vod.csv", "sources/plex_vod.csv"]
 STREAM_PATTERN = re.compile(r"https?://[^\"'<>\s]+?\.(?:m3u8|mp4)(?:\?[^\"'<>\s]*)?", re.IGNORECASE)
 IGNORED_PATTERN = re.compile(r"https?://[^\"'<>\s]+?\.(?:mkv|avi|mov)(?:\?[^\"'<>\s]*)?", re.IGNORECASE)
 TIMEOUT_SECONDS = int(os.getenv("TIMEOUT_SECONDS", "8"))
@@ -39,19 +39,9 @@ def extensao(link):
 def normalizar_grupo(grupo):
     raw = (grupo or "").strip().lower()
     mapa = {
-        "canais": "Canais",
-        "canal": "Canais",
-        "live": "Canais",
-        "lives": "Canais",
-        "filmes": "Filmes",
-        "filme": "Filmes",
-        "movies": "Filmes",
-        "movie": "Filmes",
-        "series": "Series",
-        "séries": "Series",
-        "serie": "Series",
-        "série": "Series",
-        "shows": "Series",
+        "canais": "Canais", "canal": "Canais", "live": "Canais", "lives": "Canais",
+        "filmes": "Filmes", "filme": "Filmes", "movies": "Filmes", "movie": "Filmes",
+        "series": "Series", "séries": "Series", "serie": "Series", "série": "Series", "shows": "Series",
     }
     return mapa.get(raw, grupo.strip() if grupo else "")
 
@@ -79,6 +69,8 @@ def ler_catalogo_csv(caminho):
         url = (row.get("url") or "").strip()
         logo = (row.get("logo") or "").strip()
         fonte = (row.get("fonte") or caminho).strip()
+        description = (row.get("description") or row.get("descricao") or "").strip()
+        rating = (row.get("rating") or row.get("nota") or "").strip()
 
         if not url or not url.startswith("http"):
             continue
@@ -87,10 +79,19 @@ def ler_catalogo_csv(caminho):
             continue
 
         # Regra dura: VOD de Filmes/Séries nunca entra em Canais.
-        if fonte == "iptv-org" and grupo == "Canais":
+        if fonte in ["iptv-org", "plex-vod"] and grupo == "Canais":
             continue
 
-        itens.append({"grupo": grupo, "categoria": categoria, "titulo": titulo, "url": url, "logo": logo, "fonte": fonte})
+        itens.append({
+            "grupo": grupo,
+            "categoria": categoria,
+            "titulo": titulo,
+            "url": url,
+            "logo": logo,
+            "fonte": fonte,
+            "description": description,
+            "rating": rating,
+        })
 
     return itens
 
@@ -223,6 +224,8 @@ def gerar_catalogo_json(itens, caminho="web/catalog.json"):
             "url": item["stream_url"],
             "logo": item.get("logo", ""),
             "source": item.get("fonte", ""),
+            "description": item.get("description", ""),
+            "rating": item.get("rating", ""),
         })
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -257,8 +260,8 @@ def main():
             extraidos.extend(streams)
             ignorados.extend(ignored)
 
-    gerar_csv("logs/extracted_streams.csv", extraidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "stream_url"])
-    gerar_csv("logs/ignored_download_files.csv", ignorados, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "ignored_url", "motivo"])
+    gerar_csv("logs/extracted_streams.csv", extraidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "stream_url"])
+    gerar_csv("logs/ignored_download_files.csv", ignorados, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "ignored_url", "motivo"])
 
     validos = []
     invalidos = []
@@ -282,7 +285,7 @@ def main():
     gerar_m3u([i for i in validos if i["grupo"] == "Filmes"], "output/filmes.m3u")
     gerar_catalogo_json(validos)
 
-    gerar_csv("invalid_links.csv", invalidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "stream_url", "status", "content_type", "motivo"])
+    gerar_csv("invalid_links.csv", invalidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "stream_url", "status", "content_type", "motivo"])
 
     print("\nResumo final:")
     print(f"Extraídos: {len(extraidos)}")
