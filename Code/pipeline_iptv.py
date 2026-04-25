@@ -27,7 +27,16 @@ VALID_GROUPS = {"Canais", "Filmes", "Series"}
 ANIME_KEYWORDS = ["anime", "animes", "hentai", "ecchi", "shounen", "shonen", "seinen", "josei", "isekai", "mecha", "otaku", "naruto", "one piece", "dragon ball", "jujutsu"]
 ADULT_KEYWORDS = ["adult", "adulto", "18+", "hentai", "erotic", "mature", "xxx"]
 EXCLUDE_KEYWORDS = ["yaoi", "boys love", "boyslove", "shounen ai", "shonen ai"]
+INVALID_TITLE_WORDS = ["test", "teste", "sample", "demo", "placeholder", "sem titulo", "sem título"]
+CHANNEL_HINTS = [" tv", "channel", "canal", "news", "live", "24/7", "pluto tv", "rakuten tv"]
 CATEGORY_MAP = {"movies":"Filmes","movie":"Filmes","film":"Filmes","films":"Filmes","series":"Series","shows":"Series","tv shows":"Series","animation":"Animação","classic":"Clássicos","entertainment":"Entretenimento","family":"Família","kids":"Infantil","comedy":"Comédia","action":"Ação","adventure":"Aventura","horror":"Terror","thriller":"Suspense","documentary":"Documentário","music":"Música","culture":"Cultura","general":"Geral","sports":"Esportes","news":"Notícias"}
+DEFAULT_POSTERS = {
+    "Canais": "https://placehold.co/600x900/111218/e7e9ee?text=Canais",
+    "Filmes": "https://placehold.co/600x900/111218/e7e9ee?text=Filmes",
+    "Series": "https://placehold.co/600x900/111218/e7e9ee?text=Series",
+    "Anime": "https://placehold.co/600x900/111218/e23b3b?text=Anime",
+    "Adultos": "https://placehold.co/600x900/111218/e23b3b?text=18%2B",
+}
 
 
 def ensure_dirs():
@@ -56,6 +65,15 @@ def safe_group(value):
     text = re.sub(r"\s*-\s*", " - ", text)
     text = re.sub(r"\s+", " ", text).strip(" -")
     return text or "Geral"
+
+
+def title_case(value):
+    text = safe_text(value)
+    small = {"da", "de", "do", "das", "dos", "e", "a", "o"}
+    parts = []
+    for p in text.split():
+        parts.append(p.lower() if p.lower() in small else p[:1].upper() + p[1:])
+    return " ".join(parts)
 
 
 def normalizar_grupo(value):
@@ -90,12 +108,39 @@ def clean_title(value):
     text = value or ""
     text = re.sub(r"\[[^\]]+\]", " ", text)
     text = re.sub(r"\([^)]*(?:720p|1080p|480p|dub|legendado|pt-br)[^)]*\)", " ", text, flags=re.I)
+    text = re.sub(r"\b(?:fhd|uhd|hd|sd|4k|1080p|720p|480p|360p|x264|x265|hevc|aac|dual audio|dublado|legendado|dub|sub)\b", " ", text, flags=re.I)
     text = re.sub(r"\b(?:ep|epis[oó]dio|episodio|episode)\s*\.?\s*\d+\b", " ", text, flags=re.I)
     text = re.sub(r"\b(?:season|temporada)\s*\d+\b", " ", text, flags=re.I)
     text = re.sub(r"\bS\d{1,2}E\d{1,3}\b", " ", text, flags=re.I)
     text = re.sub(r"\b\d{1,4}\b$", " ", text)
     text = re.sub(r"\s+", " ", text).strip(" -_|.")
-    return text or value or "Sem título"
+    return title_case(text or value or "Sem título")
+
+
+def normalized_display_title(titulo, grupo):
+    title = clean_title(titulo)
+    lower = title.lower()
+    if grupo != "Canais":
+        title = re.sub(r"\b(?:tv|channel|canal|live)\b$", "", title, flags=re.I).strip()
+    return title_case(title)
+
+
+def is_invalid_title(title):
+    lower = strip_accents(title).lower().strip()
+    return any(w in lower for w in INVALID_TITLE_WORDS) or len(lower) < 2
+
+
+def should_be_channel(titulo, grupo, fonte):
+    lower = strip_accents(f"{titulo} {fonte}").lower()
+    return grupo == "Canais" or any(h in lower for h in CHANNEL_HINTS)
+
+
+def default_logo(group, is_anime=False, is_adult=False):
+    if is_adult:
+        return DEFAULT_POSTERS["Adultos"]
+    if is_anime:
+        return DEFAULT_POSTERS["Anime"]
+    return DEFAULT_POSTERS.get(group, DEFAULT_POSTERS["Series"])
 
 
 def episode_number(title):
@@ -140,23 +185,29 @@ def carregar_csv(path):
     reader = csv.DictReader(linhas)
     for row in reader:
         grupo = normalizar_grupo(row.get("grupo") or row.get("group"))
+        titulo_raw = (row.get("titulo") or row.get("title") or row.get("tvg-name") or "Sem título").strip() or "Sem título"
+        fonte = (row.get("fonte") or row.get("source") or path).strip()
+        if should_be_channel(titulo_raw, grupo, fonte):
+            grupo = "Canais"
         categoria = normalizar_categoria(row.get("categoria") or row.get("category") or "Geral", grupo)
-        titulo = (row.get("titulo") or row.get("title") or row.get("tvg-name") or "Sem título").strip() or "Sem título"
+        titulo = normalized_display_title(titulo_raw, grupo)
         url = (row.get("stream_url") or row.get("url") or "").strip()
         logo = (row.get("logo") or row.get("tvg-logo") or "").strip()
-        fonte = (row.get("fonte") or row.get("source") or path).strip()
         description = (row.get("description") or row.get("descricao") or "").strip()
         rating = (row.get("rating") or row.get("nota") or "").strip()
         subtitle = (row.get("subtitle") or row.get("legenda") or "").strip()
-        anime_name = (row.get("anime") or "").strip()
-        ep = row.get("episodio") or episode_number(titulo) or ""
+        anime_name = normalized_display_title(row.get("anime") or "", "Series") if row.get("anime") else ""
+        ep = row.get("episodio") or episode_number(titulo_raw) or ""
         motivo = ""
-        if not url or not url.startswith("http"): motivo = "url_vazia_ou_invalida"
+        if is_invalid_title(titulo): motivo = "titulo_invalido_ou_teste"
+        elif not url or not url.startswith("http"): motivo = "url_vazia_ou_invalida"
         elif grupo not in VALID_GROUPS: motivo = "grupo_invalido"
         elif fonte in ["iptv-org", "plex-vod", "vod-org"] and grupo == "Canais": motivo = "vod_nao_pode_ser_canal"
         elif not is_stream_url(url): motivo = "nao_e_stream_direto"
         is_anime, is_adult, is_excluded = classificar_flags(grupo, categoria, titulo, description)
         if is_excluded: motivo = "conteudo_excluido_yaoi_bl"
+        if not logo:
+            logo = default_logo(grupo, is_anime, is_adult)
         item = {"grupo":grupo,"categoria":categoria,"titulo":titulo,"stream_url":url,"logo":logo,"fonte":fonte,"description":description,"rating":rating,"subtitle":subtitle,"is_anime":"true" if is_anime else "false","is_adult":"true" if is_adult else "false","source_file":path,"anime":anime_name,"episodio":ep}
         if motivo:
             item["motivo"] = motivo; invalidos.append(item)
