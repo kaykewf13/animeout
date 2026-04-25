@@ -1,6 +1,7 @@
-nome,grupo,categoria,url,ativo
-vod-org-public-domain,Filmes,Clássicos,https://vod-org.github.io/vod/index.m3u8,true
-m3u8-xtream-trending-series,Series,Trending,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u,false
-m3u8-xtream-top-movies,Filmes,Top Movies,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u,false
-m3u8-xtream-action-movies,Filmes,Ação,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u,false
-m3u8-xtream-adventure-movies,Filmes,Aventura,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/adventure-movies.m3u,false
+nome,grupo,categoria,url,ativo,refresh,tipo
+vod-org-public-domain,Filmes,Clássicos,https://vod-org.github.io/vod/index.m3u8,true,,
+m3u8-xtream-trending-series,Series,Trending,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u,false,,
+m3u8-xtream-top-movies,Filmes,Top Movies,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u,false,,
+m3u8-xtream-action-movies,Filmes,Ação,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-movies.m3u,false,,
+m3u8-xtream-adventure-movies,Filmes,Aventura,https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/adventure-movies.m3u,false,,
+drewlive-vod-authorized,Filmes,VOD Externo,https://raw.githubusercontent.com/konanda-sg/DrewLive-1/main/DrewLiveVOD.m3u8,true,manual,playlist
