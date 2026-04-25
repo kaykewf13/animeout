@@ -1,5 +1,7 @@
 import csv
 import os
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 import requests
 
 HEADERS = {
@@ -19,7 +21,8 @@ VALID_CONTENT_HINTS = [
     "binary",
 ]
 
-TIMEOUT_SECONDS = 8
+TIMEOUT_SECONDS = 6
+DEFAULT_WORKERS = 12
 
 
 def ler_playlist(caminho="playlist.m3u"):
@@ -29,6 +32,7 @@ def ler_playlist(caminho="playlist.m3u"):
 
     itens = []
     titulo_atual = "Sem título"
+    group_atual = "AnimeOut"
 
     with open(caminho, "r", encoding="utf-8", errors="ignore") as f:
         for linha in f:
@@ -38,8 +42,10 @@ def ler_playlist(caminho="playlist.m3u"):
 
             if linha.startswith("#EXTINF"):
                 titulo_atual = linha.split(",", 1)[-1].strip() if "," in linha else "Sem título"
+                if "group-title=\"" in linha:
+                    group_atual = linha.split("group-title=\"", 1)[1].split("\"", 1)[0]
             elif linha.startswith("http"):
-                itens.append({"titulo": titulo_atual, "url": linha})
+                itens.append({"titulo": titulo_atual, "group": group_atual, "url": linha})
 
     return itens
 
@@ -53,7 +59,6 @@ def validar_m3u8(url):
 
         if status == 200 and "#EXTM3U" in texto:
             return True, status, content_type, "m3u8 válido"
-
         if status == 200 and "#EXT" in texto:
             return True, status, content_type, "playlist HLS provável"
 
@@ -66,7 +71,6 @@ def validar_video(url):
     try:
         headers = HEADERS.copy()
         headers["Range"] = "bytes=0-1024"
-
         r = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS, stream=True, allow_redirects=True)
         status = r.status_code
         content_type = r.headers.get("content-type", "").lower()
@@ -75,8 +79,7 @@ def validar_video(url):
         if status in [200, 206]:
             if any(hint in content_type for hint in VALID_CONTENT_HINTS):
                 return True, status, content_type, f"vídeo provável; bytes={content_length}"
-
-            if url.lower().split("?")[0].endswith((".mp4", ".mkv", ".avi", ".mov")):
+            if url.lower().split("?")[0].endswith((".mp4", ".mkv", ".avi", ".mov", ".ts")):
                 return True, status, content_type, f"extensão de vídeo respondeu; bytes={content_length}"
 
         return False, status, content_type, f"resposta não compatível; bytes={content_length}"
@@ -86,37 +89,32 @@ def validar_video(url):
 
 def validar_link(url):
     url_limpa = url.lower().split("?")[0]
-
     if url_limpa.endswith(".m3u8"):
         return validar_m3u8(url)
-
     return validar_video(url)
+
+
+def validar_item(item):
+    ok, status, content_type, motivo = validar_link(item["url"])
+    return ok, item, status, content_type, motivo
 
 
 def gerar_validos(validos, caminho="valid_links.m3u"):
     with open(caminho, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         for item in validos:
-            f.write(f"#EXTINF:-1 group-title=\"AnimeOut\",{item['titulo']}\n{item['url']}\n")
-
+            group = item.get("group", "AnimeOut")
+            f.write(f"#EXTINF:-1 group-title=\"{group}\",{item['titulo']}\n{item['url']}\n")
     print(f"Arquivo gerado: {caminho} ({len(validos)} link(s) válido(s))")
 
 
 def gerar_invalidos(invalidos, caminho="invalid_links.csv"):
     with open(caminho, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["titulo", "url", "status", "content_type", "motivo"])
+        writer = csv.DictWriter(f, fieldnames=["titulo", "group", "url", "status", "content_type", "motivo"])
         writer.writeheader()
         for item in invalidos:
             writer.writerow(item)
-
     print(f"Arquivo gerado: {caminho} ({len(invalidos)} link(s) inválido(s))")
-
-
-def salvar_parcial(validos, invalidos):
-    print("\nSalvando progresso parcial...")
-    gerar_validos(validos)
-    gerar_invalidos(invalidos)
-    print("Progresso salvo. Você pode continuar depois rodando novamente.")
 
 
 def main():
@@ -127,45 +125,49 @@ def main():
         print("Nenhum link encontrado para validar.")
         return
 
-    limite_txt = input(f"Quantos links validar? [Enter = todos / sugestão teste = 20]: ").strip()
+    limite_txt = input("Quantos links validar? [Enter = todos / sugestão teste = 20]: ").strip()
     if limite_txt:
         try:
-            limite = int(limite_txt)
-            itens = itens[:limite]
+            itens = itens[:int(limite_txt)]
         except ValueError:
             print("Limite inválido. Vou validar todos.")
+
+    workers_txt = input(f"Validações em paralelo [Enter = {DEFAULT_WORKERS}]: ").strip()
+    try:
+        workers = int(workers_txt) if workers_txt else DEFAULT_WORKERS
+    except ValueError:
+        workers = DEFAULT_WORKERS
 
     validos = []
     invalidos = []
 
-    print(f"Validando {len(itens)} link(s)...")
-    print("Dica: pressione Ctrl+C para pausar e salvar o progresso parcial.\n")
+    print(f"Validando {len(itens)} link(s) com {workers} worker(s)...")
+    print("Dica: pressione Ctrl+C para parar. O progresso já concluído será salvo.\n")
 
     try:
-        for i, item in enumerate(itens, 1):
-            print(f"[{i}/{len(itens)}] Validando: {item['titulo']}")
-            ok, status, content_type, motivo = validar_link(item["url"])
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futuros = [executor.submit(validar_item, item) for item in itens]
+            for i, futuro in enumerate(as_completed(futuros), 1):
+                ok, item, status, content_type, motivo = futuro.result()
+                print(f"[{i}/{len(itens)}] {item['titulo']} | status={status} | {motivo}")
 
-            if ok:
-                print(f"  OK | status={status} | {motivo}")
-                validos.append(item)
-            else:
-                print(f"  FALHOU | status={status} | {motivo}")
-                invalidos.append({
-                    "titulo": item["titulo"],
-                    "url": item["url"],
-                    "status": status,
-                    "content_type": content_type,
-                    "motivo": motivo,
-                })
+                if ok:
+                    validos.append(item)
+                else:
+                    invalidos.append({
+                        "titulo": item["titulo"],
+                        "group": item.get("group", "AnimeOut"),
+                        "url": item["url"],
+                        "status": status,
+                        "content_type": content_type,
+                        "motivo": motivo,
+                    })
     except KeyboardInterrupt:
-        salvar_parcial(validos, invalidos)
-        return
+        print("\nValidação interrompida. Salvando progresso parcial...")
 
     print("\nResumo:")
     print(f"Válidos: {len(validos)}")
     print(f"Inválidos: {len(invalidos)}")
-
     gerar_validos(validos)
     gerar_invalidos(invalidos)
 
