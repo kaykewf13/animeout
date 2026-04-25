@@ -93,12 +93,18 @@ def obra_key(item):
 
 
 def group_title(item):
-    categoria = item["categoria"]
-    if item.get("is_adult") == "true" and not categoria.lower().startswith("adultos"):
-        categoria = f"Adultos | {categoria}"
-    return f"{item['grupo']} | {categoria}"
+    base = item['grupo']
 
+    categoria = item.get("categoria", "").split("|")[0].strip()
 
+    if item.get("is_adult") == "true":
+        return f"{base} - Adultos"
+
+    if categoria:
+        return f"{base} - {categoria}"
+
+    return base
+    
 def tvg_type(grupo): return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
 
 
