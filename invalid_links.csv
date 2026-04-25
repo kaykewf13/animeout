@@ -1,1 +1,29 @@
-titulo,url,status,content_type,motivo
+grupo,categoria,titulo,stream_url,fonte,source_file,motivo
+Filmes,Movies,&xplor HD (720p),https://mini.allinonereborn.fun/tata.php?id=11619,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",Cinema (1080p)",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Cinema One (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,CineMo (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Film4 (1080p),http://80.194.62.172:50002/stream/channelid/1764271106,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,FX Movie Channel (720p) [Not 24/7],https://tvpass.org/live/FXMovieChannel/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Hallmark Movies & Mysteries East (1080p) [Not 24/7],https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,IFC East (720p) [Not 24/7],https://tvpass.org/live/IFCEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Kino Barrandov (720p),http://83.167.253.107/hdmi1_ext,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Lifetime Movies East (720p) [Not 24/7],https://tvpass.org/live/LifetimeMoviesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",MovieBox (1080p)",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,MovieSmart Turk (576p),http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Rai Movie (576p) [Geo-blocked],https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Star Gold 2 (576p),http://103.253.18.58:8000/play/a00r,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Star Gold Romance (576p),http://103.253.18.58:8000/play/a017,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Star Gold Thrills (576p),http://103.253.18.58:8000/play/a00o,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Star Utsav Movies (576p),http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Movies,Universal Cinema (480p),http://190.2.212.209:8050/play/a0q3,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Comedy;Movies;Series,Universal Comedy (480p),http://190.2.212.209:8050/play/a0q4,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Comedy;Movies;Series;Sports,USA Network East (1080p) [Not 24/7],https://tvpass.org/live/USANetworkEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Classic;Movies,Смотрим 100% Классика,https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,Dlife (1080p),https://43.100.9.67/api/streams/live/cs312/1080p/mpegts,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,Hallmark Drama (720p) [Not 24/7],https://tvpass.org/live/HallmarkDrama/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Entertainment;General;Series,HTV3 (720p),https://vc.101vn.com/htv/htvcmb.php?id=2535,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,U&Alibi (576p),http://92.114.85.72:8000/play/a0bi,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,Univision Tlnovelas [Not 24/7],https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,Смотрим 100% Любовь,https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Series,Смотрим 100% Мужское,https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
