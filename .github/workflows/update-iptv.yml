@@ -4,11 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "Code/**"
-      - "sources/**"
-      - "web/**"
-      - ".github/workflows/update-iptv.yml"
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -30,13 +25,16 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Import external anime VOD sources
+      - name: Import anime sources
         run: python Code/import_external_m3u_sources.py
 
-      - name: Import IPTV-org VOD sources
+      - name: Import IPTV-org VOD
         run: python Code/import_iptv_org_vod.py
 
-      - name: Run catalog pipeline and update M3U
+      - name: Import scalable VOD playlists
+        run: python Code/import_vod_playlists.py
+
+      - name: Run pipeline
         run: python Code/pipeline_iptv.py
 
       - name: Enrich anime metadata
@@ -52,6 +50,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "auto update catalog and m3u"
+            git commit -m "auto update VOD scale"
             git push
           fi
