@@ -22,6 +22,10 @@ IGNORED_PATTERN = re.compile(r"https?://[^\"'<>\s]+?\.(?:mkv|avi|mov)(?:\?[^\"'<
 TIMEOUT_SECONDS = int(os.getenv("TIMEOUT_SECONDS", "8"))
 WORKERS = int(os.getenv("WORKERS", "12"))
 
+ADULT_KEYWORDS = ["adult", "adulto", "18+", "hentai", "ecchi", "erotic", "mature"]
+EXCLUDE_KEYWORDS = ["yaoi", "boys love", "boyslove", "bl ", " shounen ai", "shonen ai"]
+ANIME_KEYWORDS = ["anime", "hentai", "ecchi", "shounen", "shonen", "seinen", "josei", "isekai", "mecha", "otaku"]
+
 
 def ensure_dirs():
     Path("output").mkdir(exist_ok=True)
@@ -46,8 +50,27 @@ def normalizar_grupo(grupo):
     return mapa.get(raw, grupo.strip() if grupo else "")
 
 
+def texto_item(*partes):
+    return " ".join(str(p or "") for p in partes).lower()
+
+
+def contem_termo(texto, termos):
+    return any(t in texto for t in termos)
+
+
+def classificar_flags(grupo, categoria, titulo, description):
+    texto = texto_item(grupo, categoria, titulo, description)
+    is_adult = contem_termo(texto, ADULT_KEYWORDS)
+    is_excluded = contem_termo(texto, EXCLUDE_KEYWORDS)
+    is_anime = contem_termo(texto, ANIME_KEYWORDS) or is_adult
+    return is_adult, is_excluded, is_anime
+
+
 def group_title(item):
-    return f"{item['grupo']} | {item['categoria']}"
+    categoria = item["categoria"]
+    if item.get("is_adult") == "true" and "Adultos" not in categoria:
+        categoria = f"Adultos | {categoria}"
+    return f"{item['grupo']} | {categoria}"
 
 
 def ler_catalogo_csv(caminho):
@@ -78,8 +101,11 @@ def ler_catalogo_csv(caminho):
             print(f"Grupo ignorado em {caminho}: {grupo}. Use Canais, Filmes ou Series.")
             continue
 
-        # Regra dura: VOD de Filmes/Séries nunca entra em Canais.
         if fonte in ["iptv-org", "plex-vod"] and grupo == "Canais":
+            continue
+
+        is_adult, is_excluded, is_anime = classificar_flags(grupo, categoria, titulo, description)
+        if is_excluded:
             continue
 
         itens.append({
@@ -91,6 +117,8 @@ def ler_catalogo_csv(caminho):
             "fonte": fonte,
             "description": description,
             "rating": rating,
+            "is_adult": "true" if is_adult else "false",
+            "is_anime": "true" if is_anime else "false",
         })
 
     return itens
@@ -226,6 +254,8 @@ def gerar_catalogo_json(itens, caminho="web/catalog.json"):
             "source": item.get("fonte", ""),
             "description": item.get("description", ""),
             "rating": item.get("rating", ""),
+            "isAdult": item.get("is_adult") == "true",
+            "isAnime": item.get("is_anime") == "true",
         })
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
@@ -260,8 +290,8 @@ def main():
             extraidos.extend(streams)
             ignorados.extend(ignored)
 
-    gerar_csv("logs/extracted_streams.csv", extraidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "stream_url"])
-    gerar_csv("logs/ignored_download_files.csv", ignorados, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "ignored_url", "motivo"])
+    gerar_csv("logs/extracted_streams.csv", extraidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "is_adult", "is_anime", "stream_url"])
+    gerar_csv("logs/ignored_download_files.csv", ignorados, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "is_adult", "is_anime", "ignored_url", "motivo"])
 
     validos = []
     invalidos = []
@@ -285,13 +315,15 @@ def main():
     gerar_m3u([i for i in validos if i["grupo"] == "Filmes"], "output/filmes.m3u")
     gerar_catalogo_json(validos)
 
-    gerar_csv("invalid_links.csv", invalidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "stream_url", "status", "content_type", "motivo"])
+    gerar_csv("invalid_links.csv", invalidos, ["grupo", "categoria", "titulo", "url", "logo", "fonte", "description", "rating", "is_adult", "is_anime", "stream_url", "status", "content_type", "motivo"])
 
     print("\nResumo final:")
     print(f"Extraídos: {len(extraidos)}")
     print(f"Válidos: {len(validos)}")
     print(f"Inválidos: {len(invalidos)}")
     print(f"Ignorados/fallback MKV: {len(ignorados)}")
+    print(f"Animes válidos: {sum(1 for i in validos if i.get('is_anime') == 'true')}")
+    print(f"Adultos válidos: {sum(1 for i in validos if i.get('is_adult') == 'true')}")
 
 
 if __name__ == "__main__":
