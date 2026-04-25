@@ -1,383 +1,383 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="series_naruto_1" tvg-name="Naruto" tvg-logo="https://logo.com/naruto.png" tvg-language="pt" tvg-type="series" group-title="Series | Anime",Naruto
+#EXTINF:-1 tvg-id="series_naruto_1" tvg-name="Naruto" tvg-logo="https://logo.com/naruto.png" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Naruto
 https://exemplo.com/naruto.m3u8
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_2" tvg-name="Himouto! Umaru-chan 2nd Season - EP01" tvg-logo="https://api.animeiat.co/storage/thumbnails/28336/tvIv9tFc0vwI57kg85.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP01
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_2" tvg-name="Himouto! Umaru-chan 2nd Season - EP01" tvg-logo="https://api.animeiat.co/storage/thumbnails/28336/tvIv9tFc0vwI57kg85.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP01
 https://cdn.animeiat.tv/files/28336/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP01%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_3" tvg-name="Himouto! Umaru-chan 2nd Season - EP02" tvg-logo="https://api.animeiat.co/storage/thumbnails/28329/GULuJpbbkWaPlNbX65.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP02
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_3" tvg-name="Himouto! Umaru-chan 2nd Season - EP02" tvg-logo="https://api.animeiat.co/storage/thumbnails/28329/GULuJpbbkWaPlNbX65.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP02
 https://cdn.animeiat.tv/files/28329/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP02%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_4" tvg-name="Himouto! Umaru-chan 2nd Season - EP03" tvg-logo="https://api.animeiat.co/storage/thumbnails/28335/uLcln1v5kqZQZZgL30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP03
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_4" tvg-name="Himouto! Umaru-chan 2nd Season - EP03" tvg-logo="https://api.animeiat.co/storage/thumbnails/28335/uLcln1v5kqZQZZgL30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP03
 https://cdn.animeiat.tv/files/28335/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP03%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_5" tvg-name="Himouto! Umaru-chan 2nd Season - EP04" tvg-logo="https://api.animeiat.co/storage/thumbnails/28330/6M0aWG08MjbBO2Ex30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP04
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_5" tvg-name="Himouto! Umaru-chan 2nd Season - EP04" tvg-logo="https://api.animeiat.co/storage/thumbnails/28330/6M0aWG08MjbBO2Ex30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP04
 https://cdn.animeiat.tv/files/28330/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP04%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_6" tvg-name="Himouto! Umaru-chan 2nd Season - EP05" tvg-logo="https://api.animeiat.co/storage/thumbnails/28327/fi8EqE7Tfj59vlxh30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP05
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_6" tvg-name="Himouto! Umaru-chan 2nd Season - EP05" tvg-logo="https://api.animeiat.co/storage/thumbnails/28327/fi8EqE7Tfj59vlxh30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP05
 https://cdn.animeiat.tv/files/28327/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP05%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_7" tvg-name="Himouto! Umaru-chan 2nd Season - EP06" tvg-logo="https://api.animeiat.co/storage/thumbnails/28333/pVMrmepaeh6eGSLG30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP06
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_7" tvg-name="Himouto! Umaru-chan 2nd Season - EP06" tvg-logo="https://api.animeiat.co/storage/thumbnails/28333/pVMrmepaeh6eGSLG30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP06
 https://cdn.animeiat.tv/files/28333/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP06%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_8" tvg-name="Himouto! Umaru-chan 2nd Season - EP07" tvg-logo="https://api.animeiat.co/storage/thumbnails/28332/q6mlU8GQHJd38ikT45.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP07
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_8" tvg-name="Himouto! Umaru-chan 2nd Season - EP07" tvg-logo="https://api.animeiat.co/storage/thumbnails/28332/q6mlU8GQHJd38ikT45.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP07
 https://cdn.animeiat.tv/files/28332/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP07%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_9" tvg-name="Himouto! Umaru-chan 2nd Season - EP08" tvg-logo="https://api.animeiat.co/storage/thumbnails/28328/xSTU99T5huOeGWbU10.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP08
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_9" tvg-name="Himouto! Umaru-chan 2nd Season - EP08" tvg-logo="https://api.animeiat.co/storage/thumbnails/28328/xSTU99T5huOeGWbU10.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP08
 https://cdn.animeiat.tv/files/28328/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP08%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_10" tvg-name="Himouto! Umaru-chan 2nd Season - EP09" tvg-logo="https://api.animeiat.co/storage/thumbnails/28325/khyzdzIRZ1TZHvbW65.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP09
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_10" tvg-name="Himouto! Umaru-chan 2nd Season - EP09" tvg-logo="https://api.animeiat.co/storage/thumbnails/28325/khyzdzIRZ1TZHvbW65.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP09
 https://cdn.animeiat.tv/files/28325/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP09%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_11" tvg-name="Himouto! Umaru-chan 2nd Season - EP10" tvg-logo="https://api.animeiat.co/storage/thumbnails/28331/CKXxYo5guETyGXcP85.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP10
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_11" tvg-name="Himouto! Umaru-chan 2nd Season - EP10" tvg-logo="https://api.animeiat.co/storage/thumbnails/28331/CKXxYo5guETyGXcP85.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP10
 https://cdn.animeiat.tv/files/28331/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP10%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_12" tvg-name="Himouto! Umaru-chan 2nd Season - EP11" tvg-logo="https://api.animeiat.co/storage/thumbnails/28326/An9dxu3i1BGgWR9465.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP11
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_12" tvg-name="Himouto! Umaru-chan 2nd Season - EP11" tvg-logo="https://api.animeiat.co/storage/thumbnails/28326/An9dxu3i1BGgWR9465.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP11
 https://cdn.animeiat.tv/files/28326/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP11%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_13" tvg-name="Himouto! Umaru-chan 2nd Season - EP12" tvg-logo="https://api.animeiat.co/storage/thumbnails/28334/OjoP0eSEQgPTEdOh30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",Himouto! Umaru-chan 2nd Season - EP12
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_2nd_season_13" tvg-name="Himouto! Umaru-chan 2nd Season - EP12" tvg-logo="https://api.animeiat.co/storage/thumbnails/28334/OjoP0eSEQgPTEdOh30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan 2nd Season - EP12
 https://cdn.animeiat.tv/files/28334/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP12%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_14" tvg-name="Himouto! Umaru-chan - EP01" tvg-logo="https://api.animeiat.co/storage/thumbnails/28323/frZ8L2JimRc0AF1v85.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP01
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_14" tvg-name="Himouto! Umaru-chan - EP01" tvg-logo="https://api.animeiat.co/storage/thumbnails/28323/frZ8L2JimRc0AF1v85.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP01
 https://cdn.animeiat.tv/files/28323/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP01%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_15" tvg-name="Himouto! Umaru-chan - EP02" tvg-logo="https://api.animeiat.co/storage/thumbnails/28316/OJO76ot88bJ29p4L65.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP02
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_15" tvg-name="Himouto! Umaru-chan - EP02" tvg-logo="https://api.animeiat.co/storage/thumbnails/28316/OJO76ot88bJ29p4L65.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP02
 https://cdn.animeiat.tv/files/28316/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP02%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_16" tvg-name="Himouto! Umaru-chan - EP03" tvg-logo="https://api.animeiat.co/storage/thumbnails/28317/eGgDp98zCROHndRX65.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP03
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_16" tvg-name="Himouto! Umaru-chan - EP03" tvg-logo="https://api.animeiat.co/storage/thumbnails/28317/eGgDp98zCROHndRX65.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP03
 https://cdn.animeiat.tv/files/28317/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP03%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_17" tvg-name="Himouto! Umaru-chan - EP04" tvg-logo="https://api.animeiat.co/storage/thumbnails/28324/NOXTQyRXhBEeWH3o10.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP04
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_17" tvg-name="Himouto! Umaru-chan - EP04" tvg-logo="https://api.animeiat.co/storage/thumbnails/28324/NOXTQyRXhBEeWH3o10.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP04
 https://cdn.animeiat.tv/files/28324/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP04%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_18" tvg-name="Himouto! Umaru-chan - EP05" tvg-logo="https://api.animeiat.co/storage/thumbnails/28315/LNMd9bm1QgSJdkIq10.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP05
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_18" tvg-name="Himouto! Umaru-chan - EP05" tvg-logo="https://api.animeiat.co/storage/thumbnails/28315/LNMd9bm1QgSJdkIq10.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP05
 https://cdn.animeiat.tv/files/28315/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP05%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_19" tvg-name="Himouto! Umaru-chan - EP06" tvg-logo="https://api.animeiat.co/storage/thumbnails/28313/bFLKzXwNyKuGnHPQ85.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP06
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_19" tvg-name="Himouto! Umaru-chan - EP06" tvg-logo="https://api.animeiat.co/storage/thumbnails/28313/bFLKzXwNyKuGnHPQ85.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP06
 https://cdn.animeiat.tv/files/28313/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP06%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_20" tvg-name="Himouto! Umaru-chan - EP07" tvg-logo="https://api.animeiat.co/storage/thumbnails/28320/TsFP6vyKSDcML1GA30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP07
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_20" tvg-name="Himouto! Umaru-chan - EP07" tvg-logo="https://api.animeiat.co/storage/thumbnails/28320/TsFP6vyKSDcML1GA30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP07
 https://cdn.animeiat.tv/files/28320/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP07%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_21" tvg-name="Himouto! Umaru-chan - EP08" tvg-logo="https://api.animeiat.co/storage/thumbnails/28318/9f6QcpxABoodx0rz65.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP08
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_21" tvg-name="Himouto! Umaru-chan - EP08" tvg-logo="https://api.animeiat.co/storage/thumbnails/28318/9f6QcpxABoodx0rz65.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP08
 https://cdn.animeiat.tv/files/28318/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP08%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_22" tvg-name="Himouto! Umaru-chan - EP09" tvg-logo="https://api.animeiat.co/storage/thumbnails/28322/WmVNU43eNvhWEtpH30.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP09
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_22" tvg-name="Himouto! Umaru-chan - EP09" tvg-logo="https://api.animeiat.co/storage/thumbnails/28322/WmVNU43eNvhWEtpH30.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP09
 https://cdn.animeiat.tv/files/28322/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP09%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_23" tvg-name="Himouto! Umaru-chan - EP10" tvg-logo="https://api.animeiat.co/storage/thumbnails/28319/dvNePQ8e27xRYKdT10.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP10
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_23" tvg-name="Himouto! Umaru-chan - EP10" tvg-logo="https://api.animeiat.co/storage/thumbnails/28319/dvNePQ8e27xRYKdT10.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP10
 https://cdn.animeiat.tv/files/28319/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP10%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_24" tvg-name="Himouto! Umaru-chan - EP11" tvg-logo="https://api.animeiat.co/storage/thumbnails/28321/ZmVZnxG0gdirDq0010.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP11
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_24" tvg-name="Himouto! Umaru-chan - EP11" tvg-logo="https://api.animeiat.co/storage/thumbnails/28321/ZmVZnxG0gdirDq0010.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP11
 https://cdn.animeiat.tv/files/28321/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP11%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_himouto_umaru_chan_25" tvg-name="Himouto! Umaru-chan - EP12" tvg-logo="https://api.animeiat.co/storage/thumbnails/28314/bTKbFitF5inaEYcd45.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Anime | Himouto! Umaru-chan | 12 eps",Himouto! Umaru-chan - EP12
+#EXTINF:-1 tvg-id="series_himouto_umaru_chan_25" tvg-name="Himouto! Umaru-chan - EP12" tvg-logo="https://api.animeiat.co/storage/thumbnails/28314/bTKbFitF5inaEYcd45.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Anime",Himouto! Umaru-chan - EP12
 https://cdn.animeiat.tv/files/28314/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP12%5B720p%5D.mp4
-#EXTINF:-1 tvg-id="series_choppertown_26" tvg-name="Choppertown (720p)" tvg-logo="https://i.imgur.com/U6cu5Ms.png" tvg-language="pt" tvg-type="series" group-title="Series | Auto",Choppertown (720p)
+#EXTINF:-1 tvg-id="series_choppertown_26" tvg-name="Choppertown (720p)" tvg-logo="https://i.imgur.com/U6cu5Ms.png" tvg-language="pt" tvg-type="series" group-title="Series - Auto",Choppertown (720p)
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="series_cnbc_e_27" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-language="pt" tvg-type="series" group-title="Series | Business",CNBC-e
+#EXTINF:-1 tvg-id="series_cnbc_e_27" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-language="pt" tvg-type="series" group-title="Series - Business",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-id="series_awtv_28" tvg-name="AWTV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-language="pt" tvg-type="series" group-title="Series | Clássicos",AWTV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_awtv_28" tvg-name="AWTV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2tdMyef.png" tvg-language="pt" tvg-type="series" group-title="Series - Clássicos",AWTV (1080p) [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="series_the_twilight_zone_29" tvg-name="The Twilight Zone" tvg-logo="https://i.imgur.com/FiIRQAR.png" tvg-language="pt" tvg-type="series" group-title="Series | Clássicos",The Twilight Zone
+#EXTINF:-1 tvg-id="series_the_twilight_zone_29" tvg-name="The Twilight Zone" tvg-logo="https://i.imgur.com/FiIRQAR.png" tvg-language="pt" tvg-type="series" group-title="Series - Clássicos",The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
-#EXTINF:-1 tvg-id="series_3cat_plats_bruts_30" tvg-name="3Cat Plats bruts (1080p)" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="pt" tvg-type="series" group-title="Series | Clássicos | Comédia | Public",3Cat Plats bruts (1080p)
+#EXTINF:-1 tvg-id="series_3cat_plats_bruts_30" tvg-name="3Cat Plats bruts (1080p)" tvg-logo="https://i.imgur.com/49ZENis.png" tvg-language="pt" tvg-type="series" group-title="Series - Clássicos",3Cat Plats bruts (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
-#EXTINF:-1 tvg-id="series_anger_management_channel_31" tvg-name="Anger Management Channel (1080p)" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-language="pt" tvg-type="series" group-title="Series | Comédia",Anger Management Channel (1080p)
+#EXTINF:-1 tvg-id="series_anger_management_channel_31" tvg-name="Anger Management Channel (1080p)" tvg-logo="https://i.imgur.com/VXZgrNy.png" tvg-language="pt" tvg-type="series" group-title="Series - Comédia",Anger Management Channel (1080p)
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_the_chat_show_channel_32" tvg-name="The Chat Show Channel (1080p)" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="series" group-title="Series | Comédia",The Chat Show Channel (1080p)
+#EXTINF:-1 tvg-id="series_the_chat_show_channel_32" tvg-name="The Chat Show Channel (1080p)" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" tvg-language="pt" tvg-type="series" group-title="Series - Comédia",The Chat Show Channel (1080p)
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="series_the_conners_33" tvg-name="The Conners (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-language="pt" tvg-type="series" group-title="Series | Comédia",The Conners (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_the_conners_33" tvg-name="The Conners (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" tvg-language="pt" tvg-type="series" group-title="Series - Comédia",The Conners (1080p) [Geo-blocked]
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_gzt_34" tvg-name="GZT (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-language="pt" tvg-type="series" group-title="Series | Documentário",GZT (1080p)
+#EXTINF:-1 tvg-id="series_gzt_34" tvg-name="GZT (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-language="pt" tvg-type="series" group-title="Series - Documentário",GZT (1080p)
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_rakuten_viki_35" tvg-name="Rakuten VIKI" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="pt" tvg-type="series" group-title="Series | Entretenimento",Rakuten VIKI
+#EXTINF:-1 tvg-id="series_rakuten_viki_35" tvg-name="Rakuten VIKI" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="pt" tvg-type="series" group-title="Series - Entretenimento",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-#EXTINF:-1 tvg-id="series_rakuten_viki_36" tvg-name="Rakuten Viki (1080p)" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="pt" tvg-type="series" group-title="Series | Entretenimento",Rakuten Viki (1080p)
+#EXTINF:-1 tvg-id="series_rakuten_viki_36" tvg-name="Rakuten Viki (1080p)" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-language="pt" tvg-type="series" group-title="Series - Entretenimento",Rakuten Viki (1080p)
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_zee_alwan_576p_37" tvg-name="Zee Alwan (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/OLuCox7.png" tvg-language="pt" tvg-type="series" group-title="Series | Entretenimento",Zee Alwan (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="series_zee_alwan_576p_37" tvg-name="Zee Alwan (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/OLuCox7.png" tvg-language="pt" tvg-type="series" group-title="Series - Entretenimento",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
-#EXTINF:-1 tvg-id="series_576p_38" tvg-name="Мир Сериала (576p)" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Мир Сериала (576p)
+#EXTINF:-1 tvg-id="series_576p_38" tvg-name="Мир Сериала (576p)" tvg-logo="https://i.imgur.com/uzj7wVp.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Мир Сериала (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
-#EXTINF:-1 tvg-id="series_48_hours_39" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",48 Hours
+#EXTINF:-1 tvg-id="series_48_hours_39" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",48 Hours
 https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
-#EXTINF:-1 tvg-id="series_48_hours_40" tvg-name="48 Hours (1080p)" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",48 Hours (1080p)
+#EXTINF:-1 tvg-id="series_48_hours_40" tvg-name="48 Hours (1080p)" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-#EXTINF:-1 tvg-id="series_comedy_central_south_park_41" tvg-name="Comedy Central South Park" tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Comedy Central South Park
+#EXTINF:-1 tvg-id="series_comedy_central_south_park_41" tvg-name="Comedy Central South Park" tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Comedy Central South Park
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-#EXTINF:-1 tvg-id="series_duck_dynasty_42" tvg-name="Duck Dynasty (1080p)" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Duck Dynasty (1080p)
+#EXTINF:-1 tvg-id="series_duck_dynasty_42" tvg-name="Duck Dynasty (1080p)" tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Duck Dynasty (1080p)
 https://aegis-cloudfront-1.tubi.video/ae3cd8ce-3c41-452b-92a0-78fdb3c5b855/playlist.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_true_crime_43" tvg-name="Pluto TV True Crime" tvg-logo="https://i.imgur.com/lNfaxiv.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV True Crime
+#EXTINF:-1 tvg-id="series_pluto_tv_true_crime_43" tvg-name="Pluto TV True Crime" tvg-logo="https://i.imgur.com/lNfaxiv.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
-#EXTINF:-1 tvg-id="series_the_new_detectives_44" tvg-name="The New Detectives" tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The New Detectives
+#EXTINF:-1 tvg-id="series_the_new_detectives_44" tvg-name="The New Detectives" tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The New Detectives
 https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
-#EXTINF:-1 tvg-id="series_item_45" tvg-name="Сапфир (720p)" tvg-logo="https://i.imgur.com/NMOBvle.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Сапфир (720p)
+#EXTINF:-1 tvg-id="series_item_45" tvg-name="Сапфир (720p)" tvg-logo="https://i.imgur.com/NMOBvle.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Сапфир (720p)
 http://31.148.48.15/Sapfir_HD/index.m3u8
-#EXTINF:-1 tvg-id="series_item_46" tvg-name="Сити Эдем КиноДок [Not 24/7]" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Сити Эдем КиноДок [Not 24/7]
+#EXTINF:-1 tvg-id="series_item_46" tvg-name="Сити Эдем КиноДок [Not 24/7]" tvg-logo="https://i.imgur.com/itRbMX3.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Сити Эдем КиноДок [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
-#EXTINF:-1 tvg-id="series_item_47" tvg-name="Смотрим Честный Детектив (1080p)" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Смотрим Честный Детектив (1080p)
+#EXTINF:-1 tvg-id="series_item_47" tvg-name="Смотрим Честный Детектив (1080p)" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Смотрим Честный Детектив (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="series_13_teleseries_48" tvg-name="13 Teleseries (720p)" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",13 Teleseries (720p)
+#EXTINF:-1 tvg-id="series_13_teleseries_48" tvg-name="13 Teleseries (720p)" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="series_5_cops_49" tvg-name="5 Cops" tvg-logo="https://i.imgur.com/QFPRaXK.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",5 Cops
+#EXTINF:-1 tvg-id="series_5_cops_49" tvg-name="5 Cops" tvg-logo="https://i.imgur.com/QFPRaXK.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-#EXTINF:-1 tvg-id="series_ava_series_50" tvg-name="AVA Series" tvg-logo="https://i.imgur.com/8AfAfZE.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",AVA Series
+#EXTINF:-1 tvg-id="series_ava_series_50" tvg-name="AVA Series" tvg-logo="https://i.imgur.com/8AfAfZE.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="series_acapulco_shore_51" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/D2jgGOi.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Acapulco Shore
+#EXTINF:-1 tvg-id="series_acapulco_shore_51" tvg-name="Acapulco Shore" tvg-logo="https://i.imgur.com/D2jgGOi.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Acapulco Shore
 https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
-#EXTINF:-1 tvg-id="series_all_reality_we_tv_52" tvg-name="All Reality WE tv (720p)" tvg-logo="https://i.imgur.com/HZTz5HJ.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",All Reality WE tv (720p)
+#EXTINF:-1 tvg-id="series_all_reality_we_tv_52" tvg-name="All Reality WE tv (720p)" tvg-logo="https://i.imgur.com/HZTz5HJ.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",All Reality WE tv (720p)
 https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
-#EXTINF:-1 tvg-id="series_all_weddings_we_tv_53" tvg-name="All Weddings We TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/OjLCew5.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",All Weddings We TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_all_weddings_we_tv_53" tvg-name="All Weddings We TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/OjLCew5.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",All Weddings We TV (720p) [Geo-blocked]
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="series_always_funny_videos_54" tvg-name="Always Funny Videos (720p)" tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Always Funny Videos (720p)
+#EXTINF:-1 tvg-id="series_always_funny_videos_54" tvg-name="Always Funny Videos (720p)" tvg-logo="https://i.imgur.com/vfdN5Xl.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="series_amedia_2_576p_55" tvg-name="Amedia 2 (576p)" tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Amedia 2 (576p)
+#EXTINF:-1 tvg-id="series_amedia_2_576p_55" tvg-name="Amedia 2 (576p)" tvg-logo="https://i.imgur.com/NqHla2V.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Amedia 2 (576p)
 http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-id="series_andromeda_56" tvg-name="Andromeda" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Andromeda
+#EXTINF:-1 tvg-id="series_andromeda_56" tvg-name="Andromeda" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Andromeda
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
-#EXTINF:-1 tvg-id="series_antiques_roadshow_pbs_57" tvg-name="Antiques Roadshow PBS (1080p)" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Antiques Roadshow PBS (1080p)
+#EXTINF:-1 tvg-id="series_antiques_roadshow_pbs_57" tvg-name="Antiques Roadshow PBS (1080p)" tvg-logo="https://i.imgur.com/U9CYaok.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Antiques Roadshow PBS (1080p)
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_antiques_roadshow_uk_58" tvg-name="Antiques Roadshow UK (1080p)" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Antiques Roadshow UK (1080p)
+#EXTINF:-1 tvg-id="series_antiques_roadshow_uk_58" tvg-name="Antiques Roadshow UK (1080p)" tvg-logo="https://i.imgur.com/rKWLv48.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Antiques Roadshow UK (1080p)
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_are_we_there_yet_59" tvg-name="Are We There Yet? (1080p)" tvg-logo="https://i.imgur.com/3BJQiHP.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Are We There Yet? (1080p)
+#EXTINF:-1 tvg-id="series_are_we_there_yet_59" tvg-name="Are We There Yet? (1080p)" tvg-logo="https://i.imgur.com/3BJQiHP.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Are We There Yet? (1080p)
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="series_at_home_with_family_handyman_60" tvg-name="At Home with Family Handyman (720p)" tvg-logo="https://i.imgur.com/WfKlGbX.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",At Home with Family Handyman (720p)
+#EXTINF:-1 tvg-id="series_at_home_with_family_handyman_60" tvg-name="At Home with Family Handyman (720p)" tvg-logo="https://i.imgur.com/WfKlGbX.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",At Home with Family Handyman (720p)
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="series_auction_hunters_61" tvg-name="Auction Hunters" tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Auction Hunters
+#EXTINF:-1 tvg-id="series_auction_hunters_61" tvg-name="Auction Hunters" tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Auction Hunters
 https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
-#EXTINF:-1 tvg-id="series_bbc_doctor_who_classic_62" tvg-name="BBC Doctor Who Classic (1080p)" tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",BBC Doctor Who Classic (1080p)
+#EXTINF:-1 tvg-id="series_bbc_doctor_who_classic_62" tvg-name="BBC Doctor Who Classic (1080p)" tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",BBC Doctor Who Classic (1080p)
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_bbc_drama_63" tvg-name="BBC Drama (1080p)" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",BBC Drama (1080p)
+#EXTINF:-1 tvg-id="series_bbc_drama_63" tvg-name="BBC Drama (1080p)" tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_bab_al_hara_64" tvg-name="Bab Al Hara (1080p)" tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Bab Al Hara (1080p)
+#EXTINF:-1 tvg-id="series_bab_al_hara_64" tvg-name="Bab Al Hara (1080p)" tvg-logo="https://i.imgur.com/QtlnZbq.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Bab Al Hara (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-#EXTINF:-1 tvg-id="series_bar_rescue_65" tvg-name="Bar Rescue" tvg-logo="https://i.imgur.com/WFgWGPb.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Bar Rescue
+#EXTINF:-1 tvg-id="series_bar_rescue_65" tvg-name="Bar Rescue" tvg-logo="https://i.imgur.com/WFgWGPb.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
-#EXTINF:-1 tvg-id="series_baywatch_66" tvg-name="Baywatch (1080p)" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Baywatch (1080p)
+#EXTINF:-1 tvg-id="series_baywatch_66" tvg-name="Baywatch (1080p)" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Baywatch (1080p)
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_beverly_hills_90210_67" tvg-name="Beverly Hills 90210" tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Beverly Hills 90210
+#EXTINF:-1 tvg-id="series_beverly_hills_90210_67" tvg-name="Beverly Hills 90210" tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Beverly Hills 90210
 https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-#EXTINF:-1 tvg-id="series_black_ink_crew_68" tvg-name="Black Ink Crew" tvg-logo="https://i.imgur.com/QnuIVB6.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Black Ink Crew
+#EXTINF:-1 tvg-id="series_black_ink_crew_68" tvg-name="Black Ink Crew" tvg-logo="https://i.imgur.com/QnuIVB6.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Black Ink Crew
 https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
-#EXTINF:-1 tvg-id="series_blue_bloods_69" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Blue Bloods
+#EXTINF:-1 tvg-id="series_blue_bloods_69" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
-#EXTINF:-1 tvg-id="series_cbc_drama_576p_70" tvg-name="CBC Drama (576p)" tvg-logo="https://i.imgur.com/I8YdakH.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",CBC Drama (576p)
+#EXTINF:-1 tvg-id="series_cbc_drama_576p_70" tvg-name="CBC Drama (576p)" tvg-logo="https://i.imgur.com/I8YdakH.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",CBC Drama (576p)
 https://flu.systemnet.tv/CBCDrama/index.m3u8
-#EXTINF:-1 tvg-id="series_cops_71" tvg-name="COPS" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",COPS
+#EXTINF:-1 tvg-id="series_cops_71" tvg-name="COPS" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",COPS
 https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
-#EXTINF:-1 tvg-id="series_cops_72" tvg-name="Cops (720p)" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Cops (720p)
+#EXTINF:-1 tvg-id="series_cops_72" tvg-name="Cops (720p)" tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Cops (720p)
 https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_csi_73" tvg-name="CSI" tvg-logo="https://i.imgur.com/xLLNEfA.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",CSI
+#EXTINF:-1 tvg-id="series_csi_73" tvg-name="CSI" tvg-logo="https://i.imgur.com/xLLNEfA.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
-#EXTINF:-1 tvg-id="series_celebrity_name_game_74" tvg-name="Celebrity Name Game (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Celebrity Name Game (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_celebrity_name_game_74" tvg-name="Celebrity Name Game (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Celebrity Name Game (1080p) [Geo-blocked]
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
-#EXTINF:-1 tvg-id="series_chaos_city_75" tvg-name="Chaos City" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Chaos City
+#EXTINF:-1 tvg-id="series_chaos_city_75" tvg-name="Chaos City" tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1 tvg-id="series_cheers_76" tvg-name="Cheers" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Cheers
+#EXTINF:-1 tvg-id="series_cheers_76" tvg-name="Cheers" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Cheers
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-id="series_cold_case_files_77" tvg-name="Cold Case Files (1080p)" tvg-logo="https://i.imgur.com/mowSfj6.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Cold Case Files (1080p)
+#EXTINF:-1 tvg-id="series_cold_case_files_77" tvg-name="Cold Case Files (1080p)" tvg-logo="https://i.imgur.com/mowSfj6.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
-#EXTINF:-1 tvg-id="series_dark_matter_tv_78" tvg-name="Dark Matter TV (720p)" tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Dark Matter TV (720p)
+#EXTINF:-1 tvg-id="series_dark_matter_tv_78" tvg-name="Dark Matter TV (720p)" tvg-logo="https://i.imgur.com/9K8T3ND.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Dark Matter TV (720p)
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_deal_or_no_deal_79" tvg-name="Deal or No Deal (1080p)" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Deal or No Deal (1080p)
+#EXTINF:-1 tvg-id="series_deal_or_no_deal_79" tvg-name="Deal or No Deal (1080p)" tvg-logo="https://i.imgur.com/lZvNXA1.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Deal or No Deal (1080p)
 https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_degrassi_80" tvg-name="Degrassi (720p)" tvg-logo="https://i.imgur.com/vhSzfDC.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Degrassi (720p)
+#EXTINF:-1 tvg-id="series_degrassi_80" tvg-name="Degrassi (720p)" tvg-logo="https://i.imgur.com/vhSzfDC.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Degrassi (720p)
 https://d3537vnymvfque.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="series_designated_survivor_81" tvg-name="Designated Survivor (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Designated Survivor (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_designated_survivor_81" tvg-name="Designated Survivor (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Designated Survivor (1080p) [Geo-blocked]
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_dog_whisperer_82" tvg-name="Dog Whisperer (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tgWypVJ.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Dog Whisperer (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_dog_whisperer_82" tvg-name="Dog Whisperer (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/tgWypVJ.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Dog Whisperer (1080p) [Geo-blocked]
 https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
-#EXTINF:-1 tvg-id="series_dog_the_bounty_hunter_83" tvg-name="Dog the Bounty Hunter (1080p)" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Dog the Bounty Hunter (1080p)
+#EXTINF:-1 tvg-id="series_dog_the_bounty_hunter_83" tvg-name="Dog the Bounty Hunter (1080p)" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Dog the Bounty Hunter (1080p)
 https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
-#EXTINF:-1 tvg-id="series_dog_the_bounty_hunter_84" tvg-name="Dog The Bounty Hunter [Geo-blocked] (1080p)" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Dog The Bounty Hunter [Geo-blocked] (1080p)
+#EXTINF:-1 tvg-id="series_dog_the_bounty_hunter_84" tvg-name="Dog The Bounty Hunter [Geo-blocked] (1080p)" tvg-logo="https://i.imgur.com/lMICupK.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Dog The Bounty Hunter [Geo-blocked] (1080p)
 https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="series_don_t_tell_the_bride_85" tvg-name="Don't Tell The Bride (1080p)" tvg-logo="https://i.imgur.com/h0bc3Fa.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Don't Tell The Bride (1080p)
+#EXTINF:-1 tvg-id="series_don_t_tell_the_bride_85" tvg-name="Don't Tell The Bride (1080p)" tvg-logo="https://i.imgur.com/h0bc3Fa.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Don't Tell The Bride (1080p)
 https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_donna_tv_86" tvg-name="Donna TV (480p)" tvg-logo="https://i.imgur.com/39cSNHs.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Donna TV (480p)
+#EXTINF:-1 tvg-id="series_donna_tv_86" tvg-name="Donna TV (480p)" tvg-logo="https://i.imgur.com/39cSNHs.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Donna TV (480p)
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_family_ties_87" tvg-name="Family Ties" tvg-logo="https://i.imgur.com/WJEkKCb.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Family Ties
+#EXTINF:-1 tvg-id="series_family_ties_87" tvg-name="Family Ties" tvg-logo="https://i.imgur.com/WJEkKCb.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-#EXTINF:-1 tvg-id="series_farscape_88" tvg-name="Farscape" tvg-logo="https://i.imgur.com/2WH4lSc.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Farscape
+#EXTINF:-1 tvg-id="series_farscape_88" tvg-name="Farscape" tvg-logo="https://i.imgur.com/2WH4lSc.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Farscape
 https://jmp2.uk/plu-680bb31c56ff83bcd685d64e.m3u8
-#EXTINF:-1 tvg-id="series_fear_factor_89" tvg-name="Fear Factor (1080p)" tvg-logo="https://i.imgur.com/CIYnLWz.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Fear Factor (1080p)
+#EXTINF:-1 tvg-id="series_fear_factor_89" tvg-name="Fear Factor (1080p)" tvg-logo="https://i.imgur.com/CIYnLWz.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Fear Factor (1080p)
 https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_gem_series_90" tvg-name="GEM Series" tvg-logo="https://i.imgur.com/M0WMDXm.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",GEM Series
+#EXTINF:-1 tvg-id="series_gem_series_90" tvg-name="GEM Series" tvg-logo="https://i.imgur.com/M0WMDXm.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",GEM Series
 https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="series_gem_series_plus_91" tvg-name="GEM Series Plus" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",GEM Series Plus
+#EXTINF:-1 tvg-id="series_gem_series_plus_91" tvg-name="GEM Series Plus" tvg-logo="https://gemgroup.tv/assets/images/channels/icon_33.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",GEM Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1 tvg-id="series_ghost_hunters_92" tvg-name="Ghost Hunters (1080p)" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Ghost Hunters (1080p)
+#EXTINF:-1 tvg-id="series_ghost_hunters_92" tvg-name="Ghost Hunters (1080p)" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Ghost Hunters (1080p)
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_gunsmoke_93" tvg-name="Gunsmoke" tvg-logo="https://i.imgur.com/OxUS1Hq.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Gunsmoke
+#EXTINF:-1 tvg-id="series_gunsmoke_93" tvg-name="Gunsmoke" tvg-logo="https://i.imgur.com/OxUS1Hq.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Gunsmoke
 https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
-#EXTINF:-1 tvg-id="series_happy_days_94" tvg-name="Happy Days" tvg-logo="https://i.imgur.com/LPjoORg.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Happy Days
+#EXTINF:-1 tvg-id="series_happy_days_94" tvg-name="Happy Days" tvg-logo="https://i.imgur.com/LPjoORg.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-#EXTINF:-1 tvg-id="series_haunt_tv_95" tvg-name="Haunt TV (1080p)" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Haunt TV (1080p)
+#EXTINF:-1 tvg-id="series_haunt_tv_95" tvg-name="Haunt TV (1080p)" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Haunt TV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_hell_s_kitchen_96" tvg-name="Hell's Kitchen (1080p)" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Hell's Kitchen (1080p)
+#EXTINF:-1 tvg-id="series_hell_s_kitchen_96" tvg-name="Hell's Kitchen (1080p)" tvg-logo="https://i.imgur.com/P9eT0O9.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Hell's Kitchen (1080p)
 https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
-#EXTINF:-1 tvg-id="series_highway_to_heaven_97" tvg-name="Highway to Heaven" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Highway to Heaven
+#EXTINF:-1 tvg-id="series_highway_to_heaven_97" tvg-name="Highway to Heaven" tvg-logo="https://i.imgur.com/e6pvibn.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Highway to Heaven
 https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
-#EXTINF:-1 tvg-id="series_home_made_nation_98" tvg-name="Home.Made.Nation (1080p)" tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Home.Made.Nation (1080p)
+#EXTINF:-1 tvg-id="series_home_made_nation_98" tvg-name="Home.Made.Nation (1080p)" tvg-logo="https://i.imgur.com/IdGNIoB.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Home.Made.Nation (1080p)
 https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="series_homes_under_the_hammer_99" tvg-name="Homes Under The Hammer (720p)" tvg-logo="https://i.imgur.com/P5Haaln.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Homes Under The Hammer (720p)
+#EXTINF:-1 tvg-id="series_homes_under_the_hammer_99" tvg-name="Homes Under The Hammer (720p)" tvg-logo="https://i.imgur.com/P5Haaln.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Homes Under The Hammer (720p)
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_homicide_hunter_100" tvg-name="Homicide Hunter" tvg-logo="https://i.imgur.com/ZSnATs0.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Homicide Hunter
+#EXTINF:-1 tvg-id="series_homicide_hunter_100" tvg-name="Homicide Hunter" tvg-logo="https://i.imgur.com/ZSnATs0.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Homicide Hunter
 https://jmp2.uk/plu-60e452730e76f20007598de8.m3u8
-#EXTINF:-1 tvg-id="series_hunter_101" tvg-name="Hunter" tvg-logo="https://i.imgur.com/ztksnJB.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Hunter
+#EXTINF:-1 tvg-id="series_hunter_101" tvg-name="Hunter" tvg-logo="https://i.imgur.com/ztksnJB.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Hunter
 https://jmp2.uk/plu-5c99f5810c95814ff92512f9.m3u8
-#EXTINF:-1 tvg-id="series_ice_pilots_102" tvg-name="Ice Pilots" tvg-logo="https://i.imgur.com/F8GBYq3.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Ice Pilots
+#EXTINF:-1 tvg-id="series_ice_pilots_102" tvg-name="Ice Pilots" tvg-logo="https://i.imgur.com/F8GBYq3.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Ice Pilots
 https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
-#EXTINF:-1 tvg-id="series_impossible_quiz_show_103" tvg-name="Impossible Quiz Show (1080p)" tvg-logo="https://i.imgur.com/9EWffqx.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Impossible Quiz Show (1080p)
+#EXTINF:-1 tvg-id="series_impossible_quiz_show_103" tvg-name="Impossible Quiz Show (1080p)" tvg-logo="https://i.imgur.com/9EWffqx.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Impossible Quiz Show (1080p)
 https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_inside_crime_104" tvg-name="Inside Crime (1080p)" tvg-logo="https://i.imgur.com/wvQYWsj.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Inside Crime (1080p)
+#EXTINF:-1 tvg-id="series_inside_crime_104" tvg-name="Inside Crime (1080p)" tvg-logo="https://i.imgur.com/wvQYWsj.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Inside Crime (1080p)
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_inspector_gadget_105" tvg-name="Inspector Gadget" tvg-logo="https://i.imgur.com/hguRs7X.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Inspector Gadget
+#EXTINF:-1 tvg-id="series_inspector_gadget_105" tvg-name="Inspector Gadget" tvg-logo="https://i.imgur.com/hguRs7X.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Inspector Gadget
 https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
-#EXTINF:-1 tvg-id="series_jersey_shore_106" tvg-name="Jersey Shore" tvg-logo="https://i.imgur.com/SssCaj1.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Jersey Shore
+#EXTINF:-1 tvg-id="series_jersey_shore_106" tvg-name="Jersey Shore" tvg-logo="https://i.imgur.com/SssCaj1.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
-#EXTINF:-1 tvg-id="series_judge_nosey_107" tvg-name="Judge Nosey (1080p)" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Judge Nosey (1080p)
+#EXTINF:-1 tvg-id="series_judge_nosey_107" tvg-name="Judge Nosey (1080p)" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Judge Nosey (1080p)
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="series_kenan_kel_108" tvg-name="Kenan & Kel" tvg-logo="https://i.imgur.com/h9dpcgN.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Kenan & Kel
+#EXTINF:-1 tvg-id="series_kenan_kel_108" tvg-name="Kenan & Kel" tvg-logo="https://i.imgur.com/h9dpcgN.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
-#EXTINF:-1 tvg-id="series_latina_clasicos_109" tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Latina Clasicos
+#EXTINF:-1 tvg-id="series_latina_clasicos_109" tvg-name="Latina Clasicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Latina Clasicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="series_love_hip_hop_110" tvg-name="Love & Hip Hop" tvg-logo="https://i.imgur.com/rhGyebf.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Love & Hip Hop
+#EXTINF:-1 tvg-id="series_love_hip_hop_110" tvg-name="Love & Hip Hop" tvg-logo="https://i.imgur.com/rhGyebf.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
-#EXTINF:-1 tvg-id="series_mbc_drama_usa_111" tvg-name="MBC Drama USA (1080p)" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MBC Drama USA (1080p)
+#EXTINF:-1 tvg-id="series_mbc_drama_usa_111" tvg-name="MBC Drama USA (1080p)" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MBC Drama USA (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
-#EXTINF:-1 tvg-id="series_mbc_masr_drama_112" tvg-name="MBC Masr Drama (1080p)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MBC Masr Drama (1080p)
+#EXTINF:-1 tvg-id="series_mbc_masr_drama_112" tvg-name="MBC Masr Drama (1080p)" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1 tvg-id="series_mst3k_113" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MST3K
+#EXTINF:-1 tvg-id="series_mst3k_113" tvg-name="MST3K" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MST3K
 https://jmp2.uk/plu-5ad8d44cfd87eb3a2717afc5.m3u8
-#EXTINF:-1 tvg-id="series_mst3k_114" tvg-name="MST3K (1080p)" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MST3K (1080p)
+#EXTINF:-1 tvg-id="series_mst3k_114" tvg-name="MST3K (1080p)" tvg-logo="https://i.imgur.com/2LSdcga.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MST3K (1080p)
 https://mst3k-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_mtv_catfish_tv_show_115" tvg-name="MTV Catfish TV Show (720p)" tvg-logo="https://i.imgur.com/tpLRnP2.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MTV Catfish TV Show (720p)
+#EXTINF:-1 tvg-id="series_mtv_catfish_tv_show_115" tvg-name="MTV Catfish TV Show (720p)" tvg-logo="https://i.imgur.com/tpLRnP2.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MTV Catfish TV Show (720p)
 https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-#EXTINF:-1 tvg-id="series_mtv_com_o_ex_116" tvg-name="MTV Com o Ex" tvg-logo="https://i.imgur.com/sWqnNPm.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MTV Com o Ex
+#EXTINF:-1 tvg-id="series_mtv_com_o_ex_116" tvg-name="MTV Com o Ex" tvg-logo="https://i.imgur.com/sWqnNPm.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MTV Com o Ex
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-#EXTINF:-1 tvg-id="series_mtv_dating_117" tvg-name="MTV Dating (720p)" tvg-logo="https://i.imgur.com/dD7WbQC.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MTV Dating (720p)
+#EXTINF:-1 tvg-id="series_mtv_dating_117" tvg-name="MTV Dating (720p)" tvg-logo="https://i.imgur.com/dD7WbQC.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MTV Dating (720p)
 https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
-#EXTINF:-1 tvg-id="series_mtv_teen_mom_118" tvg-name="MTV Teen Mom (720p)" tvg-logo="https://i.imgur.com/6EzdThG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MTV Teen Mom (720p)
+#EXTINF:-1 tvg-id="series_mtv_teen_mom_118" tvg-name="MTV Teen Mom (720p)" tvg-logo="https://i.imgur.com/6EzdThG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MTV Teen Mom (720p)
 https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-#EXTINF:-1 tvg-id="series_mtv_the_shores_119" tvg-name="MTV The Shores" tvg-logo="https://i.imgur.com/I2QM1Gd.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MTV The Shores
+#EXTINF:-1 tvg-id="series_mtv_the_shores_119" tvg-name="MTV The Shores" tvg-logo="https://i.imgur.com/I2QM1Gd.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MTV The Shores
 https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
-#EXTINF:-1 tvg-id="series_mv_mall_dd_120" tvg-name="MV Mall DD (1080p)" tvg-logo="https://i.imgur.com/ill1Ux6.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MV Mall DD (1080p)
+#EXTINF:-1 tvg-id="series_mv_mall_dd_120" tvg-name="MV Mall DD (1080p)" tvg-logo="https://i.imgur.com/ill1Ux6.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MV Mall DD (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-#EXTINF:-1 tvg-id="series_maraya_121" tvg-name="Maraya (1080p)" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Maraya (1080p)
+#EXTINF:-1 tvg-id="series_maraya_121" tvg-name="Maraya (1080p)" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Maraya (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
-#EXTINF:-1 tvg-id="series_masterchef_122" tvg-name="MasterChef" tvg-logo="https://i.imgur.com/lOuySbz.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",MasterChef
+#EXTINF:-1 tvg-id="series_masterchef_122" tvg-name="MasterChef" tvg-logo="https://i.imgur.com/lOuySbz.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
-#EXTINF:-1 tvg-id="series_matlock_123" tvg-name="Matlock" tvg-logo="https://i.imgur.com/BGFUQsu.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Matlock
+#EXTINF:-1 tvg-id="series_matlock_123" tvg-name="Matlock" tvg-logo="https://i.imgur.com/BGFUQsu.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Matlock
 https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
-#EXTINF:-1 tvg-id="series_mcleod_s_daughters_124" tvg-name="Mcleod's Daughters (1080p)" tvg-logo="https://i.imgur.com/q4BBDzw.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Mcleod's Daughters (1080p)
+#EXTINF:-1 tvg-id="series_mcleod_s_daughters_124" tvg-name="Mcleod's Daughters (1080p)" tvg-logo="https://i.imgur.com/q4BBDzw.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Mcleod's Daughters (1080p)
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="series_memorias_tv_series_125" tvg-name="Memorias TV Series (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ohCSMhY.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Memorias TV Series (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_memorias_tv_series_125" tvg-name="Memorias TV Series (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/ohCSMhY.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Memorias TV Series (720p) [Geo-blocked]
 https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
-#EXTINF:-1 tvg-id="series_midsomer_murders_126" tvg-name="Midsomer Murders (1080p)" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Midsomer Murders (1080p)
+#EXTINF:-1 tvg-id="series_midsomer_murders_126" tvg-name="Midsomer Murders (1080p)" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Midsomer Murders (1080p)
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_mireasa_127" tvg-name="Mireasa (720p)" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Mireasa (720p)
+#EXTINF:-1 tvg-id="series_mireasa_127" tvg-name="Mireasa (720p)" tvg-logo="https://i.imgur.com/k0VO0LH.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1 tvg-id="series_mission_impossible_128" tvg-name="Mission Impossible" tvg-logo="https://i.imgur.com/QS5lg0t.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Mission Impossible
+#EXTINF:-1 tvg-id="series_mission_impossible_128" tvg-name="Mission Impossible" tvg-logo="https://i.imgur.com/QS5lg0t.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Mission Impossible
 https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
-#EXTINF:-1 tvg-id="series_misterios_sin_resolver_129" tvg-name="Misterios sin resolver" tvg-logo="https://i.imgur.com/8mnvubb.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Misterios sin resolver
+#EXTINF:-1 tvg-id="series_misterios_sin_resolver_129" tvg-name="Misterios sin resolver" tvg-logo="https://i.imgur.com/8mnvubb.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Misterios sin resolver
 https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
-#EXTINF:-1 tvg-id="series_mythbusters_130" tvg-name="Mythbusters (1080p)" tvg-logo="https://i.imgur.com/wzzjvcH.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Mythbusters (1080p)
+#EXTINF:-1 tvg-id="series_mythbusters_130" tvg-name="Mythbusters (1080p)" tvg-logo="https://i.imgur.com/wzzjvcH.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Mythbusters (1080p)
 https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="series_nash_bridges_channel_131" tvg-name="Nash Bridges Channel (1080p) [Geo-blocked]" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Nash Bridges Channel (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_nash_bridges_channel_131" tvg-name="Nash Bridges Channel (1080p) [Geo-blocked]" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Nash Bridges Channel (1080p) [Geo-blocked]
 https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_nashville_132" tvg-name="Nashville" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Nashville
+#EXTINF:-1 tvg-id="series_nashville_132" tvg-name="Nashville" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
-#EXTINF:-1 tvg-id="series_nosey_133" tvg-name="Nosey (1080p)" tvg-logo="https://i.imgur.com/i5doCQK.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Nosey (1080p)
+#EXTINF:-1 tvg-id="series_nosey_133" tvg-name="Nosey (1080p)" tvg-logo="https://i.imgur.com/i5doCQK.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Nosey (1080p)
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_novela_channel_134" tvg-name="Novela Channel (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Novela Channel (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="series_novela_channel_134" tvg-name="Novela Channel (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/V3pfjfB/novela-channel-telepack.jpg" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Novela Channel (720p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1 tvg-id="series_novelisima_135" tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Novelisima
+#EXTINF:-1 tvg-id="series_novelisima_135" tvg-name="Novelisima" tvg-logo="https://i.imgur.com/8dUS3Ih.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="series_one_tv_drama_3_136" tvg-name="One TV Drama 3 (1080p)" tvg-logo="https://i.imgur.com/wHtqMqB.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",One TV Drama 3 (1080p)
+#EXTINF:-1 tvg-id="series_one_tv_drama_3_136" tvg-name="One TV Drama 3 (1080p)" tvg-logo="https://i.imgur.com/wHtqMqB.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",One TV Drama 3 (1080p)
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
-#EXTINF:-1 tvg-id="series_pbs_nature_137" tvg-name="PBS Nature (1080p)" tvg-logo="https://i.imgur.com/Brry7cZ.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",PBS Nature (1080p)
+#EXTINF:-1 tvg-id="series_pbs_nature_137" tvg-name="PBS Nature (1080p)" tvg-logo="https://i.imgur.com/Brry7cZ.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",PBS Nature (1080p)
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 tvg-id="series_perry_mason_138" tvg-name="Perry Mason" tvg-logo="https://i.imgur.com/rHUUAwW.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Perry Mason
+#EXTINF:-1 tvg-id="series_perry_mason_138" tvg-name="Perry Mason" tvg-logo="https://i.imgur.com/rHUUAwW.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Perry Mason
 https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
-#EXTINF:-1 tvg-id="series_persiana_series_139" tvg-name="Persiana Series" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Persiana Series
+#EXTINF:-1 tvg-id="series_persiana_series_139" tvg-name="Persiana Series" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_fantastic_140" tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/MCu7YTA.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV Fantastic
+#EXTINF:-1 tvg-id="series_pluto_tv_fantastic_140" tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/MCu7YTA.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV Fantastic
 https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_lives_141" tvg-name="Pluto TV Lives" tvg-logo="https://i.imgur.com/laupYwG.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV Lives
+#EXTINF:-1 tvg-id="series_pluto_tv_lives_141" tvg-name="Pluto TV Lives" tvg-logo="https://i.imgur.com/laupYwG.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV Lives
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_military_142" tvg-name="Pluto TV Military" tvg-logo="https://i.imgur.com/O8VXZB4.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV Military
+#EXTINF:-1 tvg-id="series_pluto_tv_military_142" tvg-name="Pluto TV Military" tvg-logo="https://i.imgur.com/O8VXZB4.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_novelas_143" tvg-name="Pluto TV Novelas" tvg-logo="https://i.imgur.com/R44LypS.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV Novelas
+#EXTINF:-1 tvg-id="series_pluto_tv_novelas_143" tvg-name="Pluto TV Novelas" tvg-logo="https://i.imgur.com/R44LypS.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV Novelas
 https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
-#EXTINF:-1 tvg-id="series_pluto_tv_sherlock_144" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Pluto TV Sherlock
+#EXTINF:-1 tvg-id="series_pluto_tv_sherlock_144" tvg-name="Pluto TV Sherlock" tvg-logo="https://i.imgur.com/SL3FNcm.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Pluto TV Sherlock
 https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
-#EXTINF:-1 tvg-id="series_polsat_seriale_145" tvg-name="Polsat Seriale (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Polsat Seriale (1080p)
+#EXTINF:-1 tvg-id="series_polsat_seriale_145" tvg-name="Polsat Seriale (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Polsat Seriale (1080p)
 http://78.130.250.2:8023/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="series_rtl_crime_hd_146" tvg-name="RTL Crime HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" tvg-language="pt" tvg-type="series" group-title="Series | Geral",RTL Crime HD (1080p)
+#EXTINF:-1 tvg-id="series_rtl_crime_hd_146" tvg-name="RTL Crime HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RTL_Crime_%28Netherlands%29_%282023%2C_stacked%29.svg" tvg-language="pt" tvg-type="series" group-title="Series - Geral",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
-#EXTINF:-1 tvg-id="series_rotana_drama_147" tvg-name="Rotana Drama (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Rotana Drama (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_rotana_drama_147" tvg-name="Rotana Drama (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Rotana Drama (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="series_roya_drama_148" tvg-name="Roya Drama (1080p)" tvg-logo="https://i.imgur.com/V7I0MVf.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Roya Drama (1080p)
+#EXTINF:-1 tvg-id="series_roya_drama_148" tvg-name="Roya Drama (1080p)" tvg-logo="https://i.imgur.com/V7I0MVf.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Roya Drama (1080p)
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 tvg-id="series_serie_max_149" tvg-name="Serie Max" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Serie Max
+#EXTINF:-1 tvg-id="series_serie_max_149" tvg-name="Serie Max" tvg-logo="https://i.imgur.com/GaRQXHT.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Serie Max
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
-#EXTINF:-1 tvg-id="series_sony_one_blacklist_150" tvg-name="Sony One Blacklist (1080p)" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Sony One Blacklist (1080p)
+#EXTINF:-1 tvg-id="series_sony_one_blacklist_150" tvg-name="Sony One Blacklist (1080p)" tvg-logo="https://i.imgur.com/uJC8rXr.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="series_sony_one_series_comedie_151" tvg-name="Sony One Series Comedie (1080p)" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Sony One Series Comedie (1080p)
+#EXTINF:-1 tvg-id="series_sony_one_series_comedie_151" tvg-name="Sony One Series Comedie (1080p)" tvg-logo="https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Sony One Series Comedie (1080p)
 https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="series_sony_one_series_thriller_152" tvg-name="Sony One Series Thriller (1080p)" tvg-logo="https://i.imgur.com/RVS8LDj.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Sony One Series Thriller (1080p)
+#EXTINF:-1 tvg-id="series_sony_one_series_thriller_152" tvg-name="Sony One Series Thriller (1080p)" tvg-logo="https://i.imgur.com/RVS8LDj.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Sony One Series Thriller (1080p)
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-id="series_star_trek_153" tvg-name="Star Trek" tvg-logo="https://i.imgur.com/8cvXYiT.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Star Trek
+#EXTINF:-1 tvg-id="series_star_trek_153" tvg-name="Star Trek" tvg-logo="https://i.imgur.com/8cvXYiT.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
-#EXTINF:-1 tvg-id="series_super_tv_154" tvg-name="Super TV (720p)" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Super TV (720p)
+#EXTINF:-1 tvg-id="series_super_tv_154" tvg-name="Super TV (720p)" tvg-logo="https://i.imgur.com/hxF3yhw.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_survivor_155" tvg-name="Survivor (1080p)" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Survivor (1080p)
+#EXTINF:-1 tvg-id="series_survivor_155" tvg-name="Survivor (1080p)" tvg-logo="https://i.imgur.com/Zz9SgY8.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Survivor (1080p)
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="series_tv_series_1_as_panteras_156" tvg-name="TV Series 1 As Panteras (480p)" tvg-logo="https://i.imgur.com/Ff5mj0o.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",TV Series 1 As Panteras (480p)
+#EXTINF:-1 tvg-id="series_tv_series_1_as_panteras_156" tvg-name="TV Series 1 As Panteras (480p)" tvg-logo="https://i.imgur.com/Ff5mj0o.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",TV Series 1 As Panteras (480p)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="series_tve_star_576p_157" tvg-name="TVE Star (576p)" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",TVE Star (576p)
+#EXTINF:-1 tvg-id="series_tve_star_576p_157" tvg-name="TVE Star (576p)" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",TVE Star (576p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
-#EXTINF:-1 tvg-id="series_tve_star_hd_158" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",TVE Star HD (1080p)
+#EXTINF:-1 tvg-id="series_tve_star_hd_158" tvg-name="TVE Star HD (1080p)" tvg-logo="https://i.ibb.co/j98NY8Mr/starcolor.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",TVE Star HD (1080p)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 tvg-id="series_tvi_fic_o_159" tvg-name="TVI Ficção (720p)" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",TVI Ficção (720p)
+#EXTINF:-1 tvg-id="series_tvi_fic_o_159" tvg-name="TVI Ficção (720p)" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",TVI Ficção (720p)
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="series_telemundo_telenovelas_cl_sicas_160" tvg-name="Telemundo telenovelas clásicas" tvg-logo="https://i.imgur.com/9bPcYIN.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Telemundo telenovelas clásicas
+#EXTINF:-1 tvg-id="series_telemundo_telenovelas_cl_sicas_160" tvg-name="Telemundo telenovelas clásicas" tvg-logo="https://i.imgur.com/9bPcYIN.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Telemundo telenovelas clásicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
-#EXTINF:-1 tvg-id="series_the_addams_family_161" tvg-name="The Addams Family" tvg-logo="https://i.imgur.com/Bl8X7EW.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Addams Family
+#EXTINF:-1 tvg-id="series_the_addams_family_161" tvg-name="The Addams Family" tvg-logo="https://i.imgur.com/Bl8X7EW.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-#EXTINF:-1 tvg-id="series_the_amazing_race_162" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Amazing Race
+#EXTINF:-1 tvg-id="series_the_amazing_race_162" tvg-name="The Amazing Race" tvg-logo="https://i.imgur.com/5yzPhRo.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Amazing Race
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
-#EXTINF:-1 tvg-id="series_the_asylum_163" tvg-name="The Asylum (1080p)" tvg-logo="https://i.imgur.com/dx9tt1B.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Asylum (1080p)
+#EXTINF:-1 tvg-id="series_the_asylum_163" tvg-name="The Asylum (1080p)" tvg-logo="https://i.imgur.com/dx9tt1B.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Asylum (1080p)
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
-#EXTINF:-1 tvg-id="series_the_bob_ross_channel_164" tvg-name="The Bob Ross Channel (1080p)" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Bob Ross Channel (1080p)
+#EXTINF:-1 tvg-id="series_the_bob_ross_channel_164" tvg-name="The Bob Ross Channel (1080p)" tvg-logo="https://i.imgur.com/gFHKCbZ.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Bob Ross Channel (1080p)
 https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="series_the_challenge_165" tvg-name="The Challenge" tvg-logo="https://i.imgur.com/MIXPSvC.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Challenge
+#EXTINF:-1 tvg-id="series_the_challenge_165" tvg-name="The Challenge" tvg-logo="https://i.imgur.com/MIXPSvC.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Challenge
 https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
-#EXTINF:-1 tvg-id="series_the_johnny_carson_show_166" tvg-name="The Johnny Carson Show (720p)" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Johnny Carson Show (720p)
+#EXTINF:-1 tvg-id="series_the_johnny_carson_show_166" tvg-name="The Johnny Carson Show (720p)" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Johnny Carson Show (720p)
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
-#EXTINF:-1 tvg-id="series_the_judge_judy_channel_167" tvg-name="The Judge Judy Channel (720p)" tvg-logo="https://i.imgur.com/RhD7gIW.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Judge Judy Channel (720p)
+#EXTINF:-1 tvg-id="series_the_judge_judy_channel_167" tvg-name="The Judge Judy Channel (720p)" tvg-logo="https://i.imgur.com/RhD7gIW.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Judge Judy Channel (720p)
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
-#EXTINF:-1 tvg-id="series_the_rifleman_168" tvg-name="The Rifleman" tvg-logo="https://i.imgur.com/60YejJs.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Rifleman
+#EXTINF:-1 tvg-id="series_the_rifleman_168" tvg-name="The Rifleman" tvg-logo="https://i.imgur.com/60YejJs.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
-#EXTINF:-1 tvg-id="series_the_walking_dead_universe_169" tvg-name="The Walking Dead Universe (720p)" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",The Walking Dead Universe (720p)
+#EXTINF:-1 tvg-id="series_the_walking_dead_universe_169" tvg-name="The Walking Dead Universe (720p)" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",The Walking Dead Universe (720p)
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
-#EXTINF:-1 tvg-id="series_this_old_house_170" tvg-name="This Old House (1080p)" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",This Old House (1080p)
+#EXTINF:-1 tvg-id="series_this_old_house_170" tvg-name="This Old House (1080p)" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",This Old House (1080p)
 https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_three_s_company_171" tvg-name="Three's Company" tvg-logo="https://i.imgur.com/5bTwwpD.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Three's Company
+#EXTINF:-1 tvg-id="series_three_s_company_171" tvg-name="Three's Company" tvg-logo="https://i.imgur.com/5bTwwpD.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
-#EXTINF:-1 tvg-id="series_tiny_house_nation_172" tvg-name="Tiny House Nation (1080p)" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Tiny House Nation (1080p)
+#EXTINF:-1 tvg-id="series_tiny_house_nation_172" tvg-name="Tiny House Nation (1080p)" tvg-logo="https://i.imgur.com/ai1P06C.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Tiny House Nation (1080p)
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="series_top_crime_173" tvg-name="Top Crime [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Top Crime [Geo-blocked]
+#EXTINF:-1 tvg-id="series_top_crime_173" tvg-name="Top Crime [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1 tvg-id="series_true_crime_network_174" tvg-name="True Crime Network+ (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",True Crime Network+ (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="series_true_crime_network_174" tvg-name="True Crime Network+ (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/True_Crime_Network_logo.svg/960px-True_Crime_Network_logo.svg.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",True Crime Network+ (1080p) [Geo-blocked]
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="series_true_crime_uk_175" tvg-name="True Crime UK (1080p)" tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",True Crime UK (1080p)
+#EXTINF:-1 tvg-id="series_true_crime_uk_175" tvg-name="True Crime UK (1080p)" tvg-logo="https://i.imgur.com/LK2NFst.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",True Crime UK (1080p)
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="series_universal_crime_176" tvg-name="Universal Crime (1080p)" tvg-logo="https://i.imgur.com/OwSlGMu.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Universal Crime (1080p)
+#EXTINF:-1 tvg-id="series_universal_crime_176" tvg-name="Universal Crime (1080p)" tvg-logo="https://i.imgur.com/OwSlGMu.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Universal Crime (1080p)
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="series_unsolved_mysteries_177" tvg-name="Unsolved Mysteries" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Unsolved Mysteries
+#EXTINF:-1 tvg-id="series_unsolved_mysteries_177" tvg-name="Unsolved Mysteries" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Unsolved Mysteries
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
-#EXTINF:-1 tvg-id="series_unsolved_mysteries_178" tvg-name="Unsolved Mysteries (720p)" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Unsolved Mysteries (720p)
+#EXTINF:-1 tvg-id="series_unsolved_mysteries_178" tvg-name="Unsolved Mysteries (720p)" tvg-logo="https://i.imgur.com/De3khrX.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Unsolved Mysteries (720p)
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="series_weeds_nurse_jackie_179" tvg-name="Weeds / Nurse Jackie (720p)" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Weeds / Nurse Jackie (720p)
+#EXTINF:-1 tvg-id="series_weeds_nurse_jackie_179" tvg-name="Weeds / Nurse Jackie (720p)" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Weeds / Nurse Jackie (720p)
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
-#EXTINF:-1 tvg-id="series_wild_n_out_180" tvg-name="Wild 'N Out" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Wild 'N Out
+#EXTINF:-1 tvg-id="series_wild_n_out_180" tvg-name="Wild 'N Out" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
-#EXTINF:-1 tvg-id="series_wild_at_heart_181" tvg-name="Wild at Heart" tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Wild at Heart
+#EXTINF:-1 tvg-id="series_wild_at_heart_181" tvg-name="Wild at Heart" tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
-#EXTINF:-1 tvg-id="series_xptv_us_182" tvg-name="XPTV US (720p)" tvg-logo="https://i.imgur.com/1m7kDmc.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",XPTV US (720p)
+#EXTINF:-1 tvg-id="series_xptv_us_182" tvg-name="XPTV US (720p)" tvg-logo="https://i.imgur.com/1m7kDmc.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1 tvg-id="series_zee_cafe_hd_183" tvg-name="Zee Cafe HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Zee Cafe HD (1080p)
+#EXTINF:-1 tvg-id="series_zee_cafe_hd_183" tvg-name="Zee Cafe HD (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Zee Cafe HD (1080p)
 http://103.229.254.25:7001/play/a0cx/index.m3u8
-#EXTINF:-1 tvg-id="series_zylo_fr_quence_novelas_184" tvg-name="Zylo Fréquence Novelas (1080p)" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Zylo Fréquence Novelas (1080p)
+#EXTINF:-1 tvg-id="series_zylo_fr_quence_novelas_184" tvg-name="Zylo Fréquence Novelas (1080p)" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Zylo Fréquence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="series_zylo_todo_novelas_185" tvg-name="Zylo Todo Novelas (1080p)" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Zylo Todo Novelas (1080p)
+#EXTINF:-1 tvg-id="series_zylo_todo_novelas_185" tvg-name="Zylo Todo Novelas (1080p)" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Zylo Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
-#EXTINF:-1 tvg-id="series_icarly_186" tvg-name="iCarly" tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",iCarly
+#EXTINF:-1 tvg-id="series_icarly_186" tvg-name="iCarly" tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-#EXTINF:-1 tvg-id="series_icarly_tv_187" tvg-name="iCarly TV" tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",iCarly TV
+#EXTINF:-1 tvg-id="series_icarly_tv_187" tvg-name="iCarly TV" tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",iCarly TV
 https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
-#EXTINF:-1 tvg-id="series_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_series_ghost_dimension_188" tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',Ghost Dimension (1080p)" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',Ghost Dimension (1080p)
+#EXTINF:-1 tvg-id="series_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_series_ghost_dimension_188" tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',Ghost Dimension (1080p)" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',Ghost Dimension (1080p)
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
-#EXTINF:-1 tvg-id="series_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_series_pnc_drama_189" tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',PNC Drama (1080p)" tvg-logo="https://i.imgur.com/Hg34mg3.png" tvg-language="pt" tvg-type="series" group-title="Series | Geral",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',PNC Drama (1080p)
+#EXTINF:-1 tvg-id="series_like_gecko_chrome_145_0_0_0_safari_537_36_edg_145_0_0_0_group_title_series_pnc_drama_189" tvg-name="like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',PNC Drama (1080p)" tvg-logo="https://i.imgur.com/Hg34mg3.png" tvg-language="pt" tvg-type="series" group-title="Series - Geral",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' group-title='Series',PNC Drama (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S
-#EXTINF:-1 tvg-id="series_afra_series_190" tvg-name="Afra Series" tvg-logo="" tvg-language="pt" tvg-type="series" group-title="Series | Geral",Afra Series
+#EXTINF:-1 tvg-id="series_afra_series_190" tvg-name="Afra Series" tvg-logo="" tvg-language="pt" tvg-type="series" group-title="Series - Geral",Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="series_hentai_test_191" tvg-name="Hentai Test" tvg-logo="https://logo.com/hentai.png" tvg-language="pt" tvg-type="series" group-title="Series | Adultos | Hentai",Hentai Test
+#EXTINF:-1 tvg-id="series_hentai_test_191" tvg-name="Hentai Test" tvg-logo="https://logo.com/hentai.png" tvg-language="pt" tvg-type="series" group-title="Series - Adultos",Hentai Test
 https://exemplo.com/hentai.m3u8

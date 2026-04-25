@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canais_cnn_1" tvg-name="CNN" tvg-logo="https://logo.com/cnn.png" tvg-language="pt" tvg-type="live" group-title="Canais | Noticias",CNN
+#EXTINF:-1 tvg-id="canais_cnn_1" tvg-name="CNN" tvg-logo="https://logo.com/cnn.png" tvg-language="pt" tvg-type="live" group-title="Canais - Noticias",CNN
 https://exemplo.com/cnn.m3u8
