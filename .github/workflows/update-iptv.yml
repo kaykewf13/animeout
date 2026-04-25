@@ -23,23 +23,24 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Import external sources
-        run: python Code/
-      - name: Import IPTV-org
+        run: python Code/run: python Code/import_external_m3u_sources.py
+
+      -  name: Import IPTV-org
         run: python Code/import_iptv_org_vod.py
 
-      - name: Run pipeline
+      -  name: Run pipeline
         run: python Code/pipeline_iptv.py
 
-      - name: Commit update
-        run: |
+      -  name: Commit update
+         run: |
           git config user.name "iptv-bot"
           git config user.email "iptv-bot@users.noreply.github.com"
 
-          git add .
+           git add .
 
-          if git diff --cached --quiet; then
+            if git diff --cached --quiet; then
             echo "No changes"
-          else
+            else
             git commit -m "auto update"
             git push
-          fi
+            fi
