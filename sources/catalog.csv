@@ -1,11 +1,4 @@
-grupo,categoria,titulo,url
-# grupos aceitos: Canais, Filmes, Series
-# categoria: subgrupo visual dentro do grupo, exemplo: Fantasia, Acao, Comedia, Shounen, Live Anime
-# titulo: nome da obra/canal
-# url: página, stream ou arquivo direto
-# exemplo canal:
-# Canais,Anime 24h,Anime TV,https://exemplo.com/live.m3u8
-# exemplo série:
-# Series,Fantasia,Aparida,https://animeout.xyz/pagina-da-serie
-# exemplo filme:
-# Filmes,Acao,Filme Exemplo,https://animeout.xyz/pagina-do-filme
+titulo,grupo,categoria,stream_url,logo
+Naruto,Series,Anime,https://exemplo.com/naruto.m3u8,https://logo.com/naruto.png
+Hentai Test,Series,Hentai,https://exemplo.com/hentai.m3u8,https://logo.com/hentai.png
+CNN,Canais,Noticias,https://exemplo.com/cnn.m3u8,https://logo.com/cnn.png
