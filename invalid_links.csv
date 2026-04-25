@@ -1,29 +1,181 @@
 grupo,categoria,titulo,stream_url,fonte,source_file,motivo
-Filmes,Geral,&xplor HD (720p),https://mini.allinonereborn.fun/tata.php?id=11619,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",Cinema (1080p)",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Cinema One (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,CineMo (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Film4 (1080p),http://80.194.62.172:50002/stream/channelid/1764271106,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,FX Movie Channel (720p) [Not 24/7],https://tvpass.org/live/FXMovieChannel/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Hallmark Movies & Mysteries East (1080p) [Not 24/7],https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,IFC East (720p) [Not 24/7],https://tvpass.org/live/IFCEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Kino Barrandov (720p),http://83.167.253.107/hdmi1_ext,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Lifetime Movies East (720p) [Not 24/7],https://tvpass.org/live/LifetimeMoviesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",MovieBox (1080p)",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Series,Hentai,Hentai Test,https://exemplo.com/hentai.m3u8,sources/catalog.csv,sources/catalog.csv,titulo_invalido_ou_teste
+Canais,Filmes,30A TV Classic Movies,https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,&,http://103.229.254.25:7001/play/a034/index.m3u8,iptv-org,sources/iptv_org_vod.csv,titulo_invalido_ou_teste
+Filmes,Geral,&xplor,https://mini.allinonereborn.fun/tata.php?id=11619,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Series,@,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,titulo_invalido_ou_teste
+Canais,Filmes,Adrenalina Pura TV,https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Alankar TV,https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Alfa Dramas (226p),https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Cultura | Documentário | Entretenimento,Alterna TV,https://tv.alterna.ar/stream/hls/live.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,B4U Kadak,https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Boreal,https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Bravo Farsi TV ( ),https://bravoohls.wns.live/hls/stream.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Cinecanal South,http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-62.playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,"Like Gecko) Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',Cinema",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Geral,Cinema One,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Geral,CineMo,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,Classic Cinema (240p),https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Classic Movies Channel,https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Classique TV ( ),https://stmv1.srvif.com/classique/classique/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes | Series,Ebony TV By Lionsgate,https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,Film4,http://80.194.62.172:50002/stream/channelid/1764271106,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,FX Movie Channel,https://tvpass.org/live/FXMovieChannel/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,GEM TV,https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,GEM TV Plus,https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Ghost TV (712p),https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Groovy TV ( ),http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Hallmark Movies & Mysteries East,https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Hero,https://live-fi.tvkaista.net/hero/live.m3u8?hd=true,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,IFC East,https://tvpass.org/live/IFCEast/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes | Notícias,Indywood TV,https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Itage TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Jiangxi Movie Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Infantil | Filmes,KidsFlix,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,Kino Barrandov,http://83.167.253.107/hdmi1_ext,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,Klasik TV (576p),https://178.253.194.105/klasiktv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Komsan TV,http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Lifetime Movies East,https://tvpass.org/live/LifetimeMoviesEast/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Maah TV,https://hls.maahtv.live/hls/stream.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Mega Cine TV,https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Memorias TV Film,https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Meta Film TV,https://metafilmhls.wns.live/hls/stream.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,"Like Gecko) Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',MovieBox",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
 Filmes,Geral,MovieSmart Turk (576p),http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Rai Movie (576p) [Geo-blocked],https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,One TV Cinema 2,http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes | Música,Orbita Chile TV,https://orbitachiletv.org/hls/0/stream.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes | Series,Pantalla Clasica EC (512p),https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Paramount Movie Channel,https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Action,https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Action,https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Classicos,https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Drama,https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Familia,https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Romance,https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Sucessos,https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cine Terror,https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Crime Drama,https://jmp2.uk/plu-65a6a7a00c7ff50008cba07b.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Crime Movies,https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cult Films,https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Cult Films,https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Drama,https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Drama,https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Ficcao Cientifica,https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Filmes Acao,https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Filmes Nacionais,https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Horror,https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Kultfilme,https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Movies,https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Movies,https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Reaction,https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Romance,https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Spotlight,https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Staff Picks,https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Terror,https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Thriller,https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Thrillers,https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Thrillers,https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Westerns,https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Pluto TV Westerns,https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Polsat Film,http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/6086/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,Rai Movie (576p),https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,Rakuten TV Action Movies Austria,https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Action Movies Finland,https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Action Movies Germany,https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Action Movies Italy,https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Action Movies Spain,https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Action Movies UK,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies Austria,https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies Finland,https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies Germany,https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies Italy,https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies Spain,https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Comedy Movies UK,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies Austria,https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies Finland,https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies Germany,https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies Italy,https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies Spain,https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Drama Movies UK,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies Austria,https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies Finland,https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies Germany,https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies Italy,https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies Spain,https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Movies UK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Família | Filmes,Rakuten TV Family Switzerland,https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Nordic Films,https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Top Movies Finland,https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Top Movies Germany,https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Top Movies Italy,https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Rakuten TV Top Movies Spain,https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Shubh Cinema TV,https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Sony Canal Novelas,https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes | Series,Star Channel Latin America South,http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
 Filmes,Geral,Star Gold 2 (576p),http://103.253.18.58:8000/play/a00r,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
 Filmes,Geral,Star Gold Romance (576p),http://103.253.18.58:8000/play/a017,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
 Filmes,Geral,Star Gold Thrills (576p),http://103.253.18.58:8000/play/a00o,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
 Filmes,Geral,Star Utsav Movies (576p),http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Geral,Universal Cinema (480p),http://190.2.212.209:8050/play/a0q3,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Comédia | Series,Universal Comedy (480p),http://190.2.212.209:8050/play/a0q4,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Filmes,Comédia | Series | Esportes,USA Network East (1080p) [Not 24/7],https://tvpass.org/live/USANetworkEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Filmes,Suriyan TV (576p),https://stream.sscloud7.com/live/suriyantv/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Thalaa TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Tolly TV,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,TVCARiB Cinema,https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Filmes,Geral,Universal Cinema,http://190.2.212.209:8050/play/a0q3,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Filmes,Comédia | Series,Universal Comedy,http://190.2.212.209:8050/play/a0q4,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Comédia | Filmes | Series,USA Network East,https://tvpass.org/live/USANetworkEast/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Victor Valley Movies,https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Viju TV1000 Русское,http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Wildside TV,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Детское Кино International,https://autopilot.catcast.tv/content/38720/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Кино 1 International,http://kino-1.catcast.tv/content/38617/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноАзия,https://cityeden.catcast.tv/content/34393/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноАрт,https://cityeden.catcast.tv/content/38398/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноДетектив,https://cityeden.catcast.tv/content/41327/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноДрама,https://cityeden.catcast.tv/content/45269/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноКлассика,https://cityeden.catcast.tv/content/34185/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноКомедия,https://cityeden.catcast.tv/content/41331/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноМистика,https://cityeden.catcast.tv/content/40783/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноСемья,https://v2.catcast.tv/content/38128/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноФантастика,https://cityeden.catcast.tv/content/45268/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Filmes,Сити Эдем КиноЭкшен,https://cityeden.catcast.tv/content/41333/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
 Filmes,Clássicos,Смотрим 100% Классика,https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Series,Geral,Dlife (1080p),https://43.100.9.67/api/streams/live/cs312/1080p/mpegts,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Series,Geral,Hallmark Drama (720p) [Not 24/7],https://tvpass.org/live/HallmarkDrama/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Series,Entretenimento | Geral,HTV3 (720p),https://vc.101vn.com/htv/htvcmb.php?id=2535,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Series,All Reality WE Tv,https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,All Weddings We TV,https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Comédia | Series,Anger Management Channel,https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Dark Matter TV,https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Series,Geral,Dlife,https://43.100.9.67/api/streams/live/cs312/1080p/mpegts,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Series,Donna TV,https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Hallmark Drama,https://tvpass.org/live/HallmarkDrama/hd,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Haunt TV,https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Series,Entretenimento | Geral,HTV3,https://vc.101vn.com/htv/htvcmb.php?id=2535,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Series,ICarly TV,https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Memorias TV Series,https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,MTV Catfish TV Show,https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Nash Bridges Channel,https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Novela Channel,https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,One TV Drama 3,http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV Fantastic,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV Lives,https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV Military,https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV Novelas,https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV Sherlock,https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV True Crime,https://jmp2.uk/plu-615333098185f00008715a56.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Pluto TV True Crime,https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Geral | Series,Super TV,http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,The Bob Ross Channel,https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Comédia | Series,The Chat Show Channel,https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,The Judge Judy Channel,https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
 Series,Geral,U&Alibi (576p),http://92.114.85.72:8000/play/a0bi,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
-Series,Geral,Univision Tlnovelas [Not 24/7],https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+Canais,Series,Univision Tlnovelas,https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Entretenimento | Series,Zee Alwan (576p),https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Documentário | Series,Сити Эдем КиноДок,https://cityeden.catcast.tv/content/38354/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
+Canais,Series,Сити Эдем ТелеНовелла,https://cityeden.catcast.tv/content/46209/index.m3u8,iptv-org,sources/iptv_org_vod.csv,vod_nao_pode_ser_canal
 Series,Geral,Смотрим 100% Любовь,https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
 Series,Geral,Смотрим 100% Мужское,https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
