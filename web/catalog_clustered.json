@@ -9822,8 +9822,8 @@
     "category": "Anime",
     "groupTitle": "Series | Anime",
     "logo": "https://logo.com/naruto.png",
-    "description": "Twelve years ago, a colossal demon fox terrorized the world. During the monster's attack on the Hidden Leaf Village, the Hokage—the village's leader and most powerful ninja—sacrifices himself to seal the beast inside a newborn, relieving civilization from destruction while dooming the baby to a lonely life.\n\nNow, after years of being shunned and bullied, Naruto Uzumaki pesters the village with elaborate pranks and vandalism. Despite these antics, he works hard to achieve his dream: to become the Hokage and earn the acknowledgement of those who have mistreated him for his entire life. Naruto joins Team 7, a ninja squad made up of two of his peers—prodigy Sasuke Uchiha and clever Sakura Haruno.\n\nUnder the aloof Kakashi Hatake's leadership, Team 7 takes on a series of difficult missions, forcing its members to grow in strength and comradery despite their many differences. Naruto strives to stand out in his rivalry with Sasuke and earn the romantic affection of Sakura. But as the trio brush against danger and death, their tragic pasts threaten to tear them apart.\n\n[Written by MAL Rewrite]",
-    "rating": 8.02,
+    "description": "",
+    "rating": "",
     "isAnime": true,
     "isAdult": false,
     "score": 69,
@@ -9842,9 +9842,7 @@
     "episodeCount": 1,
     "url": "https://exemplo.com/naruto.m3u8",
     "source": "sources/catalog.csv",
-    "subtitle": "",
-    "metadataTitle": "Naruto",
-    "metadataId": 20
+    "subtitle": ""
   },
   {
     "title": "Himouto! Umaru-chan 2nd Season",
@@ -9852,8 +9850,8 @@
     "category": "Anime | Himouto! Umaru-chan 2nd Season | 12 eps",
     "groupTitle": "Series | Anime | Himouto! Umaru-chan 2nd Season | 12 eps",
     "logo": "https://api.animeiat.co/storage/thumbnails/28336/tvIv9tFc0vwI57kg85.jpg",
-    "description": "Umaru Doma is a model student who has a hidden side: when she gets home each day, she puts on her hamster hoodie and turns into a sluggish otaku fond of junk food. As Umaru continues these daily antics, the friendship between her and her classmates—Nana Ebina, Kirie Motoba, and Sylphinford Tachibana—deepens, and more and more interesting events begin to unfold.\n\nOf course, these events give rise to numerous questions. What did Nana ask of Umaru's brother Taihei? Who is the mysterious girl with the diamond hairpin? And most important of all: why does this girl seem to know Umaru? These questions and more will be answered in Himouto! Umaru-chan R!\n\n[Written by MAL Rewrite]",
-    "rating": 7.32,
+    "description": "",
+    "rating": "",
     "isAnime": true,
     "isAdult": false,
     "score": 39,
@@ -9971,9 +9969,7 @@
     "episodeCount": 12,
     "url": "https://cdn.animeiat.tv/files/28336/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_2nd_Season_-_EP01%5B720p%5D.mp4",
     "source": "external-anime",
-    "subtitle": "",
-    "metadataTitle": "Himouto! Umaru-chan R",
-    "metadataId": 35376
+    "subtitle": ""
   },
   {
     "title": "Himouto! Umaru-chan",
@@ -9981,8 +9977,8 @@
     "category": "Anime | Himouto! Umaru-chan | 12 eps",
     "groupTitle": "Series | Anime | Himouto! Umaru-chan | 12 eps",
     "logo": "https://api.animeiat.co/storage/thumbnails/28323/frZ8L2JimRc0AF1v85.jpg",
-    "description": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!\n\nHimouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.\n\n[Written by MAL Rewrite]",
-    "rating": 7.1,
+    "description": "",
+    "rating": "",
     "isAnime": true,
     "isAdult": false,
     "score": 39,
@@ -10100,9 +10096,7 @@
     "episodeCount": 12,
     "url": "https://cdn.animeiat.tv/files/28323/%5BAnimeiat.co%5DHimouto%21_Umaru-chan_-_EP01%5B720p%5D.mp4",
     "source": "external-anime",
-    "subtitle": "",
-    "metadataTitle": "Himouto! Umaru-chan",
-    "metadataId": 28825
+    "subtitle": ""
   },
   {
     "title": "Choppertown",
@@ -14578,8 +14572,8 @@
     "category": "Hentai",
     "groupTitle": "Series | Adultos | Hentai",
     "logo": "https://logo.com/hentai.png",
-    "description": "A group of alien girls from planet Blade Star come to earth after their home planet got destroyed. They all have powerful Super-Lake Crystals that allow them to transform into superheroines. led by Blade Knight, they must fight Oleana, an evil space dominatrix, their toughest enemy.\n\n(Source: ANN)",
-    "rating": 4.98,
+    "description": "",
+    "rating": "",
     "isAnime": true,
     "isAdult": true,
     "score": 69,
@@ -14598,8 +14592,6 @@
     "episodeCount": 1,
     "url": "https://exemplo.com/hentai.m3u8",
     "source": "sources/catalog.csv",
-    "subtitle": "",
-    "metadataTitle": "Sei Shoujo Sentai Lakers EX",
-    "metadataId": 3890
+    "subtitle": ""
   }
 ]
