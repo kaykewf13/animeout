@@ -4,116 +4,277 @@ const FALLBACK_URL = 'https://raw.githubusercontent.com/kaykewf13/animeout/main/
 const state = {
   items: [],
   filtered: [],
+  group: 'Todos',
+  q: '',
+  category: 'Todos',
+  pendingAdult: null,
 };
 
-function showSkeleton() {
-  const grid = document.getElementById('catalogGrid');
-  grid.innerHTML = '';
+function $(id){ return document.getElementById(id); }
 
-  for (let i = 0; i < 12; i++) {
+function byScore(items){
+  return [...items].sort((a,b)=>(b.score || 0) - (a.score || 0));
+}
+
+function escapeHtml(value){
+  return String(value || '').replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+}
+
+function showSkeleton(){
+  const grid = $('catalogGrid');
+  if(!grid) return;
+  grid.innerHTML = '';
+  for(let i=0;i<12;i++){
     const el = document.createElement('div');
     el.className = 'card';
-    el.innerHTML = `
-      <div class="poster"></div>
-      <div class="title">Carregando...</div>
-    `;
+    el.innerHTML = '<div class="poster"></div><div class="meta">Carregando...</div><div class="title">Preparando catálogo</div>';
     grid.appendChild(el);
   }
 }
 
-async function fetchCatalog() {
-  try {
-    const res = await fetch(DATA_URL, { cache: 'no-store' });
+async function fetchCatalog(){
+  try{
+    const res = await fetch(`${DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
+    if(!res.ok) throw new Error('catalog local indisponível');
     const data = await res.json();
-
-    if (!data || data.length === 0) throw new Error('vazio');
-
+    if(!Array.isArray(data) || data.length === 0) throw new Error('catalog local vazio');
     return data;
-  } catch (e) {
-    console.log('Fallback ativado');
-    const res = await fetch(FALLBACK_URL);
-    return await res.json();
+  }catch(e){
+    const res = await fetch(`${FALLBACK_URL}?v=${Date.now()}`, { cache: 'no-store' });
+    if(!res.ok) throw new Error('fallback indisponível');
+    const data = await res.json();
+    if(!Array.isArray(data)) throw new Error('fallback inválido');
+    return data;
   }
 }
 
-async function load() {
+async function load(){
   showSkeleton();
-
-  try {
+  try{
     const data = await fetchCatalog();
+    state.items = byScore(data);
 
-    if (!data || data.length === 0) {
-      showError('⚠️ Catálogo vazio (pipeline ainda rodando)');
+    if(state.items.length === 0){
+      showEmpty('Catálogo vazio. Rode a Action para gerar web/catalog.json.');
       return;
     }
 
-    state.items = data.sort((a, b) => (b.score || 0) - (a.score || 0));
-
-    render();
-    renderHero();
-
-  } catch (e) {
-    showError('❌ Erro ao carregar catálogo');
+    buildCategories();
+    renderStats();
+    renderFeatured();
+    renderRails();
+    applyFilters();
+    setHero(state.items[0]);
+  }catch(e){
+    showEmpty('Erro ao carregar catálogo. Aguarde o GitHub Pages atualizar e tente ?v=novo.');
   }
 }
 
-function showError(msg) {
-  document.getElementById('catalogGrid').innerHTML = `<p>${msg}</p>`;
+function showEmpty(message){
+  $('catalogGrid').innerHTML = `<p>${escapeHtml(message)}</p>`;
+  ['featuredBadge','animeBadge','adultBadge','countBadge'].forEach(id => { if($(id)) $(id).textContent = '0 itens'; });
 }
 
-function render() {
-  const grid = document.getElementById('catalogGrid');
-  grid.innerHTML = '';
-
-  state.items.forEach(item => {
-    grid.appendChild(createCard(item));
+function buildCategories(){
+  const select = $('categorySelect');
+  if(!select) return;
+  const current = select.value || 'Todos';
+  select.innerHTML = '<option value="Todos">Todas as categorias</option>';
+  const cats = [...new Set(state.items.map(i=>i.category).filter(Boolean))].sort();
+  cats.forEach(c=>{
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = c;
+    select.appendChild(opt);
   });
+  select.value = current;
 }
 
-function renderHero() {
-  const item = state.items[0];
-  if (!item) return;
+function renderStats(){
+  const stats = $('stats');
+  if(!stats) return;
+  const total = state.items.length;
+  const canais = state.items.filter(i=>i.group === 'Canais').length;
+  const series = state.items.filter(i=>i.group === 'Series').length;
+  const filmes = state.items.filter(i=>i.group === 'Filmes').length;
+  const anime = state.items.filter(i=>i.isAnime).length;
+  stats.innerHTML = `
+    <div class="stat"><b>${total}</b><span>Total</span></div>
+    <div class="stat"><b>${canais}</b><span>Canais</span></div>
+    <div class="stat"><b>${series}</b><span>Séries</span></div>
+    <div class="stat"><b>${filmes}</b><span>Filmes</span></div>
+    <div class="stat"><b>${anime}</b><span>Animes</span></div>
+  `;
+}
 
-  document.getElementById('heroTitle').innerText = item.title;
-  document.getElementById('heroSubtitle').innerText = item.description || '';
-
-  const hero = document.getElementById('hero');
-  if (item.logo) {
-    hero.style.backgroundImage = `
-      linear-gradient(90deg, rgba(0,0,0,.9), rgba(0,0,0,.6)),
-      url('${item.logo}')
-    `;
+function setHero(item){
+  if(!item) return;
+  $('heroTitle').textContent = item.title || 'AnimeOut Premium';
+  $('heroGroup').textContent = item.groupTitle || item.group || 'Streaming IPTV';
+  $('heroSubtitle').textContent = item.description || 'Catálogo atualizado automaticamente com listas M3U e experiência web premium.';
+  const hero = $('hero');
+  if(item.logo){
+    hero.style.backgroundImage = `linear-gradient(90deg, rgba(11,12,16,.96), rgba(11,12,16,.72), rgba(11,12,16,.96)), url('${item.logo}')`;
   }
-
-  document.getElementById('heroPlay').onclick = () => play(item);
+  const btn = $('heroPlay');
+  if(btn) btn.onclick = () => handlePlay(item);
 }
 
-function createCard(item) {
+function renderFeatured(){
+  const items = byScore(state.items).slice(0,20);
+  renderRail('featuredRail', items);
+  if($('featuredBadge')) $('featuredBadge').textContent = `${items.length} itens`;
+}
+
+function renderRails(){
+  const anime = byScore(state.items.filter(i=>i.isAnime));
+  const adult = byScore(state.items.filter(i=>i.isAdult));
+  renderRail('animeRail', anime.slice(0,30));
+  renderRail('adultRail', adult.slice(0,30));
+  if($('animeBadge')) $('animeBadge').textContent = `${anime.length} itens`;
+  if($('adultBadge')) $('adultBadge').textContent = `${adult.length} itens`;
+}
+
+function renderRail(id, items){
+  const rail = $(id);
+  if(!rail) return;
+  rail.innerHTML = '';
+  items.forEach(item => rail.appendChild(card(item)));
+}
+
+function card(item){
   const el = document.createElement('div');
   el.className = 'card';
+  const img = item.logo || '';
+  const rating = item.rating ? `⭐ ${item.rating}` : '';
+  const score = item.score ? `Q${item.score}` : '';
+  const adult = item.isAdult ? '<span class="badge adultBadge">18+</span>' : '';
+  const anime = item.isAnime ? '<span class="badge">Anime</span>' : '';
 
   el.innerHTML = `
-    <div class="poster" style="background-image:url('${item.logo || ''}')"></div>
-    <div class="title">${item.title}</div>
+    <div class="poster" style="background-image:${img ? `url('${img}')` : 'none'}">
+      ${!img ? `<span class="posterFallback">${escapeHtml(item.title || 'AO').slice(0,2)}</span>` : ''}
+      <div class="badges">${anime}${adult}</div>
+    </div>
+    <div class="meta">${escapeHtml(item.groupTitle || item.category || '')}</div>
+    <div class="title">${escapeHtml(item.title || 'Sem título')}</div>
+    <div class="rating"><span>${rating}</span><span>${score}</span></div>
   `;
-
-  el.onclick = () => play(item);
-
+  el.onclick = () => handlePlay(item);
   return el;
 }
 
-function play(item) {
-  const video = document.getElementById('videoPlayer');
-
-  if (window.Hls && item.url.includes('.m3u8')) {
-    const hls = new Hls();
-    hls.loadSource(item.url);
-    hls.attachMedia(video);
-  } else {
-    video.src = item.url;
+function handlePlay(item){
+  if(item.isAdult){
+    state.pendingAdult = item;
+    $('adultModal').classList.remove('hidden');
+    return;
   }
-
-  video.play().catch(() => {});
+  play(item);
 }
 
+function clearTracks(video){
+  [...video.querySelectorAll('track')].forEach(t=>t.remove());
+}
+
+function addSubtitle(video, subtitleUrl){
+  if(!subtitleUrl) return;
+  const track = document.createElement('track');
+  track.kind = 'subtitles';
+  track.label = 'Português';
+  track.srclang = 'pt';
+  track.src = subtitleUrl;
+  track.default = true;
+  video.appendChild(track);
+}
+
+function play(item){
+  setHero(item);
+  const video = $('videoPlayer');
+  clearTracks(video);
+  $('nowTitle').textContent = item.title || 'Reproduzindo';
+  $('nowMeta').textContent = item.groupTitle || item.category || '';
+  $('nowDescription').textContent = item.description || '';
+  $('nowSource').textContent = `${item.source || ''} ${item.sourcesCount ? '• fontes: ' + item.sourcesCount : ''}`;
+  addSubtitle(video, item.subtitle);
+
+  if(window.Hls && item.url && item.url.includes('.m3u8')){
+    if(window.hls) window.hls.destroy();
+    const hls = new Hls({ enableWorker: true, lowLatencyMode: true });
+    window.hls = hls;
+    hls.loadSource(item.url);
+    hls.attachMedia(video);
+  }else{
+    video.src = item.url;
+  }
+  video.play().catch(()=>{});
+  renderRecommendations(item);
+}
+
+function renderRecommendations(item){
+  const related = byScore(state.items.filter(i =>
+    i.title !== item.title && (i.category === item.category || i.group === item.group || (item.isAnime && i.isAnime))
+  )).slice(0,12);
+
+  let block = $('recommendationBlock');
+  if(!block){
+    block = document.createElement('section');
+    block.id = 'recommendationBlock';
+    block.className = 'railBlock';
+    block.innerHTML = '<div class="sectionTitle"><h2>✨ Mais como isso</h2><span id="recommendationBadge"></span></div><div id="recommendationRail" class="rail"></div>';
+    $('playerPanel').after(block);
+  }
+  $('recommendationBadge').textContent = `${related.length} itens`;
+  renderRail('recommendationRail', related);
+}
+
+function applyFilters(){
+  const q = state.q.toLowerCase();
+  state.filtered = state.items.filter(i=>{
+    const g = state.group === 'Todos' || i.group === state.group;
+    const c = state.category === 'Todos' || i.category === state.category;
+    const m = !q || `${i.title} ${i.category} ${i.group} ${i.source}`.toLowerCase().includes(q);
+    return g && c && m;
+  });
+  renderCatalog();
+}
+
+function renderCatalog(){
+  const grid = $('catalogGrid');
+  grid.innerHTML = '';
+  if($('countBadge')) $('countBadge').textContent = `${state.filtered.length} itens`;
+  byScore(state.filtered).forEach(item => grid.appendChild(card(item)));
+}
+
+function setup(){
+  if($('searchInput')) $('searchInput').oninput = e => { state.q = e.target.value; applyFilters(); };
+  if($('categorySelect')) $('categorySelect').onchange = e => { state.category = e.target.value; applyFilters(); };
+
+  document.querySelectorAll('.tab').forEach(btn=>{
+    btn.onclick = () => {
+      document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      if(btn.dataset.filter === 'anime'){
+        state.group = 'Todos';
+        state.filtered = byScore(state.items.filter(i=>i.isAnime));
+        renderCatalog();
+        return;
+      }
+      if(btn.dataset.filter === 'adult'){
+        $('adultRailBlock').classList.remove('hidden');
+        state.group = 'Todos';
+        state.filtered = byScore(state.items.filter(i=>i.isAdult));
+        renderCatalog();
+        return;
+      }
+      state.group = btn.dataset.group || 'Todos';
+      applyFilters();
+    };
+  });
+
+  if($('confirmAdult')) $('confirmAdult').onclick = () => { play(state.pendingAdult); $('adultModal').classList.add('hidden'); };
+  if($('cancelAdult')) $('cancelAdult').onclick = () => $('adultModal').classList.add('hidden');
+}
+
+setup();
 load();
