@@ -64,22 +64,37 @@ def safe_text(value, max_len=140):
 
 def safe_group(value):
     text = safe_text(value, 80)
-    text = re.sub(r"[|;/\\:,]+", " - ", text)
-    text = re.sub(r"[^A-Za-z0-9 +_.-]", " ", text)
+    text = re.sub(r"[;/\\:,]+", " - ", text)
+    text = text.replace("|", "|")
+    text = re.sub(r"[^A-Za-z0-9 +_.|\-]", " ", text)
+    text = re.sub(r"\s*\|\s*", " | ", text)
     text = re.sub(r"\s*-\s*", " - ", text)
     text = re.sub(r"\s+", " ", text).strip(" -")
     return text or "Geral"
 
 
-def iptv_group_name(group):
-    group = safe_group(group)
-    if group == "Canais":
-        return "Canais"
-    if group == "Filmes":
-        return "Filmes"
-    if group == "Series":
-        return "Series"
-    return "Outros"
+def iptv_category(category, group, is_adult=False, is_anime=False):
+    cat = safe_group(category or "Geral")
+    if is_adult:
+        return "Adultos"
+    if group == "Series" and is_anime:
+        return "Anime"
+    if not cat or cat.lower() in ["geral", group.lower()]:
+        return "Geral"
+    return cat.split("|")[0].strip() or "Geral"
+
+
+def iptv_group_name(obra):
+    group = safe_group(obra.get("group") or "Outros")
+    if group not in ["Canais", "Filmes", "Series"]:
+        group = "Outros"
+    category = iptv_category(
+        obra.get("category"),
+        group,
+        is_adult=obra.get("isAdult") is True,
+        is_anime=obra.get("isAnime") is True,
+    )
+    return safe_group(f"{group} | {category}")
 
 
 def title_case(value):
@@ -176,10 +191,10 @@ def group_title(item):
     base = safe_group(item.get("grupo") or "Geral")
     categoria = safe_group((item.get("categoria") or "Geral").split("|")[0])
     if item.get("is_adult") == "true" or item.get("isAdult") is True:
-        return f"{base} - Adultos"
+        return f"{base} | Adultos"
     if categoria and categoria.lower() not in ["geral", base.lower()]:
-        return f"{base} - {categoria}"
-    return base
+        return f"{base} | {categoria}"
+    return f"{base} | Geral"
 
 
 def tvg_type(grupo): return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
@@ -297,7 +312,7 @@ def gerar_m3u(clusters, caminho, mode="iptv"):
                     continue
                 title = safe_text(ep.get("title") or obra.get("title") or "Sem titulo")
                 logo = safe_text(ep.get("logo") or obra.get("logo") or "", 300)
-                group = iptv_group_name(obra.get("group")) if mode == "iptv" else safe_group(obra.get("groupTitle") or group_title(obra))
+                group = iptv_group_name(obra) if mode == "iptv" else safe_group(obra.get("groupTitle") or group_title(obra))
                 tvg_id = f"{slug(obra.get('group'))}_{idx}"
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-type="{tvg_type(obra.get("group"))}" group-title="{group}",{title}\n')
                 f.write(f"{ep['url']}\n")
@@ -337,7 +352,7 @@ def main():
     gerar_flat_json(clusters)
     gerar_csv(INVALID_CSV, invalidos, ["grupo","categoria","titulo","stream_url","fonte","source_file","motivo"])
     gerar_csv("logs/catalog_summary.csv", [{"metric":"total_titles","value":len(clusters)},{"metric":"total_episodes","value":sum(len(c.get("episodes", [])) for c in clusters)},{"metric":"canais","value":sum(1 for c in clusters if c["group"] == "Canais")},{"metric":"series","value":sum(1 for c in clusters if c["group"] == "Series")},{"metric":"filmes","value":sum(1 for c in clusters if c["group"] == "Filmes")},{"metric":"anime","value":sum(1 for c in clusters if c.get("isAnime"))},{"metric":"adult","value":sum(1 for c in clusters if c.get("isAdult"))}], ["metric","value"])
-    print("IPTV ultra compat finalizado com sucesso.")
+    print("IPTV multi-categoria compatível finalizado com sucesso.")
 
 
 if __name__ == "__main__":
