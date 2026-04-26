@@ -524,7 +524,13 @@ def write_csv(path, rows, fields):
 
 def main():
     ensure_dirs()
-    items, invalid = load_items()
+    from validate_batch import validar_lista
+
+items, invalid = load_items()
+
+# 🔥 NOVO PASSO CRÍTICO
+items = validar_lista(items)
+
     clusters = dedupe_and_cluster(items)
     write_m3u(clusters, OUTPUT_M3U)
     write_m3u(clusters, OUTPUT_MASTER)
