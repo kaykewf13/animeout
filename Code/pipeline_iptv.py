@@ -30,8 +30,9 @@ ANIME_KEYWORDS = ["anime", "animes", "hentai", "ecchi", "shounen", "shonen", "se
 ADULT_KEYWORDS = ["adult", "adulto", "18+", "hentai", "erotic", "mature", "xxx"]
 EXCLUDE_KEYWORDS = ["yaoi", "boys love", "boyslove", "shounen ai", "shonen ai"]
 INVALID_TITLE_WORDS = ["test", "teste", "sample", "demo", "placeholder", "sem titulo", "sem título"]
-CHANNEL_HINTS = [" tv", "channel", "canal", "news", "live", "24/7", "pluto tv", "rakuten tv"]
-CATEGORY_MAP = {"movies":"Filmes","movie":"Filmes","film":"Filmes","films":"Filmes","series":"Series","shows":"Series","tv shows":"Series","animation":"Animacao","classic":"Classicos","entertainment":"Entretenimento","family":"Familia","kids":"Infantil","comedy":"Comedia","action":"Acao","adventure":"Aventura","horror":"Terror","thriller":"Suspense","documentary":"Documentario","music":"Musica","culture":"Cultura","general":"Geral","sports":"Esportes","news":"Noticias"}
+MOVIE_HINTS = ["movie", "movies", "filme", "filmes", "cinema", "longa", "film", "vod movie"]
+SERIES_HINTS = ["series", "serie", "série", "episodio", "episódio", "episode", "temporada", "season", "anime", "animes"]
+CATEGORY_MAP = {"movies":"Filmes","movie":"Filmes","film":"Filmes","films":"Filmes","series":"Series","shows":"Series","tv shows":"Series","animation":"Animacao","classic":"Classicos","entertainment":"Entretenimento","family":"Familia","kids":"Infantil","comedy":"Comedia","action":"Acao","adventure":"Aventura","horror":"Terror","thriller":"Suspense","documentary":"Documentario","music":"Musica","culture":"Cultura","general":"Geral","sports":"Esportes","news":"Noticias","anime":"Anime","animes":"Anime"}
 DEFAULT_POSTERS = {
     "Canais": "https://placehold.co/600x900/111218/e7e9ee?text=Canais",
     "Filmes": "https://placehold.co/600x900/111218/e7e9ee?text=Filmes",
@@ -65,12 +66,60 @@ def safe_text(value, max_len=140):
 def safe_group(value):
     text = safe_text(value, 80)
     text = re.sub(r"[;/\\:,]+", " - ", text)
-    text = text.replace("|", "|")
     text = re.sub(r"[^A-Za-z0-9 +_.|\-]", " ", text)
     text = re.sub(r"\s*\|\s*", " | ", text)
     text = re.sub(r"\s*-\s*", " - ", text)
     text = re.sub(r"\s+", " ", text).strip(" -")
     return text or "Geral"
+
+
+def stream_ext(url):
+    clean = (url or "").split("?")[0].lower()
+    return clean.rsplit(".", 1)[-1] if "." in clean else ""
+
+
+def is_stream_url(url):
+    return (url or "").split("?")[0].lower().endswith((".m3u8", ".mp4", ".ts"))
+
+
+def infer_tipo_por_url(url):
+    ext = stream_ext(url)
+    if ext == "ts":
+        return "Canais"
+    if ext in ["mp4", "m3u8"]:
+        return "VOD"
+    return "INVALIDO"
+
+
+def contem(texto, termos):
+    return any(t in texto for t in termos)
+
+
+def texto_item(*partes):
+    return strip_accents(" ".join(str(p or "") for p in partes)).lower()
+
+
+def infer_grupo_final(grupo_original, titulo, categoria, fonte, url):
+    tipo = infer_tipo_por_url(url)
+    texto = texto_item(grupo_original, titulo, categoria, fonte, url)
+    if tipo == "Canais":
+        return "Canais"
+    if tipo == "VOD":
+        if contem(texto, SERIES_HINTS):
+            return "Series"
+        if contem(texto, MOVIE_HINTS):
+            return "Filmes"
+        original = (grupo_original or "").strip()
+        if original in ["Filmes", "Series"]:
+            return original
+        return "Series"
+    return ""
+
+
+def slug(value):
+    value = strip_accents(value or "item").lower().strip()
+    value = re.sub(r"[^a-z0-9]+", "_", value)
+    return value.strip("_") or "item"
 
 
 def iptv_category(category, group, is_adult=False, is_anime=False):
@@ -79,7 +128,7 @@ def iptv_category(category, group, is_adult=False, is_anime=False):
         return "Adultos"
     if group == "Series" and is_anime:
         return "Anime"
-    if not cat or cat.lower() in ["geral", group.lower()]:
+    if not cat or cat.lower() in ["geral", group.lower(), "vod", "github vod"]:
         return "Geral"
     return cat.split("|")[0].strip() or "Geral"
 
@@ -126,16 +175,6 @@ def normalizar_categoria(value, grupo=""):
     return clean[0] if clean else "Geral"
 
 
-def texto_item(*partes): return " ".join(str(p or "") for p in partes).lower()
-def contem(texto, termos): return any(t in texto for t in termos)
-def stream_ext(url): return (url or "").split("?")[0].lower().rsplit(".", 1)[-1] if "." in (url or "").split("?")[0] else ""
-def is_stream_url(url): return (url or "").split("?")[0].lower().endswith((".m3u8", ".mp4", ".ts"))
-def slug(value):
-    value = strip_accents(value or "item").lower().strip()
-    value = re.sub(r"[^a-z0-9]+", "_", value)
-    return value.strip("_") or "item"
-
-
 def clean_title(value):
     text = value or ""
     text = re.sub(r"\[[^\]]+\]", " ", text)
@@ -159,11 +198,6 @@ def normalized_display_title(titulo, grupo):
 def is_invalid_title(title):
     lower = strip_accents(title).lower().strip()
     return any(w in lower for w in INVALID_TITLE_WORDS) or len(lower) < 2
-
-
-def should_be_channel(titulo, grupo, fonte):
-    lower = strip_accents(f"{titulo} {fonte}").lower()
-    return grupo == "Canais" or any(h in lower for h in CHANNEL_HINTS)
 
 
 def default_logo(group, is_anime=False, is_adult=False):
@@ -197,7 +231,8 @@ def group_title(item):
     return f"{base} | Geral"
 
 
-def tvg_type(grupo): return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
+def tvg_type(grupo):
+    return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
 
 
 def classificar_flags(grupo, categoria, titulo, description):
@@ -213,13 +248,13 @@ def carregar_csv(path):
     if not linhas: return validos, invalidos
     reader = csv.DictReader(linhas)
     for row in reader:
-        grupo = normalizar_grupo(row.get("grupo") or row.get("group"))
+        grupo_original = normalizar_grupo(row.get("grupo") or row.get("group"))
         titulo_raw = (row.get("titulo") or row.get("title") or row.get("tvg-name") or "Sem titulo").strip() or "Sem titulo"
         fonte = (row.get("fonte") or row.get("source") or path).strip()
-        if should_be_channel(titulo_raw, grupo, fonte): grupo = "Canais"
-        categoria = normalizar_categoria(row.get("categoria") or row.get("category") or "Geral", grupo)
-        titulo = normalized_display_title(titulo_raw, grupo)
+        categoria = normalizar_categoria(row.get("categoria") or row.get("category") or "Geral", grupo_original)
         url = (row.get("stream_url") or row.get("url") or "").strip()
+        grupo = infer_grupo_final(grupo_original, titulo_raw, categoria, fonte, url)
+        titulo = normalized_display_title(titulo_raw, grupo)
         logo = (row.get("logo") or row.get("tvg-logo") or "").strip()
         description = (row.get("description") or row.get("descricao") or "").strip()
         rating = (row.get("rating") or row.get("nota") or "").strip()
@@ -253,8 +288,8 @@ def carregar_catalogos():
 def calcular_score(item, qtd_fontes=1):
     ext = stream_ext(item["stream_url"])
     score = 100 if ext == "m3u8" else 70 if ext == "mp4" else 45 if ext == "ts" else 0
-    if item.get("grupo") == "Canais" and ext == "m3u8": score += 15
-    if item.get("grupo") in ["Series", "Filmes"] and ext in ["mp4", "m3u8"]: score += 10
+    if item.get("grupo") == "Canais" and ext == "ts": score += 20
+    if item.get("grupo") in ["Series", "Filmes"] and ext in ["mp4", "m3u8"]: score += 15
     if item.get("is_anime") == "true": score += 12
     if item.get("logo"): score += 5
     if item.get("description"): score += 3
@@ -352,7 +387,7 @@ def main():
     gerar_flat_json(clusters)
     gerar_csv(INVALID_CSV, invalidos, ["grupo","categoria","titulo","stream_url","fonte","source_file","motivo"])
     gerar_csv("logs/catalog_summary.csv", [{"metric":"total_titles","value":len(clusters)},{"metric":"total_episodes","value":sum(len(c.get("episodes", [])) for c in clusters)},{"metric":"canais","value":sum(1 for c in clusters if c["group"] == "Canais")},{"metric":"series","value":sum(1 for c in clusters if c["group"] == "Series")},{"metric":"filmes","value":sum(1 for c in clusters if c["group"] == "Filmes")},{"metric":"anime","value":sum(1 for c in clusters if c.get("isAnime"))},{"metric":"adult","value":sum(1 for c in clusters if c.get("isAdult"))}], ["metric","value"])
-    print("IPTV multi-categoria compatível finalizado com sucesso.")
+    print("IPTV separado da plataforma finalizado com sucesso.")
 
 
 if __name__ == "__main__":
