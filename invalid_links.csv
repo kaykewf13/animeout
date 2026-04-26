@@ -1,414 +1,414 @@
-grupo,categoria,titulo,stream_url,fonte,source_file,motivo
-Canais,Hentai,Hentai Test,https://exemplo.com/hentai.m3u8,sources/catalog.csv,sources/catalog.csv,titulo_invalido_ou_teste
-,Geral,&xplor,https://mini.allinonereborn.fun/tata.php?id=11619,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,"Like Gecko Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',Cinema",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Cinema One,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,CineMo,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Film4,http://80.194.62.172:50002/stream/channelid/1764271106,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,FX Movie,https://tvpass.org/live/FXMovieChannel/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Hallmark Movies & Mysteries East,https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,IFC East,https://tvpass.org/live/IFCEast/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Kino Barrandov,http://83.167.253.107/hdmi1_ext,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Lifetime Movies East,https://tvpass.org/live/LifetimeMoviesEast/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,"Like Gecko Chrome/144.0.0.0 Safari/537.36' Group-title='Movies',MovieBox",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,MovieSmart Turk 576p,http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Rai Movie 576p,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Star Gold 2 576p,http://103.253.18.58:8000/play/a00r,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Star Gold Romance 576p,http://103.253.18.58:8000/play/a017,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Star Gold Thrills 576p,http://103.253.18.58:8000/play/a00o,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Star Utsav Movies 576p,http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Universal Cinema,http://190.2.212.209:8050/play/a0q3,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Comedia,Universal Comedy,http://190.2.212.209:8050/play/a0q4,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Comedia,USA Network East,https://tvpass.org/live/USANetworkEast/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Classicos,Смотрим 100% Классика,https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Dlife,https://43.100.9.67/api/streams/live/cs312/1080p/mpegts,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Hallmark Drama,https://tvpass.org/live/HallmarkDrama/hd,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Entretenimento,HTV3,https://vc.101vn.com/htv/htvcmb.php?id=2535,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,U&Alibi 576p,http://92.114.85.72:8000/play/a0bi,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Univision Tlnovelas,https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Смотрим 100% Любовь,https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,Geral,Смотрим 100% Мужское,https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d,iptv-org,sources/iptv_org_vod.csv,grupo_invalido
-,DrewLive VOD,8 Mile 2002,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/8.Mile.2002.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,a Minecraft Movie 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/A.Minecraft.Movie.2025.DS4K.1080p.AMZN.WEBRip.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,American Assassin 2017,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/American.Assassin.2017.1080p.BRRip.MkvCage.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,American Hustle 2013,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/American.Hustle.2013.1080p.BluRay.Hindi.Eng.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Bad Boys 1995,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Bad%20Boys%201995%20(1080p%20x265%2010bit%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Bee Movie 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Bee Movie 2007 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Casino 1995,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Casino%201995%201080p%20BluRay%20x264%20ACC%20-%20Ozlem.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Catch Me If You Can 2002,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Catch Me If You Can (2002) [BluRay 1080p 10bit DD5.1 x265].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Cheaper By The Dozen 2003,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Cheaper.by.the.Dozen.2003.1080p.AMZN.WEBRip.DDP.5.1.H.265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Curious George 2006,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Curious George 2006 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Deadpool & Wolverine 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Deadpool.and.Wolverine.2024.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Django Unchained 2012,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Django.Unchained.2012.NORDiC.1080p.BDRip.AV1.DD5.1-DKV.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Don't Be a Menace To South Central While Drinking Your Juice In The Hood 1996,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/dont.be.a.menace.1996.1080p.bluray.dd5.1.hevc.x265.rmteam.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Dope 2015,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Dope 2015 1080p BluRay AV1 Opus 5.1 [981].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Dragon Ball Z: Broly – The Legendary Super Saiyan 1993,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Dragon.Ball.Z.Broly.The.Legendary.Super.Saiyan.1993.720p.BluRay.x264-CiNEFiLE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Encanto 2021,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Encanto.2021.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Final Destination 3 2006,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final Destination 3 2006 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Final Destination Bloodlines 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final%20Destination%20Bloodlines%202025%201080p%20WebRip%20EAC3%205%201%20x265-Lootera.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Finding Nemo 2003,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Finding Nemo 2003 1080p BluRay AV1 Opus 5.1 [981].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Friday After Next 2002,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday After Next 2002 1080p WEBRip DDP 5 1 10bit H 265-iVy.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Get Out 2017,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Get%20Out%202017%20(1080p%20x265%2010bit%20S91%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Gladiator 2000,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Gladiator%202000%20Extended%20Cut%20Remastered%20BluRay%201080p%20HEVC%20x265%205.1%20BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Godzilla Vs. Kong 2021,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Godzilla.vs.Kong.2021.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Godzilla X Kong: The New Empire 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Godzilla.x.Kong.The.New.Empire.2024.REPACK2.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,GoodFellas 1990,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Goodfellas.1990.REMASTERED.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Hancock 2008,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hancock%20(2008)%20%5B1080p%20x265%2010bit%20FS54%20Joy%5D.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,"0,190,281_.jpg' Group-title='DrewLive VOD' Radio='false',Happy Gilmore 2 2025",http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Happy.Gilmore.2.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Hereditary 2018,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hereditary.2018.1080p.BluRay.AV1.Opus.5.1-Retr0.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Home Alone 1990,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Home.Alone.1990.REMASTERED.1080p.Bluray.AV1.Opus-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,House Of Wax 2005,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/House.of.Wax.2005.1080p.BluRay.AV1.Opus.5.1-Ewillian9.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Hustlers 2019,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hustlers.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,I Am Legend 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/I%20Am%20Legend%202007%201080p%20BluRay%20DDP%205%201%2010bit%20H%20265-iVy.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Immaculate 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Immaculate.2024.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,In The Name Of The Father 1993,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/In the Name of the Father 1993 1080p BluRay HEVC x265 5.1 BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Inception 2010,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inception.2010.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Inside Out 2015,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inside.Out.2015.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Inside Out 2 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inside.Out.2.2024.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Joker 2019,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Joker.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Juice 1992,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Juice%201992%201080p%20BluRay%20x264%20AAC%205.1%20Esub-%20Hon3y.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Kill Bill: Vol. 1 2003,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kill.Bill.Vol.1.2003.BluRay.1080p.5.1CH.x264.Ganool.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Kill Bill: Vol. 2 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kill Bill Vol.2 (2004) [1080p x265 10bit FS84 Joy].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Kung Fu Panda 4 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kung%20Fu%20Panda%204%20(2024)%20(1080p%20BluRay%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Law Abiding Citizen 2009,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Law.Abiding.Citizen.2009.Unrated.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Leroy & Stitch 2006,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Leroy.%26.Stitch.2006.1080p.AMZN.WEBRip.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Lilo & Stitch 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Lilo%20and%20Stitch%202025%201080p%20WEBRip%20x264%20READ%20NFO-SyncUp.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Lilo & Stitch 2: Stitch Has a Glitch 2005,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Lilo.&.Stitch.2.Stitch.Has.a.Glitch.2005.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Logan 2017,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Logan.2017.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,M3GAN 2.0 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/M3GAN%202.0%20(2025)%201080p%20DS4K%2010bit%20iTunes%20WEBRip%20English%20DDP5.1%20Atmos%20x265%20HEVC%20ESub%20-%20DaddyCooL.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Madagascar 3: Europe's Most Wanted 2012,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Madagascar.3.Europes.Most.Wanted.2012.1080p.BluRay.AV1.Opus.MULTi5-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Men In Black II 2002,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Men%20in%20Black%20II%202002%20(1080p%20x265%2010bit%20S75%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Moana 2009,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Moana.2016.1080p.BluRay.AV1.Opus.7.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Moana 2 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Moana.2.2024.1080p.WEBRip.AAC5.1.10bits.AV1-Rapta.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Monkey Man 2024,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monkey%20Man%20(2024)%201080p%20H265%20ita%20eng%20AC3%205.1%20sub%20ita%20eng%20Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Monsters: Inc. 2001,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monsters Inc 2001 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Norbit 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Norbit%202007%201080p%20PMTP%20WEB-DL%20H264-PiRaTeS.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Over The Hedge 2006,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Over.The.Hedge.2006.1080p.BluRay.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Ralph Breaks The Internet 2018,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ralph Breaks the Internet 2018 (1080p x265 q22 S94 Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Ratatouille 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ratatouille.2007.REPACK.1080p.BluRay.DDP.5.1.x265-edge2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Scary Movie 2000,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scary%20Movie%20(2000)%20(1080p%20Bluray%20AV1%20Opus)%20%5BNeoNyx343%5D.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Scooby-Doo On Zombie Island 1998,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scooby-Doo.on.Zombie.Island.1998.1080p.AMZN.WEBRip.DDP.2.0.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Scream VI 2023,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scream.VI.2023.1080p.10bit.BluRay.8CH.x265.HEVC.PSA.Dual.YG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Shrek 2001,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.2001.1080p.BluRay.DDP.7.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Shrek 2 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.2.2004.Bluray.1080p.AV1.OPUS.5.1-UH.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Shrek The Third 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.the.Third.2007.1080p.BluRay.AV1.Opus.MULTi4-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Sinners 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sinners.2025.1080p.WEB-DL.DDP5.1.x265-NeoNoir.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Sonic The Hedgehog 2020,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sonic.the.Hedgehog.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Sonic The Hedgehog 2 2022,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sonic.the.Hedgehog.2.2022.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Space Jam: a New Legacy 2021,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Space.Jam.a.New.Legacy.2021.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Spider-Man: No Way Home 2021,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spider-Man.No.Way.Home.2021.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Stitch! The Movie 2003,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Stitch.The.Movie.2003.1080p.DSNP.WEBRip.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Ted 2 2015,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ted.2.2015.EXTENDED.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Bourne Supremacy 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The Bourne Supremacy (2004) 1080p H265 ita eng AC3 5.1 sub ita eng Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Butterfly Effect 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Butterfly%20Effect%202004%20DC%20(1080p%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,"0,190,281_.jpg' Group-title='DrewLive VOD' Radio='false',The Day After Tomorrow 2004",http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Day.After.Tomorrow.2004.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Game Plan 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Game.Plan.2007.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Godfather 1972,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The Godfather (1972) [1080p x265 10bit FS87 Joy].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Incredibles 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Incredibles.2004.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Interview 2014,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Interview.2014.1080p.10bit.BluRay.AV1.Opus.5.1-Retr0.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Land Before Time 1988,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Land.Before.Time.1988.1080p.Bluray.AV1.Opus.5.1-heTOrico.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Matrix 1999,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Matrix.1999.1080p.BluRay.x265.HEVC.10bit.AAC.5.1-LordVako.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Outsiders 1983,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Outsiders%201983%20Remastered%20DC%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Polar Express 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Polar.Express.2004.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Purge 2013,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Purge%202013%201080p%20WebRip%20EAC3%205%201%20x265-Lootera.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The SpongeBob SquarePants Movie 2004,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.SpongeBob.SquarePants.Movie.2004.1080p.BluRay.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Wash 2001,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Wash.2001.1080p.WEB-DL.DDP5.1.10Bit.x265-GAUT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Wedding Singer 1998,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Wedding%20Singer%201998%20(1080p%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,The Wolf Of Wall Street 2013,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Wolf.of.Wall.Street.2013.1080p.BluRay.AV1.Opus.MULTi3-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Toy Story 1995,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Toy.story.(1995).Multiaudio.Ac3.5.1.multisub.BDRip.1080p.X264-BaMax71-iDN_CreW.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Toy Story 4 2019,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Toy.Story.4.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Transformers 2007,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Transformers%20(2007)%201080p%20H265%20ita%20eng%20AC3%205.1%20sub%20ita%20eng%20Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Until Dawn 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Until.Dawn.2025.1080p.WEB-DL.DDP5.1.x265-NeoNoir.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Wreck-It Ralph 2012,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Wreck.It.Ralph.2012.1080p.Bluray.AV1.Opus.5.1-heTOrico.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,You're Cordially Invited 2025,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Youre.Cordially.Invited.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive VOD,Zombieland 2009,http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Ameena Green - BrownBunnies,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Ameena%20Green%20-%20BrownBunnies/BrownBunnies.24.07.04.Ameena.Green.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Kali Roses - Blacked,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Kali%20Roses%20-%20Blacked/BlackedRaw.18.07.21.Kali.Roses.Call.You.Tomorrow.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Lana Rhoades - Holed,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Lana%20Rhoades%20-%20Holed/Holed.17.09.26.Lana.Rhoades.Poolside.Ass.Play.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Layla Jenner - Nympho,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Layla%20Jenner%20-%20Nympho/Nympho.24.03.26.Layla.Jenner.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Luna Star & Emma Magnolia - Brazzers,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Luna%20Star%20%26%20Emma%20Magnolia%20-%20Brazzers/BrazzersExxtra.24.07.19.Luna.Star.And.Emma.Magnolia.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Vina Sky - AsiansExploited,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20AsiansExploited/AsiansExploited.22.11.26.Vina.Sky.Always.Be.Closing.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Vina Sky - Tushy,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20Tushy/TushyRaw.19.03.11.Vina.Sky.Circling.The.Rim.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Willow Ryder - Tushy,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20-%20Tushy/Tushy.24.05.12.Willow.Ryder.Nerves.3.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DrewLive NSFW,Willow Ryder & Kelsey Kane - AssParade,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20%26%20Kelsey%20Kane%20-%20AssParade/AssParade.24.02.26.Willow.Ryder.And.Kelsey.Kane.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-01,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium501%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-02,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium502%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-03,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium503%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-04,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium504%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-05,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium505%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-06,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium506%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-07,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium507%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-08,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium508%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-09,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium509%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-10,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium510%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-11,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium511%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-12,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium512%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-13,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium513%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-14,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium514%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-15,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium515%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-16,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium516%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-17,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium517%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-18,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium518%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-19,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium519%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,DaddyLive XXX,18+ Player-20,http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium520%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,grupo_invalido
-,Albania,ABC News Albania T,https://www.twitch.tv/abcnewsal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Albania,Euronews Albania Y,https://www.youtube.com/@EuronewsAlbania/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Albania,Top News T,https://www.twitch.tv/topnewsal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,TN Todo Noticias Y,https://www.youtube.com/c/todonoticias/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Encuentro Y G,https://www.youtube.com/user/encuentro/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Pakapaka Y G,https://www.youtube.com/user/CanalPakapaka/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Television Publica Y,https://www.youtube.com/user/TVPublicaArgentina/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Canal 26 Y,https://www.youtube.com/c/canal26/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Cronica TV Y,https://www.youtube.com/c/cronicatv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,IP Noticias Y,https://www.youtube.com/watch?v=IxQ2-6Y4y9w,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,El Destape Y,https://www.youtube.com/watch?v=JuskTxbUqmY,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,C5N Y,https://www.youtube.com/c/c5n/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,LN+ Y,https://www.youtube.com/c/LaNacionMas/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,Telefe Y,https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,America Y,https://www.youtube.com/c/americaenvivo/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Argentina,A24 Y,https://www.youtube.com/c/A24com/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Australia,ABC,https://c.mjh.nz/101002210221/,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Australia,ABC Me,https://c.mjh.nz/101002210224/,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,ARB Gunəs S,https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Azad TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,AZTV S,https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Dunya TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Kanal S,https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Real,https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,TMB Azərbaycan,https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Xəzər TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,Səhiyyə,https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,VIP,https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Azerbaijan,MTV Azerbaijan S,https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Belarus,8 Kanal Vitebsk S,http://95.46.208.8:24433/art,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Belarus,Belarus 4 Vitebsk S,http://95.46.208.8:26258/belarus4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Belarus,Hawe TV Vitebsk S,http://95.46.208.8:26259/nashe,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Belarus,Pervyy Muzykal'nyy BY S,http://rtmp.one.by:1200,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Bosnia and Herzegovina,N1 Bosna I Hercegovina,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Brazil,SBT Y,https://www.youtube.com/watch?v=ABVQXgr2LW4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Brazil,RBC Y,https://www.youtube.com/watch?v=oUdd3CsxYaE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Bulgaria,Euronews Bulgaria Y,https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Canada,NTV,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Canada,CHCH,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Canada,Star,http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Canada,Noovo,https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Chile,TVN G,https://sktv-forwarders.7m.pl/get.php?x=TVN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Chile,,https://sktv-forwarders.7m.pl/get.php?x=Canal13,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,titulo_invalido_ou_teste
-,Chile,Chilevision G,https://sktv-forwarders.7m.pl/get.php?x=Chilevision,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,China,CCTV-4 中文国际 亚 Y,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Cyprus,RIK 1 S,http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Cyprus,RIK 2 S,http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Cyprus,RIK,http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT1 G,https://sktv.plainrock127.xyz/get.php?x=CT1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT2 G,https://sktv.plainrock127.xyz/get.php?x=CT2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT24,https://sktv.plainrock127.xyz/get.php?x=CT24,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT Sport G,https://sktv.plainrock127.xyz/get.php?x=CTsport,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT :D,https://sktv.plainrock127.xyz/get.php?x=CT_D,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT Art,https://sktv.plainrock127.xyz/get.php?x=CTart,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,CT Sport Plus G,https://sktv.plainrock127.xyz/get.php?x=CTsportPlus,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,Slagr Original S,https://stream-6.mazana.tv/slagr.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,Slagr Muzika S,https://stream-33.mazana.tv/slagr2.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,Slagr Premium S,https://stream-15.mazana.tv/slagrpremium.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,TN,https://sktv.plainrock127.xyz/get.php?x=NovaTNLive,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Czech Republic,TV Nova S,https://sktv.plainrock127.xyz/get.php?x=Nova,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Faroe Islands,Tingvarp,https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Finland,Sundom TV Y,https://www.youtube.com/@SundomTV/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Finland,Wor TV Y,https://www.youtube.com/@wor-tvr.f.4461/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,C8 D,https://www.dailymotion.com/video/x5gv5rr,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,LCP,https://lcp.fr/le-live-lcp-tnt-5433,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,Public Senat,https://www.publicsenat.fr/direct,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,CNews D,https://www.dailymotion.com/video/x3b68jn,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,Franceinfo: Y,https://www.youtube.com/c/franceinfo/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,France 24 Y,https://www.youtube.com/c/FRANCE24/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,Euronews Francais Y,https://www.youtube.com/euronewsfr/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,Africanews Y,https://www.youtube.com/c/Africanewsfr/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,L'Equipe DG,https://www.dailymotion.com/video/x2lefik,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,France,France Inter Y,https://www.youtube.com/c/FranceInter/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Georgia,Rustavi,https://sktv-forwarders.7m.pl/get.php?x=Rustavi2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Germany,Euronews Deutsch Y,https://www.youtube.com/euronewsde/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,ERT 1 G,https://ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,ERT 2 G,https://ertflix.ascdn.broadpeak.io/ert2/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,ERT 3 G,https://ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,ERT Sports,https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,ERT Sports,https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,Egnatia,https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,Star Central Greece,https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greece,Η Φωνη Της Ελλαδας,https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greenland,KNR1 Y G,https://www.youtube.com/@KNRgreenland/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Greenland,KNR2 Y,https://www.youtube.com/@nutaarsiassat/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hong Kong,TVB News,https://tvp22.sky4k.top/index1.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hong Kong,TVB Finance Sports & Information,https://tvp22.sky4k.top/index2.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,M1 Hirado Y,https://www.youtube.com/@M1-Hirado/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,RTL Klub,https://cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,TV2,https://cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,Hir,https://onlinestream.live/play.m3u?id=4740&ext=.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,Radio 1 Y,https://www.youtube.com/watch?v=I8dnZoF1nOE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,Euronews Hungarian Y,https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,M5 Hungary,http://152.66.115.226:33390/bysid/201,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,Duna,http://152.66.115.226:33391/bysid/102,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Hungary,Duna World / M4+ Sport,http://152.66.115.226:33391/bysid/103,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD National Y,https://www.youtube.com/doordarshan/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD News Y,https://www.youtube.com/c/ddnews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD India Y,https://www.youtube.com/DDIndia/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD Bharati Y,https://www.youtube.com/@ddbharati/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD Kisan Y,https://www.youtube.com/@DDKisan/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,DD Urdu Y,https://www.youtube.com/@DDUrdu/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,India Today Y,https://www.youtube.com/watch?v=sYZtOFzM78M,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,Aaj Tak Y,https://www.youtube.com/watch?v=Nq2wYlWFucg,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,India TV Y,https://www.youtube.com/watch?v=e1FIApIafWE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,TV9 Bharatvarsh Y,https://www.youtube.com/watch?v=nSpwwcHVp80,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,India,Republic Bharat Y,https://www.youtube.com/watch?v=3DbTO_AMhhc,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Today FM,https://stream.audioxi.com/TDAAC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,98FM,https://stream.audioxi.com/98,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,FM104,https://wg.cdn.tibus.net/fm104MP3128,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Radio Nova,https://stream.audioxi.com/NOVA,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Spin 103,https://stream.audioxi.com/SP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Newstalk,https://stream.audioxi.com/NT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Dublin's Q102,https://wg.cdn.tibus.net/q102MP3128,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Classic Hits,https://stream.audioxi.com/CLASSIC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ireland,Sunshine 106,https://live-bauerie.sharp-stream.com/SUN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Israel,9 Канал Y,https://www.youtube.com/@israel9tv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai 1 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai 2 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai 3 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai 4 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai 5 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Movie G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Premium G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Gulp G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai YoYo G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai News 24 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Storia G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Scuola G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Sport G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Rai Radio 2 Visual Radio,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Telesveva,https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Tv Uno,http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Radio Colonna Tv Y,https://www.youtube.com/radiocolonna/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,TRM H24 Y,https://www.youtube.com/user/trmh24/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Euronews Italian Y,https://www.youtube.com/user/euronewsit/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Antenna Sicilia T,https://www.twitch.tv/antennasicilia,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Telecolor T,https://www.twitch.tv/telecolorlive,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,Teleroma 56 T,https://www.twitch.tv/teleroma_56,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Italy,TeleRadioStereo T,https://www.twitch.tv/teleradiostereo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Geral,GSTV,"https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)",channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS 1TV,http://mytv.dothome.co.kr/ch/public/1.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS 2TV,http://ye23.vip/z7z8/2021/kbs2020.php?id=2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS News D,http://ye23.vip/z7z8/2021/kbs2020.php?id=4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Joy,http://ye23.vip/z7z8/2021/kbs2020.php?id=6,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Life,http://ye23.vip/z7z8/2021/kbs2020.php?id=7,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS World,http://ye23.vip/z7z8/2021/kbs2020.php?id=3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,KBS Korea Y,https://www.youtube.com/c/kbsworldtv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Korea,All The K-Pop Y,https://www.youtube.com/c/ALLTHEKPOP/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Moldova,Moldova,https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Moldova,Moldova,https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Netherlands,NPO 1 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Netherlands,NPO 2 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Netherlands,NPO 3 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Netherlands,NH Nieuws,https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,North Korea,KCTV,https://tv.nknews.org/tvdash/stream.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP1,https://www.tvkaista.net/stream-forwarder/get.php?x=TVP1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP3 Warszawa,https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP Polonia,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,Alfa TVP,https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP Info,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPInfo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,Belsat,http://149.5.17.34:20041/play/a076,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP World,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP ABC,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP Historia,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Poland,TVP Kultura,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Portugal,CNN Portugal,https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Portugal,Euronews Em Portugues Y,https://www.youtube.com/euronewspt/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Qatar,Alkass One,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Qatar,Alkass Two,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Qatar,Alkass Three,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Qatar,Alkass Four,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Romania,Euronews Romania Y,https://www.youtube.com/euronewsro/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Первыи Канал,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Россия,https://player.smotrim.ru/iframe/stream/live_id/2961,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Россия-Культура S,https://player.smotrim.ru/iframe/stream/live_id/19201,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Россия-24 S,https://player.smotrim.ru/iframe/stream/live_id/21,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Euronews По-русски Y,https://www.youtube.com/euronewsru/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,РТР-Планета S,https://player.smotrim.ru/iframe/stream/live_id/63251,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Арктика 24 V,https://vk.com/video-213370539_456239018,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Катунь 24 o,https://ok.ru/video/1166706155179,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Кубань 24 o,https://ok.ru/video/4157442498242,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Москва,https://player.smotrim.ru/iframe/stream/live_id/1661,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Саратов,https://saratov24.tv/online/playlist.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Вести ФМ,https://player.smotrim.ru/iframe/stream/live_id/52035,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Russia,Соловьев,https://player.smotrim.ru/iframe/stream/live_id/63338,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,:Jednotka,https://sktv.plainrock127.xyz/get.php?x=STV1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,:Dvojka,https://sktv.plainrock127.xyz/get.php?x=STV2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,:,https://sktv.plainrock127.xyz/get.php?x=STV24,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,titulo_invalido_ou_teste
-,Slovakia,:Sport,https://sktv.plainrock127.xyz/get.php?x=SPORT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,:O,https://sktv.plainrock127.xyz/get.php?x=STV-O,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,STVR,https://sktv.plainrock127.xyz/get.php?x=RTVS,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,NR SR,https://sktv.plainrock127.xyz/get.php?x=NR_SR,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovakia,TA3 S,https://sktv.plainrock127.xyz/get.php?x=TA3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,TV SLO,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,TV SLO,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,TV SLO,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,TV Koper/Capodistria,https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,TV Maribor,https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,MMC,https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Slovenia,Nova 24 TV Y,https://www.youtube.com/@Nova24TVSlovenija/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Spain,Television Canaria Y,https://www.youtube.com/user/TelevisionCanaria/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Spain,IB3 Global Y,https://www.youtube.com/c/ib3/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,SVT 1 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,SVT 2 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,Kanal 10 Sverige,https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,SVT 24 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,Kunskapskanalen G,https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Sweden,Lokal-TV Uddevalla / Fyrbodal-TV Y,https://www.youtube.com/@LtvuSeTube/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Switzerland,SRF,http://51.91.73.99:25461/sweden/PM66f7Y43H/25849,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Switzerland,RTS Un,http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,CTV News Channel 中視新聞台 Y,https://www.youtube.com/watch?v=TCnaIE_SAtM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,PTS Taigi 公視台語台 Y G,https://www.youtube.com/watch?v=6KlRR_DGhmI,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,TaiwanPlus Y,https://www.youtube.com/watch?v=dZp87qnWelE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,民視無線台,http://seb.sason.top/ptv/ftv.php?id=ms,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,FTV One 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,FTV News 民視新聞台 Y,https://www.youtube.com/watch?v=ylYJSBUgaMA,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,FTV Taiwan 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,TTV Main Channel 臺灣電視台 Y G,https://www.youtube.com/watch?v=uDqQo8a7Xmk,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,TTV News 台視新聞台 Y,https://www.youtube.com/watch?v=xL0ch83RAK8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,Congress Channel 1 Y,https://www.youtube.com/watch?v=4HysYHJ6GkY,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Taiwan,Congress Channel 2 Y,https://www.youtube.com/watch?v=RAP4h3q6_Sg,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,CNC3,https://sktv-forwarders.7m.pl/get.php?x=CNC3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,Gayelle,https://sktv-forwarders.7m.pl/get.php?x=gayelle,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,Synergy,https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,TTT,https://sktv-forwarders.7m.pl/get.php?x=TTT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,IBN,https://sktv-forwarders.7m.pl/get.php?x=IBN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Trinidad,Trinity,https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,1+1 Ukraina S,http://212.79.122.11:5014/udp/239.255.6.49:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Inter,http://212.79.122.11:5014/udp/239.255.6.25:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Bigudi S,http://212.79.122.11:5014/udp/239.255.6.13:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Novyi Kanal,http://212.79.122.11:5014/udp/239.255.6.38:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,TET S,http://212.79.122.11:5014/udp/239.255.6.11:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,2+2 S,http://212.79.122.11:5014/udp/239.255.6.14:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,M1,http://212.79.122.11:5014/udp/239.255.6.28:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Mega,http://212.79.122.11:5014/udp/239.255.6.40:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,ПлюсПлюс S,http://212.79.122.11:5014/udp/239.255.6.12:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Ми — Украіна S,http://212.79.122.11:5014/udp/239.255.6.7:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Оце ТБ,http://212.79.122.11:5014/udp/239.255.6.4:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,K1,http://212.79.122.11:5014/udp/239.255.6.41:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Enter-Film,http://212.79.122.11:5014/udp/239.255.6.31:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,Піксель,http://212.79.122.11:5014/udp/239.255.6.30:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Ukraine,ДІМ,http://212.79.122.11:5014/udp/239.255.6.18:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,USA,CNBC Y,https://www.youtube.com/c/CNBC/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Venezuela,Venezolana de Television D,https://www.dailymotion.com/embed/video/x828i6j,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,News AR,France 24 العربية Y,https://www.youtube.com/c/FRANCE24Arabic/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,Euronews Y,https://www.youtube.com/euronews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,Africanews Y,https://www.youtube.com/africanews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,France 24 Y,https://www.youtube.com/france24english/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,ABC News AU Y,https://www.youtube.com/@abcnewsaustralia/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,TVC News Y,https://www.youtube.com/tvcnewsnigeria/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,Noticias,Channels 24 Y,https://www.youtube.com/channelstelevision/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,News ES,Euronews Espanol Y,https://www.youtube.com/euronewses/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,News ES,France 24 Espanol Y,https://www.youtube.com/c/FRANCE24Espanol/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,VOD Italy,Grande Fratello Vip Regia 1 S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,VOD Italy,Grande Fratello Vip Regia 2 S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-,VOD Italy,Grande Fratello Vip Regia Un'ora Fa S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,grupo_invalido
-Canais,VOD Italy,Il Testimone – Pluto TV,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,titulo_invalido_ou_teste
+grupo,categoria,iptv_categoria,titulo,stream_url,fonte,source_file,motivo
+Canais,Hentai,Adultos,Hentai Test,https://exemplo.com/hentai.m3u8,sources/catalog.csv,sources/catalog.csv,titulo_invalido_ou_teste
+,DrewLive VOD,Geral,8 Mile (2002),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/8.Mile.2002.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,A Minecraft Movie (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/A.Minecraft.Movie.2025.DS4K.1080p.AMZN.WEBRip.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,American Assassin (2017),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/American.Assassin.2017.1080p.BRRip.MkvCage.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,American Hustle (2013),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/American.Hustle.2013.1080p.BluRay.Hindi.Eng.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Bad Boys (1995),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Bad%20Boys%201995%20(1080p%20x265%2010bit%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Bee Movie (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Bee Movie 2007 1080p BluRay x265 HEVC 10bit AAC 5.1-LordVako.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Casino (1995),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Casino%201995%201080p%20BluRay%20x264%20ACC%20-%20Ozlem.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Catch Me If You Can (2002),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Catch Me If You Can (2002) [BluRay 1080p 10bit DD5.1 x265].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Cheaper by the Dozen (2003),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Cheaper.by.the.Dozen.2003.1080p.AMZN.WEBRip.DDP.5.1.H.265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Curious George (2006),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Curious George 2006 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Deadpool & Wolverine (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Deadpool.and.Wolverine.2024.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Django Unchained (2012),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Django.Unchained.2012.NORDiC.1080p.BDRip.AV1.DD5.1-DKV.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/dont.be.a.menace.1996.1080p.bluray.dd5.1.hevc.x265.rmteam.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Dope (2015),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Dope 2015 1080p BluRay AV1 Opus 5.1 [981].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Dragon Ball Z: Broly – The Legendary Super Saiyan (1993),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Dragon.Ball.Z.Broly.The.Legendary.Super.Saiyan.1993.720p.BluRay.x264-CiNEFiLE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Encanto (2021),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Encanto.2021.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Final Destination 3 (2006),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final Destination 3 2006 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Final Destination Bloodlines (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Final%20Destination%20Bloodlines%202025%201080p%20WebRip%20EAC3%205%201%20x265-Lootera.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Finding Nemo (2003),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Finding Nemo 2003 1080p BluRay AV1 Opus 5.1 [981].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Friday After Next (2002),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday After Next 2002 1080p WEBRip DDP 5 1 10bit H 265-iVy.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Get Out (2017),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Get%20Out%202017%20(1080p%20x265%2010bit%20S91%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Gladiator (2000),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Gladiator%202000%20Extended%20Cut%20Remastered%20BluRay%201080p%20HEVC%20x265%205.1%20BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Godzilla vs. Kong (2021),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Godzilla.vs.Kong.2021.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Godzilla x Kong: The New Empire (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Godzilla.x.Kong.The.New.Empire.2024.REPACK2.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,GoodFellas (1990),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Goodfellas.1990.REMASTERED.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Hancock (2008),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hancock%20(2008)%20%5B1080p%20x265%2010bit%20FS54%20Joy%5D.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,"0,190,281_.jpg' group-title='DrewLive VOD' radio='false',Happy Gilmore 2 (2025)",http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Happy.Gilmore.2.2025.1080p.WEBRip.AAC5.1.10bits.x265-Rapta.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Hereditary (2018),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hereditary.2018.1080p.BluRay.AV1.Opus.5.1-Retr0.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Home Alone (1990),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Home.Alone.1990.REMASTERED.1080p.Bluray.AV1.Opus-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,House of Wax (2005),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/House.of.Wax.2005.1080p.BluRay.AV1.Opus.5.1-Ewillian9.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Hustlers (2019),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hustlers.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,I Am Legend (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/I%20Am%20Legend%202007%201080p%20BluRay%20DDP%205%201%2010bit%20H%20265-iVy.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Immaculate (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Immaculate.2024.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,In the Name of the Father (1993),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/In the Name of the Father 1993 1080p BluRay HEVC x265 5.1 BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Inception (2010),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inception.2010.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Inside Out (2015),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inside.Out.2015.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Inside Out 2 (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Inside.Out.2.2024.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Joker (2019),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Joker.2019.1080p.BluRay.1600MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Juice (1992),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Juice%201992%201080p%20BluRay%20x264%20AAC%205.1%20Esub-%20Hon3y.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Kill Bill: Vol. 1 (2003),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kill.Bill.Vol.1.2003.BluRay.1080p.5.1CH.x264.Ganool.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Kill Bill: Vol. 2 (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kill Bill Vol.2 (2004) [1080p x265 10bit FS84 Joy].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Kung Fu Panda 4 (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Kung%20Fu%20Panda%204%20(2024)%20(1080p%20BluRay%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Law Abiding Citizen (2009),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Law.Abiding.Citizen.2009.Unrated.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Leroy & Stitch (2006),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Leroy.%26.Stitch.2006.1080p.AMZN.WEBRip.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Lilo & Stitch (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Lilo%20and%20Stitch%202025%201080p%20WEBRip%20x264%20READ%20NFO-SyncUp.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Lilo & Stitch 2: Stitch Has a Glitch (2005),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Lilo.&.Stitch.2.Stitch.Has.a.Glitch.2005.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Logan (2017),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Logan.2017.1080p.10bit.BluRay.8CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,M3GAN 2.0 (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/M3GAN%202.0%20(2025)%201080p%20DS4K%2010bit%20iTunes%20WEBRip%20English%20DDP5.1%20Atmos%20x265%20HEVC%20ESub%20-%20DaddyCooL.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Madagascar 3: Europe's Most Wanted (2012),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Madagascar.3.Europes.Most.Wanted.2012.1080p.BluRay.AV1.Opus.MULTi5-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Men in Black II (2002),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Men%20in%20Black%20II%202002%20(1080p%20x265%2010bit%20S75%20Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Moana (2009),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Moana.2016.1080p.BluRay.AV1.Opus.7.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Moana 2 (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Moana.2.2024.1080p.WEBRip.AAC5.1.10bits.AV1-Rapta.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Monkey Man (2024),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monkey%20Man%20(2024)%201080p%20H265%20ita%20eng%20AC3%205.1%20sub%20ita%20eng%20Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Monsters: Inc. (2001),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Monsters Inc 2001 (1080p x265 10bit Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Norbit (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Norbit%202007%201080p%20PMTP%20WEB-DL%20H264-PiRaTeS.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Over the Hedge (2006),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Over.The.Hedge.2006.1080p.BluRay.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Ralph Breaks the Internet (2018),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ralph Breaks the Internet 2018 (1080p x265 q22 S94 Joy).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Ratatouille (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ratatouille.2007.REPACK.1080p.BluRay.DDP.5.1.x265-edge2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Scary Movie (2000),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scary%20Movie%20(2000)%20(1080p%20Bluray%20AV1%20Opus)%20%5BNeoNyx343%5D.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Scooby-Doo on Zombie Island (1998),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scooby-Doo.on.Zombie.Island.1998.1080p.AMZN.WEBRip.DDP.2.0.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Scream VI (2023),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Scream.VI.2023.1080p.10bit.BluRay.8CH.x265.HEVC.PSA.Dual.YG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Shrek (2001),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.2001.1080p.BluRay.DDP.7.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Shrek 2 (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.2.2004.Bluray.1080p.AV1.OPUS.5.1-UH.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Shrek the Third (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shrek.the.Third.2007.1080p.BluRay.AV1.Opus.MULTi4-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Sinners (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sinners.2025.1080p.WEB-DL.DDP5.1.x265-NeoNoir.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Sonic the Hedgehog (2020),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sonic.the.Hedgehog.2020.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Sonic the Hedgehog 2 (2022),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Sonic.the.Hedgehog.2.2022.1080p.BluRay.1400MB.DD2.0.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Space Jam: A New Legacy (2021),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Space.Jam.a.New.Legacy.2021.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Spider-Man: No Way Home (2021),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Spider-Man.No.Way.Home.2021.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Stitch! The Movie (2003),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Stitch.The.Movie.2003.1080p.DSNP.WEBRip.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Ted 2 (2015),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ted.2.2015.EXTENDED.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Bourne Supremacy (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The Bourne Supremacy (2004) 1080p H265 ita eng AC3 5.1 sub ita eng Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Butterfly Effect (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Butterfly%20Effect%202004%20DC%20(1080p%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,"0,190,281_.jpg' group-title='DrewLive VOD' radio='false',The Day After Tomorrow (2004)",http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Day.After.Tomorrow.2004.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Game Plan (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Game.Plan.2007.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Godfather (1972),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The Godfather (1972) [1080p x265 10bit FS87 Joy].mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Incredibles (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Incredibles.2004.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Interview (2014),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Interview.2014.1080p.10bit.BluRay.AV1.Opus.5.1-Retr0.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Land Before Time (1988),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Land.Before.Time.1988.1080p.Bluray.AV1.Opus.5.1-heTOrico.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Matrix (1999),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Matrix.1999.1080p.BluRay.x265.HEVC.10bit.AAC.5.1-LordVako.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Outsiders (1983),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Outsiders%201983%20Remastered%20DC%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Polar Express (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Polar.Express.2004.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Purge (2013),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Purge%202013%201080p%20WebRip%20EAC3%205%201%20x265-Lootera.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The SpongeBob SquarePants Movie (2004),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.SpongeBob.SquarePants.Movie.2004.1080p.BluRay.AV1.Opus.5.1-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Wash (2001),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Wash.2001.1080p.WEB-DL.DDP5.1.10Bit.x265-GAUT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Wedding Singer (1998),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The%20Wedding%20Singer%201998%20(1080p%20x265%2010bit%20Tigole).mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,The Wolf of Wall Street (2013),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Wolf.of.Wall.Street.2013.1080p.BluRay.AV1.Opus.MULTi3-RAV1NE.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Toy Story (1995),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Toy.story.(1995).Multiaudio.Ac3.5.1.multisub.BDRip.1080p.X264-BaMax71-iDN_CreW.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Toy Story 4 (2019),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Toy.Story.4.2019.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Transformers (2007),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Transformers%20(2007)%201080p%20H265%20ita%20eng%20AC3%205.1%20sub%20ita%20eng%20Licdom.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Until Dawn (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Until.Dawn.2025.1080p.WEB-DL.DDP5.1.x265-NeoNoir.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Wreck-It Ralph (2012),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Wreck.It.Ralph.2012.1080p.Bluray.AV1.Opus.5.1-heTOrico.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,You're Cordially Invited (2025),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Youre.Cordially.Invited.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive VOD,Geral,Zombieland (2009),http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Zombieland.2009.1080p.BluRay.DDP.7.1.x265-edge2020.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Ameena Green - BrownBunnies,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Ameena%20Green%20-%20BrownBunnies/BrownBunnies.24.07.04.Ameena.Green.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Kali Roses - Blacked,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Kali%20Roses%20-%20Blacked/BlackedRaw.18.07.21.Kali.Roses.Call.You.Tomorrow.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Lana Rhoades - Holed,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Lana%20Rhoades%20-%20Holed/Holed.17.09.26.Lana.Rhoades.Poolside.Ass.Play.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Layla Jenner - Nympho,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Layla%20Jenner%20-%20Nympho/Nympho.24.03.26.Layla.Jenner.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Luna Star & Emma Magnolia - Brazzers,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Luna%20Star%20%26%20Emma%20Magnolia%20-%20Brazzers/BrazzersExxtra.24.07.19.Luna.Star.And.Emma.Magnolia.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Vina Sky - AsiansExploited,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20AsiansExploited/AsiansExploited.22.11.26.Vina.Sky.Always.Be.Closing.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Vina Sky - Tushy,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Vina%20Sky%20-%20Tushy/TushyRaw.19.03.11.Vina.Sky.Circling.The.Rim.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Willow Ryder - Tushy,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20-%20Tushy/Tushy.24.05.12.Willow.Ryder.Nerves.3.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DrewLive NSFW,Adultos,Willow Ryder & Kelsey Kane - AssParade,http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Willow%20Ryder%20%26%20Kelsey%20Kane%20-%20AssParade/AssParade.24.02.26.Willow.Ryder.And.Kelsey.Kane.XXX.1080p.HEVC.x265.PRT.mkv,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-01),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium501%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-02),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium502%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-03),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium503%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-04),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium504%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-05),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium505%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-06),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium506%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-07),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium507%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-08),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium508%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-09),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium509%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-10),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium510%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-11),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium511%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-12),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium512%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-13),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium513%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-14),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium514%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-15),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium515%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-16),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium516%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-17),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium517%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-18),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium518%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-19),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium519%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,DaddyLive XXX,Adultos,18+ (Player-20),http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium520%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vYWxsdXBwbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vYWxsdXBwbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D,vod-playlist:drewlive-vod-authorized,sources/vod_playlist_items.csv,nao_e_stream_direto
+,Albania,Geral,ABC News Albania T,https://www.twitch.tv/abcnewsal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Albania,Geral,Euronews Albania Y,https://www.youtube.com/@EuronewsAlbania/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Albania,Geral,Top News T,https://www.twitch.tv/topnewsal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,TN Todo Noticias Y,https://www.youtube.com/c/todonoticias/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Encuentro Y G,https://www.youtube.com/user/encuentro/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Pakapaka Y G,https://www.youtube.com/user/CanalPakapaka/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Television Publica Y,https://www.youtube.com/user/TVPublicaArgentina/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Canal 26 Y,https://www.youtube.com/c/canal26/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Cronica TV Y,https://www.youtube.com/c/cronicatv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,IP Noticias Y,https://www.youtube.com/watch?v=IxQ2-6Y4y9w,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,El Destape Y,https://www.youtube.com/watch?v=JuskTxbUqmY,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,C5N Y,https://www.youtube.com/c/c5n/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,LN+ Y,https://www.youtube.com/c/LaNacionMas/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,Telefe Y,https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,America Y,https://www.youtube.com/c/americaenvivo/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Argentina,Geral,A24 Y,https://www.youtube.com/c/A24com/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Australia,Geral,ABC,https://c.mjh.nz/101002210221/,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Australia,Geral,ABC Me,https://c.mjh.nz/101002210224/,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,ARB Gunəs S,https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Azad TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,AZTV S,https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Dunya TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Kanal S,https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Real TV,https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,TMB Azərbaycan,https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Xəzər TV S,https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,Səhiyyə TV,https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,VIP HD,https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Azerbaijan,Geral,MTV Azerbaijan S,https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Belarus,Geral,8 Kanal Vitebsk S,http://95.46.208.8:24433/art,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Belarus,Geral,Belarus 4 Vitebsk S,http://95.46.208.8:26258/belarus4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Belarus,Geral,Hawe TV Vitebsk S,http://95.46.208.8:26259/nashe,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Belarus,Geral,Pervyy Muzykal'nyy BY S,http://rtmp.one.by:1200,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Bosnia and Herzegovina,Geral,N1 Bosna i Hercegovina,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Brazil,Geral,SBT Y,https://www.youtube.com/watch?v=ABVQXgr2LW4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Brazil,Geral,RBC Y,https://www.youtube.com/watch?v=oUdd3CsxYaE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Bulgaria,Geral,Euronews Bulgaria Y,https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Canada,Geral,NTV,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Canada,Geral,CHCH,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Canada,Geral,Star TV,http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Canada,Geral,Noovo,https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Chile,Geral,TVN G,https://sktv-forwarders.7m.pl/get.php?x=TVN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Chile,Geral,Canal 13,https://sktv-forwarders.7m.pl/get.php?x=Canal13,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Chile,Geral,Chilevision G,https://sktv-forwarders.7m.pl/get.php?x=Chilevision,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,China,Geral,CCTV-4 中文国际(亚) Y,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Cyprus,Geral,RIK 1 S,http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Cyprus,Geral,RIK 2 S,http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Cyprus,Geral,RIK HD,http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT1 G,https://sktv.plainrock127.xyz/get.php?x=CT1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT2 G,https://sktv.plainrock127.xyz/get.php?x=CT2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT24,https://sktv.plainrock127.xyz/get.php?x=CT24,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT sport G,https://sktv.plainrock127.xyz/get.php?x=CTsport,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT :D,https://sktv.plainrock127.xyz/get.php?x=CT_D,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT art,https://sktv.plainrock127.xyz/get.php?x=CTart,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,CT sport Plus G,https://sktv.plainrock127.xyz/get.php?x=CTsportPlus,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,Slagr Original S,https://stream-6.mazana.tv/slagr.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,Slagr Muzika S,https://stream-33.mazana.tv/slagr2.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,Slagr Premium S,https://stream-15.mazana.tv/slagrpremium.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,TN Live,https://sktv.plainrock127.xyz/get.php?x=NovaTNLive,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Czech Republic,Geral,TV Nova S,https://sktv.plainrock127.xyz/get.php?x=Nova,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Faroe Islands,Geral,Tingvarp,https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Finland,Geral,Sundom TV Y,https://www.youtube.com/@SundomTV/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Finland,Geral,Wor TV Y,https://www.youtube.com/@wor-tvr.f.4461/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,C8 D,https://www.dailymotion.com/video/x5gv5rr,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,LCP,https://lcp.fr/le-live-lcp-tnt-5433,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,Public Senat,https://www.publicsenat.fr/direct,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,CNews D,https://www.dailymotion.com/video/x3b68jn,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,franceinfo: Y,https://www.youtube.com/c/franceinfo/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,France 24 Y,https://www.youtube.com/c/FRANCE24/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,Euronews Francais Y,https://www.youtube.com/euronewsfr/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,Africanews Y,https://www.youtube.com/c/Africanewsfr/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,L'Equipe DG,https://www.dailymotion.com/video/x2lefik,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,France,Geral,France Inter Y,https://www.youtube.com/c/FranceInter/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Georgia,Geral,Rustavi 2,https://sktv-forwarders.7m.pl/get.php?x=Rustavi2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Germany,Geral,Euronews Deutsch Y,https://www.youtube.com/euronewsde/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,ERT 1 G,https://ertflix.ascdn.broadpeak.io/ertlive/ert1/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,ERT 2 G,https://ertflix.ascdn.broadpeak.io/ert2/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,ERT 3 G,https://ertflix.ascdn.broadpeak.io/ertlive/ert3/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,ERT Sports 1,https://ertflix-ertsports1.siliconweb.com/cmaf/618618_3479292/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,ERT Sports 4,https://ertflix.ascdn.broadpeak.io/ertlive/seasonal/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,Egnatia,https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,Star Central Greece,https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greece,Geral,Η Φωνη της Ελλαδας,https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greenland,Geral,KNR1 Y G,https://www.youtube.com/@KNRgreenland/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Greenland,Geral,KNR2 Y,https://www.youtube.com/@nutaarsiassat/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hong Kong,Geral,TVB News Channel,https://tvp22.sky4k.top/index1.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hong Kong,Geral,TVB Finance (Sports & Information Channel),https://tvp22.sky4k.top/index2.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,M1 Hirado Y,https://www.youtube.com/@M1-Hirado/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,RTL Klub,https://cdn.mediaklikk.org:443/rtl/00wMyEjM5UTM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,TV2,https://cdn.mediaklikk.org:443/tv2/00wMyEjM4UTM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,Hir TV,https://onlinestream.live/play.m3u?id=4740&ext=.m3u,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,Radio 1 Y,https://www.youtube.com/watch?v=I8dnZoF1nOE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,Euronews Hungarian Y,https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,M5 Hungary,http://152.66.115.226:33390/bysid/201,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,Duna TV,http://152.66.115.226:33391/bysid/102,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Hungary,Geral,Duna World / M4+ Sport,http://152.66.115.226:33391/bysid/103,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD National Y,https://www.youtube.com/doordarshan/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD News Y,https://www.youtube.com/c/ddnews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD India Y,https://www.youtube.com/DDIndia/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD Bharati Y,https://www.youtube.com/@ddbharati/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD Kisan Y,https://www.youtube.com/@DDKisan/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,DD Urdu Y,https://www.youtube.com/@DDUrdu/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,India Today Y,https://www.youtube.com/watch?v=sYZtOFzM78M,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,Aaj Tak Y,https://www.youtube.com/watch?v=Nq2wYlWFucg,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,India TV Y,https://www.youtube.com/watch?v=e1FIApIafWE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,TV9 Bharatvarsh Y,https://www.youtube.com/watch?v=nSpwwcHVp80,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,India,Geral,Republic Bharat Y,https://www.youtube.com/watch?v=3DbTO_AMhhc,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Today FM,https://stream.audioxi.com/TDAAC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,98FM,https://stream.audioxi.com/98,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,FM104,https://wg.cdn.tibus.net/fm104MP3128,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Radio Nova,https://stream.audioxi.com/NOVA,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Spin 103.8,https://stream.audioxi.com/SP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Newstalk,https://stream.audioxi.com/NT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Dublin's Q102,https://wg.cdn.tibus.net/q102MP3128,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Classic Hits,https://stream.audioxi.com/CLASSIC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ireland,Geral,Sunshine 106.8,https://live-bauerie.sharp-stream.com/SUN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Israel,Geral,9 канал Y,https://www.youtube.com/@israel9tv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai 1 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai 2 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai 3 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai 4 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai 5 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Movie G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Premium G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Gulp G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai YoYo G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai News 24 G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Storia G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Scuola G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Sport G,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Rai Radio 2 Visual Radio,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Telesveva,https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Tv Uno,http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Radio Colonna Tv Y,https://www.youtube.com/radiocolonna/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,TRM h24 Y,https://www.youtube.com/user/trmh24/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Euronews Italian Y,https://www.youtube.com/user/euronewsit/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Antenna Sicilia T,https://www.twitch.tv/antennasicilia,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Telecolor T,https://www.twitch.tv/telecolorlive,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,Teleroma 56 T,https://www.twitch.tv/teleroma_56,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Italy,Geral,TeleRadioStereo T,https://www.twitch.tv/teleradiostereo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Japan,Geral,GSTV,"https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)",channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS 1TV,http://mytv.dothome.co.kr/ch/public/1.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS 2TV,http://ye23.vip/z7z8/2021/kbs2020.php?id=2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS News D,http://ye23.vip/z7z8/2021/kbs2020.php?id=4,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Drama,http://ye23.vip/z7z8/2021/kbs2020.php?id=5,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Joy,http://ye23.vip/z7z8/2021/kbs2020.php?id=6,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Kids,http://ye23.vip/z7z8/2021/kbs2020.php?id=9,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Life,http://ye23.vip/z7z8/2021/kbs2020.php?id=7,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS World,http://ye23.vip/z7z8/2021/kbs2020.php?id=3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,KBS Korea Y,https://www.youtube.com/c/kbsworldtv/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Korea,Geral,All the K-Pop Y,https://www.youtube.com/c/ALLTHEKPOP/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Moldova,Geral,Moldova 1,https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Moldova,Geral,Moldova 2,https://www.tvkaista.net/stream-forwarder/get.php?x=Moldova2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Netherlands,Geral,NPO 1 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Netherlands,Geral,NPO 2 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Netherlands,Geral,NPO 3 G,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Netherlands,Geral,NH Nieuws,https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,North Korea,Geral,KCTV,https://tv.nknews.org/tvdash/stream.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP1,https://www.tvkaista.net/stream-forwarder/get.php?x=TVP1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP3 Warszawa,https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP Polonia,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPPolonia,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,Alfa TVP,https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP Info,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPInfo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,Belsat,http://149.5.17.34:20041/play/a076,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP World,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPWorld,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP ABC 2,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP Historia 2,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Poland,Geral,TVP Kultura 2,https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Portugal,Geral,CNN Portugal,https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Portugal,Geral,Euronews em Portugues Y,https://www.youtube.com/euronewspt/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Qatar,Geral,Alkass One,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassOne,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Qatar,Geral,Alkass Two,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassTwo,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Qatar,Geral,Alkass Three,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassThree,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Qatar,Geral,Alkass Four,https://www.tvkaista.net/stream-forwarder/get.php?x=AlkassFour,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Romania,Geral,Euronews Romania Y,https://www.youtube.com/euronewsro/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Первыи канал,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Россия 1,https://player.smotrim.ru/iframe/stream/live_id/2961,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Россия-Культура S,https://player.smotrim.ru/iframe/stream/live_id/19201,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Россия-24 S,https://player.smotrim.ru/iframe/stream/live_id/21,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Euronews по-русски Y,https://www.youtube.com/euronewsru/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,РТР-Планета S,https://player.smotrim.ru/iframe/stream/live_id/63251,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Арктика 24 V,https://vk.com/video-213370539_456239018,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Катунь 24 O,https://ok.ru/video/1166706155179,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Кубань 24 O,https://ok.ru/video/4157442498242,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Москва 24,https://player.smotrim.ru/iframe/stream/live_id/1661,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Саратов 24,https://saratov24.tv/online/playlist.php,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Вести ФМ,https://player.smotrim.ru/iframe/stream/live_id/52035,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Russia,Geral,Соловьев Live,https://player.smotrim.ru/iframe/stream/live_id/63338,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,:Jednotka,https://sktv.plainrock127.xyz/get.php?x=STV1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,:Dvojka,https://sktv.plainrock127.xyz/get.php?x=STV2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,:24,https://sktv.plainrock127.xyz/get.php?x=STV24,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,:Sport,https://sktv.plainrock127.xyz/get.php?x=SPORT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,:O,https://sktv.plainrock127.xyz/get.php?x=STV-O,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,STVR,https://sktv.plainrock127.xyz/get.php?x=RTVS,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,NR SR,https://sktv.plainrock127.xyz/get.php?x=NR_SR,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovakia,Geral,TA3 S,https://sktv.plainrock127.xyz/get.php?x=TA3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,TV SLO 1,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,TV SLO 2,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO2,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,TV SLO 3,https://www.tvkaista.net/stream-forwarder/get.php?x=TVSLO3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,TV Koper/Capodistria,https://www.tvkaista.net/stream-forwarder/get.php?x=TVKC,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,TV Maribor,https://www.tvkaista.net/stream-forwarder/get.php?x=TVMaribor,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,MMC TV,https://www.tvkaista.net/stream-forwarder/get.php?x=MMCTV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Slovenia,Geral,Nova 24 TV Y,https://www.youtube.com/@Nova24TVSlovenija/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Spain,Geral,Television Canaria Y,https://www.youtube.com/user/TelevisionCanaria/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Spain,Geral,IB3 Global Y,https://www.youtube.com/c/ib3/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,SVT 1 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svt1/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,SVT 2 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svt2/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,Kanal 10 Sverige,https://rrr.sz.xlcdn.com/?account=cn_kanal10media&file=live_transcoded&type=live&service=wowza&protocol=https&output=playlist.m3u8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,SVT 24 G,https://ed2.cdn.svt.se/ed7/d1/c/se/svtb/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,Kunskapskanalen G,https://ed2.cdn.svt.se/ed7/d1/c/se/svtk/manifest.mpd?defaultSubLang=1,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Sweden,Geral,Lokal-TV Uddevalla / Fyrbodal-TV Y,https://www.youtube.com/@LtvuSeTube/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Switzerland,Geral,SRF 1,http://51.91.73.99:25461/sweden/PM66f7Y43H/25849,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Switzerland,Geral,RTS Un,http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,CTV News Channel (中視新聞台) Y,https://www.youtube.com/watch?v=TCnaIE_SAtM,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,PTS Taigi (公視台語台) Y G,https://www.youtube.com/watch?v=6KlRR_DGhmI,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,TaiwanPlus Y,https://www.youtube.com/watch?v=dZp87qnWelE,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,民視無線台,http://seb.sason.top/ptv/ftv.php?id=ms,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,FTV One (民視第一台),http://seb.sason.top/ptv/ftv.php?id=dy,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,FTV News (民視新聞台) Y,https://www.youtube.com/watch?v=ylYJSBUgaMA,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,FTV Taiwan (民視台灣台),http://seb.sason.top/ptv/ftv.php?id=tw,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,TTV Main Channel (臺灣電視台) Y G,https://www.youtube.com/watch?v=uDqQo8a7Xmk,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,TTV News (台視新聞台) Y,https://www.youtube.com/watch?v=xL0ch83RAK8,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,Congress Channel 1 Y,https://www.youtube.com/watch?v=4HysYHJ6GkY,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Taiwan,Geral,Congress Channel 2 Y,https://www.youtube.com/watch?v=RAP4h3q6_Sg,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,CNC3,https://sktv-forwarders.7m.pl/get.php?x=CNC3,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,gayelle,https://sktv-forwarders.7m.pl/get.php?x=gayelle,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,Synergy TV,https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,TTT,https://sktv-forwarders.7m.pl/get.php?x=TTT,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,IBN,https://sktv-forwarders.7m.pl/get.php?x=IBN,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Trinidad,Geral,Trinity TV,https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,1+1 Ukraina S,http://212.79.122.11:5014/udp/239.255.6.49:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Inter,http://212.79.122.11:5014/udp/239.255.6.25:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Bigudi S,http://212.79.122.11:5014/udp/239.255.6.13:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Novyi Kanal,http://212.79.122.11:5014/udp/239.255.6.38:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,TET S,http://212.79.122.11:5014/udp/239.255.6.11:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,2+2 S,http://212.79.122.11:5014/udp/239.255.6.14:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,M1,http://212.79.122.11:5014/udp/239.255.6.28:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Mega,http://212.79.122.11:5014/udp/239.255.6.40:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,ПлюсПлюс S,http://212.79.122.11:5014/udp/239.255.6.12:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Ми — Украіна S,http://212.79.122.11:5014/udp/239.255.6.7:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Оце ТБ,http://212.79.122.11:5014/udp/239.255.6.4:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,K1,http://212.79.122.11:5014/udp/239.255.6.41:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Enter-Film,http://212.79.122.11:5014/udp/239.255.6.31:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,Піксель TV,http://212.79.122.11:5014/udp/239.255.6.30:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Ukraine,Geral,ДІМ,http://212.79.122.11:5014/udp/239.255.6.18:1234,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,USA,Geral,CNBC Y,https://www.youtube.com/c/CNBC/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,Venezuela,Geral,Venezolana de Television D,https://www.dailymotion.com/embed/video/x828i6j,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News AR,Geral,France 24 العربية Y,https://www.youtube.com/c/FRANCE24Arabic/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,Euronews Y,https://www.youtube.com/euronews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,Africanews Y,https://www.youtube.com/africanews/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,France 24 Y,https://www.youtube.com/france24english/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,ABC News (AU) Y,https://www.youtube.com/@abcnewsaustralia/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,TVC News Y,https://www.youtube.com/tvcnewsnigeria/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News,Geral,Channels 24 Y,https://www.youtube.com/channelstelevision/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News ES,Geral,Euronews Espanol Y,https://www.youtube.com/euronewses/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,News ES,Geral,France 24 Espanol Y,https://www.youtube.com/c/FRANCE24Espanol/live,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,VOD Italy,Geral,Grande Fratello Vip Regia 1 S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b7)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,VOD Italy,Geral,Grande Fratello Vip Regia 2 S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b8)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+,VOD Italy,Geral,Grande Fratello Vip Regia un'ora fa S G,https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b9)/manifest.mpd,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,nao_e_stream_direto
+Canais,VOD Italy,Pluto TV,Il Testimone – Pluto TV,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel,channel-playlist:free-tv-br,sources/channel_playlist_items.csv,titulo_invalido_ou_teste
+,Movies,Geral,&xplor HD (720p),https://mini.allinonereborn.fun/tata.php?id=11619,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,"like Gecko) Chrome/144.0.0.0 Safari/537.36' group-title='Movies',Cinema (1080p)",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Cinema One (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,CineMo (1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Film4 (1080p),http://80.194.62.172:50002/stream/channelid/1764271106,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,FX Movie Channel (720p) Not 24/7,https://tvpass.org/live/FXMovieChannel/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Hallmark Movies & Mysteries East (1080p) Not 24/7,https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,IFC East (720p) Not 24/7,https://tvpass.org/live/IFCEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Kino Barrandov (720p),http://83.167.253.107/hdmi1_ext,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Lifetime Movies East (720p) Not 24/7,https://tvpass.org/live/LifetimeMoviesEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,"like Gecko) Chrome/144.0.0.0 Safari/537.36' group-title='Movies',MovieBox (1080p)",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,MovieSmart Turk (576p),http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Rai Movie (576p) Geo-blocked,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Star Gold 2 (576p),http://103.253.18.58:8000/play/a00r,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Star Gold Romance (576p),http://103.253.18.58:8000/play/a017,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Star Gold Thrills (576p),http://103.253.18.58:8000/play/a00o,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Star Utsav Movies (576p),http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Movies,Geral,Universal Cinema (480p),http://190.2.212.209:8050/play/a0q3,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Comedy - Movies - Series,Geral,Universal Comedy (480p),http://190.2.212.209:8050/play/a0q4,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Comedy - Movies - Series - Sports,Geral,USA Network East (1080p) Not 24/7,https://tvpass.org/live/USANetworkEast/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Classic - Movies,Geral,Смотрим 100% Классика,https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,Dlife (1080p),https://43.100.9.67/api/streams/live/cs312/1080p/mpegts,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,Hallmark Drama (720p) Not 24/7,https://tvpass.org/live/HallmarkDrama/hd,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Entertainment - General - Series,Geral,HTV3 (720p),https://vc.101vn.com/htv/htvcmb.php?id=2535,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,U&Alibi (576p),http://92.114.85.72:8000/play/a0bi,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,Univision Tlnovelas Not 24/7,https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,Смотрим 100% Любовь,https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
+,Series,Geral,Смотрим 100% Мужское,https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d,iptv-org,sources/iptv_org_vod.csv,nao_e_stream_direto
