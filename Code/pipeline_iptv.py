@@ -42,6 +42,9 @@ DEFAULT_POSTERS = {
     "Adultos": "https://placehold.co/600x900/111218/e23b3b?text=18%2B",
 }
 
+LIVE_HINTS = ["pluto", "rakuten", "wurl", "mediatailor", "amagi", "stitch", "live", "channel", "linear", "playlist.m3u8", "master.m3u8", "iptv-org", "channel-playlist", "free-tv"]
+VOD_HINTS = ["vod", "episode", "episodio", "episódio", "anime", "external-anime", "drewlivevod", "movie/", "/movies/", "/series/", "s00", "s01", "s02", "s03"]
+
 CHANNEL_RULES = [
     ("Jogos em Destaque", ["jogo", "futebol", "soccer", "sports", "sport", "espn", "premiere", "combate", "nba", "nfl", "tennis", "ufc"]),
     ("Noticias", ["news", "noticias", "cnn", "bbc", "record news", "jovem pan", "globonews"]),
@@ -51,65 +54,25 @@ CHANNEL_RULES = [
     ("Band", ["band", "bandsports"]),
     ("Abertos", ["aberto", "open tv", "tv aberta"]),
     ("Infantil", ["kids", "infantil", "cartoon", "disney", "nick", "toon"]),
-    ("Filmes e Series", ["hbo", "telecine", "cinemax", "tnt", "warner", "sony", "axn", "space", "studio universal", "universal tv", "amc"]),
+    ("Filmes e Series", ["hbo", "telecine", "cinemax", "tnt", "warner", "sony", "axn", "space", "studio universal", "universal tv", "amc", "movies", "movie", "cinema", "series"]),
     ("Adultos", ADULT_KEYWORDS),
 ]
-
-MOVIE_RULES = [
-    ("Lancamentos", ["lancamento", "lançamento", "release", "new", "2026", "2025"]),
-    ("Cinema", ["cinema", "theater", "cam", "bluray", "bdrip"]),
-    ("Animacao", ["animation", "animacao", "animação", "cartoon"]),
-    ("Classicos", ["classic", "classico", "clássico", "oldies"]),
-    ("Acao", ["action", "acao", "ação", "fight", "martial"]),
-    ("Aventura", ["adventure", "aventura"]),
-    ("Drama", ["drama"]),
-    ("Ficcao", ["sci-fi", "scifi", "ficcao", "ficção", "science fiction"]),
-    ("Crime", ["crime", "policial", "gangster"]),
-    ("Misterio", ["mystery", "misterio", "mistério"]),
-    ("Thriller", ["thriller", "suspense"]),
-    ("Terror", ["horror", "terror"]),
-    ("Comedia", ["comedy", "comedia", "comédia"]),
-    ("Familia", ["family", "familia", "família"]),
-    ("Documentario", ["documentary", "documentario", "documentário"]),
-    ("Adultos", ADULT_KEYWORDS),
-]
-
-SERIES_RULES = [
-    ("Anime", ANIME_KEYWORDS),
-    ("Lancamentos", ["lancamento", "lançamento", "release", "new", "2026", "2025"]),
-    ("Novelas | Brasileiras", ["novela brasileira", "brasileira", "globoplay novela", "novelas brasileiras"]),
-    ("Novelas | Turcas", ["turca", "turcas", "turkish"]),
-    ("Doramas", ["dorama", "doramas", "kdrama", "k-drama", "korean drama"]),
-    ("Netflix", ["netflix"]),
-    ("Prime Video", ["prime video", "amazon prime", "prime"]),
-    ("Disney+", ["disney", "disney+"]),
-    ("Max", ["hbo max", "max"]),
-    ("Globoplay", ["globoplay"]),
-    ("Paramount+", ["paramount"]),
-    ("Adultos", ADULT_KEYWORDS),
-]
-
+MOVIE_RULES = [("Lancamentos", ["lancamento", "lançamento", "release", "new", "2026", "2025"]),("Cinema", ["cinema", "theater", "cam", "bluray", "bdrip"]),("Animacao", ["animation", "animacao", "animação", "cartoon"]),("Classicos", ["classic", "classico", "clássico", "oldies"]),("Acao", ["action", "acao", "ação", "fight", "martial"]),("Aventura", ["adventure", "aventura"]),("Drama", ["drama"]),("Ficcao", ["sci-fi", "scifi", "ficcao", "ficção", "science fiction"]),("Crime", ["crime", "policial", "gangster"]),("Misterio", ["mystery", "misterio", "mistério"]),("Thriller", ["thriller", "suspense"]),("Terror", ["horror", "terror"]),("Comedia", ["comedy", "comedia", "comédia"]),("Familia", ["family", "familia", "família"]),("Documentario", ["documentary", "documentario", "documentário"]),("Adultos", ADULT_KEYWORDS)]
+SERIES_RULES = [("Anime", ANIME_KEYWORDS),("Lancamentos", ["lancamento", "lançamento", "release", "new", "2026", "2025"]),("Novelas | Brasileiras", ["novela brasileira", "brasileira", "globoplay novela", "novelas brasileiras"]),("Novelas | Turcas", ["turca", "turcas", "turkish"]),("Doramas", ["dorama", "doramas", "kdrama", "k-drama", "korean drama"]),("Netflix", ["netflix"]),("Prime Video", ["prime video", "amazon prime", "prime"]),("Disney+", ["disney", "disney+"]),("Max", ["hbo max", "max"]),("Globoplay", ["globoplay"]),("Paramount+", ["paramount"]),("Adultos", ADULT_KEYWORDS)]
 
 def ensure_dirs():
-    Path("web").mkdir(exist_ok=True)
-    Path("output").mkdir(exist_ok=True)
-    Path(LOG_DIR).mkdir(exist_ok=True)
-
+    Path("web").mkdir(exist_ok=True); Path("output").mkdir(exist_ok=True); Path(LOG_DIR).mkdir(exist_ok=True)
 
 def strip_accents(value):
-    text = str(value or "")
-    return "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
-
+    return "".join(c for c in unicodedata.normalize("NFKD", str(value or "")) if not unicodedata.combining(c))
 
 def safe_text(value, max_len=140):
-    text = strip_accents(value)
-    text = text.replace("\ufeff", " ").replace("\n", " ").replace("\r", " ").replace("\t", " ")
+    text = strip_accents(value).replace("\ufeff", " ").replace("\n", " ").replace("\r", " ").replace("\t", " ")
     text = text.replace('"', "'").replace("`", "'")
     text = re.sub(r"[<>{}\[\]()]", " ", text)
     text = re.sub(r"[\x00-\x1f\x7f]", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
     return text[:max_len]
-
 
 def safe_group(value):
     text = safe_text(value, 80)
@@ -120,41 +83,34 @@ def safe_group(value):
     text = re.sub(r"\s+", " ", text).strip(" -")
     return text or "Geral"
 
-
+def texto_item(*partes): return strip_accents(" ".join(str(p or "") for p in partes)).lower()
+def contem(texto, termos): return any(t in texto for t in termos)
 def stream_ext(url):
     clean = (url or "").split("?")[0].lower()
     return clean.rsplit(".", 1)[-1] if "." in clean else ""
+def is_stream_url(url): return (url or "").split("?")[0].lower().endswith((".m3u8", ".mp4", ".ts"))
 
-
-def is_stream_url(url):
-    return (url or "").split("?")[0].lower().endswith((".m3u8", ".mp4", ".ts"))
-
-
-def infer_tipo_por_url(url):
+def infer_tipo_por_contexto(url, grupo_original, titulo, categoria, fonte, source_file=""):
     ext = stream_ext(url)
+    texto = texto_item(grupo_original, titulo, categoria, fonte, source_file, url)
     if ext == "ts": return "Canais"
-    if ext in ["mp4", "m3u8"]: return "VOD"
+    if ext == "mp4": return "VOD"
+    if ext == "m3u8":
+        if "channel_playlist_items" in texto or "iptv_org_vod" in texto or contem(texto, LIVE_HINTS):
+            return "Canais"
+        if contem(texto, VOD_HINTS) and contem(texto, SERIES_HINTS + MOVIE_HINTS):
+            return "VOD"
+        return "Canais"
     return "INVALIDO"
-
-
-def contem(texto, termos):
-    return any(t in texto for t in termos)
-
-
-def texto_item(*partes):
-    return strip_accents(" ".join(str(p or "") for p in partes)).lower()
-
 
 def first_rule(texto, rules):
     for label, terms in rules:
-        if contem(texto, terms):
-            return label
+        if contem(texto, terms): return label
     return None
 
-
-def infer_grupo_final(grupo_original, titulo, categoria, fonte, url):
-    tipo = infer_tipo_por_url(url)
-    texto = texto_item(grupo_original, titulo, categoria, fonte, url)
+def infer_grupo_final(grupo_original, titulo, categoria, fonte, url, source_file=""):
+    tipo = infer_tipo_por_contexto(url, grupo_original, titulo, categoria, fonte, source_file)
+    texto = texto_item(grupo_original, titulo, categoria, fonte, source_file, url)
     if tipo == "Canais": return "Canais"
     if tipo == "VOD":
         if contem(texto, SERIES_HINTS): return "Series"
@@ -164,76 +120,54 @@ def infer_grupo_final(grupo_original, titulo, categoria, fonte, url):
         return "Series"
     return ""
 
-
-def editorial_category(grupo, categoria, titulo, fonte, description, url, is_adult=False, is_anime=False):
-    texto = texto_item(grupo, categoria, titulo, fonte, description, url)
-    if is_adult:
-        return "Adultos"
-    if grupo == "Canais":
-        return first_rule(texto, CHANNEL_RULES) or "Abertos"
-    if grupo == "Filmes":
-        return first_rule(texto, MOVIE_RULES) or fallback_category(categoria, "Filmes") or "Cinema"
-    if grupo == "Series":
-        if is_anime:
-            return "Anime"
-        return first_rule(texto, SERIES_RULES) or fallback_category(categoria, "Series") or "Lancamentos"
-    return "Geral"
-
-
 def fallback_category(categoria, grupo):
-    cat = safe_group(categoria or "")
-    key = strip_accents(cat).lower()
-    if not cat or key in COUNTRY_OR_LOW_VALUE or key == grupo.lower():
-        return ""
+    cat = safe_group(categoria or ""); key = strip_accents(cat).lower()
+    if not cat or key in COUNTRY_OR_LOW_VALUE or key == grupo.lower(): return ""
     if key in CATEGORY_MAP:
         mapped = CATEGORY_MAP[key]
-        if mapped in ["Filmes", "Series"]:
-            return ""
+        if mapped in ["Filmes", "Series"]: return ""
         return mapped
     return cat
 
+def editorial_category(grupo, categoria, titulo, fonte, description, url, is_adult=False, is_anime=False):
+    texto = texto_item(grupo, categoria, titulo, fonte, description, url)
+    if is_adult: return "Adultos"
+    if grupo == "Canais": return first_rule(texto, CHANNEL_RULES) or "Abertos"
+    if grupo == "Filmes": return first_rule(texto, MOVIE_RULES) or fallback_category(categoria, "Filmes") or "Cinema"
+    if grupo == "Series":
+        if is_anime: return "Anime"
+        return first_rule(texto, SERIES_RULES) or fallback_category(categoria, "Series") or "Lancamentos"
+    return "Geral"
 
 def slug(value):
     value = strip_accents(value or "item").lower().strip()
     value = re.sub(r"[^a-z0-9]+", "_", value)
     return value.strip("_") or "item"
 
-
 def iptv_group_name(obra):
     group = safe_group(obra.get("group") or "Outros")
-    if group not in ["Canais", "Filmes", "Series"]:
-        group = "Outros"
+    if group not in ["Canais", "Filmes", "Series"]: group = "Outros"
     category = safe_group(obra.get("iptvCategory") or obra.get("category") or "Geral")
     return safe_group(f"{group} | {category}")
 
-
 def title_case(value):
-    text = safe_text(value)
-    small = {"da", "de", "do", "das", "dos", "e", "a", "o"}
-    parts = []
-    for p in text.split():
-        parts.append(p.lower() if p.lower() in small else p[:1].upper() + p[1:])
+    text = safe_text(value); small = {"da", "de", "do", "das", "dos", "e", "a", "o"}; parts=[]
+    for p in text.split(): parts.append(p.lower() if p.lower() in small else p[:1].upper() + p[1:])
     return " ".join(parts)
-
 
 def normalizar_grupo(value):
     raw = (value or "").strip().lower()
     mapa = {"canais":"Canais","canal":"Canais","live":"Canais","lives":"Canais","filmes":"Filmes","filme":"Filmes","movies":"Filmes","movie":"Filmes","series":"Series","séries":"Series","serie":"Series","série":"Series","shows":"Series"}
     return mapa.get(raw, value.strip() if value else "")
 
-
 def normalizar_categoria(value, grupo=""):
-    parts = re.split(r"[;|,/]+", value or "")
-    clean = []
+    parts = re.split(r"[;|,/]+", value or ""); clean=[]
     for part in parts:
         key = part.strip().lower()
         if not key: continue
-        mapped = CATEGORY_MAP.get(key, part.strip())
-        mapped = safe_group(mapped)
-        if mapped not in clean and mapped != grupo:
-            clean.append(mapped)
+        mapped = CATEGORY_MAP.get(key, part.strip()); mapped = safe_group(mapped)
+        if mapped not in clean and mapped != grupo: clean.append(mapped)
     return clean[0] if clean else "Geral"
-
 
 def clean_title(value):
     text = value or ""
@@ -247,24 +181,19 @@ def clean_title(value):
     text = re.sub(r"\s+", " ", text).strip(" -_|.")
     return title_case(text or value or "Sem titulo")
 
-
 def normalized_display_title(titulo, grupo):
     title = clean_title(titulo)
-    if grupo != "Canais":
-        title = re.sub(r"\b(?:tv|channel|canal|live)\b$", "", title, flags=re.I).strip()
+    if grupo != "Canais": title = re.sub(r"\b(?:tv|channel|canal|live)\b$", "", title, flags=re.I).strip()
     return title_case(title)
-
 
 def is_invalid_title(title):
     lower = strip_accents(title).lower().strip()
     return any(w in lower for w in INVALID_TITLE_WORDS) or len(lower) < 2
 
-
 def default_logo(group, is_anime=False, is_adult=False):
     if is_adult: return DEFAULT_POSTERS["Adultos"]
     if is_anime: return DEFAULT_POSTERS["Anime"]
     return DEFAULT_POSTERS.get(group, DEFAULT_POSTERS["Series"])
-
 
 def episode_number(title):
     patterns = [r"S(\d{1,2})E(\d{1,3})", r"(?:ep|epis[oó]dio|episodio|episode)\s*\.?\s*(\d+)", r"\b(\d{1,4})\b$"]
@@ -275,25 +204,18 @@ def episode_number(title):
             except Exception: pass
     return None
 
-
 def obra_key(item):
     base = item.get("anime") or clean_title(item.get("titulo"))
     return (item.get("grupo"), slug(base))
 
-
 def group_title(item):
-    base = safe_group(item.get("grupo") or "Geral")
-    categoria = safe_group(item.get("iptv_categoria") or item.get("categoria") or "Geral")
-    return f"{base} | {categoria}"
-
+    return f"{safe_group(item.get('grupo') or 'Geral')} | {safe_group(item.get('iptv_categoria') or item.get('categoria') or 'Geral')}"
 
 def tvg_type(grupo): return "live" if grupo == "Canais" else "movie" if grupo == "Filmes" else "series"
-
 
 def classificar_flags(grupo, categoria, titulo, description):
     texto = texto_item(grupo, categoria, titulo, description)
     return contem(texto, ANIME_KEYWORDS) or contem(texto, ADULT_KEYWORDS), contem(texto, ADULT_KEYWORDS), contem(texto, EXCLUDE_KEYWORDS)
-
 
 def carregar_csv(path):
     if not os.path.exists(path): return [], []
@@ -308,7 +230,7 @@ def carregar_csv(path):
         fonte = (row.get("fonte") or row.get("source") or path).strip()
         categoria_raw = normalizar_categoria(row.get("categoria") or row.get("category") or "Geral", grupo_original)
         url = (row.get("stream_url") or row.get("url") or "").strip()
-        grupo = infer_grupo_final(grupo_original, titulo_raw, categoria_raw, fonte, url)
+        grupo = infer_grupo_final(grupo_original, titulo_raw, categoria_raw, fonte, url, path)
         titulo = normalized_display_title(titulo_raw, grupo)
         logo = (row.get("logo") or row.get("tvg-logo") or "").strip()
         description = (row.get("description") or row.get("descricao") or "").strip()
@@ -331,7 +253,6 @@ def carregar_csv(path):
         else: validos.append(item)
     return validos, invalidos
 
-
 def carregar_catalogos():
     todos, invalidos = [], []
     for source in CATALOG_SOURCES:
@@ -340,18 +261,16 @@ def carregar_catalogos():
         todos.extend(itens); invalidos.extend(ruins)
     return todos, invalidos
 
-
 def calcular_score(item, qtd_fontes=1):
     ext = stream_ext(item["stream_url"])
     score = 100 if ext == "m3u8" else 70 if ext == "mp4" else 45 if ext == "ts" else 0
-    if item.get("grupo") == "Canais" and ext == "ts": score += 20
-    if item.get("grupo") in ["Series", "Filmes"] and ext in ["mp4", "m3u8"]: score += 15
+    if item.get("grupo") == "Canais" and ext in ["ts", "m3u8"]: score += 20
+    if item.get("grupo") in ["Series", "Filmes"] and ext == "mp4": score += 20
     if item.get("is_anime") == "true": score += 12
     if item.get("logo"): score += 5
     if item.get("description"): score += 3
     score += min(qtd_fontes, 5) * 2
     return score
-
 
 def melhor_por_episodio_com_fallback(items):
     grupos = {}
@@ -369,71 +288,54 @@ def melhor_por_episodio_com_fallback(items):
         escolhidos.append(best)
     return escolhidos
 
-
 def gerar_cluster(items):
     clusters = {}
     for item in melhor_por_episodio_com_fallback(items):
-        key = obra_key(item)
-        obra_nome = item.get("anime") or clean_title(item.get("titulo"))
+        key = obra_key(item); obra_nome = item.get("anime") or clean_title(item.get("titulo"))
         if key not in clusters:
             clusters[key] = {"title": safe_text(obra_nome),"group": item["grupo"],"category": item["categoria"],"iptvCategory": item.get("iptv_categoria", "Geral"),"groupTitle": group_title(item),"logo": item.get("logo", ""),"description": item.get("description", ""),"rating": item.get("rating", ""),"isAnime": item.get("is_anime") == "true","isAdult": item.get("is_adult") == "true","score": 0,"sourcesCount": 0,"episodes": []}
         ep = item.get("episodio") or len(clusters[key]["episodes"]) + 1
         clusters[key]["episodes"].append({"title": safe_text(item["titulo"]),"episode": ep,"url": item["stream_url"],"source": item.get("fonte", ""),"subtitle": item.get("subtitle", ""),"score": item.get("score", 0),"logo": item.get("logo", ""),"alternatives": item.get("alternatives", [])})
-        clusters[key]["score"] = max(clusters[key]["score"], item.get("score", 0))
-        clusters[key]["sourcesCount"] += item.get("sources_count", 1)
+        clusters[key]["score"] = max(clusters[key]["score"], item.get("score", 0)); clusters[key]["sourcesCount"] += item.get("sources_count", 1)
         if not clusters[key].get("logo") and item.get("logo"): clusters[key]["logo"] = item["logo"]
     result = list(clusters.values())
     for c in result:
         c["episodes"].sort(key=lambda e: (int(e["episode"]) if str(e["episode"]).isdigit() else 999999, e["title"]))
-        c["episodeCount"] = len(c["episodes"])
-        first = c["episodes"][0] if c["episodes"] else {}
-        c["url"] = first.get("url", "")
-        c["source"] = first.get("source", "")
-        c["subtitle"] = first.get("subtitle", "")
+        c["episodeCount"] = len(c["episodes"]); first = c["episodes"][0] if c["episodes"] else {}
+        c["url"] = first.get("url", ""); c["source"] = first.get("source", ""); c["subtitle"] = first.get("subtitle", "")
     return sorted(result, key=lambda x: (x["group"], x.get("iptvCategory", x["category"]), -x["score"], x["title"]))
-
 
 def gerar_m3u(clusters, caminho, mode="iptv"):
     with open(caminho, "w", encoding="utf-8", newline="\n") as f:
-        f.write("#EXTM3U\n")
-        idx = 1
+        f.write("#EXTM3U\n"); idx = 1
         for obra in clusters:
             for ep in obra.get("episodes", []):
-                if not is_stream_url(ep.get("url")):
-                    continue
+                if not is_stream_url(ep.get("url")): continue
                 title = safe_text(ep.get("title") or obra.get("title") or "Sem titulo")
                 logo = safe_text(ep.get("logo") or obra.get("logo") or "", 300)
                 group = iptv_group_name(obra) if mode == "iptv" else safe_group(obra.get("groupTitle") or "Geral")
                 tvg_id = f"{slug(obra.get('group'))}_{idx}"
                 f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{title}" tvg-logo="{logo}" tvg-type="{tvg_type(obra.get("group"))}" group-title="{group}",{title}\n')
-                f.write(f"{ep['url']}\n")
-                idx += 1
+                f.write(f"{ep['url']}\n"); idx += 1
     print(f"Gerado {caminho}: {idx-1} item(ns)")
 
-
 def gerar_json(items, caminho):
-    with open(caminho, "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=2)
+    with open(caminho, "w", encoding="utf-8") as f: json.dump(items, f, ensure_ascii=False, indent=2)
     print(f"Gerado {caminho}: {len(items)} item(ns)")
-
 
 def gerar_flat_json(clusters):
     payload = []
     for obra in clusters:
-        item = dict(obra); item["url"] = obra.get("url", "")
-        payload.append(item)
+        item = dict(obra); item["url"] = obra.get("url", ""); payload.append(item)
     gerar_json(payload, OUTPUT_JSON); gerar_json(clusters, OUTPUT_CLUSTERED_JSON)
-
 
 def gerar_csv(caminho, rows, fields):
     with open(caminho, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore"); writer.writeheader(); writer.writerows(rows)
     print(f"Gerado {caminho}: {len(rows)} linha(s)")
 
-
 def main():
-    ensure_dirs()
-    itens, invalidos = carregar_catalogos()
+    ensure_dirs(); itens, invalidos = carregar_catalogos()
     stream_items = [i for i in itens if i.get("stream_url", "").startswith("http") and is_stream_url(i.get("stream_url"))]
     clusters = gerar_cluster(stream_items)
     gerar_m3u(clusters, OUTPUT_M3U, mode="iptv"); gerar_m3u(clusters, OUTPUT_MASTER, mode="iptv")
@@ -443,8 +345,7 @@ def main():
     gerar_flat_json(clusters)
     gerar_csv(INVALID_CSV, invalidos, ["grupo","categoria","titulo","stream_url","fonte","source_file","motivo"])
     gerar_csv("logs/catalog_summary.csv", [{"metric":"total_titles","value":len(clusters)},{"metric":"total_episodes","value":sum(len(c.get("episodes", [])) for c in clusters)},{"metric":"canais","value":sum(1 for c in clusters if c["group"] == "Canais")},{"metric":"series","value":sum(1 for c in clusters if c["group"] == "Series")},{"metric":"filmes","value":sum(1 for c in clusters if c["group"] == "Filmes")},{"metric":"anime","value":sum(1 for c in clusters if c.get("isAnime"))},{"metric":"adult","value":sum(1 for c in clusters if c.get("isAdult"))}], ["metric","value"])
-    print("IPTV editorializado por categoria finalizado com sucesso.")
-
+    print("IPTV com separacao live/VOD por contexto finalizado com sucesso.")
 
 if __name__ == "__main__":
     main()
