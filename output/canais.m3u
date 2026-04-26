@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="canais_1" tvg-name="Canvas" tvg-logo="https://i.imgur.com/GQkhACx.png" tvg-type="live" group-title="Canais | Belgium",Canvas
+#EXTINF:-1 tvg-id="canais_1" tvg-name="Canvas" tvg-logo="https://i.imgur.com/GQkhACx.png" tvg-type="live" group-title="Canais | Abertos",Canvas
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.ts
-#EXTINF:-1 tvg-id="canais_2" tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" tvg-type="live" group-title="Canais | Belgium",Club RTL
+#EXTINF:-1 tvg-id="canais_2" tvg-name="Club RTL" tvg-logo="https://i.imgur.com/e9GkFwY.png" tvg-type="live" group-title="Canais | Abertos",Club RTL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.ts
-#EXTINF:-1 tvg-id="canais_3" tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" tvg-type="live" group-title="Canais | Belgium",La Trois
+#EXTINF:-1 tvg-id="canais_3" tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" tvg-type="live" group-title="Canais | Abertos",La Trois
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.ts
-#EXTINF:-1 tvg-id="canais_4" tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" tvg-type="live" group-title="Canais | Belgium",Plug RTL
+#EXTINF:-1 tvg-id="canais_4" tvg-name="Plug RTL" tvg-logo="https://i.imgur.com/iAZZWkZ.png" tvg-type="live" group-title="Canais | Abertos",Plug RTL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.ts
-#EXTINF:-1 tvg-id="canais_5" tvg-name="VIER" tvg-logo="https://i.imgur.com/bFTXP2e.png" tvg-type="live" group-title="Canais | Belgium",VIER
+#EXTINF:-1 tvg-id="canais_5" tvg-name="VIER" tvg-logo="https://i.imgur.com/bFTXP2e.png" tvg-type="live" group-title="Canais | Abertos",VIER
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
-#EXTINF:-1 tvg-id="canais_6" tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" tvg-type="live" group-title="Canais | Belgium",VIJF
+#EXTINF:-1 tvg-id="canais_6" tvg-name="VIJF" tvg-logo="https://i.imgur.com/DTJLkiP.png" tvg-type="live" group-title="Canais | Abertos",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
-#EXTINF:-1 tvg-id="canais_7" tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" tvg-type="live" group-title="Canais | Belgium",VTM
+#EXTINF:-1 tvg-id="canais_7" tvg-name="VTM" tvg-logo="https://i.imgur.com/fUxRP9x.png" tvg-type="live" group-title="Canais | Abertos",VTM
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts
