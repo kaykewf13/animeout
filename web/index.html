@@ -14,8 +14,8 @@
       <div class="brand">AnimeOut<span>Premium</span></div>
       <div class="toplinks">
         <a href="install.html">Instalar IPTV</a>
+        <a href="#continueRailBlock">Continuar</a>
         <a href="#catalogo">Catálogo</a>
-        <a href="#playerPanel">Player</a>
         <a href="../valid_links.m3u">M3U</a>
       </div>
     </nav>
@@ -26,6 +26,7 @@
       <p class="subtitle" id="heroSubtitle">Streams organizados em formato M3U e experiência web com busca, filtros e player HLS.</p>
       <div class="heroActions">
         <button id="heroPlay">▶ Assistir destaque</button>
+        <button id="favoriteCurrent" class="ghost">☆ Favoritar</button>
         <a class="ghostLink" href="install.html">📺 Usar no IPTV</a>
       </div>
     </div>
@@ -41,6 +42,7 @@
         <button class="tab" data-group="Canais">Canais</button>
         <button class="tab" data-group="Series">Series</button>
         <button class="tab" data-group="Filmes">Filmes</button>
+        <button class="tab" data-filter="favorites">⭐ Favoritos</button>
         <button class="tab" data-filter="anime">🎎 Anime</button>
         <button class="tab adultTab" data-filter="adult">18+</button>
       </div>
@@ -59,6 +61,8 @@
         <p id="nowMeta">Aguardando stream...</p>
         <p id="nowDescription" class="desc"></p>
         <p class="tiny" id="nowSource"></p>
+        <div class="progressShell"><div id="watchProgress" class="watchProgress"></div></div>
+        <div id="sourceSelector" class="sourceSelector"></div>
       </div>
     </section>
 
@@ -68,6 +72,16 @@
         <span id="episodeBadge">0 eps</span>
       </div>
       <div id="episodeList" class="episodeList"></div>
+    </section>
+
+    <section id="continueRailBlock" class="railBlock hidden">
+      <div class="sectionTitle"><h2>▶ Continuar assistindo</h2><span id="continueBadge">0 itens</span></div>
+      <div id="continueRail" class="rail"></div>
+    </section>
+
+    <section id="favoritesRailBlock" class="railBlock hidden">
+      <div class="sectionTitle"><h2>⭐ Favoritos</h2><span id="favoritesBadge">0 itens</span></div>
+      <div id="favoritesRail" class="rail"></div>
     </section>
 
     <section id="destaques" class="railBlock">
