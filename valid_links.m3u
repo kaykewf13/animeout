@@ -4493,8 +4493,6 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Cafe Film
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",CCTV-6 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/7/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Charge! (1080p)
