@@ -4471,10 +4471,8 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playl
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Kadak (1080p) [Not 24/7]
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 group-title="CANAIS",B4U Movies APAC (720p)
-https://bostaflix.vercel.app/api/roarzone.m3u8?stream=edge3/b4u-movies-apac
-#EXTINF:-1 group-title="CANAIS",B4U Movies India (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 group-title="CANAIS",B4U Movies (1080p) [Geo-blocked]
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 group-title="CANAIS",Bhojpuri Cinema (720p)
