@@ -39,7 +39,7 @@ Filmes,Classic;Movies,Artflix Movie Classics (720p),https://amogonetworx-artflix
 Filmes,Movies,Asianet Movies (576p),https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8,https://i.imgur.com/cps67hs.png,AsianetMovies.in@SD,iptv-org
 Filmes,Movies,Atrescine (1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png,Atrescine.es@SD,iptv-org
 Filmes,Movies,Aurora Media Films (720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8,https://i.imgur.com/DVC5w6H.png,AuroraMediaFilms.gt@SD,iptv-org
-Filmes,Movies,AXN Asia Indonesia (1080p) [Geo-blocked],http://103.58.160.157:8278/720-AXN/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
+Filmes,Movies;Series,AXN Asia Indonesia (1080p) [Geo-blocked],http://103.58.160.157:8278/720-AXN/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
 Filmes,Movies,AXN Latin America South (2160p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@South,iptv-org
 Filmes,Movies,B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@SD,iptv-org
 Filmes,Movies,B4U Kadak (1080p) [Not 24/7],https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8,https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540,B4UKadak.in@SD,iptv-org
@@ -347,7 +347,7 @@ Filmes,Comedy;Movies;Series;Sports,USA Network East (1080p) [Not 24/7],https://t
 Filmes,Movies,Viasat Kino (576p),http://89.254.128.5:22280/viasat_kino/index.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@SD,iptv-org
 Filmes,Movies,Viasat Kino Action (576p),http://89.254.128.5:22280/viasat_kino_action/index.m3u8,https://i.imgur.com/HwsNIDK.png,ViasatKinoAction.ua@SD,iptv-org
 Filmes,Movies,Victor Valley Movies (1080p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8,https://i.imgur.com/zgiuNNj.png,VictorValleyTV.us@SD,iptv-org
-Filmes,Movies,Vijay Super (576p),http://ptuf.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8,https://i.imgur.com/3MWm9nD.png,VijaySuper.in@SD,iptv-org
+Filmes,Movies,Vijay Super (576p),http://103.157.248.140:8000/play/a05l/index.m3u8,https://i.imgur.com/3MWm9nD.png,VijaySuper.in@SD,iptv-org
 Filmes,Movies,viju TV1000 Русское,http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8,https://i.imgur.com/Meak2y4.png,vijuTV1000russkoe.ru@SD,iptv-org
 Filmes,Movies,Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8,https://i.imgur.com/cQkfRhH.png,WildSideTV.fr@SD,iptv-org
 Filmes,Movies,WOWOW Cinema (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07,https://i.imgur.com/Wx9fkCW.png,WOWOWCinema.jp@SD,iptv-org
