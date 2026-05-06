@@ -55,6 +55,7 @@ Filmes,Movies,Bravo Farsi TV (360p),https://bravoohls.wns.live/hls/stream.m3u8,h
 Filmes,Movies,Cafe Film,https://cafefhls.wns.live/hls/stream.m3u8,,CafeFilm.ir@SD,iptv-org
 Filmes,Movies,Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8,https://i.imgur.com/Mb5ssnu.png,CelestialMovies.hk@SD,iptv-org
 Filmes,Movies,Charge! (1080p),https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8,https://i.imgur.com/1rxmu2u.png,Charge.us@SD,iptv-org
+Filmes,Movies,CINDIE TV (1080p),https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi,https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png,CINDIETV.br@HD,iptv-org
 Filmes,Movies,Cine 34 [Geo-blocked],https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/960px-Cine34_logo.svg.png,Cine34.it@SD,iptv-org
 Filmes,Movies,Cine adrenalina,https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8,https://i.imgur.com/njCKaMv.png,CineAdrenalina.us@SD,iptv-org
 Filmes,Movies,Cine Clásico,https://jmp2.uk/plu-64b9671cdac71b0008f371df.m3u8,https://i.imgur.com/hCA5BRr.png,PlutoTVCineClasico.us@US,iptv-org
@@ -95,7 +96,7 @@ Filmes,Movies,ETV Cinema HD (1080p),https://d1q7j6ha51ro6f.cloudfront.net/v1/mas
 Filmes,Animation;Movies,FAN (1080p),http://31.148.48.15/Fan/index.m3u8,https://i.imgur.com/mDeTbaF.png,FAN.ru@SD,iptv-org
 Filmes,Movies,Film4 (1080p),http://80.194.62.172:50002/stream/channelid/1764271106,https://i.imgur.com/MTSgoGI.png,Film4.uk@SD,iptv-org
 Filmes,Movies,Film4 HD (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8,https://i.imgur.com/MTSgoGI.png,Film4.uk@HD,iptv-org
-Filmes,Movies,Filmax (576p),http://103.250.28.74:8000/play/a02o/index.m3u8,https://i.imgur.com/eLmdZ6k.png,Filmax.pk@SD,iptv-org
+Filmes,Movies,Filmax (576p),https://s3.ideationtec.live/Filmax/Filmax.m3u8,https://i.imgur.com/eLmdZ6k.png,Filmax.pk@SD,iptv-org
 Filmes,Movies,Filmazia (576p),http://103.250.28.74:8000/play/a02k/index.m3u8,https://i.imgur.com/hpTCANa.png,Filmazia.pk@SD,iptv-org
 Filmes,Movies,Filmes Suspense,https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8,https://i.imgur.com/45V9MKk.png,FilmesSuspense.us@Brazil,iptv-org
 Filmes,Movies,Filmex (Xumo) (1080p) [Geo-blocked],https://filmex-filmex-xumo.amagi.tv/playlist.m3u8,https://i.imgur.com/Hiz2OyC.png,Filmex.mx@SD,iptv-org
@@ -346,7 +347,6 @@ Filmes,Comedy;Movies;Series;Sports,USA Network East (1080p) [Not 24/7],https://t
 Filmes,Movies,Viasat Kino (576p),http://89.254.128.5:22280/viasat_kino/index.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@SD,iptv-org
 Filmes,Movies,Viasat Kino Action (576p),http://89.254.128.5:22280/viasat_kino_action/index.m3u8,https://i.imgur.com/HwsNIDK.png,ViasatKinoAction.ua@SD,iptv-org
 Filmes,Movies,Victor Valley Movies (1080p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8,https://i.imgur.com/zgiuNNj.png,VictorValleyTV.us@SD,iptv-org
-Filmes,Movies,Vijay Super (576p),http://103.157.248.140:8000/play/a05l/index.m3u8,https://i.imgur.com/3MWm9nD.png,VijaySuper.in@SD,iptv-org
 Filmes,Movies,viju TV1000 Русское,http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8,https://i.imgur.com/Meak2y4.png,vijuTV1000russkoe.ru@SD,iptv-org
 Filmes,Movies,Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8,https://i.imgur.com/cQkfRhH.png,WildSideTV.fr@SD,iptv-org
 Filmes,Movies,WOWOW Cinema (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07,https://i.imgur.com/Wx9fkCW.png,WOWOWCinema.jp@SD,iptv-org
@@ -565,7 +565,6 @@ Series,Series,TVE Star HD (1080p),https://rtvelivestream-rtveplayplus.rtve.es/rt
 Series,Series,TVI Ficção (720p),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8,https://cdn.iol.pt/img/logostvi/branco/tvificcao.png,TVIFiccao.pt@SD,iptv-org
 Series,Series,U&Alibi (576p),http://92.114.85.72:8000/play/a0bi,https://i.imgur.com/uazjv8g.png,UAlibi.uk@SD,iptv-org
 Series,Series,Universal Crime (1080p),https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8,https://i.imgur.com/OwSlGMu.png,UniversalCrime.us@East,iptv-org
-Series,Series,Univision Tlnovelas [Not 24/7],https://moviezona593.com:8443/play/cO7SMyYsfVeNHbC5IQqRpHzyzgpISTmz_ch_ZVKDwhuebPX8UYW2fAiSlZGjGoPc/m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/960px-Univision_tlnovelas_%282019%29.svg.png,UnivisionTlnovelas.us@SD,iptv-org
 Series,Series,Unsolved Mysteries,https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8,https://i.imgur.com/De3khrX.png,UnsolvedMysteries.us@UK,iptv-org
 Series,Series,Unsolved Mysteries (720p),https://d31z96rdrmwfsp.cloudfront.net/master.m3u8,https://i.imgur.com/De3khrX.png,UnsolvedMysteries.us@US,iptv-org
 Series,Series,Weeds / Nurse Jackie (720p),https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8,https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png,WeedsNurseJackie.us@SD,iptv-org
