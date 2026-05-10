@@ -4571,6 +4571,8 @@ https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 group-title="CANAIS",ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Evrokino (576p)
+http://tmptv.sunduk.tv/CH163/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FAN (1080p)
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Film4 HD (1080p) [Geo-Blocked]
@@ -4839,8 +4841,8 @@ https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS",QTV-3
 http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-#EXTINF:-1 group-title="CANAIS",Raj Digital Plus (576p)
-http://103.72.101.252:8080/live/683.m3u8
+#EXTINF:-1 group-title="CANAIS",Raj Digital Plus (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 group-title="CANAIS",Rakuten Top Movies UK (1080p)
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Rakuten TV Action Movies Austria (720p)
@@ -4989,6 +4991,8 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 group-title="CANAIS",Tolly TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 group-title="CANAIS",TV 21 (576p)
+http://tmptv.sunduk.tv/CH145/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 group-title="CANAIS",TVCARiB Cinema (720p) [Not 24/7]
@@ -5005,10 +5009,16 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",viju TV1000 Русское
-http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
+http://tmptv.sunduk.tv/CH141/index.m3u8
+#EXTINF:-1 group-title="CANAIS",viju TV1000 action (576p)
+http://tmptv.sunduk.tv/CH143/index.m3u8
+#EXTINF:-1 group-title="CANAIS",viju TV1000 russkoe (576p)
+http://tmptv.sunduk.tv/CH139/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju+ Megahit (1080p)
 http://tmptv.sunduk.tv/CH313/index.m3u8
+#EXTINF:-1 group-title="CANAIS",viju+ Premiere (1080p)
+http://tmptv.sunduk.tv/CH315/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Wildside TV (720p)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",WOWOW Cinema (544p)
@@ -5045,8 +5055,6 @@ https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
 http://103.72.101.252:8080/live/1358.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Thirai HD (1080p)
-http://103.72.101.252:8080/live/3051.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Cine Friki (1080p)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Ciné Nanar (1080p)
@@ -5063,8 +5071,6 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Дом Кино Премиум HD (1080p)
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Еврокино (576p)
-http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Иллюзион+ (576p)
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Кинопоказ (576p)
