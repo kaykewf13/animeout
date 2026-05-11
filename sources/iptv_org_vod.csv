@@ -38,7 +38,7 @@ Filmes,Classic;Movies,Artflix Movie Classics (720p),https://amogonetworx-artflix
 Filmes,Movies,Asianet Movies (576p),https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8,https://i.imgur.com/cps67hs.png,AsianetMovies.in@SD,iptv-org
 Filmes,Movies,Atrescine (1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png,Atrescine.es@SD,iptv-org
 Filmes,Movies,Aurora Media Films (720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8,https://i.imgur.com/DVC5w6H.png,AuroraMediaFilms.gt@SD,iptv-org
-Filmes,Movies;Series,AXN Asia Indonesia (1080p) [Geo-blocked],http://103.58.160.157:8278/720-AXN/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
+Filmes,Movies;Series,AXN Asia Indonesia (720p),https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
 Filmes,Movies,AXN Latin America South (2160p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-77.playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@South,iptv-org
 Filmes,Movies,B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@SD,iptv-org
 Filmes,Movies,B4U Kadak (1080p) [Not 24/7],https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8,https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540,B4UKadak.in@SD,iptv-org
@@ -152,6 +152,9 @@ Filmes,Entertainment;Movies,KCM (1080p) [Geo-blocked],https://amg02159-amg02159c
 Filmes,Kids;Movies,KidsFlix (1080p) [Not 24/7],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50,https://i.imgur.com/4Pn0ADQ.png,KidsFlix.us@SD,iptv-org
 Filmes,Movies,Kino 24 (720p),http://sirius.greenhosting.ru/Kino24Ru/video.m3u8,https://i.imgur.com/QAdDARF.png,Kino24.ru@SD,iptv-org
 Filmes,Movies,Kino Barrandov (720p),http://83.167.253.107/hdmi1_ext,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png,KinoBarrandov.cz@SD,iptv-org
+Filmes,Movies,KinoHit (576p),http://tmptv.sunduk.tv/CH57/index.m3u8,https://i.imgur.com/Ge8vkQM.png,KinoHit.ru@SD,iptv-org
+Filmes,Movies,Kinosemja (576p),http://tmptv.sunduk.tv/CH25/index.m3u8,https://i.imgur.com/4BF5VeK.png,Kinosemja.ru@SD,iptv-org
+Filmes,Movies,Kinosvidanie (576p),http://tmptv.sunduk.tv/CH21/index.m3u8,https://i.imgur.com/ZRaWqxj.png,Kinosvidanie.ru@SD,iptv-org
 Filmes,Movies,Kinoteatr (1080p),https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8,https://i.imgur.com/emH1BgC.png,Kinoteatr.uz@SD,iptv-org
 Filmes,Movies,Klasik TV (576p) [Not 24/7],https://178.253.194.105/klasiktv/playlist.m3u8,https://i.imgur.com/C90BYlb.png,Klasik.hr@SD,iptv-org
 Filmes,Movies,Komsan TV [Not 24/7],http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8,https://i.imgur.com/SNTf2r3.png,KomsanTV.kh@SD,iptv-org
@@ -292,6 +295,7 @@ Filmes,Movies,Rakuten TV Top Movies Germany (1080p),https://cbb622b29f5d43b59899
 Filmes,Movies,Rakuten TV Top Movies Italy (1080p),https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8,https://i.imgur.com/Meew6eX.png,RakutenTVTopMovies.es@Italy,iptv-org
 Filmes,Movies,Rakuten TV Top Movies Spain (1080p),https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8,https://i.imgur.com/Meew6eX.png,RakutenTVTopMovies.es@Spain,iptv-org
 Filmes,Movies,"like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"" group-title=""Movies"",Revry Her (720p)",https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC,https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533646/images/logo_20231219_221435_68.png,RevryHer.us@SD,iptv-org
+Filmes,Movies,Rodnoe Kino (576p),http://tmptv.sunduk.tv/CH23/index.m3u8,https://i.imgur.com/H70LxoZ.png,RodnoeKino.ru@SD,iptv-org
 Filmes,Movies,Roja Movies (1080p),https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8,https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png,RojaMovies.in@SD,iptv-org
 Filmes,Movies,Romedy Now (576p),http://103.157.248.140:8000/play/a015/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png,RomedyNow.in@SD,iptv-org
 Filmes,Movies,Rotana Cinema Egypt (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/dGlKoLW.png,RotanaCinemaEgypt.eg@SD,iptv-org
@@ -390,7 +394,6 @@ Filmes,Movies,Кинопоказ (576p),http://31.148.48.15/Kinopokaz/index.m3u8
 Filmes,Movies,КИНОСАТ (576p),http://31.148.48.15/Kineko/index.m3u8,https://i.imgur.com/7KsNvBz.png,KinoSat.ru@SD,iptv-org
 Filmes,Movies,Новый Русский (720p),https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8,https://i.imgur.com/iuRSScH.png,NovyiRusskii.ru@HD,iptv-org
 Filmes,Movies,Патриот (576i),http://catchup.videoline.ru/asvtv/index.m3u8,https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png,Patriot.ru@SD,iptv-org
-Filmes,Movies,Родное Кино (576p),http://31.148.48.15/Rodnoe_kino/index.m3u8,https://i.imgur.com/H70LxoZ.png,RodnoeKino.ru@SD,iptv-org
 Filmes,Movies,Русский Бестселлер (576p),http://31.148.48.15/Russkiy_Bestseller/index.m3u8,https://i.imgur.com/w0ZE9QJ.png,RusskiyBestseller.ru@SD,iptv-org
 Filmes,Movies,Русский Детектив (576p),http://31.148.48.15/Russkiy_Detektiv/index.m3u8,https://i.imgur.com/H3qhN8S.png,RusskiyDetektiv.ru@SD,iptv-org
 Filmes,Movies,Русский Иллюзион (576p),http://31.148.48.15/Russkiy_illusion/index.m3u8,https://i.imgur.com/RlsqFN8.png,RusskiyIllusion.ru@SD,iptv-org
