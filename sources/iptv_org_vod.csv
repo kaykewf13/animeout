@@ -49,6 +49,7 @@ Filmes,Movies,BIZ Cinema (1080p),https://fl.biztv.media/cinema_720_EMfSyXgoRdiIH
 Filmes,Classic;Movies,Bollywood Classic (1080p),http://103.213.31.109:90/BollywoodClassic/playlist.m3u8,https://i.imgur.com/ugPo6ca.png,BollywoodClassic.ro@SD,iptv-org
 Filmes,Movies,Bollywood HD (1080p),http://103.213.31.109:90/BollywoodHD/playlist.m3u8,https://i.imgur.com/scDKOLS.png,BollywoodHD.ro@SD,iptv-org
 Filmes,Movies,Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8,https://i.imgur.com/scDKOLS.png,BollywoodHD.ro@Russia,iptv-org
+Filmes,Movies,Bom Cine (1080p),http://92.176.119.180:2095/play/a17f,https://i.imgur.com/65OX8Gj.png,BomCine.es@SD,iptv-org
 Filmes,Movies,Boreal (720p) [Not 24/7],https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8,https://i.imgur.com/KSquHTG.png,Boreal.do@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"" group-title=""Movies"",Box Cinema (1080p)","https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8",https://i.imgur.com/LGJlmtp.png,BoxCinema.in@SD,iptv-org
 Filmes,Movies,Bravo Farsi TV (360p),https://bravoohls.wns.live/hls/stream.m3u8,https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg,BravoFarsiTV.ir@SD,iptv-org
@@ -132,7 +133,7 @@ Filmes,Movies,Hallmark Movies & More (1080p) [Geo-blocked],https://pb-clwlfvkqpn
 Filmes,Movies,Hallmark Movies & Mysteries East (1080p) [Not 24/7],https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd,https://i.imgur.com/GPRGA9C.png,HallmarkMoviesMysteries.us@East,iptv-org
 Filmes,Movies,Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8,https://www.tvchinese.net/uploads/tv/haerbin.jpg,HarbinMovieChannel.cn@SD,iptv-org
 Filmes,Movies,Hero (720p) [Not 24/7],https://live-fi.tvkaista.net/hero/live.m3u8?hd=true,https://i.imgur.com/4t5JQLY.png,Hero.fi@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/109.0.0.0 Safari/537.36"" group-title=""Movies"",HITS Movies HD (720p)",https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd,https://i.imgur.com/kyE3vXf.png,HITSMovies.sg@HD,iptv-org
+Filmes,Movies,HITS Movies HD (720p),https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd,https://i.imgur.com/kyE3vXf.png,HITSMovies.sg@HD,iptv-org
 Filmes,Movies,Hollywood HD (1080p),http://31.148.48.15/MGM_HD/index.m3u8,https://i.imgur.com/1j7cT2I.png,Hollywood.ru@SD,iptv-org
 Filmes,Movies,Home Plus,https://homeplushls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/hh/homeplus.png,HomePlus.ir@SD,iptv-org
 Filmes,Movies,ICC Plus (1080p),https://icchls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/ii/iccplus-us.png,ICCplus.us@SD,iptv-org
@@ -318,6 +319,7 @@ Filmes,Movies,Sony One Hits Comedie (1080p),https://7aa9671895264ec9a384dfed1b99
 Filmes,Movies,Sony Pix HD (1080p) [Geo-blocked],https://sl.vodep39240327.workers.dev/channel/SONY%20PIX%20HD.m3u8,https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png,SonyPix.in@HD,iptv-org
 Filmes,Movies,Sony Wah (1080p) [Geo-blocked],https://sl.vodep39240327.workers.dev/channel/SONY%20WAH.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png,SonyWah.in@SD,iptv-org
 Filmes,Movies,South Station (1080p),https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png,SouthStation.in@HD,iptv-org
+Filmes,Movies;Series,Squirrel (1080p),http://45.95.78.232:8001/udp/239.106.84.2:5000,https://i.imgur.com/9y8VcBr.png,Squirrel.es@SD,iptv-org
 Filmes,Movies,Star 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27,https://i.imgur.com/QOriZy5.png,StarChannel2.jp@SD,iptv-org
 Filmes,Movies,Star 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28,https://i.imgur.com/Z1x8ecY.png,StarChannel3.jp@SD,iptv-org
 Filmes,Movies;Series,Star Channel Latin America South (1080p),http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannelLatinAmerica.us@South,iptv-org
@@ -351,6 +353,7 @@ Filmes,Movies,TVS Film Noir Network (720p),https://rpn.bozztv.com/trn01/gusa-TVS
 Filmes,Movies,Universal Cinema (480p),http://190.2.212.209:8050/play/a0q3,https://i.imgur.com/XxfET68.png,UniversalCinema.us@SD,iptv-org
 Filmes,Comedy;Movies;Series,Universal Comedy (480p),http://190.2.212.209:8050/play/a0q4,https://i.imgur.com/avBL8pQ.png,UniversalComedy.us@SD,iptv-org
 Filmes,Comedy;Movies;Series;Sports,USA Network East (1080p) [Not 24/7],https://tvpass.org/live/USANetworkEast/hd,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png,USANetwork.us@East,iptv-org
+Filmes,Movies;Series,Veo7 (1080p),http://45.95.78.232:8001/udp/239.106.91.3:5000,https://i.imgur.com/kklTIMm.png,Veo7.es@SD,iptv-org
 Filmes,Movies,Viasat Kino (576p),http://89.254.128.5:22280/viasat_kino/index.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@SD,iptv-org
 Filmes,Movies,Viasat Kino Action (576p),http://89.254.128.5:22280/viasat_kino_action/index.m3u8,https://i.imgur.com/HwsNIDK.png,ViasatKinoAction.ua@SD,iptv-org
 Filmes,Movies,Victor Valley Movies (1080p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8,https://i.imgur.com/zgiuNNj.png,VictorValleyTV.us@SD,iptv-org
@@ -418,6 +421,7 @@ Series,Series,13 Teleseries (720p),https://origin.dpsgo.com/ssai/event/f4TrySe8S
 Series,Series,48 Hours,https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png,48Hours.us@CA,iptv-org
 Series,Series,48 Hours,https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png,48Hours.us@UK,iptv-org
 Series,Series,48 Hours (1080p),https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8,https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png,48Hours.us@US,iptv-org
+Series,Series,A3Series (1080p),http://45.95.78.232:8001/udp/239.106.85.4:5000,https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png,Atreseries.es@SD,iptv-org
 Series,Series,Acapulco Shore,https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8,https://i.imgur.com/D2jgGOi.png,AcapulcoShore.us@SD,iptv-org
 Series,Series,Afra Series,https://afrashls.wns.live/hls/stream.m3u8,,AfraSeries.ir@SD,iptv-org
 Series,Series,All Reality WE tv (720p),https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8,https://i.imgur.com/HZTz5HJ.png,AllRealitybyWEtv.us@SD,iptv-org
@@ -542,6 +546,7 @@ Series,Series,Serie Max,https://video1.getstreamhosting.com:1936/8330/8330/playl
 Series,Series,Sony One Blacklist (1080p),https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8,https://i.imgur.com/uJC8rXr.png,SonyOneBlacklist.fr@HD,iptv-org
 Series,Series,Sony One Series Comedie (1080p),https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-819-FR-SONYONESRIESCOMDIE-LG_FR/playlist.m3u8,https://i.ibb.co/ns4Md77B/FR-FAST-Plex-Comedy-TV-logo-dark.png,SonyOneSeriesComedie.fr@HD,iptv-org
 Series,Series,Sony One Series Thriller (1080p),https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8,https://i.imgur.com/RVS8LDj.png,SonyOneSeriesThriller.fr@HD,iptv-org
+Series,Series,Squirrel Dos (1080p),http://45.95.78.232:8001/udp/239.106.84.3:5000,https://i.imgur.com/BDv4ubA.png,Squirrel2.es@SD,iptv-org
 Series,Series,Star Trek,https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8,https://i.imgur.com/8cvXYiT.png,StarTrek.us@SD,iptv-org
 Series,General;Series,Super TV (720p),http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8,https://i.imgur.com/hxF3yhw.png,SuperTV.it@SD,iptv-org
 Series,Series,Survivor (1080p),https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8,https://i.imgur.com/Zz9SgY8.png,Survivor.us@SD,iptv-org
