@@ -85,7 +85,7 @@ Filmes,Movies,Colors Cineplex Superhits (576p),http://103.72.101.252:8080/live/1
 Filmes,Movies,Colors Gujarati Cinema (360p),http://103.72.101.252:8080/live/1324.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png,ColorsGujaratiCinema.in@SD,iptv-org
 Filmes,Movies,Colors Kannada Cinema (576p),http://103.72.101.252:8080/live/1632.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png,ColorsKannadaCinema.in@SD,iptv-org
 Filmes,Movies,CTB Perth Movies (720p),https://movies.ctbperth.net.au/hls/stream.m3u8,https://i.imgur.com/VB8gtCy.jpeg,CTBPerthMoviesChannel.au@SD,iptv-org
-Filmes,Movies,Dhamaka Movies B4U (576p),https://cdn-1.pishow.tv/live/235/master.m3u8,https://www.lyngsat.com/logo/tv/dd/dhamaka-movies-b4u-in.png,DhamakaMoviesB4U.in@SD,iptv-org
+Filmes,Movies,Dhamaka Movies B4U (576p),https://cdn-1.pishow.tv/live/235/master.m3u8,https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg,DhamakaMoviesB4U.in@SD,iptv-org
 Filmes,Movies,DiscoverFilm (720p),https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8,https://i.imgur.com/oMnpsQ5.png,DiscoverFilm.uk@SD,iptv-org
 Filmes,Movies,Dunia Sinema (1080p),https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8,,DuniaSinema.my@SD,iptv-org
 Filmes,Movies;Series,Ebony TV by Lionsgate (1080p),https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8,https://provider-static.plex.tv/epg/cms/production/234d5377-ab07-41bf-acd6-34c17c1c051a/EbonyTV_Plex_Logo_Light_1500x1000.png,EbonyTVbyLionsgate.us,iptv-org
@@ -121,9 +121,9 @@ Filmes,Movies,Ghost TV (712p) [Not 24/7],https://stmv.video.expressolider.com.br
 Filmes,Movies,Girlfriends,https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8,https://i.imgur.com/hCcdrOv.png,GirlfriendsFilms.us@SD,iptv-org
 Filmes,Movies,Gold Star,https://moviethls.wns.live/hls/stream.m3u8,,GoldStar.ir@SD,iptv-org
 Filmes,Movies,Goldmines (576p),https://cdn-2.pishow.tv/live/1459/master.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png,Goldmines.in@SD,iptv-org
-Filmes,Movies,Goldmines 2 (576p),https://cdn-2.pishow.tv/live/1460/master.m3u8,https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png,Goldmines2.in@SD,iptv-org
+Filmes,Movies,Goldmines 2 (576p),https://cdn-2.pishow.tv/live/1460/master.m3u8,,Goldmines2.in@SD,iptv-org
 Filmes,Movies,Goldmines Movies (720p),http://103.213.31.109:90/GoldminesMovies/playlist.m3u8,https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540,GoldminesMovies.in@SD,iptv-org
-Filmes,Movies,Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/gg/grand-cinema.png,GrandCinema.tr@SD,iptv-org
+Filmes,Movies,Grand Cinema,https://gcinemahls.wns.live/hls/stream.m3u8,,GrandCinema.tr@SD,iptv-org
 Filmes,Movies,Gravitas Movies (1080p),https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8,https://i.imgur.com/H2hD4vT.png,GravitasMovies.us@SD,iptv-org
 Filmes,Movies,GREAT! movies (1080p),https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png,GREATmovies.uk@UK,iptv-org
 Filmes,Movies,GREAT! romance (1080p),https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png,GREATromance.uk@UK,iptv-org
@@ -135,13 +135,14 @@ Filmes,Movies,Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8,h
 Filmes,Movies,Hero (720p) [Not 24/7],https://live-fi.tvkaista.net/hero/live.m3u8?hd=true,https://i.imgur.com/4t5JQLY.png,Hero.fi@SD,iptv-org
 Filmes,Movies,HITS Movies HD (720p),https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd,https://i.imgur.com/kyE3vXf.png,HITSMovies.sg@HD,iptv-org
 Filmes,Movies,Hollywood HD (1080p),http://31.148.48.15/MGM_HD/index.m3u8,https://i.imgur.com/1j7cT2I.png,Hollywood.ru@SD,iptv-org
-Filmes,Movies,Home Plus,https://homeplushls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/hh/homeplus.png,HomePlus.ir@SD,iptv-org
-Filmes,Movies,ICC Plus (1080p),https://icchls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/ii/iccplus-us.png,ICCplus.us@SD,iptv-org
+Filmes,Movies,Home Plus,https://homeplushls.wns.live/hls/stream.m3u8,,HomePlus.ir@SD,iptv-org
+Filmes,Movies,ICC Plus (1080p),https://icchls.wns.live/hls/stream.m3u8,,ICCplus.us@SD,iptv-org
 Filmes,Movies,IFC East (720p) [Not 24/7],https://tvpass.org/live/IFCEast/hd,https://i.imgur.com/bQdkyF9.png,IFC.us@East,iptv-org
 Filmes,Movies,iFilm 2,https://live.presstv.ir/hls/ifilm2.m3u8,https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png,iFilm2.ir@SD,iptv-org
 Filmes,Movies,iFilm Arabic,https://live.presstv.ir/hls/ifilmar.m3u8,https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png,iFilmArabic.ir@SD,iptv-org
 Filmes,Movies,iFilm English,https://live.presstv.ir/hls/ifilmen.m3u8,https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png,iFilmEnglish.ir@SD,iptv-org
 Filmes,Movies,iFilm Persian,https://live.presstv.ir/hls/ifilmfa.m3u8,https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png,iFilmPersian.ir@SD,iptv-org
+Filmes,Movies,Indiyskoye Kino,http://tmptv.sunduk.tv/CH107/index.m3u8,https://i.imgur.com/LL8GyCh.png,IndiyskoyeKino.ru@SD,iptv-org
 Filmes,Movies;News,Indywood TV (720p),https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8,https://i.ibb.co/jT3NCPp/logo-tv.png,IndywoodTV.in@SD,iptv-org
 Filmes,Movies,Itage TV (480p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8,https://i.imgur.com/FP1aUPw.jpg,ItageTV.ng@SD,iptv-org
 Filmes,Movies,J Movie (576p),http://103.72.101.252:8080/live/417.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_J_MOVIES/images/LOGO_HD/image.png,JMovie.in@SD,iptv-org
@@ -174,8 +175,8 @@ Filmes,Movies,MBC+ Drama (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmo
 Filmes,Family;General;Movies,MCI Televisión (1080p),https://video.ejeserver.com/live/mcitelevision.m3u8,https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg,MCITelevision.co@SD,iptv-org
 Filmes,Movies,Mega Cine TV (1080p),https://cnn.hostlagarto.com/megacinetv/playlist.m3u8,https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg,MegaCineTV.do@HD,iptv-org
 Filmes,Movies,Memorias TV Film (720p) [Geo-blocked],https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8,https://i.imgur.com/vNfjW6Y.png,MemoriasTVFilm.co@SD,iptv-org
-Filmes,Movies,Meta Film TV,https://metafilmhls.wns.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png,MetaFilmTV.ir@SD,iptv-org
-Filmes,Movies,MH One Movies (576p),https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8,https://www.lyngsat.com/logo/tv/mm/mh-1-movies-in.png,MHOneMovies.in@SD,iptv-org
+Filmes,Movies,Meta Film TV,https://metafilmhls.wns.live/hls/stream.m3u8,,MetaFilmTV.ir@SD,iptv-org
+Filmes,Movies,MH One Movies (576p),https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8,,MHOneMovies.in@SD,iptv-org
 Filmes,Movies,Mix Hollywood (1080p),https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8,https://i.imgur.com/1ENdbZn.png,MixHollywood.eg@SD,iptv-org
 Filmes,Movies,MNX (576p),http://103.161.153.165:8000/play/a059/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png,MNX.in@SD,iptv-org
 Filmes,Movies,Movie Bangla,http://alvetv.com/moviebanglatv/8080/index.m3u8,https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681,MovieBangla.bd@SD,iptv-org
@@ -219,7 +220,7 @@ Filmes,Movies,Persiana Cinema,https://cinehls.persiana.live/hls/stream.m3u8,http
 Filmes,Movies,Persiana Family,https://familyhls.persiana.live/hls/stream.m3u8,https://i.imgur.com/lMZsuWi.png,PersianaFamily.fr@SD,iptv-org
 Filmes,Movies,Persiana Iranian,https://irhls.persiana.live/hls/stream.m3u8,https://i.imgur.com/vqrrpBi.png,PersianaIranian.fr@SD,iptv-org
 Filmes,Movies,Persiana Korea,https://korhls.persiana.live/hls/stream.m3u8,https://i.imgur.com/si2ZnIA.png,PersianaKorea.fr@SD,iptv-org
-Filmes,Movies,Persiana Latino,https://latinohls.persiana.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png,PersianaLatino.fr@SD,iptv-org
+Filmes,Movies,Persiana Latino,https://latinohls.persiana.live/hls/stream.m3u8,,PersianaLatino.fr@SD,iptv-org
 Filmes,Movies,Persiana Plus,https://euhls.persiana.live/hls/stream.m3u8,https://i.imgur.com/0xttibX.png,PersianaPlus.fr@SD,iptv-org
 Filmes,Movies,Pitaara (720p),https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png,Pitaara.in@SD,iptv-org
 Filmes,Movies,Pluto TV Action,https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8,https://i.imgur.com/tDapGal.png,PlutoTVAction.us@UK,iptv-org
@@ -527,7 +528,7 @@ Series,Series,Novelisima,https://stream.ads.ottera.tv/playlist.m3u8?network_id=2
 Series,Series,One TV Drama 3 (1080p),http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8,https://i.imgur.com/wHtqMqB.png,OneTVDrama3.kh@SD,iptv-org
 Series,Series,PBS Nature (1080p),https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8,https://i.imgur.com/Brry7cZ.png,PBSNature.us@SD,iptv-org
 Series,Series,Perry Mason,https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8,https://i.imgur.com/rHUUAwW.png,PerryMason.us@SD,iptv-org
-Series,Series,Persiana Series,https://onehls.persiana.live/hls/stream.m3u8,https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png,PersianaSeries.fr@HD,iptv-org
+Series,Series,Persiana Series,https://onehls.persiana.live/hls/stream.m3u8,,PersianaSeries.fr@HD,iptv-org
 Series,Series,Pluto TV Fantastic,https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8,https://i.imgur.com/MCu7YTA.png,PlutoTVFantastic.us@SD,iptv-org
 Series,Series,Pluto TV Lives,https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8,https://i.imgur.com/laupYwG.png,PlutoTVLives.us@US,iptv-org
 Series,Series,Pluto TV Military,https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8,https://i.imgur.com/O8VXZB4.png,PlutoTVMilitary.us@SD,iptv-org

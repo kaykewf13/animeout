@@ -4435,6 +4435,8 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1 group-title="CANAIS",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 group-title="CANAIS",Indiyskoye Kino
+http://tmptv.sunduk.tv/CH107/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Indywood TV (720p)
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Itage TV (480p)
