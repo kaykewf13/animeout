@@ -4185,6 +4185,8 @@ http://103.72.101.252:8080/live/185.m3u8
 http://103.229.254.25:7001/play/a09v/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",&xplor HD (1080p)
+http://149.71.34.166:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="CANAIS",@TV (720p)
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies (720p)
@@ -4740,7 +4742,7 @@ http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 group-title="CANAIS",Star Utsav Movies (576p)
-http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka
+http://149.71.34.166:8000/play/a059/index.m3u8
 #EXTINF:-1 group-title="CANAIS",START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="CANAIS",START World
@@ -4783,6 +4785,8 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Vijay Super HD (1080p)
+http://149.71.34.166:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
 http://tmptv.sunduk.tv/CH141/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 action (576p)
@@ -4829,6 +4833,8 @@ https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
 http://103.72.101.252:8080/live/1358.m3u8
+#EXTINF:-1 group-title="CANAIS",Zee Thirai HD (1080p)
+http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Cine Friki (1080p)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Ciné Nanar (1080p)
