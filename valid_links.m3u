@@ -5013,6 +5013,8 @@ http://tmptv.sunduk.tv/CH139/index.m3u8
 http://tmptv.sunduk.tv/CH313/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju+ Premiere (1080p)
 http://tmptv.sunduk.tv/CH315/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Whiplash Cinema (480p)
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Wildside TV (720p)
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",WOWOW Cinema (544p)
