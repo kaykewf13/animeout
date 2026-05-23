@@ -37,7 +37,7 @@ Filmes,Movies,Asianet Movies (576p),https://anet.keralive.workers.dev/v1/master/
 Filmes,Movies,Asianet Movies HD (1080p),http://149.71.34.166:8000/play/a06e/index.m3u8,https://i.imgur.com/cps67hs.png,AsianetMovies.in@HD,iptv-org
 Filmes,Movies,Atrescine (1080p),http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/960px-Atrescine_logo.svg.png,Atrescine.es@SD,iptv-org
 Filmes,Movies,Aurora Media Films (720p),https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8,https://i.imgur.com/DVC5w6H.png,AuroraMediaFilms.gt@SD,iptv-org
-Filmes,Movies;Series,AXN Asia Indonesia (720p),https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
+Filmes,Movies;Series,AXN Asia Indonesia (1080p),https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
 Filmes,Movies,B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@SD,iptv-org
 Filmes,Movies,B4U Kadak (1080p) [Not 24/7],https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8,https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540,B4UKadak.in@SD,iptv-org
 Filmes,Movies,B4U Movies (1080p) [Geo-blocked],https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8,https://i.imgur.com/M9kMFJl.png,B4UMovies.in@India,iptv-org
@@ -174,6 +174,7 @@ Filmes,Movies,Memorias TV Film (720p) [Geo-blocked],https://video.xtrematv.com:3
 Filmes,Movies,Meta Film TV,https://metafilmhls.wns.live/hls/stream.m3u8,,MetaFilmTV.ir@SD,iptv-org
 Filmes,Movies,MH One Movies (576p),https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8,,MHOneMovies.in@SD,iptv-org
 Filmes,Movies,Mix Hollywood (1080p),https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8,https://i.imgur.com/1ENdbZn.png,MixHollywood.eg@SD,iptv-org
+Filmes,Movies,"like Gecko) Chrome/146.0.0.0 Safari/537.36"" group-title=""Movies"",MN+",https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8,https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg,MNPlus.mn@SD,iptv-org
 Filmes,Movies,MNX HD (1080p),http://149.71.34.166:8000/play/a05u/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png,MNX.in@HD,iptv-org
 Filmes,Movies,Movie Bangla,http://alvetv.com/moviebanglatv/8080/index.m3u8,https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681,MovieBangla.bd@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",MovieBox (1080p)",https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd,https://i.imgur.com/xeO1Zb4.png,MovieBox.mn@SD,iptv-org

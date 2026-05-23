@@ -4495,6 +4495,8 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 #EXTINF:-1 group-title="CANAIS",MNX HD (1080p)
 http://149.71.34.166:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movie Bangla
