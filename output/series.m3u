@@ -13,5 +13,7 @@ https://neon.streams.gr:8081/epsilontv/index.m3u8
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 group-title="SERIES",Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
+#EXTINF:-1 group-title="SERIES",Colors Cineplex HD (1080p)
+http://149.71.34.166:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="SERIES",Movieplex (576p)
 https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8

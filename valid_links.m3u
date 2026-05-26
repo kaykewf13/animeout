@@ -4533,6 +4533,8 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 http://103.72.101.252:8080/live/1657.m3u8
 #EXTINF:-1 group-title="CANAIS",Colors Cineplex Bollywood (576p)
 http://103.72.101.252:8080/live/1763.m3u8
+#EXTINF:-1 group-title="SERIES",Colors Cineplex HD (1080p)
+http://149.71.34.166:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Colors Cineplex Superhits (576p)
 http://103.72.101.252:8080/live/1450.m3u8
 #EXTINF:-1 group-title="CANAIS",Colors Gujarati Cinema (360p)
@@ -4736,7 +4738,7 @@ http://149.71.34.166:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movies Now HD (1080p)
 http://103.161.153.165:8000/play/mnh/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movies Thriller (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Moviesphere (720p)
