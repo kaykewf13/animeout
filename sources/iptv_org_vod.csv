@@ -14,8 +14,6 @@ Filmes,Movies,&TV International (1080p),https://amg01117-amg01117c1-amgplt0029.p
 Filmes,Movies,&xplor HD (1080p),http://149.71.34.166:8000/play/a001/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png,AndxplorHD.in@HD,iptv-org
 Filmes,Movies;Series,@TV (720p),http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8,https://files.catbox.moe/6rj9aw.jpg,AtTV.th@SD,iptv-org
 Filmes,Movies;Religious,ABN Bible Movies (720p),https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8,https://i.imgur.com/NCqZdaL.png,ABNBibleMoviesChannel.us@SD,iptv-org
-Filmes,Movies,Abzy Dhakad (504p),http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8,https://i.imgur.com/5ORC4tn.png,AbzyDhakad.in@SD,iptv-org
-Filmes,Movies,Abzy Movies (504p),http://57.129.53.130:21001/ABZY_Movies/master.m3u8,https://i.imgur.com/LnVgKVF.png,AbzyMovies.in@SD,iptv-org
 Filmes,Movies,Action 24 (1080p),http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png,Action24.gr@SD,iptv-org
 Filmes,Movies,Adrenalina Pura TV,https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8,https://i.imgur.com/Pvid2iH.png,AdrenalinaPuraTV.us@Brazil,iptv-org
 Filmes,Movies,Afghan Nobel Movies (720p),https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8,https://i.ibb.co/zfdbVSm/logo-1.png,AfghanNobelMovies.ca@SD,iptv-org
@@ -31,7 +29,8 @@ Filmes,Culture;Documentary;Entertainment;General;Movies;Music,Alterna TV (720p) 
 Filmes,Movies;Series,Amedia Hit (720p),http://31.148.48.15/Amedia_HIT_HD/index.m3u8,https://i.imgur.com/a8ZBGBw.png,AmediaHit.ru@SD,iptv-org
 Filmes,Movies;Series,Amedia Premium (1080p),http://tmptv.sunduk.tv/CH301/index.m3u8,https://i.imgur.com/UUjehw9.png,AmediaPremium.ru@SD,iptv-org
 Filmes,Movies,American Horrors (480p),http://107.167.7.162:8081/playlist/amhor/playlist.m3u8,https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png,AmericanHorrors.us@SD,iptv-org
-Filmes,Movies,Anmol Cinema (576p),http://116.90.120.151:8000/play/a0j6/index.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540,AnmolCinema.in@SD,iptv-org
+Filmes,Movies,"like Gecko) Chrome/147.0.0.0 Safari/537.36"" group-title=""Movies"",Anmol Cinema (576p)",http://103.175.73.12:8080/live/271/271_0.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540,AnmolCinema.in@SD,iptv-org
+Filmes,Movies,"like Gecko) Chrome/147.0.0.0 Safari/537.36"" group-title=""Movies"",Anmol Cinema 2 (576p)",http://103.175.73.12:8080/live/257/257_0.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png,AnmolCinema2.in@SD,iptv-org
 Filmes,Classic;Movies,Artflix Movie Classics (720p),https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8,https://i.imgur.com/5pOZQB4.png,ARTFLIXMovieClassics.us@SD,iptv-org
 Filmes,Movies,Asianet Movies (576p),https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8,https://i.imgur.com/cps67hs.png,AsianetMovies.in@SD,iptv-org
 Filmes,Movies,Asianet Movies HD (1080p),http://149.71.34.166:8000/play/a06e/index.m3u8,https://i.imgur.com/cps67hs.png,AsianetMovies.in@HD,iptv-org
@@ -353,7 +352,6 @@ Filmes,Movies;Series,Veo7 (1080p),http://92.176.119.180:2095/play/a1f1,https://i
 Filmes,Movies,Viasat Kino (576p),http://89.254.128.5:22280/viasat_kino/index.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@SD,iptv-org
 Filmes,Movies,Viasat Kino Action (576p),http://89.254.128.5:22280/viasat_kino_action/index.m3u8,https://i.imgur.com/HwsNIDK.png,ViasatKinoAction.ua@SD,iptv-org
 Filmes,Movies,Victor Valley Movies (1080p) [Not 24/7],https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8,https://i.imgur.com/zgiuNNj.png,VictorValleyTV.us@SD,iptv-org
-Filmes,Movies,Vijay Super HD (1080p),http://149.71.34.166:8000/play/a06c/index.m3u8,https://i.imgur.com/3MWm9nD.png,VijaySuper.in@HD,iptv-org
 Filmes,Movies,viju TV1000 (576p),http://tmptv.sunduk.tv/CH141/index.m3u8,https://i.imgur.com/ZMsyjSr.png,vijuTV1000.ru@SD,iptv-org
 Filmes,Movies,viju TV1000 action (576p),http://tmptv.sunduk.tv/CH143/index.m3u8,https://i.imgur.com/TMmyuzh.png,vijuTV1000action.ru@SD,iptv-org
 Filmes,Movies,viju TV1000 russkoe (576p),http://tmptv.sunduk.tv/CH139/index.m3u8,https://i.imgur.com/Meak2y4.png,vijuTV1000russkoe.ru@SD,iptv-org

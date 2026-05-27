@@ -4415,10 +4415,6 @@ http://149.71.34.166:8000/play/a001/index.m3u8
 http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 group-title="CANAIS",Abzy Dhakad (504p)
-http://57.129.53.130:21001/ABZY_Dhakad/master.m3u8
-#EXTINF:-1 group-title="CANAIS",Abzy Movies (504p)
-http://57.129.53.130:21001/ABZY_Movies/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Adrenalina Pura TV
@@ -4449,8 +4445,10 @@ http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 http://tmptv.sunduk.tv/CH301/index.m3u8
 #EXTINF:-1 group-title="CANAIS",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Anmol Cinema (576p)
-http://116.90.120.151:8000/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="CANAIS",Artflix Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Asianet Movies (576p)
@@ -5005,8 +5003,6 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Victor Valley Movies (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Vijay Super HD (1080p)
-http://149.71.34.166:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
 http://tmptv.sunduk.tv/CH141/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 action (576p)
