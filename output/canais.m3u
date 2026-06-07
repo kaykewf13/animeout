@@ -4221,8 +4221,6 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 group-title="CANAIS",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Movies",My Cinema [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Movies",My Cinema Europe [Geo-blocked]
-https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinema Hausa (720p)
@@ -4285,8 +4283,6 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
-#EXTINF:-1 group-title="CANAIS",FX Movie Channel (720p) [Not 24/7]
-https://tvpass.org/live/FXMovieChannel/hd
 #EXTINF:-1 group-title="CANAIS",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",GEM Drama
@@ -4331,8 +4327,6 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Hallmark Movies & More (1080p) [Geo-blocked]
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
-#EXTINF:-1 group-title="CANAIS",Hallmark Movies & Mysteries East (1080p) [Not 24/7]
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #EXTINF:-1 group-title="CANAIS",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Hero (720p) [Not 24/7]
@@ -4343,8 +4337,6 @@ http://31.148.48.15/MGM_HD/index.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",ICC Plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",IFC East (720p) [Not 24/7]
-https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 group-title="CANAIS",iFilm 2
 https://live.presstv.ir/hls/ifilm2.m3u8
 #EXTINF:-1 group-title="CANAIS",iFilm Arabic
@@ -4381,8 +4373,6 @@ https://178.253.194.105/klasiktv/playlist.m3u8
 http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Kuriakos Cine (1080p)
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Lifetime Movies East (720p) [Not 24/7]
-https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 group-title="CANAIS",Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Made in Hollywood
@@ -4439,6 +4429,8 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Movify Kino (576p)
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 group-title="CANAIS",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MyTime Movie Network (1080p)
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",MyTime Movie Network (1080p)
@@ -4637,8 +4629,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TVS Film Noir Network (720p)
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
-#EXTINF:-1 group-title="CANAIS",USA Network East (1080p) [Not 24/7]
-https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 group-title="CANAIS",Viasat Kino (576p)
 http://89.254.128.5:22280/viasat_kino/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Viasat Kino Action (576p)
@@ -4863,8 +4853,6 @@ https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",GZT (1080p)
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Hallmark Drama (720p) [Not 24/7]
-https://tvpass.org/live/HallmarkDrama/hd
 #EXTINF:-1 group-title="CANAIS",Haunt TV (1080p)
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Hell's Kitchen (1080p)
