@@ -2409,6 +2409,8 @@ https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Giovanni Paolo Tv
 https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
+#EXTINF:-1 group-title="CANAIS",Globo Tv
+https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Globus Television
 https://cdn.cubws.com/live/globus.m3u8
 #EXTINF:-1 group-title="CANAIS",Gold Tv
@@ -4467,6 +4469,8 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1 group-title="CANAIS",Alterna TV (720p) [Not 24/7]
 https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC (720p)
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Amedia Hit (720p)
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Amedia Premium (720p)
@@ -4761,6 +4765,8 @@ https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies",MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="Movies;Series",Star Channel Latin America (1080i)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",MNX HD (1080p)
 http://149.71.34.166:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movie Bangla
@@ -4829,6 +4835,8 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount Network [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12060/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Paramount Network (720p)
+http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 #EXTINF:-1 group-title="CANAIS",Persiana Cinema
@@ -5095,8 +5103,6 @@ https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
 http://103.72.101.252:8080/live/1358.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Thirai HD (1080p)
-http://149.71.34.166:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Cine Friki (1080p)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Ciné Nanar (1080p)
@@ -5338,7 +5344,7 @@ https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Gunsmoke
 https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
 #EXTINF:-1 group-title="CANAIS",GZT (1080p)
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Happy Days
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
 #EXTINF:-1 group-title="CANAIS",Haunt TV (1080p)
@@ -5515,6 +5521,8 @@ https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTL Crime HD (1080p)
 http://c3921155.edmonst.net/iptv/65C7UBRRW8GHQVYPH2MQT3SA/15178/index.m3u8
+#EXTINF:-1 group-title="CANAIS",RTS Drama (576p)
+https://de1.dstv.cx/RTSDrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 group-title="CANAIS",Serie Max
