@@ -4207,6 +4207,8 @@ https://webtvstream.bhtelecom.ba/hls7/filmbox_premium.m3u8
 https://dokagents.site/live/filmboxp/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox Stars
 https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama (1080p)
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000
@@ -4271,6 +4273,8 @@ https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC (720p)
 http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Europe Bulgary (720p)
+http://45.136.153.199/AMC/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",Amedia Hit (720p)
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Amedia Premium (720p)
@@ -4317,6 +4321,8 @@ https://bravoohls.wns.live/hls/stream.m3u8
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 group-title="CANAIS",Canal+ Cinemas (720p)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-Storm Theater (1080p)
@@ -4497,6 +4503,8 @@ https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Hero (720p) [Not 24/7]
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:-1 group-title="CANAIS",Hit HD (1080p)
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Hollywood HD (1080p)
 http://31.148.48.15/MGM_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Home Plus
@@ -4539,8 +4547,12 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6088/index.m3u8
 #EXTINF:-1 group-title="CANAIS",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS",Kinopokaz HD (1080p)
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CANAIS",Kinoseriya (1080p)
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",Kinoteatr (1080p)
@@ -4631,6 +4643,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Nash Kinomir (576p)
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",NETV Toronto (720p)
@@ -5079,10 +5093,14 @@ http://149.71.34.166:8000/play/a059/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="CANAIS",START World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="CANAIS",Starz Cinema (720p)
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1 group-title="CANAIS",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Tamasha
@@ -5197,10 +5215,6 @@ http://31.148.48.15/Feniks_plus_kino/index.m3u8
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Мир Сериала (576p)
 http://31.148.48.15/Mir_Seriala/index.m3u8
-#EXTINF:-1 group-title="CANAIS",НТВ Сериал (576p)
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",НТВ Хит (576p)
-https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Кинеко (1080p)
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Русский Роман (1080p)
@@ -5537,6 +5551,10 @@ https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="CANAIS",NTV Series (576p)
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="CANAIS",NTV-Hit (1080p)
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
 #EXTINF:-1 group-title="CANAIS",One TV Drama 3 (1080p)
 http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",PBS Nature (1080p)
@@ -5781,6 +5799,8 @@ https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+#EXTINF:-1 group-title="CANAIS",We TV (720p)
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Weeds / Nurse Jackie (720p)
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 group-title="CANAIS",Wild 'N Out
