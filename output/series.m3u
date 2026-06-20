@@ -19,5 +19,7 @@ http://149.71.34.166:8000/play/a00b/index.m3u8
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
 #EXTINF:-1 group-title="SERIES",Movieplex (576p)
 https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 group-title="SERIES",Epic Drama Poland (720p)
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="SERIES",Epic Drama Ukraine [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/1048/index.m3u8
