@@ -4417,12 +4417,8 @@ http://5.57.74.130:8000/play/a0at/index.m3u8
 http://54.37.19.157/axn/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Romania
-https://dokagents.site/live/axnb/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Romania
-https://dokagents.site/live/axnhd/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Classic;Movies",Bollywood Classic
@@ -4435,8 +4431,6 @@ http://99.27.51.147:8080/CineFrisson/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",CineMaraton
 https://dokagents.site/live/cinemaraton/mono.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Mania
-https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Film Now
 https://dokagents.site/live/filmnow/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox (1080p)
@@ -4467,10 +4461,6 @@ https://iptv.prosto.tv/ch64/index.m3u8
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Pro Cinema
 https://dokagents.site/live/procinema/mono.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",TV1000
-https://dokagents.site/live/viasatkino/mono.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Series",Epic Drama
-https://dokagents.site/live/epicd/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies (720p)
@@ -4493,8 +4483,12 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
+#EXTINF:-1 group-title="CANAIS",&pictures (720p)
+https://trs1.aynaott.com/andpictureshd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&pictures HD (1080p)
 http://103.72.101.252:8080/live/185.m3u8
+#EXTINF:-1 group-title="CANAIS",&TV HD (720p)
+https://trs1.aynaott.com/andtvhd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&xplor HD (1080p)
@@ -4553,6 +4547,10 @@ http://149.71.34.166:8000/play/a06e/index.m3u8
 http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN Black Romania
+http://82.78.243.219:45739/play/a00e/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN CEE Romania
+http://82.78.243.219:45739/play/a01n/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
@@ -4713,6 +4711,8 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",FilmRise Westerns (720p)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="CANAIS",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
 #EXTINF:-1 group-title="CANAIS",GEM Bollywood
@@ -4742,7 +4742,7 @@ https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 group-title="CANAIS",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Goldmines (576p)
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://trs1.aynaott.com/Goldmines/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Goldmines Movies (720p)
@@ -4879,8 +4879,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 group-title="SERIES",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
-#EXTINF:-1 group-title="SERIES",Movieplex (576p)
-https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 group-title="SERIES",MoviePlex (576p)
+https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movies Action (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Movies Now + (1080p)
@@ -5333,6 +5333,8 @@ https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/in
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="CANAIS",Smotrim 100% Klassika (720p)
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony Max 2 (576p)
@@ -5351,6 +5353,10 @@ https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1 group-title="CANAIS",South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 group-title="CANAIS",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Star Family (1080p)
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
 http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Maa Movies HD (1080p)
@@ -5389,6 +5395,8 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 group-title="CANAIS",Tolly TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 group-title="CANAIS",TV1000
+http://82.78.243.219:45739/play/a01b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 group-title="CANAIS",TVCARiB Cinema (720p) [Not 24/7]
@@ -5443,6 +5451,8 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Bollywood (576p)
 http://149.71.34.166:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Zee Cinema (720p)
+https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema HD (1080p)
@@ -5537,12 +5547,6 @@ https://cityeden.catcast.tv/content/41333/index.m3u8
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Сити Эдем ТелеНовелла [Not 24/7]
 https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Смотрим 100% Классика
-https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
-#EXTINF:-1 group-title="CANAIS",Смотрим 100% Любовь
-https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
-#EXTINF:-1 group-title="CANAIS",Смотрим 100% Мужское
-https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
 #EXTINF:-1 group-title="CANAIS",3Cat Plats bruts (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 group-title="CANAIS",4ever Drama (1080p)
@@ -5675,6 +5679,8 @@ https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 group-title="CANAIS",Empeños a lo bestia
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 group-title="SERIES",Epic Drama
+http://82.78.243.219:45739/play/a01p/index.m3u8
 #EXTINF:-1 group-title="SERIES",Epic Drama Poland (720p)
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="SERIES",Epic Drama Ukraine [Not 24/7]
@@ -6005,6 +6011,10 @@ https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 group-title="CANAIS",Sin Tetas No Hay Paraíso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 group-title="CANAIS",Smotrim 100% Lyubov (720p)
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+#EXTINF:-1 group-title="CANAIS",Smotrim 100% Muzhskoe (720p)
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony One Blacklist (1080p)
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony One Series Comedie (1080p)

@@ -17,8 +17,10 @@ https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 http://149.71.34.166:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="SERIES",Moviepilot TV mit Pluto TV
 https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
-#EXTINF:-1 group-title="SERIES",Movieplex (576p)
-https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
+#EXTINF:-1 group-title="SERIES",MoviePlex (576p)
+https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
+#EXTINF:-1 group-title="SERIES",Epic Drama
+http://82.78.243.219:45739/play/a01p/index.m3u8
 #EXTINF:-1 group-title="SERIES",Epic Drama Poland (720p)
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="SERIES",Epic Drama Ukraine [Not 24/7]
