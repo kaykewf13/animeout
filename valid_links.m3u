@@ -4841,7 +4841,7 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://206.212.244.63/85/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 group-title="CANAIS",Hallmark Movies & Mysteries (720p)
+#EXTINF:-1 group-title="CANAIS",Hallmark Mystery (1080p)
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
@@ -5465,7 +5465,7 @@ http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
 https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 #EXTINF:-1 group-title="CANAIS",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 group-title="CANAIS",Screamfest (720p)
+#EXTINF:-1 group-title="CANAIS",Scares by Shudder (720p)
 http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
@@ -6083,8 +6083,6 @@ https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
 https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
 #EXTINF:-1 group-title="CANAIS",Judge Nosey (1080p)
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Juntos TV (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 group-title="CANAIS",Kenan y Kel

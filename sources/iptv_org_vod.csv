@@ -212,7 +212,7 @@ Filmes,Movies,Grjngo Western Movies (720p),https://amogonetworx-grjngo-3-dk.sams
 Filmes,Movies,Groovy TV (360p),http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8,https://i.imgur.com/ZYNQuf1.png,GroovyTV.gr@SD,iptv-org
 Filmes,Movies,Hallmark Family (720p),http://206.212.244.63/85/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png,HallmarkFamily.us@SD,iptv-org
 Filmes,Movies,Hallmark Movies & More (1080p),https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709,https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png,HallmarkMoviesMore.us@SD,iptv-org
-Filmes,Movies,Hallmark Movies & Mysteries (720p),http://206.212.244.63/86/index.m3u8,https://i.imgur.com/GPRGA9C.png,HallmarkMoviesMysteries.us@East,iptv-org
+Filmes,Movies;Series,Hallmark Mystery (1080p),http://206.212.244.63/86/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg,HallmarkMystery.us@East,iptv-org
 Filmes,Movies,Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8,https://www.tvchinese.net/uploads/tv/haerbin.jpg,HarbinMovieChannel.cn@SD,iptv-org
 Filmes,Movies,Hero (720p) [Not 24/7],https://live-fi.tvkaista.net/hero/live.m3u8?hd=true,https://i.imgur.com/4t5JQLY.png,Hero.fi@SD,iptv-org
 Filmes,Movies,Hit HD (1080p),http://hls127.freeott.top:8080/XitHD/video.m3u8,https://i.imgur.com/jl3MNPe.png,Hit.ru@HD,iptv-org
@@ -550,7 +550,7 @@ Filmes,Movies,Rotana Cinema KSA (1080p) [Geo-blocked],https://rotana.hibridcdn.n
 Filmes,Movies,RTSH Shqip (1080p),http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8,https://i.imgur.com/88kRsW3.png,RTSHShqip.al@SD,iptv-org
 Filmes,Movies,Runtime (720p),https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8,https://i.imgur.com/2USCMvP.png,Runtime.us@SD,iptv-org
 Filmes,Movies,Runtime Espanol (720p),https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8,https://i.imgur.com/OMQq19N.png,RuntimeEspanol.us@SD,iptv-org
-Filmes,Movies,Screamfest (720p),http://206.212.244.63/147/index.m3u8,https://i.imgur.com/bZstXT1.png,Screamfest.us@SD,iptv-org
+Filmes,Movies,Scares by Shudder (720p),http://206.212.244.63/147/index.m3u8,https://www.bgr.com/bgr/entertainment/freevee-added-5-spooky-new-live-channels-just-in-time-for-halloween/Scares-by-Shudder.jpg,ScaresbyShudder.us@SD,iptv-org
 Filmes,Movies,SensaCine TV x Pluto,https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8,https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png,SensaCineTVxPluto.de@ES,iptv-org
 Filmes,Movies,ServusTV (1080p) [Geo-blocked],https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8,https://i.imgur.com/6W637Gn.png,ServusTV.at@SD,iptv-org
 Filmes,Movies;Music,Shemaroo Filmi Gaane (1080p),http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8,https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png,ShemarooFilmiGaane.in@HD,iptv-org
@@ -872,7 +872,6 @@ Series,Series,Judge Judy,https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8,https
 Series,Series,Judge Judy,https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8,https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png,JudgeJudy.se@NO,iptv-org
 Series,Series,Judge Judy,https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8,https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png,JudgeJudy.se@SE,iptv-org
 Series,Series,Judge Nosey (1080p),https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8,https://i.imgur.com/S4r98AB.png,JudgeNosey.us@US,iptv-org
-Series,Series,Juntos TV (720p),https://live-evg8.tv360.bitel.com.pe/bitel/juntostvSRT/playlist.m3u8,https://i.imgur.com/dgMZLC2.png,JuntosTV.us@SD,iptv-org
 Series,Series,Kenan & Kel,https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8,https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png,KenanKel.us@BR,iptv-org
 Series,Series,Kenan y Kel,https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8,https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png,KenanKel.us@LatAm,iptv-org
 Series,Series,Latina Clasicos (1080p),https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8,https://i.imgur.com/q0dAWyj.png,LatinaClasicos.pe@SD,iptv-org
