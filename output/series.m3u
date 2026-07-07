@@ -3,8 +3,6 @@
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 group-title="SERIES",Deportes13 Ⓖ
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 group-title="SERIES",UTV (Czech Republic)
-https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 group-title="SERIES",Lepanto
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 group-title="SERIES",Epsilon
