@@ -4433,8 +4433,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",PNC Drama (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S
-#EXTINF:-1 group-title="CANAIS",27 TwentySeven [Geo-blocked]
-https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="CANAIS",50 Cent Action (720p)
@@ -4533,6 +4531,8 @@ http://88.212.15.19/live/test_filmbox/playlist.m3u8
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Series",Tlnovelas Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Latin America (720p)
+http://200.91.32.158:8080/amc/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
 http://177.234.249.178:8888/AMC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Movies",AMC Latin America Brazil (1080p)
@@ -4635,8 +4635,6 @@ http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CINDIE TV (1080p)
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 group-title="CANAIS",Cine 34 [Geo-blocked]
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cine35mm
 https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
 #EXTINF:-1 group-title="CANAIS",Ciné 666 by Pluto TV
@@ -4683,6 +4681,8 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 group-title="CANAIS",Ciné Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+#EXTINF:-1 group-title="CANAIS",Cine.Ar (576p)
+http://200.91.32.158:8080/cinear/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinecanal Mexico (720p)
 http://177.245.131.133:8080/CINECANAL/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinecanal Pacific (1080p)
@@ -4781,6 +4781,8 @@ https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+#EXTINF:-1 group-title="CANAIS",FXM (720p)
+http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",GEM Drama
@@ -4819,8 +4821,8 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 group-title="CANAIS",Great American Faith & Living (1080p)
 http://206.212.244.63/82/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Great American Family (720p)
-http://206.212.244.63/81/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Great American Family (1080p)
+http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! movies (1080p)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! romance (1080p)
@@ -4829,8 +4831,8 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Groovy TV (360p)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Hallmark Family (720p)
-http://206.212.244.63/85/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Hallmark Family (1080p)
+http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 group-title="CANAIS",Hallmark Mystery (1080p)
@@ -5611,8 +5613,12 @@ https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Universal Cinema (1080p)
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Universal Premiere (720p)
+http://200.91.32.158:8080/universalpremierehd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",USA Network (1080p)
 http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="CANAIS",USA Network West (1080p)
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
@@ -5789,6 +5795,8 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Series Latin America (720p)
+http://200.91.32.158:8080/amcserieshd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Series Latin America (1080p)
 http://177.245.131.133:8080/AMCSERIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Amedia 2 (576p)
@@ -5815,6 +5823,8 @@ https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Antiques Roadshow UK (1080p)
 https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Aqui No Hay Quien Viva [_Geo-blocked_]
+https://fast-channels.atresmedia.com/161689f1897ccaaef9a6039cc591f292b259b62e/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc/3.m3u8
 #EXTINF:-1 group-title="CANAIS",At Home with Family Handyman (720p)
 https://d1ik2p49apxqjf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Auction Hunters
@@ -6529,12 +6539,12 @@ https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 group-title="CANAIS",Tiny House Nation (1080p)
 https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TNT Novelas (720p)
+http://200.91.32.158:8080/tntnovelas/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas (1080p)
 http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas Brazil (720p)
 http://167.250.126.140:7777/TBS-HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Top Crime [Geo-blocked]
-https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 group-title="CANAIS",Tout le monde déteste Chris
@@ -6561,6 +6571,8 @@ http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7281/index.m3u8
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1 group-title="CANAIS",Unga Mammor
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
+#EXTINF:-1 group-title="CANAIS",Universal Crime (720p)
+http://200.91.32.158:8080/universalcrimehd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Unsolved Mysteries
