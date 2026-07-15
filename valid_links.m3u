@@ -4493,6 +4493,8 @@ https://dokagents.site/live/amc/mono.m3u8
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN (1080p)
 http://cdn.haititivi.com/AXN/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",AXN
+http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
@@ -4531,6 +4533,8 @@ http://88.212.15.19/live/test_filmbox/playlist.m3u8
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Movie Star (720p)
 https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Star Movies
+http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
@@ -4973,6 +4977,8 @@ https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",MGM+ (1080p)
 http://40.160.24.52/EPIX/index.m3u8
+#EXTINF:-1 group-title="CANAIS",MGM+ Drive-In (720p)
+http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MGM+ Hits (720p)
 http://40.160.24.52/EPIX_2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MH One Movies (576p)
@@ -5089,6 +5095,8 @@ https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1 group-title="CANAIS",Patriot (720p)
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 group-title="CANAIS",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Persiana Family
@@ -5581,8 +5589,8 @@ https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 http://40.160.24.55/SUNDANCE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1 group-title="CANAIS",SYFY (720p)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="CANAIS",SYFY (1080p)
+https://gpuserver5.tier1streams.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Tamasha
@@ -5755,8 +5763,6 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Новый Русский (720p)
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-#EXTINF:-1 group-title="CANAIS",Патриот (576i)
-http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Сити Эдем КиноАзия [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Сити Эдем КиноАрт [Not 24/7]
@@ -6471,6 +6477,8 @@ https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8
 https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1 group-title="CANAIS",Series Classic (720p)
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Shef (1080p)
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Sin Tetas No Hay Paraíso
