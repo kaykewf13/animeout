@@ -4199,16 +4199,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6536608b4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/653660b4295b840008a70ba3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies (720p)
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Box Cinema (1080p)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",NOST The Nostalgia Network (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8?ads.vf=oIGRNR7C3qe
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",Revry Her (720p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/revry-her/playlist.m3u8?ads.vf=j5eHovd50EC
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",Ghost Dimension (1080p)
-https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/Q7VW3TCBWCN12JGUJGUY/hls3/now,-1m/m.m3u8?ads.vf=7sLXLbaCnLW
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Series",PNC Drama (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=S1kySuSK58S
 #EXTINF:-1 group-title="CANAIS",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 group-title="CANAIS",50 Cent Action (720p)
@@ -4243,8 +4235,6 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",Afriwood Blockbuster (720p)
-https://streamdot.broadpeak.io/cff02a74da64d145c102a2d012758398/afxpstr/AfriwoodBlockbuster/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Alien Nation by DUST (1080p)
@@ -4465,6 +4455,8 @@ https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 group-title="CANAIS",Cine+ (1080p)
 http://176.122.125.10:8080/CinePlusHD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Cine+ Emotion (720p)
+http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cine+ Hit (1080p)
 http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cine.Ar (576p)
@@ -4487,8 +4479,6 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Cinema Hausa (720p)
-https://streamdot.broadpeak.io/cff02a74da64d1459eeb779df71f0511/afxpstr/CinemaHausa/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinevault 80s (720p)
@@ -4671,6 +4661,8 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Kairali We (576p)
 https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 group-title="CANAIS",Kantipur Max [Geo-blocked]
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",KCM (1080p) [Geo-blocked]
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Kids Movie Club
@@ -4723,8 +4715,6 @@ http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",MAX4 (576p)
 http://146.59.85.40:89/max4/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Max Movies (1080p)
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MBC+ Drama (1080p)
@@ -4755,8 +4745,6 @@ http://40.160.24.52/EPIX/index.m3u8
 http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MGM+ Hits (720p)
 http://40.160.24.52/EPIX_2/index.m3u8
-#EXTINF:-1 group-title="CANAIS",MH One Movies (576p)
-https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
@@ -5245,6 +5233,8 @@ https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
 #EXTINF:-1 group-title="CANAIS",Rawhide
 https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+#EXTINF:-1 group-title="CANAIS",Revry Her (720p)
+https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Romedy Now (576p)
@@ -5473,8 +5463,6 @@ http://41.205.77.102/ZEE-CINEMA/index.m3u8
 http://41.223.30.230/ZEECINEMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinemalu (576p)
 http://103.72.101.252:8080/live/413.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Cinemalu HD (1080p)
-https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
@@ -5825,6 +5813,8 @@ https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",GEM Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1 group-title="CANAIS",Ghost Dimension
+https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 group-title="CANAIS",Ghost Hunters (1080p)
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Gunsmoke
@@ -5853,8 +5843,8 @@ https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Highway to Heaven
 https://jmp2.uk/plu-68bff9a63efb41cd97562e46.m3u8
-#EXTINF:-1 group-title="CANAIS",Home.Made.Nation (1080p)
-https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Home.Made.Nation (720p)
+https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 #EXTINF:-1 group-title="CANAIS",Homes Under The Hammer (720p)
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Homicide Hunter
@@ -6213,8 +6203,6 @@ https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Rakuten Viki (1080p)
-https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",REV'N Action (720p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Drama (1080p) [Geo-blocked]
@@ -6283,8 +6271,8 @@ https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 #EXTINF:-1 group-title="CANAIS",The Asylum (1080p)
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
-#EXTINF:-1 group-title="CANAIS",The Bob Ross Channel (1080p)
-https://bobross-xumous.cinedigm.com/midroll/amagi_hls_data_xumo-host-bobross-xumo/CDN/master.m3u8
+#EXTINF:-1 group-title="CANAIS",The Bob Ross Channel (720p)
+https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",The Challenge
 https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 #EXTINF:-1 group-title="CANAIS",The Challenge
@@ -6333,8 +6321,8 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 group-title="CANAIS",Three's Company
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
-#EXTINF:-1 group-title="CANAIS",Tiny House Nation (1080p)
-https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Tiny House Nation (720p)
+https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 group-title="CANAIS",Tlnovelas Latin America (1080p)
 http://177.234.249.135:8888/Telenovelas/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas (720p)
