@@ -186,6 +186,7 @@ Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",FILMBOX+ Emotion Hungary (1080p)",http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png,FILMBOXPlusEmotion.pl@Hungary,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",FILMBOX+ Emotion Romania (1080p)",https://aes.m3u8simplu.workers.dev/filmboxextra/index.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png,FILMBOXPlusEmotion.pl@Romania,iptv-org
 Filmes,Movies,FILMBOX+ Festival,https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png,FILMBOXPlusFestival.pl,iptv-org
+Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",FILMBOX+ Festival HD",https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png,FILMBOXPlusFestival.pl@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",FILMBOX+ Hits Adria",https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png,FILMBOXPlusHits.pl@Adria,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",FILMBOX+ Hits Czechia",http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png,FILMBOXPlusHits.pl@Czechia,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",FILMBOX+ Hits Romania (576p)",https://aes.m3u8simplu.workers.dev/filmboxpremium/index.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png,FILMBOXPlusHits.pl@Romania,iptv-org
@@ -539,6 +540,7 @@ Filmes,Movies,Pravah Picture HD (1080p),http://149.71.34.166:8000/play/a06f/inde
 Filmes,Movies,Premialnoe HD (1080p),http://stream.mcquack.net/421/index.m3u8,https://i.imgur.com/ck4aLBP.png,Premialnoe.ru@HD,iptv-org
 Filmes,Animation;Classic;Entertainment;Family;Movies,Pro100TV (576p),https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8,https://i.imgur.com/YfQEflM.png,Pro100TV.ru@SD,iptv-org
 Filmes,Movies,Public Movies (576p),https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png,PublicMovies.in@SD,iptv-org
+Filmes,Movies,Punjabi Shorts (1080p),https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8,https://www.thegtcnetwork.com/punjabi-shorts.jpg,PunjabiShorts.in@SD,iptv-org
 Filmes,Movies,QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8,https://www.tvchinese.net/uploads/tv/qdtv3.jpg,QTV3.cn@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Rai Movie",http://91.146.94.234:10001/play/a02r,https://i.imgur.com/0FjxXU9.png,RaiMovie.it@SD,iptv-org
 Filmes,Movies,Raj Digital Plus (1080p),https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png,RajDigitalPlus.in@SD,iptv-org
@@ -614,6 +616,7 @@ Filmes,Movies;Series,Star Channel Latin America Central America (1080p),https://
 Filmes,Movies,Star Cinema,https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8,https://i.imgur.com/5sis895.png,StarCinema.ru@SD,iptv-org
 Filmes,Movies,Star Family (1080p),https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8,https://i.imgur.com/eGuGHnZ.png,StarFamily.ru@SD,iptv-org
 Filmes,Movies,Star Gold 2 (576p),http://103.253.18.58:8000/play/a00r,https://i.imgur.com/G0ZfzZr.png,StarGold2.in@SD,iptv-org
+Filmes,Movies,Star Gold HD (1080p) [Not 24/7],http://103.253.18.58:8000/play/a00q,https://i.imgur.com/xC460sj.png,StarGold.in@HD,iptv-org
 Filmes,Movies,Star Gold Romance (576p),http://103.253.18.58:8000/play/a017,https://i.imgur.com/gSWv9U3.png,StarGoldRomance.in@SD,iptv-org
 Filmes,Movies,Star Gold Select HD (1080p),http://103.253.18.58:8000/play/a02u,https://i.imgur.com/U7eiuqv.png,StarGoldSelect.in@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Movies"",Star Gold Thrills (576p)",http://103.157.248.140:8000/play/a00b/index.m3u8,https://i.imgur.com/azqtpYh.png,StarGoldThrills.in@SD,iptv-org
@@ -877,6 +880,7 @@ Series,Series,Fear Factor (1080p),https://amg00627-banijaygroup-fearfactor-samsu
 Series,Series,Feel Good Drama,https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8,https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png,FeelGoodDrama.us@SD,iptv-org
 Series,Series,Fox Life (576p),http://stream.mcquack.net/129/index.m3u8,https://i.imgur.com/O2miSLA.png,FoxLife.ru@SD,iptv-org
 Series,Series,Frasier,https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png,Frasier.us@CA,iptv-org
+Series,Series,FX Life (720p),http://185.102.171.218/FOX_Life/index.m3u8,https://i.imgur.com/VLv4r50.png,FXLife.gr@HD,iptv-org
 Series,Series,GEM Series,https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202,https://i.imgur.com/M0WMDXm.png,GEMSeries.tr@SD,iptv-org
 Series,Series,GEM Series Plus,https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202,https://gemgroup.tv/assets/images/channels/icon_33.png,GEMSeriesPlus.tr@SD,iptv-org
 Series,Series,Ghost Dimension,https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8,https://i.imgur.com/a0jOxez.png,GhostDimension.us@UK,iptv-org
