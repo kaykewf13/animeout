@@ -4261,8 +4261,6 @@ http://cdn.haititivi.com/AXN/index.m3u8
 http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies;Series",AXN Asia Indonesia
-http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN Black Czech Republic
 http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
@@ -4285,8 +4283,6 @@ http://86.87.15.10:8008/play/a01k/index.m3u8
 http://86.87.15.10:8008/play/a01m/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere
 http://86.87.15.10:8008/play/a01n/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FilmBox (1080p)
-http://193.239.186.231/FILMBOX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Comedy Czechia
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy Magyar & Romania (576p)
@@ -4375,6 +4371,8 @@ https://aes.m3u8simplu.workers.dev/procinema/index.m3u8
 https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action (1080p)
+http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
@@ -4587,6 +4585,8 @@ https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
 https://tchaikovsky.af-stream.com:991/s/xzztutfc/dom-kino-hd/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Dom kino Premium HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",Dunia Sinema (1080p)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="CANAIS",Ebony TV by Lionsgate (1080p)
@@ -4595,8 +4595,6 @@ https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playl
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
-#EXTINF:-1 group-title="CANAIS",Epic Bhojpuri (576p)
-http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 group-title="CANAIS",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 group-title="CANAIS",ETV Cinema HD (1080p)
@@ -4613,6 +4611,10 @@ http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Movies",FilmBox
+http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
+http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ Festival
 https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
@@ -5403,8 +5405,6 @@ https://streamer.metronethn.com/StarChannel/index.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
-http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Maa Movies HD (1080p)
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Movies HD (1080p)
