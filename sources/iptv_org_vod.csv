@@ -186,7 +186,6 @@ Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Film+",http://88.212.15.19/live/film_plus_hun_atk/index.m3u8,https://i.imgur.com/OWqzJyy.png,FilmPlus.hu@SD,iptv-org
 Filmes,Movies,Filmax (576p),https://s3.ideationtec.live/Filmax/Filmax.m3u8,https://i.imgur.com/eLmdZ6k.png,Filmax.pk@SD,iptv-org
 Filmes,Movies,Filmazia (576p),http://103.250.28.74:8000/play/a02k/index.m3u8,https://i.imgur.com/hpTCANa.png,Filmazia.pk@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21"" group-title=""Movies"",FilmBox",http://de.seetv.cc/play/8041/1966B8DE7EC6FEE/video.m3u8,https://i.imgur.com/VyaslIY.png,FilmBox.nl@Netherlands,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",FILMBOX+ Comedy Czechia",http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png,FILMBOXPlusComedy.pl@Czechia,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",FILMBOX+ Comedy Magyar & Romania (576p)",http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png,FILMBOXPlusComedy.pl@MagyarRomania,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",FILMBOX+ Emotion Adria",https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8,https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png,FILMBOXPlusEmotion.pl@Adria,iptv-org
@@ -318,8 +317,8 @@ Filmes,Movies,Merry Christmas from Viafree,https://jmp2.uk/plu-6304854ac6073d000
 Filmes,Movies,Meta Film TV,https://metafilmhls.wns.live/hls/stream.m3u8,,MetaFilmTV.ir@SD,iptv-org
 Filmes,Movies,MGM+ (1080p),https://gpuserver3.tier1streams.com/EPIX/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png,MGMPlus.us@East,iptv-org
 Filmes,Movies,MGM+ Drive-In (720p),https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png,MGMPlusDriveIn.us@SD,iptv-org
-Filmes,Movies,MGM+ Marquee (720p),http://108.181.20.255:27347/livehttpplay?channel_id=23075,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png,MGMPlusMarquee.us@SD,iptv-org
-Filmes,Movies,MGM+ West (720p),http://108.181.20.255:27347/livehttpplay?channel_id=23073,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png,MGMPlus.us@West,iptv-org
+Filmes,Movies,MGM+ Hits (1080p),https://sra72yz.s.gy/MGM_PLUS_HITS_HD,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/960px-MGM%2B_Hits_2023.svg.png,MGMPlusHits.us@East,iptv-org
+Filmes,Movies,MGM+ Marquee (720p),https://sra72yz.s.gy/MGM_PLUS_MARQUEE_SD,https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/960px-MGM%2B_Marquee_2023.svg.png,MGMPlusMarquee.us@SD,iptv-org
 Filmes,Movies;Series,Mission Impossible,https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8,https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png,MissionImpossible.de@DACH,iptv-org
 Filmes,Movies;Series,Mission Impossible,https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8,https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png,MissionImpossible.de@FR,iptv-org
 Filmes,Movies;Series,Mission Impossible,https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8,https://images.pluto.tv/channels/634fe5afece2e60007c9d8b8/colorLogoPNG.png,MissionImpossible.de@GB,iptv-org
@@ -673,6 +672,7 @@ Filmes,Movies,Star Utsav Movies (576p),http://149.71.34.166:8000/play/a059/index
 Filmes,Movies,START Air (576p),http://stream.mcquack.net/128/index.m3u8,https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png,STARTAir.ru@SD,iptv-org
 Filmes,Movies,START World,https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8,https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png,STARTWorld.ru@SD,iptv-org
 Filmes,Movies,Starz Cinema (720p),http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8,https://i.imgur.com/ghzzKoT.png,StarzCinema.us@East,iptv-org
+Filmes,Movies,Starz Encore Action (1080p),https://sra72yz.s.gy/STARZ_ENCORE_ACTION_EAST_HD,https://i.imgur.com/wIf4X0i.png,StarzEncoreAction.us@East,iptv-org
 Filmes,Movies,Studio One + (720p),https://cdn-1.pishow.tv/live/276/master.m3u8,https://i.imgur.com/yOPB7JB.png,StudioOnePlus.in@SD,iptv-org
 Filmes,Movies,Summer of Movies,https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8,https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png,SummerofMovies.us@CA,iptv-org
 Filmes,Movies,Sundance TV (720p),http://40.160.24.55/SUNDANCE/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png,SundanceTV.us@East,iptv-org
@@ -700,7 +700,7 @@ Filmes,Movies;Series,The Twilight Zone,https://jmp2.uk/plu-6512d6c92ce8e40008bd5
 Filmes,Movies;Series,The Wild Wild West,https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8,https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png,TheWildWildWest.us@SD,iptv-org
 Filmes,Movies,Thrill (540p),https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd,https://i.imgur.com/Y282owj.png,Thrill.hk@SD,iptv-org
 Filmes,Movies,Tolly TV (1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8,https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png,TollyTV.in@HD,iptv-org
-Filmes,Movies,TV 21 (576p),http://stream.mcquack.net/152/index.m3u8,https://i.imgur.com/nSmSnH6.png,TV21.ru@SD,iptv-org
+Filmes,Movies,TV 21 International (576p),http://stream.mcquack.net/152/index.m3u8,https://ibb.co/BH6CZx3K,TV21International.ru,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",TV1000",http://85.14.32.26:8800/udp/239.100.10.100:5000,https://i.imgur.com/GHNsctR.png,TV1000.bg@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",TV1000 (720p)",https://aes.m3u8simplu.workers.dev/viasatkino/index.m3u8,https://i.imgur.com/GHNsctR.png,TV1000.ro@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/124.0.0.0 Safari/537.36"" group-title=""Movies"",TV1000",https://lb.dstvmultimedia.com/NovaMax/index.m3u8,https://i.imgur.com/GHNsctR.png,TV1000.si@SD,iptv-org
