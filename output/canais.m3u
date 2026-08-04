@@ -4221,6 +4221,10 @@ http://149.71.34.166:8000/play/a001/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="CANAIS",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",ActionMax (720p)
+http://40.160.24.52/ACTIONMAX/index.m3u8
+#EXTINF:-1 group-title="CANAIS",ActionMax East HD (720p)
+https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 group-title="CANAIS",Adrenalina Pura TV (720p)
@@ -4321,12 +4325,22 @@ http://stream.mcquack.net/466/index.m3u8
 http://88.212.15.19/live/amc_hun/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",AXN CEE
 http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Classic;Movies",Bollywood Classic (576p)
+http://starcius-cinema.com/20653/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Film Cafe
 http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits (1080p)
+http://starcius-cinema.com/11582/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Hungary
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (404p)
+http://starcius-cinema.com/10244/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Polsat Film (1080p)
+http://starcius-cinema.com/11579/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
 http://103.157.248.140:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Series",TVP Seriale (1080p)
+http://starcius-cinema.com/11580/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
@@ -4397,8 +4411,6 @@ http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Blokbaster HD (1080p)
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Bollywood Classic (1080p)
-http://103.213.31.109:90/BollywoodClassic/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD (1080p)
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD Russia (576p)
@@ -4823,6 +4835,8 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 http://149.71.34.166:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="CANAIS",More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
+#EXTINF:-1 group-title="CANAIS",MoreMax (1080p)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movie Bangla
@@ -4893,6 +4907,8 @@ https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
 #EXTINF:-1 group-title="CANAIS",NonStop Kung Fu
 https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 group-title="CANAIS",ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 group-title="CANAIS",One TV Cinema 2 (1080p)
 http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Orbita Chile TV (1080p)
@@ -5407,8 +5423,8 @@ http://149.71.34.166:8000/play/a059/index.m3u8
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 group-title="CANAIS",START World
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 group-title="CANAIS",Starz Cinema (720p)
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Starz Cinema (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Studio One + (720p)
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Summer of Movies
