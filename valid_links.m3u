@@ -4557,7 +4557,9 @@ http://88.212.15.19/live/film_cafe/index.m3u8
 http://starcius-cinema.com/11582/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Hungary
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania (404p)
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Romania
+http://starcius-cinema.com/20655/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Patriot (726p)
 http://starcius-cinema.com/10244/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Polsat Film (1080p)
 http://starcius-cinema.com/11579/index.m3u8
@@ -4565,6 +4567,8 @@ http://starcius-cinema.com/11579/index.m3u8
 http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Series",TVP Seriale (1080p)
 http://starcius-cinema.com/11580/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Series",Viasat Epic Drama
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
 http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
@@ -4631,6 +4635,8 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 group-title="CANAIS",Bhojpuri Cinema (720p)
 http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Bioskop TelkomVision (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
 #EXTINF:-1 group-title="CANAIS",BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Blokbaster HD (1080p)
@@ -4685,6 +4691,8 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="CANAIS",CCTV-6 [Geo-blocked]
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-Storm Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="CANAIS",CCTV-The First Theater (1080p)
@@ -4817,6 +4825,10 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="SERIES",Epic Bhojpuri (576p)
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Eros Universe Bollywood Cinema
+https://prod-runn.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Eros Universe Entertainment
+https://prod-runn.cdn.runn.tv/eros/stream/ersent/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Estrellas de Acción
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 group-title="CANAIS",ETV Cinema HD (1080p)
@@ -4893,8 +4905,8 @@ http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-#EXTINF:-1 group-title="CANAIS",Great American Faith & Living (1080p)
-http://206.212.244.63/82/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Great American Faith & Living (720p)
+https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Great American Family (1080p)
 http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! movies (1080p)
@@ -5129,6 +5141,8 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="CANAIS",NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
 #EXTINF:-1 group-title="CANAIS",Nolly Africa HD (1080p)
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Nollywood TV (720p)
@@ -5163,8 +5177,6 @@ https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 http://138.186.23.7:8082/PARAMOUNT/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
-#EXTINF:-1 group-title="CANAIS",Patriot (720p)
-https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1 group-title="CANAIS",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Persiana Family
@@ -5567,8 +5579,6 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 http://stream.mcquack.net/208/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Russkiy Detektiv (576p)
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Scares by Shudder (720p)
-http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 group-title="CANAIS",ServusTV (1080p) [Geo-blocked]
@@ -5665,8 +5675,6 @@ https://cdn-1.pishow.tv/live/276/master.m3u8
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 group-title="CANAIS",Sundance TV (720p)
 http://40.160.24.55/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Super Channel Vault (1080p)
-http://206.212.244.63/6142/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SYFY (1080p)
