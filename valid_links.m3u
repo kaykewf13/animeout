@@ -4635,8 +4635,6 @@ https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 group-title="CANAIS",Bhojpuri Cinema (720p)
 http://103.213.31.109:90/BhojpuriCinema/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Bioskop TelkomVision (576p)
-https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
 #EXTINF:-1 group-title="CANAIS",BIZ Cinema (1080p)
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Blokbaster HD (1080p)
