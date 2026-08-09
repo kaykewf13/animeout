@@ -4445,10 +4445,6 @@ http://149.71.34.166:8000/play/a001/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="CANAIS",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",ActionMax (720p)
-http://40.160.24.52/ACTIONMAX/index.m3u8
-#EXTINF:-1 group-title="CANAIS",ActionMax East HD (720p)
-https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 group-title="CANAIS",Adrenalina Pura TV (720p)
@@ -4591,8 +4587,6 @@ http://149.71.34.166:8000/play/a06e/index.m3u8
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN (720p)
 http://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AXN Asia Philippines (576p)
-https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Asia Taiwan (720p)
 https://play.wenxiang.cn/live/1a88465f153e1dd2108fd791bf4f25f7.flv
 #EXTINF:-1 group-title="CANAIS",AXN Black Poland (576p)
