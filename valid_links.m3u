@@ -4839,8 +4839,6 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="CANAIS",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Flix (720p)
-https://gpuserver3.tier1streams.com/FLIX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
 #EXTINF:-1 group-title="CANAIS",FrightFlix (720p)
@@ -4881,8 +4879,6 @@ http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-#EXTINF:-1 group-title="CANAIS",Great American Faith & Living (720p)
-https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Great American Family (1080p)
 http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! movies (1080p)
@@ -5019,8 +5015,6 @@ https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 #EXTINF:-1 group-title="CANAIS",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",MGM+ Drive-In (720p)
-https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
