@@ -119,6 +119,7 @@ Canais,Belgium,Canvas,http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8
 Canais,Belgium,VTM,http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.ts,https://i.imgur.com/fUxRP9x.png,channel-playlist:free-tv-br
 Canais,Belgium,VIER,http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts,https://i.imgur.com/bFTXP2e.png,channel-playlist:free-tv-br
 Canais,Belgium,VIJF,http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts,https://i.imgur.com/DTJLkiP.png,channel-playlist:free-tv-br
+Canais,Belgium,Bruzz,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8,https://www.bruzz.be/themes/custom/drupack/favicons/favicon-32x32.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,BHT 1,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,BHT 1 Ⓢ,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,Federalna televizija (FTV) Ⓢ,http://94.250.2.6:7374/play/a02s/index.m3u8,https://i.imgur.com/Jpvs4u3.png,channel-playlist:free-tv-br
@@ -1664,6 +1665,7 @@ Canais,Venezuela,Globovisión,https://vcp5.myplaytv.com/globovision/globovision/
 Canais,Venezuela,Vale TV Ⓢ,https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png,channel-playlist:free-tv-br
 Canais,Venezuela,Telesur,https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8,https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png,channel-playlist:free-tv-br
 Canais,Venezuela,Latina TV,https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8,https://intervenhosting.net/imagenes/latinatv.jpg,channel-playlist:free-tv-br
+Canais,Venezuela,inter TV,https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8,https://intervenhosting.net/imagenes/itv.jpg,channel-playlist:free-tv-br
 Canais,Documentaries (AR),Al Jazeera Documentary Ⓖ,https://live-hls-web-ajd.getaj.net/AJD/index.m3u8,https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png,channel-playlist:free-tv-br
 Canais,Documentaries (EN),CGTN Documentary English Ⓢ,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8,https://i.imgur.com/JHv0WxM.png,channel-playlist:free-tv-br
 Canais,Documentaries (EN),RT Documentary English Ⓖ,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8,https://i.imgur.com/ZEi1Wgn.png,channel-playlist:free-tv-br

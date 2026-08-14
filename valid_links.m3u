@@ -1301,6 +1301,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.ts
 #EXTINF:-1 group-title="CANAIS",VIJF
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.ts
+#EXTINF:-1 group-title="CANAIS",Bruzz
+https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",BHT 1
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
 #EXTINF:-1 group-title="CANAIS",BHT 1 Ⓢ
@@ -3859,6 +3861,8 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8
 #EXTINF:-1 group-title="CANAIS",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 group-title="CANAIS",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 group-title="CANAIS",Al Jazeera Documentary Ⓖ
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CGTN Documentary English Ⓢ
@@ -4431,8 +4435,6 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
-#EXTINF:-1 group-title="CANAIS",&pictures (720p)
-https://trs1.aynaott.com/andpictureshd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&pictures HD (1080p)
 http://103.72.101.252:8080/live/185.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
@@ -5687,8 +5689,6 @@ http://stream.mcquack.net/100/index.m3u8
 http://stream.mcquack.net/200/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju+ Premiere HD (1080p)
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Village Cinemas (720p)
-http://185.102.171.218/Village/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Viva Cinema (480p)
 https://streams.comclark.com/pknsd/viva/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Watch it Scream! (720p)
@@ -5709,8 +5709,8 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Bollywood (580p)
 https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Cinema (720p)
-https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Zee Cinema (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema APAC (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema HD (1080p)
@@ -6031,8 +6031,6 @@ https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 group-title="SERIES",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Epic Drama
 http://82.78.243.219:45739/play/a01p/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Europa Europa
-http://181.119.93.83:8000/play/a1sr/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 group-title="CANAIS",Farscape
@@ -6540,7 +6538,7 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 group-title="CANAIS",Tiny House Nation (720p)
 https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 group-title="CANAIS",Tlnovelas Latin America (1080p)
-http://177.234.249.135:8888/Telenovelas/index.m3u8
+http://209.14.115.253:8081/TELENOVELAS/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas (1080p)
 http://15.204.246.24:8080/TNTNovelasHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas Brazil (720p)
