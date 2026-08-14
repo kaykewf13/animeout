@@ -1219,18 +1219,24 @@ http://102.131.58.110/out_1/index.m3u8
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TVN Ⓖ
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",24 horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="CANAIS",NTV Ⓖ
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Chile Ⓖ
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 group-title="CANAIS",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TV+ Ⓖ
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 #EXTINF:-1 group-title="CANAIS",スーパー！ドラマTV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",Дніпро TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Chilevisión Ⓖ
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",UChile TV
 https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",T13 en vivo
@@ -1257,6 +1263,12 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",SoloTV
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
+#EXTINF:-1 group-title="CANAIS",Mega
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Mega Ⓢ
+http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Bio Bio TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-2 财经
@@ -1527,6 +1539,10 @@ https://www.youtube.com/africanews/live
 https://www.youtube.com/c/FranceInter/live
 #EXTINF:-1 group-title="CANAIS",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="CANAIS",TV Mulhouse
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 group-title="CANAIS",TV Alsace
+http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 group-title="CANAIS",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV5 Monde FBS
@@ -2885,6 +2901,30 @@ http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",L1 Ⓢ
 http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Advocate Broadcasting Network
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Channels TV Ⓨ
+https://www.youtube.com/@ChannelsTelevision/live
+#EXTINF:-1 group-title="CANAIS",Itage TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+#EXTINF:-1 group-title="CANAIS",Rave TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Silverbird News 24
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Soundcity TV Ⓨ
+https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live
+#EXTINF:-1 group-title="CANAIS",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TVC News Ⓨ
+https://www.youtube.com/tvcnewsnigeria/live
+#EXTINF:-1 group-title="CANAIS",Waffi TV
+https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Wazobia Max TV Nigeria
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 group-title="CANAIS",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 group-title="CANAIS",MRT1 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
 #EXTINF:-1 group-title="CANAIS",MRT2 Ⓖ
@@ -3131,8 +3171,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Nova Ⓢ
 http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Mega Ⓢ
-http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Atreseries Ⓢ
 http://181.78.109.48:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FDF
@@ -3641,6 +3679,10 @@ https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 #EXTINF:-1 group-title="CANAIS",inter TV
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 group-title="CANAIS",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 group-title="CANAIS",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 group-title="CANAIS",Al Jazeera Documentary Ⓖ
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CGTN Documentary English Ⓢ
@@ -3829,8 +3871,6 @@ https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/53
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 group-title="CANAIS",USA Today
 https://lnc-usa-today.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TVC News Ⓨ
-https://www.youtube.com/tvcnewsnigeria/live
 #EXTINF:-1 group-title="CANAIS",Channels 24 Ⓨ
 https://www.youtube.com/channelstelevision/live
 #EXTINF:-1 group-title="CANAIS",Sky News Now (AU)

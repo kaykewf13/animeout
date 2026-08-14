@@ -184,13 +184,13 @@ Canais,Canada,Toronto 360 TV,http://cdn3.toronto360.tv:8081/toronto360/hd/playli
 Canais,Chad,Tchad 24,http://102.131.58.110/out_1/index.m3u8,https://www.lyngsat.com/logo/tv/tt/tchad-24-td.png,channel-playlist:free-tv-br
 Canais,Chad,Télé Tchad Ⓢ,https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8,https://upload.wikimedia.org/wikipedia/fr/b/b6/Logo_T%C3%A9l%C3%A9_Tchad.png,channel-playlist:free-tv-br
 Canais,Chile,UCV Televisión,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8,https://i.imgur.com/2VL4Pts.png,channel-playlist:free-tv-br
-Canais,Chile,TVN Ⓖ,https://sktv-forwarders.7m.pl/get.php?x=TVN,https://i.imgur.com/WoN1dai.png,channel-playlist:free-tv-br
-Canais,Chile,24 horas,https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8,https://i.imgur.com/0rF6Kub.png,channel-playlist:free-tv-br
+Canais,Chile,TVN Ⓖ,https://iptv2.intersurtv.cl/TVN/index.m3u8,https://i.imgur.com/WoN1dai.png,channel-playlist:free-tv-br
+Canais,Chile,24 horas,https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8,https://i.imgur.com/0rF6Kub.png,channel-playlist:free-tv-br
 Canais,Chile,NTV Ⓖ,https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8,https://i.imgur.com/pt2Kj1A.png,channel-playlist:free-tv-br
 Canais,Chile,TV Chile Ⓖ,https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8,https://i.imgur.com/yCL888l.png,channel-playlist:free-tv-br
-Canais,Chile,Canal 13,https://sktv-forwarders.7m.pl/get.php?x=Canal13,https://i.imgur.com/JIo1HBs.png,channel-playlist:free-tv-br
+Canais,Chile,Canal 13,https://redirector.dps.live/hls/13cl/playlist.m3u8,https://i.imgur.com/JIo1HBs.png,channel-playlist:free-tv-br
 Canais,Chile,TV+ Ⓖ,https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8,https://i.imgur.com/NtuZIEJ.png,channel-playlist:free-tv-br
-Canais,Chile,Chilevisión Ⓖ,https://sktv-forwarders.7m.pl/get.php?x=Chilevision,https://i.imgur.com/2Pu8yXf.png,channel-playlist:free-tv-br
+Canais,Chile,Chilevisión Ⓖ,https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8,https://i.imgur.com/2Pu8yXf.png,channel-playlist:free-tv-br
 Canais,Chile,UChile TV,https://unlimited1-us.dps.live/uchiletv/uchiletv.smil/playlist.m3u8,https://i.imgur.com/mF2W8Uh.png,channel-playlist:free-tv-br
 Canais,Chile,T13 en vivo,https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8,https://i.imgur.com/3CEijac.png,channel-playlist:free-tv-br
 Canais,Chile,13 Entretención,https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8,https://i.imgur.com/1vTno0m.png,channel-playlist:free-tv-br
@@ -205,6 +205,8 @@ Canais,Chile,Deportes13 Ⓖ,https://redirector.rudo.video/hls-video/ey6283je8298
 Canais,Chile,TVN 3,https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8,https://i.imgur.com/84lWqRi.png,channel-playlist:free-tv-br
 Canais,Chile,Chilevisión Noticias,https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8,https://i.imgur.com/Qh6d0A9.png,channel-playlist:free-tv-br
 Canais,Chile,SoloTV,https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8,https://i.imgur.com/Ad2ueID.png,channel-playlist:free-tv-br
+Canais,Chile,Mega,https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8,https://i.imgur.com/CYdWSDb.png,channel-playlist:free-tv-br
+Canais,Chile,Bio Bio TV,https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8,https://i.imgur.com/wrRufts.png,channel-playlist:free-tv-br
 Canais,China,CCTV-1 综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8,https://i.imgur.com/uHU6Vc0.png,channel-playlist:free-tv-br
 Canais,China,CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8,https://i.imgur.com/6C9JEYt.png,channel-playlist:free-tv-br
 Canais,China,CCTV-4 中文国际（亚） Ⓨ,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live,https://i.imgur.com/ovUSVEQ.png,channel-playlist:free-tv-br
@@ -372,6 +374,8 @@ Canais,France,Africanews Ⓨ,https://www.youtube.com/c/Africanewsfr/live,https:/
 Canais,France,L'Équipe ⒹⒼ,https://www.dailymotion.com/video/x2lefik,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/640px-L%27%C3%89quipe_wordmark.svg.png,channel-playlist:free-tv-br
 Canais,France,France Inter Ⓨ,https://www.youtube.com/c/FranceInter/live,https://i.imgur.com/d9Ncl8m.png,channel-playlist:free-tv-br
 Canais,France,CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8,https://i.imgur.com/fMsJYzl.png,channel-playlist:free-tv-br
+Canais,France,TV Mulhouse,http://194.163.157.137:8080/hls/radiomulhouse.m3u8,https://i.imgur.com/4esQG8H.png,channel-playlist:free-tv-br
+Canais,France,TV Alsace,http://194.163.157.137:8080/hls/radioalsace.m3u8,https://i.imgur.com/zaJDEOv.png,channel-playlist:free-tv-br
 Canais,France,TV5 Monde Info,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8,https://i.imgur.com/NcysrWH.png,channel-playlist:free-tv-br
 Canais,France,TV5 Monde FBS,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8,https://i.imgur.com/uPmwTo9.png,channel-playlist:free-tv-br
 Canais,France,TV5 Monde Europe,https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8,https://i.imgur.com/uPmwTo9.png,channel-playlist:free-tv-br
@@ -1135,6 +1139,18 @@ Canais,Netherlands,Omroep West,https://d1axml5ozykh3g.cloudfront.net/live/omroep
 Canais,Netherlands,Omroep Zeeland,http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8,https://i.imgur.com/8aLDyUI.png,channel-playlist:free-tv-br
 Canais,Netherlands,Omroep Brabant,http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8,https://i.imgur.com/Jv7IjHJ.png,channel-playlist:free-tv-br
 Canais,Netherlands,L1 Ⓢ,http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8,https://i.imgur.com/Jyhn1iP.png,channel-playlist:free-tv-br
+Canais,Nigeria,Advocate Broadcasting Network,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8,https://i.imgur.com/eZrhTam.png,channel-playlist:free-tv-br
+Canais,Nigeria,Channels TV Ⓨ,https://www.youtube.com/@ChannelsTelevision/live,https://i.imgur.com/O237VLC.png,channel-playlist:free-tv-br
+Canais,Nigeria,Itage TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8,https://i.imgur.com/ojLIfkt.jpeg,channel-playlist:free-tv-br
+Canais,Nigeria,News Central,https://wf.newscentral.ng:8443/hls/stream.m3u8,https://i.imgur.com/1oSxhmp.png,channel-playlist:free-tv-br
+Canais,Nigeria,Rave TV,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8,https://i.imgur.com/fDSyf6u.png,channel-playlist:free-tv-br
+Canais,Nigeria,Silverbird News 24,https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8,https://i.imgur.com/ssEAjq5.jpeg,channel-playlist:free-tv-br
+Canais,Nigeria,Soundcity TV Ⓨ,https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live,https://i.imgur.com/zfi4SXW.png,channel-playlist:free-tv-br
+Canais,Nigeria,Superscreen TV,https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8,https://i.imgur.com/DuhRy48.png,channel-playlist:free-tv-br
+Canais,Nigeria,TVC News Ⓨ,https://www.youtube.com/tvcnewsnigeria/live,https://i.imgur.com/jaSq18B.png,channel-playlist:free-tv-br
+Canais,Nigeria,Waffi TV,https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8,https://i.imgur.com/ejlCb5g.png,channel-playlist:free-tv-br
+Canais,Nigeria,Wazobia Max TV Nigeria,https://wazobia.live:8333/channel/wmax.m3u8,https://i.imgur.com/sEnLR0B.jpeg,channel-playlist:free-tv-br
+Canais,Nigeria,Wazobia Max TV Port Harcourt,https://wazobia.live:8333/channel/wmaxph.m3u8,https://i.imgur.com/sEnLR0B.jpeg,channel-playlist:free-tv-br
 Canais,North Korea,KCTV,https://tv.nknews.org/tvdash/stream.mpd,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/640px-Logo_of_the_Korean_Central_Television.svg.png,channel-playlist:free-tv-br
 Canais,North Macedonia,MRT1 Ⓖ,https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=,https://i.imgur.com/EkkyAE0.png,channel-playlist:free-tv-br
 Canais,North Macedonia,MRT2 Ⓖ,https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=,https://i.imgur.com/YvOrUnN.png,channel-playlist:free-tv-br
@@ -1206,7 +1222,7 @@ Canais,Portugal,TVI,https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8,https://
 Canais,Portugal,RTP Açores,https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/640px-RTP_A%C3%A7ores_%282016%29.svg.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP Madeira Ⓢ,https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP notícias,https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png,channel-playlist:free-tv-br
-Canais,Portugal,RTP Mundo,https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8,height=,channel-playlist:free-tv-br
+Canais,Portugal,RTP Mundo,https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png,channel-playlist:free-tv-br
 Canais,Portugal,Porto Canal Ⓢ,https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8,https://i.imgur.com/wsyvP2H.png,channel-playlist:free-tv-br
 Canais,Portugal,ADtv Ⓢ,https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8,https://i.imgur.com/FvlcU3z.png,channel-playlist:free-tv-br
 Canais,Portugal,CNN Portugal,https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal,https://i.imgur.com/NYH39xs.png,channel-playlist:free-tv-br
@@ -1666,6 +1682,8 @@ Canais,Venezuela,Vale TV Ⓢ,https://vcp2.myplaytv.com/valetv/valetv/playlist.m3
 Canais,Venezuela,Telesur,https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8,https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png,channel-playlist:free-tv-br
 Canais,Venezuela,Latina TV,https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8,https://intervenhosting.net/imagenes/latinatv.jpg,channel-playlist:free-tv-br
 Canais,Venezuela,inter TV,https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8,https://intervenhosting.net/imagenes/itv.jpg,channel-playlist:free-tv-br
+Canais,Venezuela,Aguacate TV,https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8,https://intervenhosting.net/imagenes/aguacatetv.jpg,channel-playlist:free-tv-br
+Canais,Venezuela,AS3 Sport TV,https://streamtv.as3sport.online:3394/hybrid/play.m3u8,https://intervenhosting.net/imagenes/as3sporttv.jpg,channel-playlist:free-tv-br
 Canais,Documentaries (AR),Al Jazeera Documentary Ⓖ,https://live-hls-web-ajd.getaj.net/AJD/index.m3u8,https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png,channel-playlist:free-tv-br
 Canais,Documentaries (EN),CGTN Documentary English Ⓢ,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8,https://i.imgur.com/JHv0WxM.png,channel-playlist:free-tv-br
 Canais,Documentaries (EN),RT Documentary English Ⓖ,https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8,https://i.imgur.com/ZEi1Wgn.png,channel-playlist:free-tv-br
@@ -1733,7 +1751,6 @@ Canais,News,Metro Globe Network,https://edge.medcom.id/live-edge/smil:mgnch.smil
 Canais,News,i24 News,https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png,channel-playlist:free-tv-br
 Canais,News,Scripps News,https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8,https://i.imgur.com/UfN6aAi.png,channel-playlist:free-tv-br
 Canais,News,USA Today,https://lnc-usa-today.tubi.video/playlist.m3u8,https://i.imgur.com/37K0AZX.png,channel-playlist:free-tv-br
-Canais,News,TVC News Ⓨ,https://www.youtube.com/tvcnewsnigeria/live,https://i.imgur.com/jaSq18B.png,channel-playlist:free-tv-br
 Canais,News,Channels 24 Ⓨ,https://www.youtube.com/channelstelevision/live,https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg,channel-playlist:free-tv-br
 Canais,News,Sky News Now (AU),https://i.mjh.nz/sky-news-now.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png,channel-playlist:free-tv-br
 Canais,News,Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8,https://i.imgur.com/xk1QOhW.png,channel-playlist:free-tv-br
