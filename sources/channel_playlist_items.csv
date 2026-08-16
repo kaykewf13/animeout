@@ -67,27 +67,13 @@ Canais,Austria,RTV,http://iptv.rtv-ooe.at/stream.m3u8,https://i.imgur.com/oD7GQx
 Canais,Austria,RTS Ⓖ,https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8,https://i.imgur.com/Bhv7lvy.png,channel-playlist:free-tv-br
 Canais,Austria,Tirol TV Ⓖ,http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8,https://i.imgur.com/1E7Nflo.jpg,channel-playlist:free-tv-br
 Canais,Austria,R9,https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8,https://i.imgur.com/2fxVYsL.jpg,channel-playlist:free-tv-br
-Canais,Azerbaijan,ARB 24,http://85.132.81.184:8080/arb/live/index.m3u8,https://i.imgur.com/mtvIFyq.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,ARB Günəş Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=ARMGunes,https://i.imgur.com/dSg7KUK.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,ARB Ⓢ,http://109.205.166.68/server124/arb/index.m3u8,https://i.imgur.com/E97M2OL.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Azad Azərbaycan TV (ATV) Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png,channel-playlist:free-tv-br
 Canais,Azerbaijan,AzStarTV,http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8,https://i.imgur.com/di3XX5L.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,AZTV Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=AZTV,https://i.imgur.com/snBMMeH.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Baku TV,https://rtmp.baku.tv/live/bakutv_720p.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,CBC,https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8,https://i.imgur.com/wVT0dwO.png,channel-playlist:free-tv-br
+Canais,Azerbaijan,AZTV Ⓢ,https://str.yodacdn.net/azertv/index.m3u8,https://i.imgur.com/snBMMeH.png,channel-playlist:free-tv-br
+Canais,Azerbaijan,Baku TV,https://rtmp.baku.tv/hls/bakutv.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png,channel-playlist:free-tv-br
 Canais,Azerbaijan,CBC Sport Ⓖ,https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8,https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Dünya TV Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=Dunya,https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,İctimai TV Ⓢ,http://109.205.166.68/server124/ictimai_tv/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C4%B0ctimai_TV_%282021-h.h.%29.svg/470px-%C4%B0ctimai_TV_%282021-h.h.%29.svg.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,İdman TV Ⓢ,http://109.205.166.68/server124/idman_az/index.m3u8,https://upload.wikimedia.org/wikipedia/az/thumb/8/88/%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png/640px-%C4%B0dman_Az%C9%99rbaycan_TV_loqo_%282019-h.h.%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Kanal S,https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kanal_S_%282022%29.png/616px-Kanal_S_%282022%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Mədəniyyət TV Ⓢ,https://str.yodacdn.net/medeniyyet/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Real TV,https://www.tvkaista.net/stream-forwarder/get.php?x=RealTV,https://i.imgur.com/e2KFL0R.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Space TV Ⓢ,http://109.205.166.68/server124/space_tv/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Space_TV_loqosu_%282023-h.h.%29.png/296px-Space_TV_loqosu_%282023-h.h.%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,TMB Azərbaycan,https://www.tvkaista.net/stream-forwarder/get.php?x=TMBAzerbaijan,https://upload.wikimedia.org/wikipedia/az/c/c2/TMB_TV_loqosu.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Xəzər TV Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=Xezer,https://upload.wikimedia.org/wikipedia/commons/a/a5/X%C9%99z%C9%99r_TV_%282023%29.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,Səhiyyə TV,https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV,https://upload.wikimedia.org/wikipedia/az/thumb/c/cd/S%C9%99hiyy%C9%99_TV.png/640px-S%C9%99hiyy%C9%99_TV.png,channel-playlist:free-tv-br
-Canais,Azerbaijan,VIP HD,https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP,https://tvtolive.com/wp-content/uploads/VIP-TV-tvtolive.com_.jpg,channel-playlist:free-tv-br
-Canais,Azerbaijan,MTV Azerbaijan Ⓢ,https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan,https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png,channel-playlist:free-tv-br
+Canais,Azerbaijan,Kanal S,https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kanal_S_%282022%29.png/616px-Kanal_S_%282022%29.png,channel-playlist:free-tv-br
+Canais,Azerbaijan,Mədəniyyət TV Ⓢ,https://str.yodacdn.net/medeniyyettele/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png,channel-playlist:free-tv-br
+Canais,Azerbaijan,Xəzər Xəbər,https://www.xezerxeber.az/stream/index.m3u8,https://i.imgur.com/AuB8bnq.png,channel-playlist:free-tv-br
 Canais,Belarus,Беларусь 1,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/742px-Belarus_1_logo.svg.png,channel-playlist:free-tv-br
 Canais,Belarus,Беларусь 2,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Belarus_2_logo.svg/742px-Belarus_2_logo.svg.png,channel-playlist:free-tv-br
 Canais,Belarus,Беларусь 3,https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belarus_3_logo.svg/742px-Belarus_3_logo.svg.png,channel-playlist:free-tv-br
@@ -147,33 +133,17 @@ Canais,Brazil,TV Cultura,https://player-tvcultura.stream.uol.com.br/live/tvcultu
 Canais,Bulgaria,City TV Ⓢ,https://tv.city.bg/play/tshls/citytv/index.m3u8,https://i.imgur.com/BjRTbrU.png,channel-playlist:free-tv-br
 Canais,Bulgaria,Euronews Bulgaria Ⓨ,https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live,https://i.imgur.com/RrQVoOg.png,channel-playlist:free-tv-br
 Canais,Bulgaria,TV1,https://tv1.cloudcdn.bg/temp/livestream.m3u8,https://upload.wikimedia.org/wikipedia/commons/6/64/Tv1-new.png,channel-playlist:free-tv-br
-Canais,Canada,CBC Toronto,https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8,https://i.imgur.com/H5yEbxf.png,channel-playlist:free-tv-br
-Canais,Canada,Citytv,https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8,https://i.imgur.com/BlFNlHz.png,channel-playlist:free-tv-br
-Canais,Canada,CTV Toronto,https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8,https://i.imgur.com/qOutOWN.png,channel-playlist:free-tv-br
-Canais,Canada,Global Toronto,https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8,https://i.imgur.com/2CxLO4H.png,channel-playlist:free-tv-br
-Canais,Canada,Global Calgary,https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8,https://i.imgur.com/2CxLO4H.png,channel-playlist:free-tv-br
-Canais,Canada,Global Edmonton,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8,https://i.imgur.com/2CxLO4H.png,channel-playlist:free-tv-br
-Canais,Canada,TVO,https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8,https://i.imgur.com/PkBPPcL.png,channel-playlist:free-tv-br
+Canais,Canada,CBC Toronto Ⓖ,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8,https://i.imgur.com/H5yEbxf.png,channel-playlist:free-tv-br
 Canais,Canada,NTV,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/223012,https://i.imgur.com/b8W3Aah.png,channel-playlist:free-tv-br
 Canais,Canada,CHCH,http://152.89.62.111:8080/nXyAiP3DNp/QgOuvocpGv/222841,https://i.imgur.com/jYSXaga.png,channel-playlist:free-tv-br
-Canais,Canada,ONNtv Ontario,https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8,https://i.imgur.com/zz5ST9K.png,channel-playlist:free-tv-br
-Canais,Canada,Star TV,http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u,https://i.imgur.com/Ap54LCC.png,channel-playlist:free-tv-br
 Canais,Canada,CBC News,https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8,https://i.imgur.com/1EqQGKS.png,channel-playlist:free-tv-br
-Canais,Canada,CTV News,https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8,https://i.imgur.com/T3oBeiX.png,channel-playlist:free-tv-br
 Canais,Canada,Global News,https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News BC,https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Calgary,https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Halifax,https://i.mjh.nz/PlutoTV/62cbf398b8e02600071deda5-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Kingston,https://i.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Montreal,https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Peterborough,https://i.mjh.nz/PlutoTV/62cbfcd8c2db990007861e43-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
-Canais,Canada,Global News Regina,https://i.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
 Canais,Canada,Global News Saskatoon,https://i.mjh.nz/PlutoTV/62cc00359cb58900088dc840-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
 Canais,Canada,Global News Winnipeg,https://i.mjh.nz/PlutoTV/62cc0120880c890007191016-alt.m3u8,https://i.imgur.com/IpfmG93.png,channel-playlist:free-tv-br
 Canais,Canada,CPAC (EN),https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8,https://i.imgur.com/AbdFD0S.png,channel-playlist:free-tv-br
 Canais,Canada,ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png,channel-playlist:free-tv-br
 Canais,Canada,ICI Télé HD Ⓖ,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8,https://i.imgur.com/HsSi3NV.png,channel-playlist:free-tv-br
-Canais,Canada,TVA Ⓖ,https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8,https://i.imgur.com/1GR8Szn.png,channel-playlist:free-tv-br
+Canais,Canada,TVA Ⓖ,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8,https://i.imgur.com/1GR8Szn.png,channel-playlist:free-tv-br
 Canais,Canada,Noovo,https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd,https://i.imgur.com/BL9ziSJ.png,channel-playlist:free-tv-br
 Canais,Canada,Télé Québec,https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8,https://i.imgur.com/8grBWK9.png,channel-playlist:free-tv-br
 Canais,Canada,Savoir Média,https://hls.savoir.media/live/stream.m3u8,https://i.imgur.com/pa4wOVY.png,channel-playlist:free-tv-br
@@ -294,16 +264,6 @@ Canais,Denmark,DR1 Ⓖ,https://drlive01texthls.akamaized.net/hls/live/2014186/dr
 Canais,Denmark,DR2 Ⓖ,https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8,https://i.imgur.com/b79UKYN.png,channel-playlist:free-tv-br
 Canais,Denmark,DR Ramasjang Ⓖ,https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8,https://i.imgur.com/YD0z2mN.png,channel-playlist:free-tv-br
 Canais,Denmark,Folketinget TV,https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8,https://i.imgur.com/RqQDUzX.png,channel-playlist:free-tv-br
-Canais,Denmark,TV Syd+,https://cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s32.m3u8,https://i.imgur.com/k2jf591.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Fyn,https://cdn-lt-live.tv2fyn.dk/env/cluster-1-e.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/EgP1FA1D39taZFVewCa42w/index-s32.m3u8,https://i.imgur.com/4L6AIMH.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Øst,https://cdn-lt-live.tveast.dk/env/cluster-1-e.live.nvp1/live/hls/p/1953381/e/0_zphj9q61/tl/main/st/0/t/THUB80e-ZMufZCE4pDhO0g/index-s32.m3u8,https://i.imgur.com/H9l6Ulw.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Nord,https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/_FUn1YHQ6_P6lES4U6mmsA/index-s32.m3u8,https://i.imgur.com/tEJ22UW.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2 Kosmopol,https://cdn-lt-live.tv2lorry.dk/env/cluster-1-d.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/rCct87c-v2SFFCvQK1BBOg/index-s32.m3u8,https://i.imgur.com/oVmCoKY.png,channel-playlist:free-tv-br
-Canais,Denmark,TV/Midt-Vest,https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8,https://i.imgur.com/OU7xIVa.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Østjylland,https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8,https://i.imgur.com/qEUXjHp.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Bornholm,https://live.tv2bornholm.dk/stream/live/playlist.m3u8,https://i.imgur.com/cEOpXU6.png,channel-playlist:free-tv-br
-Canais,Denmark,TV Storbyen,https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8,https://i.imgur.com/QqjRqow.png,channel-playlist:free-tv-br
-Canais,Denmark,Kanal Hovedstaden,http://khkbh.dk:8080/hls/livestream/index.m3u8,https://i.imgur.com/MCXYDwH.png,channel-playlist:free-tv-br
 Canais,Dominican Republic,Canal RTVD 4,https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8,https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png,channel-playlist:free-tv-br
 Canais,Egypt,Aghapy TV,https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg,channel-playlist:free-tv-br
 Canais,Egypt,Al Ghad Plus,https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png,channel-playlist:free-tv-br
@@ -369,6 +329,7 @@ Canais,France,France Inter Ⓨ,https://www.youtube.com/c/FranceInter/live,https:
 Canais,France,CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8,https://i.imgur.com/fMsJYzl.png,channel-playlist:free-tv-br
 Canais,France,TV Mulhouse,http://194.163.157.137:8080/hls/radiomulhouse.m3u8,https://i.imgur.com/4esQG8H.png,channel-playlist:free-tv-br
 Canais,France,TV Alsace,http://194.163.157.137:8080/hls/radioalsace.m3u8,https://i.imgur.com/zaJDEOv.png,channel-playlist:free-tv-br
+Canais,France,Handicap TV,https://srv.webtvmanager.fr:3697/stream/play.m3u8,,channel-playlist:free-tv-br
 Canais,France,TV5 Monde Info,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8,https://i.imgur.com/NcysrWH.png,channel-playlist:free-tv-br
 Canais,France,TV5 Monde FBS,https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8,https://i.imgur.com/uPmwTo9.png,channel-playlist:free-tv-br
 Canais,France,TV5 Monde Europe,https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8,https://i.imgur.com/uPmwTo9.png,channel-playlist:free-tv-br
@@ -498,6 +459,8 @@ Canais,Hungary,Hír TV,https://onlinestream.live/play.m3u?id=4740&ext=.m3u,https
 Canais,Hungary,Spektrum Home,http://88.212.15.19/live/spektrum_home_hun/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png,channel-playlist:free-tv-br
 Canais,Hungary,Fix TV Ⓨ,https://www.youtube.com/@fixhdtv/live,https://onlinestream.live/logos/1833.png,channel-playlist:free-tv-br
 Canais,Hungary,ErdélyTV Ⓨ,https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live,http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png,channel-playlist:free-tv-br
+Canais,Hungary,FEM3 (TV2 Klub),http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8,https://i.imgur.com/AF4Sz8Z.png,channel-playlist:free-tv-br
+Canais,Hungary,Viasat 6,http://88.212.15.19/live/viasat6/index.m3u8,https://i.imgur.com/kypSbFX.png,channel-playlist:free-tv-br
 Canais,Hungary,EWTN TV,https://hls.iptvservice.eu/hls/ewtn-hd.m3u8,https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg,channel-playlist:free-tv-br
 Canais,Hungary,Apostol TV,https://live.apostoltv.hu/live/playlist.m3u8,https://www.apostoltv.hu/images/header-logo.png,channel-playlist:free-tv-br
 Canais,Hungary,Oxygen Music,https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8,,channel-playlist:free-tv-br
@@ -552,8 +515,17 @@ Canais,India,India Today Ⓨ,https://www.youtube.com/watch?v=sYZtOFzM78M,https:/
 Canais,India,Aaj Tak Ⓨ,https://www.youtube.com/watch?v=Nq2wYlWFucg,https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png,channel-playlist:free-tv-br
 Canais,India,India TV Ⓨ,https://www.youtube.com/watch?v=e1FIApIafWE,https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png,channel-playlist:free-tv-br
 Canais,India,TV9 Bharatvarsh Ⓨ,https://www.youtube.com/watch?v=nSpwwcHVp80,https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png,channel-playlist:free-tv-br
+Canais,India,TV9 Kannada,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8,https://i.imgur.com/9rBgkxG.png,channel-playlist:free-tv-br
+Canais,India,TV9 Telugu,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8,https://i.imgur.com/oHAdC30.png,channel-playlist:free-tv-br
+Canais,India,TV9 Marathi,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8,https://i.imgur.com/k7urrIv.jpeg,channel-playlist:free-tv-br
 Canais,India,Republic Bharat Ⓨ,https://www.youtube.com/watch?v=3DbTO_AMhhc,https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png,channel-playlist:free-tv-br
 Canais,India,NDTV Profit,https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png,channel-playlist:free-tv-br
+Canais,India,Asianet News Ⓨ,https://www.youtube.com/watch?v=Yt-PISvJKA4,https://i.imgur.com/aD1kJpZ.png,channel-playlist:free-tv-br
+Canais,India,Asianet Suvarna News Ⓨ,https://www.youtube.com/watch?v=WfKFYaVrx3Y,https://i.imgur.com/5ZKVW1P.png,channel-playlist:free-tv-br
+Canais,India,Asianet News Telugu Ⓨ,https://www.youtube.com/watch?v=Y2HjKhLrKTc,https://i.imgur.com/kV2J8Qn.png,channel-playlist:free-tv-br
+Canais,India,News18 India Ⓨ,https://www.youtube.com/watch?v=lLW9NIHqbwQ,https://i.imgur.com/2H5KZZB.png,channel-playlist:free-tv-br
+Canais,India,CNN-News18 Ⓨ,https://www.youtube.com/watch?v=jrNW1xqVT6c,https://i.imgur.com/4GxQPnD.png,channel-playlist:free-tv-br
+Canais,India,News18 UP Uttarakhand Ⓨ,https://www.youtube.com/watch?v=n0OhAO_RzTA,https://i.imgur.com/bZ3d8Wx.png,channel-playlist:free-tv-br
 Canais,Indonesia,CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8,https://imgur.com/ie2zSTY,channel-playlist:free-tv-br
 Canais,Indonesia,CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8,https://imgur.com/MpxTMiP,channel-playlist:free-tv-br
 Canais,Indonesia,BeritaSatu,https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8,https://imgur.com/vYJVT07,channel-playlist:free-tv-br
@@ -680,8 +652,8 @@ Canais,Italy,Antenna 2 Bergamo,https://58f12ffd2447a.streamlock.net/Antenna2/liv
 Canais,Italy,Antenna 3 Massa,https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8,https://i.imgur.com/CHDU86j.png,channel-playlist:free-tv-br
 Canais,Italy,Antenna 3 Veneto Nord Est,https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8,https://i.imgur.com/NiVHLwp.png,channel-playlist:free-tv-br
 Canais,Italy,Antenna Sicilia,https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8,https://i.imgur.com/8DOdqsE.png,channel-playlist:free-tv-br
-Canais,Italy,Antenna Sud,https://live.antennasudwebtv.it:9443/hls/vod.m3u8,https://i.imgur.com/b8y6ImZ.png,channel-playlist:free-tv-br
-Canais,Italy,Antenna Sud Extra,https://live.antennasudwebtv.it:9443/hls/vod92.m3u8,https://i.imgur.com/6tBv8VD.png,channel-playlist:free-tv-br
+Canais,Italy,Antenna Sud,https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8,https://i.imgur.com/b8y6ImZ.png,channel-playlist:free-tv-br
+Canais,Italy,Antenna Sud Extra,https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8,https://i.imgur.com/6tBv8VD.png,channel-playlist:free-tv-br
 Canais,Italy,Aristanis SuperTv,https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8,https://i.imgur.com/v8PlAJO.png,channel-playlist:free-tv-br
 Canais,Italy,Arte Network Orler,https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8,https://i.imgur.com/DP5y0Er.png,channel-playlist:free-tv-br
 Canais,Italy,Aurora Arte,https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8,https://i.imgur.com/BoLZ5wG.png,channel-playlist:free-tv-br
@@ -885,6 +857,8 @@ Canais,Italy,Tele Mia Extra,https://playerssl.telemia.tv/fileadmin/hls/TelemiaEx
 Canais,Italy,Tele Mistretta,https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8,https://i.imgur.com/OJ3zUS0.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Molise,http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8,https://i.imgur.com/u5VD0x9.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Nord Genova,https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8,https://i.imgur.com/I6yegEK.png,channel-playlist:free-tv-br
+Canais,Italy,TG Norba 24,https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/500px-Tg_norba24.png,channel-playlist:free-tv-br
+Canais,Italy,Telenorba,https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8,https://upload.wikimedia.org/wikipedia/it/thumb/2/2c/Telenorba_-_logo.svg/500px-Telenorba_-_logo.svg.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Nostra,https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8,https://i.imgur.com/FACahKZ.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Occidente,https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8,https://i.imgur.com/3aOiWKa.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Oltre,http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8,https://i.imgur.com/PxtJAxs.png,channel-playlist:free-tv-br
@@ -982,30 +956,21 @@ Canais,Italy,TRM h24 Ⓨ,https://www.youtube.com/user/trmh24/live,https://i.imgu
 Canais,Italy,Euronews Italian Ⓨ,https://www.youtube.com/user/euronewsit/live,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png,channel-playlist:free-tv-br
 Canais,Italy,Teleroma 56 Ⓣ,https://www.twitch.tv/teleroma_56,https://i.imgur.com/wGfpUj8.png,channel-playlist:free-tv-br
 Canais,Italy,TeleRadioStereo Ⓣ,https://www.twitch.tv/teleradiostereo,https://i.imgur.com/eRNgqnA.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,NHK総合 (東京),https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/fAZ2BEZ.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,NHK Eテレ（東京）,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/WxtftlO.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/ecbM7QS.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/5XnMfcR.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/jIZ9TlO.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/U8jBxEi.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/epJYc7P.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,NHK BS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/t0uZcSR.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,NHK BSP4K,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/uvPpFo5.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BS日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/26ATUNc.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/Cl68ZMA.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/BSt9UG2.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/LsQlNcz.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BSフジ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/N4xeDxJ.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.lyngsat.com/logo/tv/ww/wowow_prime.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.lyngsat.com/logo/tv/ww/wowow_live.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BS10,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS263&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/KPZiuHl.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,BS10スターチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/SN0ED0U.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,アニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/jO0qUvj.png,channel-playlist:free-tv-br
-Canais,日本 / Japan,J SPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg,channel-playlist:free-tv-br
-Canais,日本 / Japan,J SPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg,channel-playlist:free-tv-br
-Canais,日本 / Japan,J SPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg,channel-playlist:free-tv-br
-Canais,日本 / Japan,J SPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg,channel-playlist:free-tv-br
+Canais,日本 / Japan,NHK総合 (東京),https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8,https://i.imgur.com/fAZ2BEZ.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,NHK Eテレ（東京）,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8,https://i.imgur.com/WxtftlO.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,日本テレビ,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03#.m3u8,https://i.imgur.com/ecbM7QS.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,テレビ朝日,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8,https://i.imgur.com/5XnMfcR.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,TBSテレビ,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04#.m3u8,https://i.imgur.com/jIZ9TlO.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,テレビ東京,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8,https://i.imgur.com/U8jBxEi.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,フジテレビ,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8,https://i.imgur.com/epJYc7P.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8,https://i.imgur.com/t0uZcSR.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BS日テレ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8,https://i.imgur.com/26ATUNc.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BS朝日,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8,https://i.imgur.com/Cl68ZMA.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BS-TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8,https://i.imgur.com/BSt9UG2.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BSテレ東,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8,https://i.imgur.com/LsQlNcz.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BSフジ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8,https://i.imgur.com/N4xeDxJ.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BS10,https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8,https://i.imgur.com/KPZiuHl.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,BS10スターチャンネル,https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8,https://i.imgur.com/SN0ED0U.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/Yc7JvSK.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/HdC3Hdc.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8,https://i.imgur.com/CCMAF7W.png,channel-playlist:free-tv-br
@@ -1141,9 +1106,6 @@ Canais,Montenegro,TVCG 1 Ⓖ,https://rtcg-live-open-geo.morescreens.com/RTCG_1_0
 Canais,Montenegro,TVCG 2 Ⓖ,https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8,https://i.imgur.com/WECmUKH.png,channel-playlist:free-tv-br
 Canais,Montenegro,TVCG 3 Ⓖ,https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8,https://i.imgur.com/XC7zVog.png,channel-playlist:free-tv-br
 Canais,Montenegro,TVCG MNE,https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8,https://i.imgur.com/pf8VEwf.png,channel-playlist:free-tv-br
-Canais,Netherlands,NPO 1 Ⓖ,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8,https://i.imgur.com/pUBy4Pb.png,channel-playlist:free-tv-br
-Canais,Netherlands,NPO 2 Ⓖ,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8,https://i.imgur.com/Vl2G1H3.png,channel-playlist:free-tv-br
-Canais,Netherlands,NPO 3 Ⓖ,http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8,https://i.imgur.com/dVB4Pqc.png,channel-playlist:free-tv-br
 Canais,Netherlands,Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8,https://i.imgur.com/0VKJLAK.png,channel-playlist:free-tv-br
 Canais,Netherlands,RTV Noord,https://media.rtvnoord.nl/live/rtvnoord/tv/playlist.m3u8,https://i.imgur.com/pO5Mexa.png,channel-playlist:free-tv-br
 Canais,Netherlands,RTV Drenthe,https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/1080p/prog_index.m3u8,https://i.imgur.com/GaGqM4z.png,channel-playlist:free-tv-br
@@ -1180,15 +1142,10 @@ Canais,North Macedonia,MRT Sat,https://vod-c57.interspace.com:443/channel_abr/45
 Canais,North Macedonia,MRT 2 Sat,https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NTE6MDkgUE0maGFzaF92YWx1ZT05S1hVR3ExVVVPUnU5Zk9sTGpDY2dRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3N2RkZGIxYTU=,https://i.imgur.com/WF1Eeuz.png,channel-playlist:free-tv-br
 Canais,North Macedonia,TV 21 Ⓢ Ⓖ,https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM,https://i.imgur.com/IC1f4h3.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Телевизија Здравкин,http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8,https://i.imgur.com/kSmcAER.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Орбис,http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png,channel-playlist:free-tv-br
 Canais,North Macedonia,M»Net,http://ares.mnet.mk/hls/mnet.m3u8,https://i.imgur.com/JWHcGMX.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Канал 8,http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8,https://i.imgur.com/5skC7be.png,channel-playlist:free-tv-br
-Canais,North Macedonia,ТВ СВЕТ,http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8,https://i.imgur.com/R79xT60.png,channel-playlist:free-tv-br
 Canais,North Macedonia,M»Net Sport,http://ares.mnet.mk/hls/mnet-sport.m3u8,https://i.imgur.com/q3DV2gP.png,channel-playlist:free-tv-br
 Canais,North Macedonia,M»Net Info,http://ares.mnet.mk/hls/mnet-info.m3u8,https://i.imgur.com/O26HEyC.png,channel-playlist:free-tv-br
-Canais,North Macedonia,TV 24 Ⓖ,https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8,https://i.imgur.com/MFKeNZx.png,channel-playlist:free-tv-br
 Canais,North Macedonia,ТВ НОВА 12,http://151.236.247.171:8080/nova/index.m3u8,https://i.imgur.com/Qo3Hj3t.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Вардар тв,https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8,https://i.imgur.com/c2JHg9R.png,channel-playlist:free-tv-br
 Canais,North Macedonia,ЗОНА М1 ТВ,https://zonam1.ddns.net/hls/stream1.m3u8,https://i.imgur.com/yTR7A0d.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Наша ТВ,https://stream.nasatv.com.mk/hls/nasatv_live.m3u8,https://i.imgur.com/EOLrXvB.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Cool TV,https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8,https://i.imgur.com/2tFrjUz.png,channel-playlist:free-tv-br
@@ -1196,22 +1153,17 @@ Canais,North Macedonia,Folk TV,https://stream.nasatv.com.mk/folktv/hls/folktv_li
 Canais,North Macedonia,Jazz TV,https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8,https://i.imgur.com/4U6Ju5G.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Love TV,https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8,https://i.imgur.com/B8iaejQ.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Rock TV,https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8,https://i.imgur.com/Y9miDQo.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Стар Фолк,https://live.muzickatv.mk/live/StarMusic.m3u8,https://i.imgur.com/7RstQYI.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Sky Folk,https://skyfolk.mk/live.m3u8,https://i.imgur.com/xRw4Hmu.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Хуго 2,http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8,https://i.imgur.com/yb3xjOZ.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Folk Club TV,http://tv1.intv.mk:1935/live2/folkklub/index.m3u8,https://i.imgur.com/vkGFSl8.png,channel-playlist:free-tv-br
 Canais,North Macedonia,INTV,http://tv1.intv.mk:1935/live/intv/index.m3u8,https://i.imgur.com/K7BSjqY.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Macedonian Documentary Channel,https://giganet.mk/hls/macdoc.m3u8,https://i.imgur.com/uYyG2oA.png,channel-playlist:free-tv-br
 Canais,North Macedonia,Вистел,https://live.vtv.mk/live/vtv/chunks.m3u8,https://i.imgur.com/MbM0E6L.png,channel-playlist:free-tv-br
-Canais,North Macedonia,Стар Плус,https://live.muzickatv.mk/live/StarMusic2.m3u8,https://i.imgur.com/01yz22a.png,channel-playlist:free-tv-br
-Canais,Norway,NRK1 Ⓖ,https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8,https://i.imgur.com/9tj8ds7.png,channel-playlist:free-tv-br
-Canais,Norway,NRK2 Ⓖ,https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8,https://i.imgur.com/SiAdoK9.png,channel-playlist:free-tv-br
-Canais,Norway,NRK3 Ⓖ,https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8,https://i.imgur.com/TNhV2I7.png,channel-playlist:free-tv-br
-Canais,Norway,NRK Super Ⓖ,https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8,https://i.imgur.com/xIATe2T.png,channel-playlist:free-tv-br
-Canais,Norway,TV 2 Sport 1,https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8,https://i.imgur.com/asKHqNZ.png,channel-playlist:free-tv-br
-Canais,Norway,TV 2 Nyheter,https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8,https://i.imgur.com/kkKoY6s.png,channel-playlist:free-tv-br
+Canais,Norway,NRK1 Ⓖ,https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8,https://i.imgur.com/9tj8ds7.png,channel-playlist:free-tv-br
+Canais,Norway,NRK2 Ⓖ,https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8,https://i.imgur.com/SiAdoK9.png,channel-playlist:free-tv-br
+Canais,Norway,NRK3 Ⓖ,https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8,https://i.imgur.com/TNhV2I7.png,channel-playlist:free-tv-br
+Canais,Norway,NRK Super Ⓖ,https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8,https://i.imgur.com/xIATe2T.png,channel-playlist:free-tv-br
 Canais,Norway,Frikanalen,https://frikanalen.no/stream/index.m3u8,https://i.imgur.com/rY3Owxl.png,channel-playlist:free-tv-br
-Canais,Norway,Kanal 10 Norge,https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8,https://i.imgur.com/2fOcZfK.png,channel-playlist:free-tv-br
+Canais,Norway,Kanal 10 Norge Ⓨ,https://www.youtube.com/c/Kanal10Norge/live,https://i.imgur.com/2fOcZfK.png,channel-playlist:free-tv-br
 Canais,Paraguay,Unicanal Ⓨ,https://www.youtube.com/@unicanalpy/live,https://i.imgur.com/brlepuX.png,channel-playlist:free-tv-br
 Canais,Paraguay,ABC TV Ⓨ,https://www.youtube.com/user/canalabctv/live,https://i.imgur.com/tBdgllD.png,channel-playlist:free-tv-br
 Canais,Peru,Panamericana TV,http://45.171.108.253:8888/PANAMERICANA/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png,channel-playlist:free-tv-br
@@ -1233,7 +1185,7 @@ Canais,Poland,TV Republika,https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live
 Canais,Portugal,RTP1,https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/640px-RTP1_-_Logo_2016.svg.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP2 Ⓖ,https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP3,https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=,https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png,channel-playlist:free-tv-br
-Canais,Portugal,SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8,https://i.imgur.com/SPMqiDG.png,channel-playlist:free-tv-br
+Canais,Portugal,SIC,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8,https://i.imgur.com/SPMqiDG.png,channel-playlist:free-tv-br
 Canais,Portugal,TVI,https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/6/63/TVI_logo_2017.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP Açores,https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/640px-RTP_A%C3%A7ores_%282016%29.svg.png,channel-playlist:free-tv-br
 Canais,Portugal,RTP Madeira Ⓢ,https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png,channel-playlist:free-tv-br
@@ -1252,21 +1204,20 @@ Canais,Qatar,Al Rayyan Old TV,https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh
 Canais,Qatar,Al Jazeera Mubasher,https://live-hls-web-ajm.getaj.net/AJM/index.m3u8,https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png,channel-playlist:free-tv-br
 Canais,Qatar,Al Jazeera 2,https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8,https://i.imgur.com/BB93NQP.png,channel-playlist:free-tv-br
 Canais,Qatar,Al Araby TV,https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8,https://i.imgur.com/YMqWEe4.png,channel-playlist:free-tv-br
-Canais,Romania,TVR 1 Ⓖ,https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8,https://i.imgur.com/CKQ7mpB.png,channel-playlist:free-tv-br
-Canais,Romania,TVR 2 Ⓖ,https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png,channel-playlist:free-tv-br
-Canais,Romania,TVR 3 Ⓖ,https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Info Ⓖ,https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8,https://i.imgur.com/7oE7ThR.png,channel-playlist:free-tv-br
-Canais,Romania,TVR International Ⓖ,https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8,https://i.imgur.com/AlW8jyl.png,channel-playlist:free-tv-br
+Canais,Romania,TVR 1 Ⓖ,https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8,https://i.imgur.com/CKQ7mpB.png,channel-playlist:free-tv-br
+Canais,Romania,TVR 2 Ⓖ,https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png,channel-playlist:free-tv-br
+Canais,Romania,TVR 3 Ⓖ,https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/0/0d/TVR3_2022.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Info Ⓖ,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8,https://i.imgur.com/7oE7ThR.png,channel-playlist:free-tv-br
+Canais,Romania,TVR International Ⓖ,https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8,https://i.imgur.com/AlW8jyl.png,channel-playlist:free-tv-br
 Canais,Romania,Pro TV,https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0,https://i.imgur.com/aKAfKtW.png,channel-playlist:free-tv-br
-Canais,Romania,Prima TV,https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prima_TV_%28Rumaenien%29_Logo.svg/500px-Prima_TV_%28Rumaenien%29_Logo.svg.png,channel-playlist:free-tv-br
 Canais,Romania,România TV Ⓖ,https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8,https://i.imgur.com/ZIfEp5I.png,channel-playlist:free-tv-br
-Canais,Romania,Telestar1,http://89.47.97.15/telestar/telestar.m3u8,https://i.imgur.com/UZQjEsd.png,channel-playlist:free-tv-br
+Canais,Romania,Telestar1,https://dvb.tennet.ro/mobile_tv/telestar.m3u8,https://i.imgur.com/UZQjEsd.png,channel-playlist:free-tv-br
 Canais,Romania,Euronews România Ⓨ,https://www.youtube.com/euronewsro/live,https://i.imgur.com/jUOVUXt.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Cluj Ⓖ,https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8,https://i.imgur.com/8DqsGHO.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Craiova Ⓖ,https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8,https://i.imgur.com/vxWbQiy.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Iași Ⓖ,https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8,https://i.imgur.com/Kxkihds.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Timișoara Ⓖ,https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8,https://i.imgur.com/Db3DV6H.png,channel-playlist:free-tv-br
-Canais,Romania,TVR Tîrgu-Mureș Ⓖ,https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8,https://i.imgur.com/9Hptdqj.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Cluj Ⓖ,https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8,https://i.imgur.com/8DqsGHO.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Craiova Ⓖ,https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8,https://i.imgur.com/vxWbQiy.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Iași Ⓖ,http://82.208.141.70:8778/1.m3u8,https://i.imgur.com/Kxkihds.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Timișoara Ⓖ,https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8,https://i.imgur.com/Db3DV6H.png,channel-playlist:free-tv-br
+Canais,Romania,TVR Tîrgu-Mureș Ⓖ,https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8,https://i.imgur.com/9Hptdqj.png,channel-playlist:free-tv-br
 Canais,Russia,Первый канал,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd,https://i.imgur.com/1IqCGe9.png,channel-playlist:free-tv-br
 Canais,Russia,Россия 1,https://player.smotrim.ru/iframe/stream/live_id/2961,https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png,channel-playlist:free-tv-br
 Canais,Russia,Матч ТВ Ⓢ,https://streaming.televizor-24-tochka.ru/live/6.m3u8,https://i.imgur.com/kFdooR4.png,channel-playlist:free-tv-br
@@ -1376,24 +1327,15 @@ Canais,Somalia,Somali Cable TV Ⓢ,https://ap02.iqplay.tv:8082/iqb8002/somc131/p
 Canais,Somalia,Somali National TV Ⓢ,https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png,channel-playlist:free-tv-br
 Canais,Spain,La 1,https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8,https://i.imgur.com/NbesiPn.png,channel-playlist:free-tv-br
 Canais,Spain,La 2,https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8,https://i.imgur.com/DmuTwDw.png,channel-playlist:free-tv-br
-Canais,Spain,Antena 3,http://185.189.225.150:85/Antena3HD/index.m3u8,https://i.imgur.com/j3SP4BS.png,channel-playlist:free-tv-br
-Canais,Spain,Cuatro,http://185.189.225.150:85/CuatroHD/index.m3u8,https://i.imgur.com/zROxNap.png,channel-playlist:free-tv-br
-Canais,Spain,Telecinco,http://185.189.225.150:85/TeleCincoHD/index.m3u8,https://i.imgur.com/JECsKdk.png,channel-playlist:free-tv-br
-Canais,Spain,La Sexta,http://185.189.225.150:85/LaSexta/index.m3u8,https://i.imgur.com/b59MxgM.png,channel-playlist:free-tv-br
 Canais,Spain,24h,https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8,https://i.imgur.com/ZKR2jKr.png,channel-playlist:free-tv-br
 Canais,Spain,tdp,https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8,https://i.imgur.com/HliegRJ.png,channel-playlist:free-tv-br
 Canais,Spain,clan,https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8,https://i.imgur.com/38xIfQ3.png,channel-playlist:free-tv-br
 Canais,Spain,TVE Internacional Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8,https://i.imgur.com/ow1HArj.png,channel-playlist:free-tv-br
-Canais,Spain,Neox Ⓢ,http://185.189.225.150:85/neox/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png,channel-playlist:free-tv-br
-Canais,Spain,Nova Ⓢ,http://185.189.225.150:85/nova/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png,channel-playlist:free-tv-br
-Canais,Spain,Mega Ⓢ,http://185.189.225.150:85/mega/index.m3u8,https://i.imgur.com/Udrt2eK.png,channel-playlist:free-tv-br
 Canais,Spain,Atreseries Ⓢ,http://181.78.109.48:8000/play/a00l/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png,channel-playlist:free-tv-br
-Canais,Spain,FDF,http://185.189.225.150:85/fdf/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png,channel-playlist:free-tv-br
 Canais,Spain,Divinity Ⓖ,https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8,https://i.imgur.com/o7fvEr6.png,channel-playlist:free-tv-br
 Canais,Spain,Energy Ⓖ,https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png,channel-playlist:free-tv-br
-Canais,Spain,Boing,http://185.189.225.150:85/boing/index.m3u8,https://i.imgur.com/nUYuCAP.png,channel-playlist:free-tv-br
 Canais,Spain,Be Mad Ⓖ,https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/500px-Be_Mad_TV.svg.png,channel-playlist:free-tv-br
-Canais,Spain,Paramount Network,http://185.189.225.150:85/Paramount/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png,channel-playlist:free-tv-br
+Canais,Spain,Paramount Network,https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png,channel-playlist:free-tv-br
 Canais,Spain,RNE para todos,https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8,https://graph.facebook.com/radionacionalrne/picture?width=200&height=200,channel-playlist:free-tv-br
 Canais,Spain,euronews,https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png,channel-playlist:free-tv-br
 Canais,Spain,El País,https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8,https://graph.facebook.com/elpais/picture?width=200&height=200,channel-playlist:free-tv-br
@@ -1410,7 +1352,6 @@ Canais,Spain,Canal Extremadura,https://cdnapisec.kaltura.com/p/5581662/sp/558166
 Canais,Spain,Aragón TV Ⓢ,https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8,https://i.imgur.com/8H3Q07b.png,channel-playlist:free-tv-br
 Canais,Spain,ETB1,https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png,channel-playlist:free-tv-br
 Canais,Spain,ETB2,https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/500px-ETB2_2022_logo.svg.png,channel-playlist:free-tv-br
-Canais,Spain,TV3,http://185.189.225.150:85/tv3/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png,channel-playlist:free-tv-br
 Canais,Spain,TV3Cat Ⓖ,https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/500px-TV3CAT.svg.png,channel-playlist:free-tv-br
 Canais,Spain,3/24,https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png,channel-playlist:free-tv-br
 Canais,Spain,Bon Dia,https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png,channel-playlist:free-tv-br
@@ -1421,7 +1362,6 @@ Canais,Spain,Canal TE24,https://ingest1-video.streaming-pro.com/esportsteABR/ete
 Canais,Spain,À Punt TV,https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8,https://i.imgur.com/M88LoNl.png,channel-playlist:free-tv-br
 Canais,Spain,7 Región de Murcia Ⓢ,https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png,channel-playlist:free-tv-br
 Canais,Spain,Canal 4 Tenerife,https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8,https://i.imgur.com/Egymir4.png,channel-playlist:free-tv-br
-Canais,Spain,Televisión Melilla,https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/television-melilla-es.png,channel-playlist:free-tv-br
 Canais,Spain,La 1 (Catalunya),https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8,https://i.imgur.com/NbesiPn.png,channel-playlist:free-tv-br
 Canais,Spain,La 1 (Canarias),https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8,https://i.imgur.com/NbesiPn.png,channel-playlist:free-tv-br
 Canais,Spain,La 2 (Catalunya),https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8,https://i.imgur.com/DmuTwDw.png,channel-playlist:free-tv-br
@@ -1491,7 +1431,7 @@ Canais,Turkey,TRT Spor Ⓖ,https://tv-trtspor1.medya.trt.com.tr/master.m3u8,http
 Canais,Turkey,TRT Spor 2 Ⓖ,https://tv-trtspor2.medya.trt.com.tr/master.m3u8,https://i.imgur.com/ysKteM8.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT Çocuk,https://tv-trtcocuk.medya.trt.com.tr/master.m3u8,https://i.imgur.com/QLFmD6d.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT Müzik,https://tv-trtmuzik.medya.trt.com.tr/master.m3u8,https://i.imgur.com/fIVFCEd.png,channel-playlist:free-tv-br
-Canais,Turkey,TRT Belgesel,https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8,https://i.imgur.com/MGO87pe.png,channel-playlist:free-tv-br
+Canais,Turkey,TRT Belgesel,https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8,https://i.imgur.com/MGO87pe.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT Avaz,https://tv-trtavaz.medya.trt.com.tr/master.m3u8,https://i.imgur.com/VhTwXu5.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT Kurdî,https://tv-trtkurdi.medya.trt.com.tr/master.m3u8,https://i.imgur.com/6BpymfB.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT Arabi,https://tv-trtarabi.medya.trt.com.tr/master.m3u8,https://i.imgur.com/yyhWOZs.png,channel-playlist:free-tv-br
@@ -1500,6 +1440,14 @@ Canais,Turkey,TRT Türk,https://tv-trtturk.medya.trt.com.tr/master.m3u8,https://
 Canais,Turkey,TRT EBA Ilkokul,https://tv-e-okul00.medya.trt.com.tr/master.m3u8,https://i.imgur.com/wDvZfk8.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT EBA Ortaokul,https://tv-e-okul01.medya.trt.com.tr/master.m3u8,https://i.imgur.com/yfPTvRx.png,channel-playlist:free-tv-br
 Canais,Turkey,TRT EBA Lise,https://tv-e-okul02.medya.trt.com.tr/master.m3u8,https://i.imgur.com/IebUZx1.png,channel-playlist:free-tv-br
+Canais,Turkmenistan,Altyn Asyr,https://alpha.tv.online.tm/hls/ch001.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Yaslyk,https://alpha.tv.online.tm/hls/ch002.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Miras,https://alpha.tv.online.tm/hls/ch003.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Türkmen Sporty,https://alpha.tv.online.tm/hls/ch004.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Türkmen Owazy,https://alpha.tv.online.tm/hls/ch005.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Ashgabat,https://alpha.tv.online.tm/hls/ch006.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,Türkmenistan,https://alpha.tv.online.tm/hls/ch007.m3u8,,channel-playlist:free-tv-br
+Canais,Turkmenistan,ARKADAG,https://alpha.tv.online.tm/hls/ch000.m3u8,,channel-playlist:free-tv-br
 Canais,UK,BBC One Ⓖ,https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png,channel-playlist:free-tv-br
 Canais,UK,BBC Two Ⓖ,https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png,channel-playlist:free-tv-br
 Canais,UK,Channel 4 Ⓢ,http://176.65.146.105:8011/play/a07w/index.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png,channel-playlist:free-tv-br
@@ -1557,33 +1505,20 @@ Canais,UK,BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww
 Canais,UK,BBC Radio 5 Sports Extra,http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8,https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png,channel-playlist:free-tv-br
 Canais,UK,BBC Asian Network,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8,https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png,channel-playlist:free-tv-br
 Canais,UK,BBC World Service,http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8,https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Pershyi,https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8,https://i.imgur.com/osTQLED.png,channel-playlist:free-tv-br
-Canais,Ukraine,1+1 Ukraina Ⓢ,http://212.79.122.11:5014/udp/239.255.6.49:1234,https://i.imgur.com/FlG7npq.png,channel-playlist:free-tv-br
-Canais,Ukraine,1+1 Marafon,https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509,https://i.imgur.com/smQKa2G.png,channel-playlist:free-tv-br
-Canais,Ukraine,Suspilne Kultura,https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Suspilne_Kultura_%282022%29.svg/640px-Suspilne_Kultura_%282022%29.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,1+1 Ukraina Ⓢ,http://stream.mcquack.net/219/index.m3u8,https://i.imgur.com/FlG7npq.png,channel-playlist:free-tv-br
 Canais,Ukraine,Suspilne Sport,http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8,https://i.imgur.com/16IhU0M.png,channel-playlist:free-tv-br
 Canais,Ukraine,ICTV2,http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8,https://i.imgur.com/J4zlRGv.png,channel-playlist:free-tv-br
 Canais,Ukraine,ICTV Serialy,http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8,https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png,channel-playlist:free-tv-br
-Canais,Ukraine,Inter,http://212.79.122.11:5014/udp/239.255.6.25:1234,https://i.imgur.com/R06gbuT.png,channel-playlist:free-tv-br
-Canais,Ukraine,UNIAN TV,https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509,https://i.imgur.com/Alu78zn.png,channel-playlist:free-tv-br
-Canais,Ukraine,Bigudi Ⓢ,http://212.79.122.11:5014/udp/239.255.6.13:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bigudi_%28Ukraine%29_%281-st_logo%29.svg/627px-Bigudi_%28Ukraine%29_%281-st_logo%29.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Армія ТБ,https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509%20,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/ArmyTV_logo_%282023%29.svg/640px-ArmyTV_logo_%282023%29.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Novyi Kanal,http://212.79.122.11:5014/udp/239.255.6.38:1234,https://i.imgur.com/4JhqpPM.png,channel-playlist:free-tv-br
-Canais,Ukraine,TET Ⓢ,http://212.79.122.11:5014/udp/239.255.6.11:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/640px-TET_logo.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,2+2 Ⓢ,http://212.79.122.11:5014/udp/239.255.6.14:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/640px-2%2B2_logo_2017.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,M1,http://212.79.122.11:5014/udp/239.255.6.28:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/768px-M1_%28Ukraine%29_%282001-2021%29.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,Inter,http://stream.mcquack.net/174/index.m3u8,https://i.imgur.com/R06gbuT.png,channel-playlist:free-tv-br
+Canais,Ukraine,TET Ⓢ,http://stream.mcquack.net/338/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TET_logo.svg/640px-TET_logo.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,2+2 Ⓢ,http://stream.mcquack.net/173/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/640px-2%2B2_logo_2017.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,M1,http://stream.mcquack.net/218/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M1_%28Ukraine%29_%282001-2021%29.svg/768px-M1_%28Ukraine%29_%282001-2021%29.svg.png,channel-playlist:free-tv-br
 Canais,Ukraine,M2,https://live.m2.tv/hls3/stream.m3u8,https://i.imgur.com/AfcBWCg.png,channel-playlist:free-tv-br
 Canais,Ukraine,NTN,https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/NTNUA_logo_%282013%29.svg/640px-NTNUA_logo_%282013%29.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Mega,http://212.79.122.11:5014/udp/239.255.6.40:1234,https://i.imgur.com/F1v69tn.png,channel-playlist:free-tv-br
-Canais,Ukraine,ПлюсПлюс Ⓢ,http://212.79.122.11:5014/udp/239.255.6.12:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/PLUSPLUSUA.svg/640px-PLUSPLUSUA.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Ми — Україна Ⓢ,http://212.79.122.11:5014/udp/239.255.6.7:1234,https://i.imgur.com/nkatL7Q.png,channel-playlist:free-tv-br
-Canais,Ukraine,Оце ТБ,http://212.79.122.11:5014/udp/239.255.6.4:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/OCE_logo_%282017%29.svg/640px-OCE_logo_%282017%29.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,K1,http://212.79.122.11:5014/udp/239.255.6.41:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,Mega,https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8,https://i.imgur.com/F1v69tn.png,channel-playlist:free-tv-br
+Canais,Ukraine,K1,http://stream.mcquack.net/270/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/K1_Logo_2014.svg/655px-K1_Logo_2014.svg.png,channel-playlist:free-tv-br
 Canais,Ukraine,XSport Ⓢ,http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8,https://i.imgur.com/CHDcfrT.png,channel-playlist:free-tv-br
-Canais,Ukraine,Enter-Film,http://212.79.122.11:5014/udp/239.255.6.31:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png,channel-playlist:free-tv-br
-Canais,Ukraine,Піксель TV,http://212.79.122.11:5014/udp/239.255.6.30:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PixelUalogo.svg/640px-PixelUalogo.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,5 Kanal,https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_5_Channel.svg/480px-Logo_5_Channel.svg.png,channel-playlist:free-tv-br
-Canais,Ukraine,Суспільне Київ,https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/640px-Suspilne_Kyiv_%282022%29.svg.png,channel-playlist:free-tv-br
+Canais,Ukraine,Enter-Film,http://stream.mcquack.net/322/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png,channel-playlist:free-tv-br
 Canais,Ukraine,Суспільне Дніпро,http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8,https://i.imgur.com/nMHd9FK.png,channel-playlist:free-tv-br
 Canais,Ukraine,Суспільне Житомир Ⓢ,http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8,https://i.imgur.com/lCv1Xaq.png,channel-playlist:free-tv-br
 Canais,Ukraine,Суспільне Одеса Ⓢ,http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8,https://i.imgur.com/giTdUK9.png,channel-playlist:free-tv-br
@@ -1597,7 +1532,7 @@ Canais,Ukraine,Суспільне Тернопіль,http://cdnua05.hls.tv/647/h
 Canais,Ukraine,Суспільне Чернігів,http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8,https://i.imgur.com/WBChVXj.png,channel-playlist:free-tv-br
 Canais,Ukraine,FREEДOM,http://95.67.106.242/mobile-app/main/freedom/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/500px-FreeDOMUAlogo.svg.png,channel-playlist:free-tv-br
 Canais,Ukraine,24 Kanal,http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8,https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg,channel-playlist:free-tv-br
-Canais,Ukraine,ДІМ,http://212.79.122.11:5014/udp/239.255.6.18:1234,https://i.imgur.com/3cjaXIF.png,channel-playlist:free-tv-br
+Canais,Ukraine,ДІМ,https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8,https://i.imgur.com/3cjaXIF.png,channel-playlist:free-tv-br
 Canais,Ukraine,Дніпро TV,http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8,https://i.imgur.com/mbPTVh1.png,channel-playlist:free-tv-br
 Canais,Ukraine,ГІТ,https://stream.uagit.tv/gittv.m3u8,https://i.imgur.com/b5K5Uwh.png,channel-playlist:free-tv-br
 Canais,Ukraine,Telekanal RAI,https://stream.rai.ua/rai/stream.m3u8,https://i.imgur.com/Ouv51WB.png,channel-playlist:free-tv-br
@@ -1664,6 +1599,7 @@ Canais,USA,BBC Home,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/h
 Canais,USA,Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8,https://i.imgur.com/bNg8mze.png,channel-playlist:free-tv-br
 Canais,USA,Drybar Comedy,https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8,https://i.imgur.com/EldlmTp.png,channel-playlist:free-tv-br
 Canais,USA,Music Channel,http://media.boni-records.com/index.m3u8,http://media.boni-records.com/logo.png,channel-playlist:free-tv-br
+Canais,USA,Stryk TV,https://FFFFFFF110156200.tvustream.com/ryfy.m3u8,https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png,channel-playlist:free-tv-br
 Canais,Usa VOD,Bumblebee TV Aurora Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Usa VOD,Bumblebee TV AutoMoto,https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Usa VOD,BumblebeeTV Beaches Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8,,channel-playlist:free-tv-br
@@ -1692,7 +1628,6 @@ Canais,Usa VOD,Bumblebee TV Toy Zone,https://stitcheraws.unreel.me/wse-node02.po
 Canais,Usa VOD,Bumblebee TV Trinity Beyond,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Usa VOD,Bumblebee TV Tropics Live,https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Venezuela,Venevisión,https://venevision.akamaized.net/hls/live/2098814/VENEVISION/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/641px-Logotipo_de_Venevisi%C3%B3n.svg.png,channel-playlist:free-tv-br
-Canais,Venezuela,Venezolana de Televisión Ⓓ,https://www.dailymotion.com/embed/video/x828i6j,https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/640px-Venezolana_de_Televisi%C3%B3n_2018.svg.png,channel-playlist:free-tv-br
 Canais,Venezuela,Televen,https://setp-televen-ssai-mslv4-open.akamaized.net/hls/live/2107128/televen/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG,channel-playlist:free-tv-br
 Canais,Venezuela,Globovisión,https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png,channel-playlist:free-tv-br
 Canais,Venezuela,Vale TV Ⓢ,https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png,channel-playlist:free-tv-br

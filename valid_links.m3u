@@ -1043,26 +1043,20 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",ARB 24
-http://85.132.81.184:8080/arb/live/index.m3u8
-#EXTINF:-1 group-title="CANAIS",ARB Ⓢ
-http://109.205.166.68/server124/arb/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",AZTV Ⓢ
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Baku TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-#EXTINF:-1 group-title="CANAIS",CBC
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="CANAIS",CBC Sport Ⓖ
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",İctimai TV Ⓢ
-http://109.205.166.68/server124/ictimai_tv/index.m3u8
-#EXTINF:-1 group-title="CANAIS",İdman TV Ⓢ
-http://109.205.166.68/server124/idman_az/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 group-title="CANAIS",Mədəniyyət TV Ⓢ
-https://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Space TV Ⓢ
-http://109.205.166.68/server124/space_tv/index.m3u8
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Xəzər Xəbər
+https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Беларусь 1
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ЗОНА М1 ТВ
@@ -1085,16 +1079,6 @@ https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 group-title="CANAIS",日本テレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",テレビ朝日
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",テレビ東京
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",フジテレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",アニマックス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",釣りビジョン
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",日本映画専門チャンネル
@@ -1127,20 +1111,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",Телевизија Здравкин
 http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Орбис
-http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8
-#EXTINF:-1 group-title="CANAIS",ТВ СВЕТ
-http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
-#EXTINF:-1 group-title="CANAIS",Вардар тв
-https://streaming.iptv.mk/fcvardar/index.fmp4.m3u8
 #EXTINF:-1 group-title="CANAIS",Наша ТВ
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
-#EXTINF:-1 group-title="CANAIS",Стар Фолк
-https://live.muzickatv.mk/live/StarMusic.m3u8
 #EXTINF:-1 group-title="CANAIS",Вистел
 https://live.vtv.mk/live/vtv/chunks.m3u8
-#EXTINF:-1 group-title="CANAIS",Стар Плус
-https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 group-title="CANAIS",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="CANAIS",Матч ТВ Ⓢ
@@ -1197,10 +1171,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="CANAIS",Матч! Планета Ⓢ
 http://212.0.211.102:9999/play/a00b/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Армія ТБ
-https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509%20
-#EXTINF:-1 group-title="CANAIS",Суспільне Київ
-https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Суспільне Дніпро
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Суспільне Житомир Ⓢ
@@ -1221,6 +1191,8 @@ https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
+#EXTINF:-1 group-title="CANAIS",ДІМ
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ГІТ
 https://stream.uagit.tv/gittv.m3u8
 #EXTINF:-1 group-title="CANAIS",Беларусь 5
@@ -1355,50 +1327,14 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
 #EXTINF:-1 group-title="CANAIS",TV1
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
-#EXTINF:-1 group-title="CANAIS",CBC Toronto
-https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Citytv
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS",CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Global Toronto
-https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Global Calgary
-https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Global Edmonton
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 group-title="CANAIS",TVO
-https://bozztv.com/teleyupp1/teleup-OMZsmYVUMp/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TVO
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="CANAIS",ONNtv Ontario
-https://onntv.vantrix.tv:443/onntv_hls/1080p/onntv_hls-HLS-1080p.m3u8
-#EXTINF:-1 group-title="CANAIS",Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 group-title="CANAIS",Star TV
-https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+#EXTINF:-1 group-title="CANAIS",CBC Toronto Ⓖ
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:-1 group-title="CANAIS",CBC News
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
-#EXTINF:-1 group-title="CANAIS",CTV News
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 group-title="CANAIS",Global News
 https://i.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 #EXTINF:-1 group-title="CANAIS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News BC
-https://i.mjh.nz/PlutoTV/62cbf063257170000724590c-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Calgary
-https://i.mjh.nz/PlutoTV/62cbf23dcfb48300077f8348-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Halifax
-https://i.mjh.nz/PlutoTV/62cbf398b8e02600071deda5-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Kingston
-https://i.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Montreal
-https://i.mjh.nz/PlutoTV/62cbfbd6ad95670007f567af-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Peterborough
-https://i.mjh.nz/PlutoTV/62cbfcd8c2db990007861e43-alt.m3u8
-#EXTINF:-1 group-title="CANAIS",Global News Regina
-https://i.mjh.nz/PlutoTV/62cbff53ca8f2200080253b5-alt.m3u8
 #EXTINF:-1 group-title="CANAIS",Global News Saskatoon
 https://i.mjh.nz/PlutoTV/62cc00359cb58900088dc840-alt.m3u8
 #EXTINF:-1 group-title="CANAIS",Global News Winnipeg
@@ -1410,7 +1346,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 group-title="CANAIS",ICI Télé HD Ⓖ
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TVA Ⓖ
-https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TVA
 https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
 #EXTINF:-1 group-title="CANAIS",Noovo
@@ -1481,8 +1417,8 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 #EXTINF:-1 group-title="CANAIS",Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Mega Ⓢ
-http://185.189.225.150:85/mega/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Mega
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bio Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-1 综合
@@ -1595,26 +1531,6 @@ https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="CANAIS",TV Syd+
-https://cdn-lt-live.tvsyd.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956351/e/0_e9slj9wh/tl/main/st/0/t/rFEtaqAbdhUFGef_BNF4WQ/index-s32.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2/Fyn
-https://cdn-lt-live.tv2fyn.dk/env/cluster-1-e.live.nvp1/live/hls/p/1966291/e/0_vsfrv0zm/tl/main/st/0/t/EgP1FA1D39taZFVewCa42w/index-s32.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2/Øst
-https://cdn-lt-live.tveast.dk/env/cluster-1-e.live.nvp1/live/hls/p/1953381/e/0_zphj9q61/tl/main/st/0/t/THUB80e-ZMufZCE4pDhO0g/index-s32.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2/Nord
-https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/_FUn1YHQ6_P6lES4U6mmsA/index-s32.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2 Kosmopol
-https://cdn-lt-live.tv2lorry.dk/env/cluster-1-d.live.nvp1/live/hls/p/2045321/e/1_grusx1zd/tl/main/st/0/t/rCct87c-v2SFFCvQK1BBOg/index-s32.m3u8
-#EXTINF:-1 group-title="CANAIS",TV/Midt-Vest
-https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2/Østjylland
-https://cdn-lt-live.tvmidtvest.dk/env/cluster-1-d.live.frp1/live/hls/p/1953371/e/1_9x5lzos9/tl/main/st/0/t/9MTEhotxVwKuatx1EVXdGg/index-s34.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2/Bornholm
-https://live.tv2bornholm.dk/stream/live/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TV Storbyen
-https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Kanal Hovedstaden
-http://khkbh.dk:8080/hls/livestream/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal RTVD 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Aghapy TV
@@ -1749,6 +1665,8 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
+#EXTINF:-1 group-title="CANAIS",Handicap TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 group-title="CANAIS",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV5 Monde FBS
@@ -1955,6 +1873,8 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="CANAIS",M1 Ⓖ
 https://c202-node62-cdn.connectmedia.hu/110101/db348f50fb635daafb208f46d9132c4c/6a8153aa/index.m3u8
+#EXTINF:-1 group-title="CANAIS",M1
+http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 group-title="CANAIS",M1 Hiradó Ⓨ
 https://www.youtube.com/@M1-Hirado/live
 #EXTINF:-1 group-title="CANAIS",M2 / Petőfi TV Ⓖ
@@ -1979,6 +1899,10 @@ http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 https://www.youtube.com/@fixhdtv/live
 #EXTINF:-1 group-title="CANAIS",ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1 group-title="CANAIS",FEM3 (TV2 Klub)
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
 #EXTINF:-1 group-title="CANAIS",EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1 group-title="CANAIS",Apostol TV
@@ -2079,6 +2003,12 @@ https://www.youtube.com/@ddbharati/live
 https://www.youtube.com/@DDKisan/live
 #EXTINF:-1 group-title="CANAIS",DD Urdu Ⓨ
 https://www.youtube.com/@DDUrdu/live
+#EXTINF:-1 group-title="CANAIS",TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 group-title="CANAIS",CNBC Indonesia
@@ -2193,8 +2123,6 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 group-title="CANAIS",BOING Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Boing
-http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 group-title="CANAIS",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 group-title="CANAIS",Frisbee
@@ -2296,9 +2224,9 @@ https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/pl
 #EXTINF:-1 group-title="CANAIS",Antenna Sicilia
 https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Antenna Sud
-https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Antenna Sud Extra
-https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Aristanis SuperTv
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Arte Network Orler
@@ -2703,6 +2631,12 @@ https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/p
 http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Tele Nord Genova
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TG Norba 24
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+#EXTINF:-1 group-title="CANAIS",TG Norba 24
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:-1 group-title="CANAIS",Telenorba
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Tele Nostra
 https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Tele Occidente
@@ -2811,8 +2745,6 @@ https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd
 https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 #EXTINF:-1 group-title="CANAIS",Televallo Trapani
 https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TG Norba 24
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="CANAIS",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Top Calcio 24
@@ -2891,44 +2823,6 @@ https://www.youtube.com/radiocolonna/live
 https://www.youtube.com/user/trmh24/live
 #EXTINF:-1 group-title="CANAIS",Euronews Italian Ⓨ
 https://www.youtube.com/user/euronewsit/live
-#EXTINF:-1 group-title="CANAIS",NHK総合 (東京)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",NHK Eテレ（東京）
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",TBSテレビ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",NHK BS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",NHK BSP4K
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BS日テレ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BS朝日
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BSテレ東
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BSフジ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BS-TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",WOWOWプライム
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",WOWOWライブ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",WOWOWシネマ
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BS10
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS263&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",BS10スターチャンネル
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",J SPORTS 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",J SPORTS 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",J SPORTS 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",J SPORTS 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",チャンネルNECO
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",GAORA
@@ -3115,6 +3009,8 @@ https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
 https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
 #EXTINF:-1 group-title="CANAIS",Parliament TV
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 group-title="CANAIS",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
 #EXTINF:-1 group-title="CANAIS",Suld TV
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
 #EXTINF:-1 group-title="CANAIS",Seven Channel
@@ -3145,12 +3041,6 @@ https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
 https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",NPO 1 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8
-#EXTINF:-1 group-title="CANAIS",NPO 2 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8
-#EXTINF:-1 group-title="CANAIS",NPO 3 Ⓖ
-http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8
 #EXTINF:-1 group-title="CANAIS",Omrop Fryslân
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTV Noord
@@ -3221,14 +3111,10 @@ https://vod-c57.interspace.com:443/channel_abr/46/playlist.m3u8?wmsAuthSign=c2Vy
 https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM
 #EXTINF:-1 group-title="CANAIS",M»Net
 http://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1 group-title="CANAIS",Канал 8
-http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 #EXTINF:-1 group-title="CANAIS",M»Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1 group-title="CANAIS",M»Net Info
 http://ares.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 24 Ⓖ
-https://hls.telekabel.com.mk:1936/live/11/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ТВ НОВА 12
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cool TV
@@ -3247,24 +3133,18 @@ https://skyfolk.mk/live.m3u8
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 group-title="CANAIS",INTV
 http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Macedonian Documentary Channel
-https://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1 group-title="CANAIS",NRK1 Ⓖ
-https://nrk-nrk1.akamaized.net/21/0/hls/nrk_1/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
 #EXTINF:-1 group-title="CANAIS",NRK2 Ⓖ
-https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
 #EXTINF:-1 group-title="CANAIS",NRK3 Ⓖ
-https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/playlist.m3u8
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
 #EXTINF:-1 group-title="CANAIS",NRK Super Ⓖ
-https://nrk-nrksuper.akamaized.net/23/0/hls/nrk_super/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2 Sport 1
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 group-title="CANAIS",TV 2 Nyheter
-https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
 #EXTINF:-1 group-title="CANAIS",Frikanalen
 https://frikanalen.no/stream/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Kanal 10 Norge
-https://player-api.new.livestream.com/accounts/29308686/events/10787545/broadcasts/235454817.secure.m3u8
+#EXTINF:-1 group-title="CANAIS",Kanal 10 Norge Ⓨ
+https://www.youtube.com/c/Kanal10Norge/live
 #EXTINF:-1 group-title="CANAIS",Unicanal Ⓨ
 https://www.youtube.com/@unicanalpy/live
 #EXTINF:-1 group-title="CANAIS",Panamericana TV
@@ -3286,7 +3166,7 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
 #EXTINF:-1 group-title="CANAIS",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 group-title="CANAIS",TVI
 https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTP Açores
@@ -3322,35 +3202,33 @@ https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR 1 Ⓖ
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/playlist.m3u8
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR 2 Ⓖ
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/playlist.m3u8
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR 3 Ⓖ
-https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/playlist.m3u8
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Info Ⓖ
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/playlist.m3u8
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR International Ⓖ
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 group-title="CANAIS",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",România TV Ⓖ
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Telestar1
-http://89.47.97.15/telestar/telestar.m3u8
+https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 group-title="CANAIS",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
 #EXTINF:-1 group-title="CANAIS",TVR Cluj Ⓖ
-https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Craiova Ⓖ
-https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Iași Ⓖ
-https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+http://82.208.141.70:8778/1.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Timișoara Ⓖ
-https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Tîrgu-Mureș Ⓖ
-https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RT Д Русский Ⓖ
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="CANAIS",RT العربية
@@ -3423,14 +3301,6 @@ https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-#EXTINF:-1 group-title="CANAIS",Antena 3
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Cuatro
-http://185.189.225.150:85/CuatroHD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",La Sexta
-http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="CANAIS",24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",tdp
@@ -3439,14 +3309,8 @@ https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 #EXTINF:-1 group-title="CANAIS",TVE Internacional Europe-Asia
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
-#EXTINF:-1 group-title="CANAIS",Neox Ⓢ
-http://185.189.225.150:85/neox/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Nova Ⓢ
-http://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Atreseries Ⓢ
 http://181.78.109.48:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="CANAIS",FDF
-http://185.189.225.150:85/fdf/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Divinity Ⓖ
 https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 group-title="CANAIS",Energy Ⓖ
@@ -3454,7 +3318,7 @@ https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio
 #EXTINF:-1 group-title="CANAIS",Be Mad Ⓖ
 https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount Network
-http://185.189.225.150:85/Paramount/index.m3u8
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 group-title="CANAIS",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 group-title="CANAIS",El País
@@ -3485,8 +3349,6 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 group-title="CANAIS",ETB2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:-1 group-title="CANAIS",TV3
-http://185.189.225.150:85/tv3/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV3Cat Ⓖ
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 group-title="CANAIS",3/24
@@ -3507,8 +3369,6 @@ https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/60579
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal 4 Tenerife
 https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
-#EXTINF:-1 group-title="CANAIS",Televisión Melilla
-https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",La 1 (Catalunya)
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 group-title="CANAIS",La 1 (Canarias)
@@ -3577,6 +3437,8 @@ https://www.youtube.com/@LtvuSeTube/live
 https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Suryoyo Sat
 https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8
+#EXTINF:-1 group-title="CANAIS",TVO
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 group-title="CANAIS",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RSI La 1
@@ -3600,7 +3462,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TRT Kurdî
@@ -3621,6 +3483,22 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="CANAIS",TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="CANAIS",Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 group-title="CANAIS",Yaslyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 group-title="CANAIS",Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 group-title="CANAIS",Türkmen Sporty
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 group-title="CANAIS",Türkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 group-title="CANAIS",Ashgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 group-title="CANAIS",Türkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 group-title="CANAIS",ARKADAG
+https://alpha.tv.online.tm/hls/ch000.m3u8
 #EXTINF:-1 group-title="CANAIS",BBC One Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 group-title="CANAIS",BBC Two Ⓖ
@@ -3737,28 +3615,30 @@ http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="CANAIS",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-#EXTINF:-1 group-title="CANAIS",Pershyi
-https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
-#EXTINF:-1 group-title="CANAIS",1+1 Marafon
-https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="CANAIS",Suspilne Kultura
-https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 group-title="CANAIS",1+1 Ukraina Ⓢ
+http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Suspilne Sport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",ICTV2
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",ICTV Serialy
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",UNIAN TV
-https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="CANAIS",Inter
+http://stream.mcquack.net/174/index.m3u8
+#EXTINF:-1 group-title="CANAIS",TET Ⓢ
+http://stream.mcquack.net/338/index.m3u8
+#EXTINF:-1 group-title="CANAIS",2+2 Ⓢ
+http://stream.mcquack.net/173/index.m3u8
 #EXTINF:-1 group-title="CANAIS",M2
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",NTN
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 group-title="CANAIS",K1
+http://stream.mcquack.net/270/index.m3u8
 #EXTINF:-1 group-title="CANAIS",XSport Ⓢ
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
-#EXTINF:-1 group-title="CANAIS",5 Kanal
-https://776067.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9jZG4uZHl2eWFwcC5jb20vNS1jaGFubmVsL3ZpZGVvLm0zdTg%2FdG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjQ0k2SWpKaE1EWTZOVGt3TWpveE0yTXdPakE2WlRobFlqbzJNRGM0T2pSa01qcG1OV01pTENKMWMyVnlYMkZuWlc1MElqb2lUVzk2YVd4c1lWd3ZOUzR3SUNoWGFXNWtiM2R6SUU1VUlERXdMakE3SUZkcGJqWTBPeUI0TmpRN0lISjJPakV6Tmk0d0tTQkhaV05yYjF3dk1qQXhNREF4TURFZ1JtbHlaV1p2ZUZ3dk1UTTJMakFpTENKbGVIQWlPakUzTkRFNE1UUTVPVEI5Lkllb2JDR0NtVDVOd1pKSjdzNEhLaVIzb01IZVhpQ2dnZVp5WjZ6YWxodGM%3D&channel=1&u=b048004d-9363-4406-9b23-cb12b731d6e4&gdpr_consent=%7Bgdpr_consent%7D&givn=%7Bgivn%7D
+#EXTINF:-1 group-title="CANAIS",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Суспільне Kropyvnytskyi
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",FREEДOM
@@ -3885,6 +3765,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Music Channel
 http://media.boni-records.com/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Stryk TV
+https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
 #EXTINF:-1 group-title="CANAIS",Bumblebee TV Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bumblebee TV AutoMoto
