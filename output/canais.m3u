@@ -991,8 +991,6 @@ https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Беларусь 24
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Россия-24 Ⓢ
-https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 group-title="CANAIS",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="CANAIS",Астрахан 24
@@ -1787,6 +1785,12 @@ https://www.youtube.com/@news18india/live
 https://www.youtube.com/@cnnnews18/live
 #EXTINF:-1 group-title="CANAIS",News18 UP Uttarakhand Ⓨ
 https://www.youtube.com/@News18UPUttarakhand/live
+#EXTINF:-1 group-title="CANAIS",News18 Kannada Ⓨ
+https://www.youtube.com/@News18Kannada/live
+#EXTINF:-1 group-title="CANAIS",News18 Telugu Ⓨ
+https://www.youtube.com/@News18Telugu/live
+#EXTINF:-1 group-title="CANAIS",News18 Marathi Ⓨ
+https://www.youtube.com/@News18Marathi/live
 #EXTINF:-1 group-title="CANAIS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS",CNBC Indonesia
@@ -2997,6 +3001,10 @@ http://82.208.141.70:8778/1.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TVR Tîrgu-Mureș Ⓖ
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Россия-24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="CANAIS",Россия-24 (720p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
 #EXTINF:-1 group-title="CANAIS",RT Д Русский Ⓖ
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="CANAIS",RT العربية
