@@ -1091,6 +1091,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 http://145.239.5.177/329/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Tipik
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="CANAIS",Arte Belgique Ⓖ
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 group-title="CANAIS",La Trois
 http://145.239.5.177/330/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV5 Monde
@@ -1563,6 +1565,8 @@ https://lcp.fr/le-live-lcp-tnt-5433
 https://www.youtube.com/c/franceinfo/live
 #EXTINF:-1 group-title="CANAIS",France 24 Ⓨ
 https://www.youtube.com/c/FRANCE24/live
+#EXTINF:-1 group-title="CANAIS",France 24 Ⓨ
+https://www.youtube.com/c/france24english/live
 #EXTINF:-1 group-title="CANAIS",France 24 العربية Ⓨ
 https://www.youtube.com/c/FRANCE24Arabic/live
 #EXTINF:-1 group-title="CANAIS",France 24 Ⓨ
@@ -1826,27 +1830,23 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="CANAIS",HOY TV Ⓖ
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="CANAIS",M1 Ⓖ
-https://c202-node62-cdn.connectmedia.hu/110101/db348f50fb635daafb208f46d9132c4c/6a8153aa/index.m3u8
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 group-title="CANAIS",M1 Hiradó Ⓨ
 https://www.youtube.com/@M1-Hirado/live
 #EXTINF:-1 group-title="CANAIS",M2 / Petőfi TV Ⓖ
-https://c802-node63-cdn.connectmedia.hu/110102/d2416399a4ac7b2bec0c7034a9db3716/6a8153ac/index.m3u8
-#EXTINF:-1 group-title="CANAIS",M4 Sport Ⓖ
-https://c402-node61-cdn.connectmedia.hu/150104/aaef1a354b4ad88351bbc3f3b781c3c0/6a8153af/index.m3u8
+http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 group-title="CANAIS",M5 Hungary Ⓖ
-https://c202-node61-cdn.connectmedia.hu/110105/fd0c97309570434f5725ef453596bdfa/6a8153b2/index.m3u8
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Duna TV Ⓖ
-https://c202-node61-cdn.connectmedia.hu/110103/c0601fb7f4e18d1bda8f6bf3a47e6aae/6a8153b3/index.m3u8
+http://88.212.15.19/live/duna_hun/index.m3u8
 #EXTINF:-1 group-title="CANAIS",RTL Klub
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TV2
 http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",ATV Ⓨ
-https://www.youtube.com/@ATVmagyarorszag/live
-#EXTINF:-1 group-title="CANAIS",Hír TV
-https://onlinestream.live/play.m3u?id=4740&ext=.m3u
+#EXTINF:-1 group-title="CANAIS",ATV
+http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Fix TV Ⓨ
@@ -1891,24 +1891,14 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 https://citytv.hu/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2
-#EXTINF:-1 group-title="CANAIS",AlföldTV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Gyöngyös TV
-https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8?key=hkNHP
-#EXTINF:-1 group-title="CANAIS",Kapos TV
-https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Kecskemét TV
-https://eurobioinvest.hu:444/live/ktv.m3u8
-#EXTINF:-1 group-title="CANAIS",Lóverseny közvetítés
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 group-title="CANAIS",Zalaegerszeg TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Zugló TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
-#EXTINF:-1 group-title="CANAIS",Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Vásárhelyi Televízió
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Eger
@@ -1929,8 +1919,6 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 group-title="CANAIS",Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
-#EXTINF:-1 group-title="CANAIS",Tisza TV
-https://live.tiszatv.hu:443/tmp_hls/stream/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Duna World / M4+ Sport
 http://88.212.15.19/live/duna_world_hun/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Putnok Városi TV
@@ -3729,12 +3717,16 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/i
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 group-title="CANAIS",BBC Scotland Ⓢ Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="CANAIS",ITV 3
+http://45.14.84.37/itv3/index.m3u8
 #EXTINF:-1 group-title="CANAIS",QVC UK Ⓢ
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/3/3.m3u8
 #EXTINF:-1 group-title="CANAIS",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 group-title="CANAIS",BBC Three Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 group-title="CANAIS",ITV 4
+http://45.14.84.37/itv4/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Great! Movies Ⓢ
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",GemsTV Ⓢ
