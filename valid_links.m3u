@@ -1531,6 +1531,12 @@ http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 group-title="CANAIS",CETV-4
 http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:-1 group-title="CANAIS",FZTV-1 News 新闻综合频道
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="CANAIS",FZTV-3 Lifestyle Channel 生活频道
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="CANAIS",FZTV-4 Children 少儿频道
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal 1
@@ -2065,8 +2071,6 @@ http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Spektrum Home
 http://88.212.15.19/live/spektrum_home_hun/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Fix TV Ⓨ
-https://www.youtube.com/@fixhdtv/live
 #EXTINF:-1 group-title="CANAIS",ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
 #EXTINF:-1 group-title="CANAIS",FEM3 (TV2 Klub)

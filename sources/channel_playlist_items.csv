@@ -225,6 +225,9 @@ Canais,China,CETV-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8,https://i.imgur.co
 Canais,China,CETV-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8,https://i.imgur.com/a9mvoeP.png,channel-playlist:free-tv-br
 Canais,China,CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8,https://i.imgur.com/t8o5ZKt.png,channel-playlist:free-tv-br
 Canais,China,CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8,https://i.imgur.com/BRe0ybV.png,channel-playlist:free-tv-br
+Canais,China,FZTV-1 News 新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8,https://i.imgur.com/QvBxGw3.png,channel-playlist:free-tv-br
+Canais,China,FZTV-3 Lifestyle Channel 生活频道,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8,https://i.imgur.com/jt7CWDT.png,channel-playlist:free-tv-br
+Canais,China,FZTV-4 Children 少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8,https://i.imgur.com/J4WtNTX.png,channel-playlist:free-tv-br
 Canais,China,TV BRICS Chinese,https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8,https://i.imgur.com/896132Z.png,channel-playlist:free-tv-br
 Canais,Costa Rica,Canal 1,https://vid.canal1cr.com:3424/multi_live/play_720.m3u8,https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg,channel-playlist:free-tv-br
 Canais,Costa Rica,Canal 2 CDR,https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8,https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica-en-vivo-Online.png,channel-playlist:free-tv-br
@@ -524,9 +527,8 @@ Canais,Hungary,M5 Hungary Ⓖ,http://88.212.15.19/live/test_m_5_hun_atk_1200/pla
 Canais,Hungary,Duna TV Ⓖ,http://88.212.15.19/live/duna_hun/index.m3u8,https://i.imgur.com/b4RXacY.png,channel-playlist:free-tv-br
 Canais,Hungary,RTL Klub,http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8,https://i.imgur.com/ruRshE1.png,channel-playlist:free-tv-br
 Canais,Hungary,TV2,http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8,https://nlc.p3k.hu/uploads/2021/09/tv2-logo.jpg,channel-playlist:free-tv-br
-Canais,Hungary,ATV,http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8,https://onlinestream.live/logos/4739.png,channel-playlist:free-tv-br
+Canais,Hungary,ATV,http://88.212.15.19/live/test_atv_hungary_1200_atk/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/250px-Atv_logo_2018.png,channel-playlist:free-tv-br
 Canais,Hungary,Spektrum Home,http://88.212.15.19/live/spektrum_home_hun/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/2/2d/Spektrum-home.png,channel-playlist:free-tv-br
-Canais,Hungary,Fix TV Ⓨ,https://www.youtube.com/@fixhdtv/live,https://onlinestream.live/logos/1833.png,channel-playlist:free-tv-br
 Canais,Hungary,ErdélyTV Ⓨ,https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live,http://kommunikacio.ro/wp-content/uploads/2017/10/erdelytv.png,channel-playlist:free-tv-br
 Canais,Hungary,FEM3 (TV2 Klub),http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8,https://i.imgur.com/AF4Sz8Z.png,channel-playlist:free-tv-br
 Canais,Hungary,Viasat 6,http://88.212.15.19/live/viasat6/index.m3u8,https://i.imgur.com/kypSbFX.png,channel-playlist:free-tv-br
@@ -536,7 +538,7 @@ Canais,Hungary,Oxygen Music,https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8,,ch
 Canais,Hungary,Dance TV,https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8,,channel-playlist:free-tv-br
 Canais,Hungary,Radio 1 Ⓨ,https://www.youtube.com/@radio1hungary/live,,channel-playlist:free-tv-br
 Canais,Hungary,DikhTv Ⓨ,https://www.youtube.com/c/DikhTvGipsyTv/live,https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png,channel-playlist:free-tv-br
-Canais,Hungary,Izaura TV,http://88.212.15.19/live/izaura/index.m3u8,https://onlinestream.live/logos/6141.png,channel-playlist:free-tv-br
+Canais,Hungary,Izaura TV,http://88.212.15.19/live/izaura/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/250px-Izaura_TV_logo.svg.png,channel-playlist:free-tv-br
 Canais,Hungary,Euronews Hungarian Ⓨ,https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live,https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png,channel-playlist:free-tv-br
 Canais,Hungary,Parlamenti közvetítés,https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Hungary,Parlamenti TAB közvetítés,https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8,,channel-playlist:free-tv-br
