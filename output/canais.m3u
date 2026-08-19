@@ -4747,6 +4747,8 @@ http://177.234.249.178:8888/AXN/index.m3u8
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America South
 http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN PH (480p)
+https://streams.comclark.com/pknhd/axn/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Kadak (1080p) [Not 24/7]
@@ -5021,8 +5023,6 @@ http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-#EXTINF:-1 group-title="CANAIS",Great American Family (1080p)
-http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! movies (1080p)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",GREAT! romance (1080p)
@@ -5031,12 +5031,8 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Groovy TV (360p)
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Hallmark Family (1080p)
-http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 group-title="CANAIS",Hallmark Mystery (1080p)
-http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Hero (720p) [Not 24/7]
@@ -5263,8 +5259,6 @@ http://stream.mcquack.net/214/index.m3u8
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 group-title="CANAIS",Pantalla Clásica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Paramount Network (720p)
-http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 group-title="CANAIS",Paramount+ Picks
@@ -5751,8 +5745,6 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 https://cdn-1.pishow.tv/live/276/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
-#EXTINF:-1 group-title="CANAIS",Sundance TV (720p)
-http://40.160.24.55/SUNDANCE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Suriyan TV (576p)
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SYFY (1080p)
@@ -5808,9 +5800,7 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Universal Crime (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",USA Network (1080p)
-http://40.160.24.55/USA_NETWORK/index.m3u8
-#EXTINF:-1 group-title="CANAIS",USA Network West (1080p)
-http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
 https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
@@ -6601,8 +6591,6 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
-#EXTINF:-1 group-title="CANAIS",Start TV (720p)
-http://40.160.24.55/START_TV/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Storage Wars by A&E (720p)
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 #EXTINF:-1 group-title="CANAIS",Super TV (720p)
@@ -6714,7 +6702,7 @@ http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 group-title="CANAIS",We TV (720p)
-http://40.160.24.55/WE_TV/index.m3u8
+http://170.254.17.2/WE_TV/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Weeds / Nurse Jackie (720p)
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 group-title="CANAIS",Wild 'N Out
