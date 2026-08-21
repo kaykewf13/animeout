@@ -4799,6 +4799,8 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&flix HD (1080p)
 http://103.72.101.252:8080/live/1322.m3u8
+#EXTINF:-1 group-title="CANAIS",&pictures (720p)
+https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&pictures HD (1080p)
 http://103.72.101.252:8080/live/185.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
@@ -5292,7 +5294,7 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
 #EXTINF:-1 group-title="CANAIS",Jilin Movie Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Kairali We (576p)
-https://cdn-3.pishow.tv/live/1530/master.m3u8
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Kantipur Max [Geo-blocked]
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",KCM (1080p) [Geo-blocked]
@@ -5351,6 +5353,8 @@ https://cdn-1.pishow.tv/live/1011/master.m3u8
 http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Max (576p)
+http://5.254.89.106:80/8882/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MBC+ Drama (1080p)
@@ -5403,6 +5407,8 @@ http://149.71.34.166:8000/play/a05u/index.m3u8
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 group-title="CANAIS",MoreMax (1080p)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="CANAIS",MoreMax East HD (720p)
+https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
 #EXTINF:-1 group-title="CANAIS",Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Movie Bangla
@@ -6857,6 +6863,8 @@ https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",The Conners (1080p) [Geo-blocked]
 https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",The Doctors (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 group-title="CANAIS",The Johnny Carson Show (720p)
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",The Judge Judy Channel
