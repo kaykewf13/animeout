@@ -757,11 +757,11 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 group-title="CANAIS",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Canal 26 Ⓨ
-https://www.youtube.com/c/canal26/live
+#EXTINF:-1 group-title="CANAIS",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="CANAIS",Crónica TV Ⓨ
 https://www.youtube.com/c/cronicatv/live
-#EXTINF:-1 group-title="CANAIS",IP Noticias Ⓨ
+#EXTINF:-1 group-title="CANAIS",Argentina 12 Ⓨ
 https://www.youtube.com/c/IPNoticiasEnVivo/live
 #EXTINF:-1 group-title="CANAIS",El Destape Ⓨ
 https://www.youtube.com/c/eldestapetv/live
@@ -784,11 +784,11 @@ https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live
 #EXTINF:-1 group-title="CANAIS",Comarca TV
 https://www.youtube.com/c/ComarcaTV/live
 #EXTINF:-1 group-title="CANAIS",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",El Nueve
-http://15.204.246.24:8080/elnueveHD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",América Ⓨ
-https://www.youtube.com/c/americaenvivo/live
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",América
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="CANAIS",A24 Ⓨ
 https://www.youtube.com/c/A24com/live
 #EXTINF:-1 group-title="CANAIS",Armenia 1
@@ -1222,7 +1222,7 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",24 horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1 group-title="CANAIS",NTV Ⓖ
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",NTV
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Chile Ⓖ
@@ -1970,17 +1970,31 @@ https://www.youtube.com/@AsianetSuvarnaNews/live
 #EXTINF:-1 group-title="CANAIS",Asianet News Telugu Ⓨ
 https://www.youtube.com/@AsianetNewsTelugu/live
 #EXTINF:-1 group-title="CANAIS",News18 India Ⓨ
-https://www.youtube.com/@news18india/live
-#EXTINF:-1 group-title="CANAIS",CNN-News18 Ⓨ
-https://www.youtube.com/@cnnnews18/live
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="CANAIS",CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="CANAIS",News18 UP Uttarakhand Ⓨ
 https://www.youtube.com/@News18UPUttarakhand/live
-#EXTINF:-1 group-title="CANAIS",News18 Kannada Ⓨ
-https://www.youtube.com/@News18Kannada/live
+#EXTINF:-1 group-title="CANAIS",News18 Kannada
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="CANAIS",News18 Telugu Ⓨ
 https://www.youtube.com/@News18Telugu/live
 #EXTINF:-1 group-title="CANAIS",News18 Marathi Ⓨ
 https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1 group-title="CANAIS",WION Ⓨ
+https://www.youtube.com/@WION/live
+#EXTINF:-1 group-title="CANAIS",WION Ⓨ
+https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
+#EXTINF:-1 group-title="CANAIS",Mirror Now Ⓨ
+https://www.youtube.com/@mirrornow/live
+#EXTINF:-1 group-title="CANAIS",ZEE News Ⓨ
+https://www.youtube.com/@ZEENews/live
+#EXTINF:-1 group-title="CANAIS",News24 Ⓨ
+https://www.youtube.com/@News24thinkfirst/live
+#EXTINF:-1 group-title="CANAIS",日テレNEWS24
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="CANAIS",Good News Today Ⓨ
+https://www.youtube.com/@GoodNewsTodayOfficial/live
 #EXTINF:-1 group-title="CANAIS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="CANAIS",CNBC Indonesia
@@ -2893,8 +2907,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",Music ON TV!（エムオン）
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CANAIS",日テレNEWS24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CANAIS",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="CANAIS",NHK World Japan
@@ -4185,8 +4197,6 @@ https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
 https://www.youtube.com/@abcnewsaustralia/live
 #EXTINF:-1 group-title="CANAIS",NDTV 24x7 Ⓨ
 https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
-#EXTINF:-1 group-title="CANAIS",WION Ⓨ
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 #EXTINF:-1 group-title="CANAIS",Taiwan+
 https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 #EXTINF:-1 group-title="CANAIS",Metro Globe Network
