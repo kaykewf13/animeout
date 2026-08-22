@@ -4969,20 +4969,14 @@ http://138.121.15.230:9002/AXN/index.m3u8
 http://15.204.246.24:8080/AXNHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America Andes (1080p)
 http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN Latin America Chile (1080p)
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America South
 http://45.228.235.116:8000/play/a0iy/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AXN PH (480p)
-https://streams.comclark.com/pknhd/axn/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 group-title="CANAIS",B4U Kadak (1080p) [Not 24/7]
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 group-title="CANAIS",B4U Movies APAC (720p)
-https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
-#EXTINF:-1 group-title="CANAIS",Battlestar Galactica
-https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Poland (1080p)
+https://polska.hach.workers.dev/14850.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",beIN Box Office 1
 https://nord.ayakkabiparti.lol/box1/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",beIN Box Office 2
@@ -5021,6 +5015,16 @@ http://stream.mcquack.net/456/index.m3u8
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action (1080p)
 http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Az Cinema (1080p)
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
+#EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="CANAIS",B4U Kadak (1080p) [Not 24/7]
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 group-title="CANAIS",B4U Movies APAC (720p)
+https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
+#EXTINF:-1 group-title="CANAIS",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 group-title="CANAIS",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 group-title="CANAIS",BET Comedy Movies
@@ -5061,8 +5065,6 @@ https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 group-title="CANAIS",CCTV-The First Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="CANAIS",Celestial Classic Movies (480p)
-https://streams.comclark.com/pknsd/celestial/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Celestial Movies (576i)
 http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Charge! (1080p)
@@ -5131,12 +5133,8 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 group-title="CANAIS",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Movies",My Cinema [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Cinema One (480p)
-https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CinemaWorld (720p)
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Cinemo (480p)
-https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinevault 80s (720p)
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Classic Cinema (240p) [Not 24/7]
@@ -5213,10 +5211,14 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="CANAIS",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",FMH Movies (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
 #EXTINF:-1 group-title="CANAIS",FrightFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 group-title="CANAIS",FX Movie Channel (720p)
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FX Movie Channel HD (1080p)
 https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
 #EXTINF:-1 group-title="CANAIS",GEM Bollywood
@@ -5935,8 +5937,6 @@ https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Channel (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Channel (480p) [Not 24/7]
-https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Channel Latin America Central America (1080p)
@@ -5989,10 +5989,6 @@ https://gpuserver5.tier1streams.com/SYFY/index.m3u8
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Tap Action Flix (480p)
-https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Tap Movies (480p)
-https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Thalaa TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 group-title="CANAIS",The Film Detective (720p)
@@ -6055,8 +6051,6 @@ http://stream.mcquack.net/200/index.m3u8
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Vinh Long TV 3 (720p)
 https://dethich.pw/thvl3/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Viva Cinema (480p)
-https://streams.comclark.com/pknsd/viva/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Watch it Scream! (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
 #EXTINF:-1 group-title="CANAIS",Whiplash Cinema (480p)
@@ -6397,6 +6391,8 @@ https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 group-title="SERIES",like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Series",Epic Drama
 http://82.78.243.219:45739/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Europa Europa (1080p)
+https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 group-title="CANAIS",Farscape
@@ -6563,6 +6559,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",McLeods Töchter
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 group-title="CANAIS",Mega Ficcion (1080p)
+http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",Mi Extraña Obsesión
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1 group-title="CANAIS",Midsomer Murders (1080p)

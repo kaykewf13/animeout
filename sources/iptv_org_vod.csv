@@ -58,11 +58,12 @@ Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"
 Filmes,Movies,AXN Latin America (1080p),http://138.121.15.230:9002/AXN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@CentralAmerica,iptv-org
 Filmes,Movies,AXN Latin America (1080p),http://15.204.246.24:8080/AXNHD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@Panregional,iptv-org
 Filmes,Movies,AXN Latin America Andes (1080p),http://177.234.249.178:8888/AXN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@Andes,iptv-org
+Filmes,Movies,AXN Latin America Chile (1080p),https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@Chile,iptv-org
 Filmes,Movies,AXN Latin America Mexico,http://190.11.225.124:5000/live/axn_hd/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@Mexico,iptv-org
 Filmes,Movies,AXN Latin America South,http://45.228.235.116:8000/play/a0iy/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@South,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AXN Movies (720p)",http://50.7.120.34:8080/AXN_BLACK/index.m3u8,https://i.imgur.com/tJQckal.png,AXNMovies.pt@SD,iptv-org
-Filmes,Movies;Series,AXN PH (480p),https://streams.comclark.com/pknhd/axn/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Philippines,iptv-org
-Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Movies"",AXN Poland",http://193.24.244.60:1001/udp/239.254.5.5:6060,https://i.imgur.com/i5wOhkf.png,AXNPoland.pl@SD,iptv-org
+Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",AXN Poland (1080p)",https://polska.hach.workers.dev/14850.m3u8,https://i.imgur.com/i5wOhkf.png,AXNPoland.pl@SD,iptv-org
+Filmes,Movies,Az Cinema (1080p),https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8,https://i.imgur.com/B5UN7C8.png,AzCinema.mx@SD,iptv-org
 Filmes,Movies,B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@SD,iptv-org
 Filmes,Movies,B4U Kadak (1080p) [Not 24/7],https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8,https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540,B4UKadak.in@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/147.0.0.0 Safari/537.36"" group-title=""Movies"",B4U Movies (576p)",http://103.175.73.12:8080/live/43/43_0.m3u8,https://i.imgur.com/M9kMFJl.png,B4UMovies.in@India,iptv-org
@@ -98,7 +99,6 @@ Filmes,Movies,CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8,https://i.imgur
 Filmes,Movies,CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8,https://i.imgur.com/rFiaef7.png,CCTV6.cn@SD,iptv-org
 Filmes,Movies,CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub,https://i.imgur.com/rEttkKm.png,CCTVStormTheater.cn@HD,iptv-org
 Filmes,Movies,CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub,https://i.imgur.com/eFxD3hq.png,CCTVTheFirstTheater.cn@HD,iptv-org
-Filmes,Movies,Celestial Classic Movies (480p),https://streams.comclark.com/pknsd/celestial/playlist.m3u8,https://i.imgur.com/1VhXilw.png,CelestialClassicMovies.hk@SD,iptv-org
 Filmes,Movies,Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8,https://i.imgur.com/Mb5ssnu.png,CelestialMovies.hk@SD,iptv-org
 Filmes,Movies,Charge! (1080p),https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8,https://i.imgur.com/1rxmu2u.png,Charge.us@SD,iptv-org
 Filmes,Movies,CINDIE TV (1080p),https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8,https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png,CINDIETV.br@HD,iptv-org
@@ -135,9 +135,7 @@ Filmes,Movies,Cinecanal South (1080p),http://45.162.193.35/CINECANAL/index.m3u8,
 Filmes,Movies,CineLatino (720p),http://45.162.193.35/CINELATINO_HD/index.m3u8,https://i.imgur.com/2V0R0xT.png,CineLatino.mx@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",Cinema (1080p)",https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd,https://www.mongolsat.mn/assets/img/channel/914.png,Cinema.mn@SD,iptv-org
 Filmes,Movies,Cinema,http://catchup.videoline.ru/cinema/playlist.m3u8,https://i.imgur.com/b5e9qUA.png,Cinema.ru@SD,iptv-org
-Filmes,Movies,Cinema One (480p),https://streams.comclark.com/pknsd/cinemaone/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/960px-Cinema_One_2013_logo.svg.png,CinemaOne.ph@SD,iptv-org
 Filmes,Movies,CinemaWorld (720p),http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8,https://i.imgur.com/D2qNVZ7.png,CinemaWorld.my@SD,iptv-org
-Filmes,Movies,Cinemo (480p),https://streams.comclark.com/pknsd/cinemo/playlist.m3u8,https://i.imgur.com/rGAOD3f.png,CineMo.ph@SD,iptv-org
 Filmes,Movies,CineStar 1 Bulgaria,http://213.91.179.28:8000/play/a05h,https://i.imgur.com/t9vVTLH.png,CineStar1Bulgaria.bg@SD,iptv-org
 Filmes,Movies,Cinevault 80s (720p),https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8,https://i.imgur.com/xaCyyDd.png,Cinevault80s.us@SD,iptv-org
 Filmes,Movies,Classic Cinema (240p) [Not 24/7],https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8,https://i.imgur.com/FJoPnTb.png,ClassicCinema.us@SD,iptv-org
@@ -211,8 +209,10 @@ Filmes,Movies,FilmRise Westerns (720p),https://dz05z8iljgvbe.cloudfront.net/mast
 Filmes,Movies,FilmUA Live,https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8,https://i.imgur.com/kizTBgS.png,FilmUALive.ua@SD,iptv-org
 Filmes,Movies;Series,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies;Series"",FilmUADrama (1080p)",http://88.99.215.227/FilmUADrama/index.m3u8,https://i.imgur.com/Hnwsh5d.png,FilmUADrama.ua@SD,iptv-org
 Filmes,Movies,Flicks of Fury,https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8,https://i.imgur.com/rtL5L81.png,FlicksofFury.us@SD,iptv-org
+Filmes,Movies,FMH Movies (1080p),https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8,https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png,FMHMovies.us@SD,iptv-org
 Filmes,Movies,Forensic Files (720p) [Geo-blocked],https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8,https://i.imgur.com/8j2npVc.png,FilmRiseForensicFiles.us@SD,iptv-org
 Filmes,Movies,FrightFlix (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229,https://i.imgur.com/rgNQYAl.png,FrightFlix.us@SD,iptv-org
+Filmes,Movies,FX Movie Channel (720p),http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png,FXMovieChannel.us@SD,iptv-org
 Filmes,Movies,FX Movie Channel HD (1080p),https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png,FXMovieChannel.us@HD,iptv-org
 Filmes,Movies,GEM Bollywood,https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202,https://i.imgur.com/2XASeBk.png,GEMBollywood.tr@SD,iptv-org
 Filmes,Movies,GEM Drama,https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202,https://i.imgur.com/k2pGyRH.png,GEMDrama.tr@SD,iptv-org
@@ -610,7 +610,6 @@ Filmes,Movies,Sony Wah (1080p) [Geo-blocked],https://sl.vodep39240327.workers.de
 Filmes,Movies,South Station (1080p),https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20260325T012316SQUARE.png,SouthStation.in@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Star Channel",http://213.91.179.28:8000/play/a0c9,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannel.bg@SD,iptv-org
 Filmes,Movies;Series,Star Channel (720p),http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannel.cl@SD,iptv-org
-Filmes,Movies,Star Channel (480p) [Not 24/7],https://streams.comclark.com/pknsd/starchannel1/playlist.m3u8,https://i.imgur.com/ZElxkCs.png,StarChannel.jp@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Star Channel",http://92.36.202.5:10001/play/a01s,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannel.si@SD,iptv-org
 Filmes,Movies;Series,Star Channel Latin America (1080p),http://15.204.246.24:8080/STARCHANNELHD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannelLatinAmerica.us@Panregional,iptv-org
 Filmes,Movies;Series,Star Channel Latin America Central America (1080p),https://streamer.metronethn.com/StarChannel/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannelLatinAmerica.us@CentralAmerica,iptv-org
@@ -649,8 +648,6 @@ Filmes,Movies,Suriyan TV (576p),https://stream.sscloud7.com/live/suriyantv/index
 Filmes,Movies;Series,SYFY (1080p),https://gpuserver5.tier1streams.com/SYFY/index.m3u8,https://i.imgur.com/4fMWhUE.png,SYFY.us@East,iptv-org
 Filmes,Movies,T2 Movies,https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202,,T2Movies.ir@SD,iptv-org
 Filmes,Movies,Tamasha,https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8,https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png,Tamasha.ir@SD,iptv-org
-Filmes,Movies,Tap Action Flix (480p),https://streams.comclark.com/pknsd/tapactionflix/playlist.m3u8,https://i.imgur.com/45Y6iXq.png,TAPActionFlix.ph@SD,iptv-org
-Filmes,Movies,Tap Movies (480p),https://streams.comclark.com/pknsd/tapmovies/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png,TAPMovies.ph@SD,iptv-org
 Filmes,Movies,Thalaa TV (1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8,https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png,ThalaaTV.in@HD,iptv-org
 Filmes,Movies,The Film Detective (720p),https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8,https://i.imgur.com/yfOwmsP.png,TheFilmDetective.us@SD,iptv-org
 Filmes,Movies,The Movie Club (1080p),https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png,TheMovieClub.in@HD,iptv-org
@@ -681,7 +678,6 @@ Filmes,Movies,viju TV1000 Русское (576p),http://31.148.48.15/TV1000_Russk
 Filmes,Movies,viju+ Megahit HD (1080p),http://stream.mcquack.net/200/index.m3u8,https://i.imgur.com/oIQNddV.png,vijuPlusMegahit.ru@HD,iptv-org
 Filmes,Movies,viju+ Premiere HD (1080p),http://stream.mcquack.net/202/index.m3u8,https://i.imgur.com/klRvhR5.png,vijuPlusPremiere.ru@HD,iptv-org
 Filmes,Entertainment;Movies,Vinh Long TV 3 (720p),https://dethich.pw/thvl3/index.m3u8,https://i.imgur.com/OQXEhqu.png,VinhLongTV3.vn@SD,iptv-org
-Filmes,Movies,Viva Cinema (480p),https://streams.comclark.com/pknsd/viva/playlist.m3u8,https://i.imgur.com/Bwcj1Oc.png,VivaCinema.ph@SD,iptv-org
 Filmes,Movies,Watch it Scream! (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246,https://i.imgur.com/bz3Caum.png,WatchitScream.us@SD,iptv-org
 Filmes,Movies,Whiplash Cinema (480p),https://cdn.whiplash.cc/whiplash-cinema/index.m3u8,https://whiplash.cc/assets/img/channels/whiplashcinema.png,WhiplashCinema.us@SD,iptv-org
 Filmes,Movies,Wu Tang Collection (720p),https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745,https://i.imgur.com/sz55sBl.png,WuTangCollection.us@SD,iptv-org
@@ -853,6 +849,7 @@ Series,Series,El Comisario,https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8,htt
 Series,Series,El encantador de perros,https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8,https://i.imgur.com/hYqjQ1n.png,Elencantadordeperros.us@Spain,iptv-org
 Series,Series,Empeños a lo bestia,https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8,https://i.imgur.com/EOttSdW.png,Empenosalobestia.us@Spain,iptv-org
 Series,Series,"like Gecko) Chrome/124.0.0.0 Safari/537.36"" group-title=""Series"",Epic Drama",http://82.78.243.219:45739/play/a01p/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Epic-Drama-TV.jpg/960px-Epic-Drama-TV.jpg,EpicDrama.uk@ROM,iptv-org
+Series,Series,Europa Europa (1080p),https://cdn1tlinkgo.tlink.cl/europaeuropa/index.m3u8,https://i.imgur.com/w5SOfyJ.png,EuropaEuropa.ar@SD,iptv-org
 Series,Series,Family Ties,https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8,https://i.imgur.com/WJEkKCb.png,FamilyTies.us@SD,iptv-org
 Series,Series,Farscape,https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8,https://i.imgur.com/2WH4lSc.png,Farscape.us@SD,iptv-org
 Series,Series,FBoy Island,https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8,https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png,FBoyIsland.se@DK,iptv-org
@@ -940,6 +937,7 @@ Series,Series,McLeods Töchter,https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 Series,Series,Medium,https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8,https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png,Medium.se@DK,iptv-org
 Series,Series,Medium,https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8,https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png,Medium.se@NO,iptv-org
 Series,Series,Medium,https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8,https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png,Medium.se@SE,iptv-org
+Series,Series,Mega Ficcion (1080p),http://cdn1tlinkgo.tlink.cl/megaficcion/mono.m3u8,https://i.imgur.com/aQdhJie.png,MegaFiccion.cl@SD,iptv-org
 Series,Series,Mi Extraña Obsesión,https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8,https://i.imgur.com/VtxO6KI.png,MiExtranaObsesion.us@Spain,iptv-org
 Series,Series,Midsomer Murders (1080p),https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8,https://i.imgur.com/VFqfyfY.png,MidsomerMurders.us@SD,iptv-org
 Series,Series,Minuto Para Ganar,https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8,https://i.imgur.com/go5o1gB.png,PlutoTVMinutoParaGanar.us@SD,iptv-org
