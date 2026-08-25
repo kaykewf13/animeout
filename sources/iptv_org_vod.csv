@@ -31,6 +31,7 @@ Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AMC Europe Bulgary",http://212.70.131.37:8000/play/a05k,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCEurope.uk@Bulgary,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AMC Europe Czech Republic",http://88.212.15.19/live/test_amc_25p/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCEurope.uk@CzechRepublic,iptv-org
 Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Movies"",AMC Europe Hungary",http://88.212.15.19/live/amc_hun/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCEurope.uk@Hungary,iptv-org
+Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",AMC Europe Romania",https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCEurope.uk@Romania,iptv-org
 Filmes,Movies,AMC Latin America (1080p),http://15.204.246.24:8080/AMCHD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCLatinAmerica.us@Panregional,iptv-org
 Filmes,Movies,AMC Latin America (1080p),http://45.171.108.253:8888/AMC/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCLatinAmerica.us@SD,iptv-org
 Filmes,Movies,AMC Latin America Brazil (720p),http://170.83.49.66:8083/AMCHD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png,AMCLatinAmerica.us@Brazil,iptv-org
@@ -179,6 +180,8 @@ Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Film4",http://88.212.15.19/live/film4_hun/index.m3u8,https://i.imgur.com/X5N8CHf.png,Film4.hu@SD,iptv-org
 Filmes,Movies,Film & Arts (1080p),http://15.204.246.24:8080/FilmArtsHD/index.m3u8,https://i.imgur.com/ukdmEKD.png,FilmArts.ar@Panregional,iptv-org
 Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Movies"",Film Cafe",http://88.212.15.19/live/film_cafe/index.m3u8,https://i.imgur.com/jaKRnzU.png,FilmCafe.hu@Hungary,iptv-org
+Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",Film Cafe Romania",https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8,https://i.imgur.com/jaKRnzU.png,FilmCafe.hu@Romania,iptv-org
+Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",Film Now",https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8,https://i.imgur.com/sSoRvGz.png,FilmNow.ro@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Film+",http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8,https://i.imgur.com/OBYuY3S.png,FilmPlus.cz@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Film+",http://88.212.15.19/live/film_plus_hun_atk/index.m3u8,https://i.imgur.com/OWqzJyy.png,FilmPlus.hu@SD,iptv-org
 Filmes,Movies,Filmax (576p),https://s3.ideationtec.live/Filmax/Filmax.m3u8,https://i.imgur.com/eLmdZ6k.png,Filmax.pk@SD,iptv-org
@@ -337,6 +340,7 @@ Filmes,Classic;Movies,Movify Kino (576p),https://void.greenhosting.ru/MovifyKino
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Mozi+",http://88.212.15.19/live/mozi_plusz/index.m3u8,https://i.imgur.com/LtCnPFJ.png,MoziPlus.hu@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Moziverzum",http://88.212.15.19/live/moziverzum/index.m3u8,https://i.imgur.com/NMifecQ.png,Moziverzum.hu@SD,iptv-org
 Filmes,Movies,Muzhskoe kino (576p),http://stream.mcquack.net/107/index.m3u8,https://i.imgur.com/8RN3tQC.png,Muzhskoekino.ru@SD,iptv-org
+Filmes,Movies,MWD Movies [Not 24/7],http://203.81.84.130/hls/mwd_movie/index.m3u8,https://i.imgur.com/5KRsqeF.png,MWDMovies.mm@SD,iptv-org
 Filmes,Movies,"like Gecko Chrome/144.0.0.0 Safari/537.36"" group-title=""Movies"",My Cinema [Geo-blocked]",https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8,https://i.imgur.com/BTmcTQO.png,MyCinema.id@SD,iptv-org
 Filmes,Movies,My Cinema Europe,https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8,https://i.imgur.com/jz0d8tH.png,MyCinemaEurope.ch@SD,iptv-org
 Filmes,Movies,MyTime Movie Network (1080p),https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8,https://i.imgur.com/pw4NZK1.png,MyTimeMovieNetwork.uk@SD,iptv-org
@@ -663,7 +667,6 @@ Filmes,Movies,Thrill (540p),https://cdn10jtedge.indihometv.com/atm/DASH/thrill/m
 Filmes,Movies,Tolly TV (1080p),https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8,https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png,TollyTV.in@HD,iptv-org
 Filmes,Movies,TV 21 International (576p),http://stream.mcquack.net/152/index.m3u8,https://ibb.co/BH6CZx3K,TV21International.ru@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",TV1000",http://85.14.32.26:8800/udp/239.100.10.100:5000,https://i.imgur.com/GHNsctR.png,TV1000.bg@SD,iptv-org
-Filmes,Movies,TV1000 (1080p),http://176.61.157.250/TV1000/index.m3u8,https://i.imgur.com/GHNsctR.png,TV1000.si@SD,iptv-org
 Filmes,Movies,TV1000 Russian Kino Global,http://213.91.179.28:8000/play/a0bx,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png,TV1000RussianKinoGlobal.ru@SD,iptv-org
 Filmes,Movies,TV Land Drama,https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8,https://i.imgur.com/y1rXIAS.png,TVLandDrama.us@SD,iptv-org
 Filmes,Movies,TVCARiB Cinema (720p) [Not 24/7],https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8,https://i.imgur.com/fvGlwKo.png,TVCARiBCinema.sx@SD,iptv-org
@@ -675,6 +678,7 @@ Filmes,Movies,Viafree Movies,https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8,h
 Filmes,Movies,Viafree Movies,https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8,https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png,ViafreeMovies.se@NO,iptv-org
 Filmes,Movies,Viafree Movies,https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8,https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png,ViafreeMovies.se@SE,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Viasat Film",http://88.212.15.19/live/viasat_film/index.m3u8,https://i.imgur.com/5CoP6ex.png,ViasatFilm.hu@SD,iptv-org
+Filmes,Movies,Viasat Kino Balkan (1080p),http://176.61.157.250/TV1000/index.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@Balkan,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",Viasat Kino Romania",https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8,https://i.imgur.com/io0WAkA.png,ViasatKino.ua@Romania,iptv-org
 Filmes,Movies,viju TV1000 (576p),http://stream.mcquack.net/110/index.m3u8,https://i.imgur.com/ZMsyjSr.png,vijuTV1000.ru@SD,iptv-org
 Filmes,Movies,viju TV1000 action (576p),http://stream.mcquack.net/100/index.m3u8,https://i.imgur.com/TMmyuzh.png,vijuTV1000action.ru@SD,iptv-org

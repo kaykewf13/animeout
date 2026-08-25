@@ -4721,32 +4721,8 @@ http://88.212.15.19/live/fb_premium_hungary/index.m3u8
 http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Series",Viasat Epic Drama
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
-http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
-http://45.171.108.253:8888/AMC/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AMC Latin America Brazil (720p)
-http://170.83.49.66:8083/AMCHD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Amedia Hit (1080p)
-http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Amedia Premium (720p)
-http://31.148.48.15/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",American Horrors (480p)
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Artflix Movie Classics (720p)
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Asianet Movies (576p)
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Asianet Movies HD (1080p)
-http://149.71.34.166:8000/play/a06e/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Aurora Media Films (720p)
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 group-title="CANAIS",AXN (720p)
-http://45.190.28.50/AXN_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AXN Asia Taiwan (1080p)
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="CANAIS",AXN Black Poland (576p)
-http://185.227.34.179:8080/axn-black/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AMC Europe Romania
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Black Romania
 https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN CEE Romania
@@ -4769,6 +4745,10 @@ http://stream.mcquack.net/73/index.m3u8
 http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film4
 http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Film Cafe Romania
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Film Now
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
@@ -4799,6 +4779,32 @@ http://88.212.15.19/live/viasat_film/index.m3u8
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Yes Movies Action (1080p)
 http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Latin America (1080p)
+http://45.171.108.253:8888/AMC/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AMC Latin America Brazil (720p)
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Amedia Hit (1080p)
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Amedia Premium (720p)
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",American Horrors (480p)
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Artflix Movie Classics (720p)
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Asianet Movies (576p)
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Asianet Movies HD (1080p)
+http://149.71.34.166:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Aurora Media Films (720p)
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN (720p)
+http://45.190.28.50/AXN_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="CANAIS",AXN Black Poland (576p)
+http://185.227.34.179:8080/axn-black/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America (1080p)
@@ -5231,6 +5237,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="CANAIS",MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 group-title="CANAIS",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MyTime Movie Network (1080p)
@@ -5805,8 +5813,6 @@ https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
 #EXTINF:-1 group-title="CANAIS",TV 21 International (576p)
 http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 group-title="CANAIS",TV1000 (1080p)
-http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 group-title="CANAIS",TVCARiB Cinema (720p) [Not 24/7]
@@ -5827,6 +5833,8 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 group-title="CANAIS",Viasat Kino Balkan (1080p)
+http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 Русское (576p)
