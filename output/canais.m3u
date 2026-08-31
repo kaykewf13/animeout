@@ -4583,16 +4583,10 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1 group-title="CANAIS",312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",&flix HD (1080p)
-http://103.72.101.252:8080/live/1322.m3u8
 #EXTINF:-1 group-title="CANAIS",&pictures (720p)
 https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
-#EXTINF:-1 group-title="CANAIS",&pictures HD (1080p)
-http://103.72.101.252:8080/live/185.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",&xplor HD (1080p)
-http://149.71.34.166:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="CANAIS",Action 24 (1080p) [Not 24/7]
@@ -4611,16 +4605,10 @@ https://afrafhls.wns.live/hls/stream.m3u8
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",All Time Movies (576p)
 http://103.175.73.12:8080/live/54/54_0.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
-http://103.175.73.12:8080/live/271/271_0.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
-http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",B4U Movies (576p)
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines (576p)
 http://103.175.73.12:8080/live/53/53_0.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Bollywood (576p)
-http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",MoviePlex (576p)
 http://103.175.73.12:8080/live/583/master.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Public Movies (576p)
@@ -4721,8 +4709,6 @@ http://88.212.15.19/live/test_cinemax2_hd_hevc/playlist.m3u8
 http://88.212.15.19/live/film_cafe/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits Hungary
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
-http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Series",Viasat Epic Drama
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AMC Europe Romania
@@ -5063,6 +5049,8 @@ https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 group-title="CANAIS",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Goldmines Movies (720p)
 http://103.213.31.109:90/GoldminesMovies/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Grand Cinema
@@ -5761,12 +5749,10 @@ https://streamer.metronethn.com/StarChannel/index.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Star Gold Select HD (1080p)
+http://149.71.34.166:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Movies HD (1080p)
-http://149.71.34.166:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Movies Select HD (1080p)
-http://149.71.34.166:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 group-title="CANAIS",Star Trek Movies
@@ -5851,6 +5837,16 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 group-title="CANAIS",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Viasat Kino
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Viasat Kino Action
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Comedy;Movies",Viasat Kino Comedy
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Viasat Kino World
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies;Series",Viasat Serial
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
 #EXTINF:-1 group-title="CANAIS",Viasat Kino Balkan (1080p)
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
@@ -5891,8 +5887,6 @@ https://amg17931-zee-amg17931c5-samsung-au-8873.playouts.now.amagi.tv/playlist.m
 http://103.72.101.252:8080/live/165.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
-http://103.72.101.252:8080/live/1358.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Cine Friki (1080p)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Ciné Nanar (1080p)
@@ -6313,6 +6307,8 @@ https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg0
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 group-title="CANAIS",Kenan y Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 group-title="CANAIS",La Rosa de Guadalupe (360p)
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
 #EXTINF:-1 group-title="CANAIS",Latina Clasicos (1080p)
 http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Le miracle de l'amour
