@@ -208,8 +208,6 @@ Canais,China,CCTV-3 综艺,http://74.91.26.218:82/live/cctv3hd.m3u8,https://i.im
 Canais,China,CCTV-4 中文国际（亚）,http://74.91.26.218:82/live/cctv4hd.m3u8,https://i.imgur.com/ovUSVEQ.png,channel-playlist:free-tv-br
 Canais,China,CCTV-4 中文国际（欧）,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8,https://i.imgur.com/kx8metk.png,channel-playlist:free-tv-br
 Canais,China,CCTV-4 中文国际（美） Ⓢ,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8,https://i.imgur.com/1TPiRqR.png,channel-playlist:free-tv-br
-Canais,China,CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8,https://i.imgur.com/Mut2omN.png,channel-playlist:free-tv-br
-Canais,China,CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8,https://i.imgur.com/UNjmQVS.png,channel-playlist:free-tv-br
 Canais,China,CCTV-6 电影,http://69.30.245.50/live/cctv6.m3u8,https://i.imgur.com/SsPN5I3.png,channel-playlist:free-tv-br
 Canais,China,CCTV-7 国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8,https://i.imgur.com/GhXlUpM.png,channel-playlist:free-tv-br
 Canais,China,CCTV-8 电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8,https://i.imgur.com/Qg1opg9.png,channel-playlist:free-tv-br
@@ -221,10 +219,6 @@ Canais,China,CCTV-13 新闻,http://74.91.26.218:82/live/cctv13hd.m3u8,https://i.
 Canais,China,CCTV-14 少儿,http://74.91.26.218:82/live/cctv14hd.m3u8,https://i.imgur.com/SORrhtE.png,channel-playlist:free-tv-br
 Canais,China,CCTV-16 奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8,https://i.imgur.com/gaA4Cjy.png,channel-playlist:free-tv-br
 Canais,China,CCTV-17 农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8,https://i.imgur.com/XMsoHut.png,channel-playlist:free-tv-br
-Canais,China,CETV-1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8,https://i.imgur.com/AMcIAOV.png,channel-playlist:free-tv-br
-Canais,China,CETV-2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8,https://i.imgur.com/a9mvoeP.png,channel-playlist:free-tv-br
-Canais,China,CETV-3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8,https://i.imgur.com/t8o5ZKt.png,channel-playlist:free-tv-br
-Canais,China,CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8,https://i.imgur.com/BRe0ybV.png,channel-playlist:free-tv-br
 Canais,China,FZTV-1 News 新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8,https://i.imgur.com/QvBxGw3.png,channel-playlist:free-tv-br
 Canais,China,FZTV-3 Lifestyle Channel 生活频道,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8,https://i.imgur.com/jt7CWDT.png,channel-playlist:free-tv-br
 Canais,China,FZTV-4 Children 少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8,https://i.imgur.com/J4WtNTX.png,channel-playlist:free-tv-br
@@ -450,8 +444,8 @@ Canais,Germany,NDR International,https://ndrint.akamaized.net/hls/live/2020766/n
 Canais,Greece,ERT 1 Ⓖ,https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd,https://i.imgur.com/WWMe8IY.png,channel-playlist:free-tv-br
 Canais,Greece,ERT 2 Ⓖ,https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd,https://i.imgur.com/pcusPFl.png,channel-playlist:free-tv-br
 Canais,Greece,ERT 3 Ⓖ,https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd,https://i.imgur.com/KyhzDRm.png,channel-playlist:free-tv-br
-Canais,Greece,ERT News,https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd,https://i.imgur.com/saIGLvr.png,channel-playlist:free-tv-br
-Canais,Greece,ERT World,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd,https://i.imgur.com/KsMTWYw.png,channel-playlist:free-tv-br
+Canais,Greece,ERT News,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd,https://i.imgur.com/saIGLvr.png,channel-playlist:free-tv-br
+Canais,Greece,ERT Cosmos,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.mpd,https://i.imgur.com/KsMTWYw.png,channel-playlist:free-tv-br
 Canais,Greece,ERT Sports 1,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd,https://i.imgur.com/gebWmAB.png,channel-playlist:free-tv-br
 Canais,Greece,ERT Sports 2,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd,https://i.imgur.com/gebWmAB.png,channel-playlist:free-tv-br
 Canais,Greece,ERT Sports 3,https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.mpd,https://i.imgur.com/gebWmAB.png,channel-playlist:free-tv-br
@@ -469,7 +463,6 @@ Canais,Greece,MAK TV,https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8,ht
 Canais,Greece,Euronews Greek,https://www.youtube.com/euronewsGreek/live,https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/500px-Euronews_2016_logo.svg.png,channel-playlist:free-tv-br
 Canais,Greece,Action24,https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8,https://i.imgur.com/Zi1YohT.png,channel-playlist:free-tv-br
 Canais,Greece,Alert,https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8,https://i.imgur.com/xqa87lG.png,channel-playlist:free-tv-br
-Canais,Greece,ART,https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8,https://i.imgur.com/7TyUxLj.png,channel-playlist:free-tv-br
 Canais,Greece,Blue Sky,https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live,https://i.imgur.com/rzuQslM.png,channel-playlist:free-tv-br
 Canais,Greece,High TV,https://live.streams.ovh/hightv/hightv/playlist.m3u8,https://i.imgur.com/wHzCGry.png,channel-playlist:free-tv-br
 Canais,Greece,Kontra,https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8,https://i.imgur.com/ROZ9VfV.png,channel-playlist:free-tv-br
@@ -509,10 +502,8 @@ Canais,Greece,Creta,http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8,h
 Canais,Greece,Kriti 1,https://livetv.streams.ovh:8081/kriti/index.m3u8,https://i.imgur.com/C1ucQeC.png,channel-playlist:free-tv-br
 Canais,Greece,Kriti TV,https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8,https://i.imgur.com/eLhYMmc.png,channel-playlist:free-tv-br
 Canais,Greece,NEA,https://live.neatv.gr:8888/hls/neatv_high/index.m3u8,https://i.imgur.com/nvNW8G7.png,channel-playlist:free-tv-br
-Canais,Greece,TeleKriti,https://neon.streams.gr:8081/telekriti/index.m3u8,https://i.imgur.com/18ZYiyi.png,channel-playlist:free-tv-br
 Canais,Greece,Samiaki TV,http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8,https://i.imgur.com/aV5QoNG.png,channel-playlist:free-tv-br
 Canais,Greece,Syros TV1,https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8,https://i.imgur.com/duXHyvN.png,channel-playlist:free-tv-br
-Canais,Greece,Η Φωνή της Ελλάδας,https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd,https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/500px-VoiceOfGreece.svg.png,channel-playlist:free-tv-br
 Canais,Greenland,KNR1 Ⓨ Ⓖ,https://www.youtube.com/@KNRgreenland/live,https://i.imgur.com/8Pf5SJb.png,channel-playlist:free-tv-br
 Canais,Greenland,KNR2 Ⓨ,https://www.youtube.com/@nutaarsiassat/live,https://i.imgur.com/8Pf5SJb.png,channel-playlist:free-tv-br
 Canais,Hong Kong,RTHK TV 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8,https://i.imgur.com/kf818kM.png,channel-playlist:free-tv-br
@@ -1114,6 +1105,9 @@ Canais,日本 / Japan,GSTV,"https://gstv-tnz-gsmediastreaming.preview-jpea.chann
 Canais,日本 / Japan,NHK WORLD JAPAN,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8,https://i.imgur.com/Mhw1Ihk.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,ウェザーニュースLiVE,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8,https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_whethernews.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,TOKYO MX チャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8,https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,日テレNEWS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8,https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,FNNプライムオンライン,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8,https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,MBSニュース,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8,https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png,channel-playlist:free-tv-br
 Canais,Kazakhstan,Balapan TV,https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Kazakhstan,Qazaqstan,https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Kazakhstan,QazSport,http://stream.mcquack.net/72/index.m3u8,,channel-playlist:free-tv-br

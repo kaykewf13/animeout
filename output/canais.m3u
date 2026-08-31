@@ -1285,10 +1285,6 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="CANAIS",CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 group-title="CANAIS",CCTV-5+ 体育赛事
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-6 电影
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-7 国防军事
@@ -1311,14 +1307,6 @@ http://74.91.26.218:82/live/cctv14hd.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-17 农业农村
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="CANAIS",CETV-1
-http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-#EXTINF:-1 group-title="CANAIS",CETV-2
-http://txycsbl.centv.cn/zb/0822cetv2.m3u8
-#EXTINF:-1 group-title="CANAIS",CETV-3
-http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1 group-title="CANAIS",CETV-4
-http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 #EXTINF:-1 group-title="CANAIS",FZTV-1 News 新闻综合频道
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FZTV-3 Lifestyle Channel 生活频道
@@ -1721,8 +1709,6 @@ https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd
 https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 group-title="CANAIS",ERT 3 Ⓖ
 https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd
-#EXTINF:-1 group-title="CANAIS",ERT News
-https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd
 #EXTINF:-1 group-title="CANAIS",Vouli TV
 https://diavlos-cache.cnt.grnet.gr/parltv/webtv-1b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Mega News
@@ -1747,8 +1733,6 @@ https://www.youtube.com/euronewsGreek/live
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",ART
-https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Blue Sky
 https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live
 #EXTINF:-1 group-title="CANAIS",High TV
@@ -1819,8 +1803,6 @@ https://livetv.streams.ovh:8081/kriti/index.m3u8
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",NEA
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
-#EXTINF:-1 group-title="CANAIS",TeleKriti
-https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Samiaki TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Syros TV1
@@ -2919,6 +2901,12 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 group-title="CANAIS",TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",MBSニュース
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Qazaqstan
