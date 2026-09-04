@@ -1875,7 +1875,7 @@ Canais,Weather,WeatherNation,http://cfd-v4-service-channel-stitcher-use1-1.prd.p
 Canais,Weather,The Weather Network,https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/1920px-TWN_Logo_2011.svg.png,channel-playlist:free-tv-br
 Canais,Weather,Sky News Weather Ⓖ,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8,https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg,channel-playlist:free-tv-br
 Canais,News (ES),Euronews Español Ⓨ,https://www.youtube.com/euronewses/live,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/500px-Euronews_2022.svg.png,channel-playlist:free-tv-br
-Canais,News (ES),France 24 Español Ⓨ,https://www.youtube.com/c/FRANCE24Espanol/live,https://i.imgur.com/61MSiq9.png,channel-playlist:free-tv-br
+Canais,News (ES),France 24 Español,https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8,https://i.imgur.com/61MSiq9.png,channel-playlist:free-tv-br
 Canais,News (ES),DW Español Ⓢ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8,https://i.imgur.com/A1xzjOI.png,channel-playlist:free-tv-br
 Canais,News (ES),CGTN Español,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8,https://i.imgur.com/fMsJYzl.png,channel-playlist:free-tv-br
 Canais,News (ES),RT Español Ⓖ,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png,channel-playlist:free-tv-br
