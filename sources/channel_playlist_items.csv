@@ -538,8 +538,9 @@ Canais,Hungary,Ózdi Városi TV,http://stream.nmih.hu:7980/live.m3u8,https://i.i
 Canais,Hungary,TV7 Békéscsaba,https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8,https://i.imgur.com/G9Ib5K3.png,channel-playlist:free-tv-br
 Canais,Hungary,16TV,https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8,https://i.imgur.com/7ZPYJJ0.jpg,channel-playlist:free-tv-br
 Canais,Hungary,CityTV (Belváros Lipótváros),https://citytv.hu/playlist.m3u8,https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png,channel-playlist:free-tv-br
-Canais,Hungary,FehérvárTV,https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8?key=EWSj2,https://www.fehervartv.hu/css/img/icon-1-2.png,channel-playlist:free-tv-br
+Canais,Hungary,FehérvárTV,https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8,https://www.fehervartv.hu/css/img/icon-1-2.png,channel-playlist:free-tv-br
 Canais,Hungary,Gyöngyös TV,https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8,https://i.imgur.com/RHgaPCk.png,channel-playlist:free-tv-br
+Canais,Hungary,Kapos TV,https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8,https://kapos.hu/static/keptar/13/b/9490.jpg,channel-playlist:free-tv-br
 Canais,Hungary,Kecskemét TV,http://rtmp1.40e.hu:8000/live/ktv.m3u8,https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png,channel-playlist:free-tv-br
 Canais,Hungary,Zalaegerszeg TV,https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8,https://zegtv.hu/wp-content/themes/assembly/images/zegtv-logo.png,channel-playlist:free-tv-br
 Canais,Hungary,DTV,http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8,https://i.imgur.com/YSpqmSO.png,channel-playlist:free-tv-br
@@ -1069,11 +1070,14 @@ Canais,日本 / Japan,TBSテレビ,https://naori-test.netgenx.site/pxx.php?shk_c
 Canais,日本 / Japan,テレビ東京,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8,https://i.imgur.com/U8jBxEi.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,フジテレビ,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8,https://i.imgur.com/epJYc7P.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8,https://i.imgur.com/t0uZcSR.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,NHK BSP4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8,https://i.imgur.com/uvPpFo5.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BS日テレ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8,https://i.imgur.com/26ATUNc.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BS朝日,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8,https://i.imgur.com/Cl68ZMA.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BS-TBS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8,https://i.imgur.com/BSt9UG2.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BSテレ東,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8,https://i.imgur.com/LsQlNcz.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BSフジ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8,https://i.imgur.com/N4xeDxJ.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,WOWOWプライム,https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8,https://www.lyngsat.com/logo/tv/ww/wowow_prime.png,channel-playlist:free-tv-br
+Canais,日本 / Japan,WOWOWシネマ,https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8,https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BS10,https://naori-test.netgenx.site/pxx.php?shk_cid=bs10#.m3u8,https://i.imgur.com/KPZiuHl.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,BS10スターチャンネル,https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8,https://i.imgur.com/SN0ED0U.png,channel-playlist:free-tv-br
 Canais,日本 / Japan,釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1,https://i.imgur.com/Yc7JvSK.png,channel-playlist:free-tv-br
