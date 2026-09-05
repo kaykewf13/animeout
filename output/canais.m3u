@@ -1430,9 +1430,9 @@ https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Syd+
-http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
 #EXTINF:-1 group-title="CANAIS",TV 2/Fyn
-http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
 #EXTINF:-1 group-title="CANAIS",TV 2/Øst
 http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
 #EXTINF:-1 group-title="CANAIS",TV 2/Nord

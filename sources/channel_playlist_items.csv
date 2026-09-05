@@ -303,8 +303,8 @@ Canais,Denmark,DR1 Ⓖ,https://drlive01texthls.akamaized.net/hls/live/2014186/dr
 Canais,Denmark,DR2 Ⓖ,https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8,https://i.imgur.com/b79UKYN.png,channel-playlist:free-tv-br
 Canais,Denmark,DR Ramasjang Ⓖ,https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8,https://i.imgur.com/YD0z2mN.png,channel-playlist:free-tv-br
 Canais,Denmark,Folketinget TV,https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8,https://i.imgur.com/RqQDUzX.png,channel-playlist:free-tv-br
-Canais,Denmark,TV Syd+,http://grevsen.dk/live/catchuptv/catchuptv/15.m3u8,https://i.imgur.com/k2jf591.png,channel-playlist:free-tv-br
-Canais,Denmark,TV 2/Fyn,http://grevsen.dk/live/catchuptv/catchuptv/11.m3u8,https://i.imgur.com/4L6AIMH.png,channel-playlist:free-tv-br
+Canais,Denmark,TV Syd+,https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8,https://i.imgur.com/k2jf591.png,channel-playlist:free-tv-br
+Canais,Denmark,TV 2/Fyn,https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd,https://i.imgur.com/4L6AIMH.png,channel-playlist:free-tv-br
 Canais,Denmark,TV 2/Øst,http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8,https://i.imgur.com/H9l6Ulw.png,channel-playlist:free-tv-br
 Canais,Denmark,TV 2/Nord,http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8,https://i.imgur.com/tEJ22UW.png,channel-playlist:free-tv-br
 Canais,Denmark,TV/Midt-Vest,http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8,https://i.imgur.com/OU7xIVa.png,channel-playlist:free-tv-br
@@ -485,7 +485,6 @@ Canais,Greece,Lepanto,https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlis
 Canais,Greece,Lychnos,https://thor.mental-media.gr:19360/imp/imp.m3u8,hhttps://i.imgur.com/JYSlBfY.png,channel-playlist:free-tv-br
 Canais,Greece,Mesogeios TV,https://rtmp.win:3793/live/mesogeiostvlive.m3u8,https://i.imgur.com/tr0Lf9K.png,channel-playlist:free-tv-br
 Canais,Greece,Epsilon,https://neon.streams.gr:8081/epsilontv/index.m3u8,https://i.imgur.com/vUQSDvZ.png,channel-playlist:free-tv-br
-Canais,Greece,Star Central Greece,https://telmaco-cdn.akamaized.net/starcgr/default/dash/LAMIAStar-video=3000000.dash,https://i.imgur.com/BTUEvxg.png,channel-playlist:free-tv-br
 Canais,Greece,91NRG,http://tv.nrg91.gr:1935/onweb/live/master.m3u8,https://i.imgur.com/g1pCRRG.png,channel-playlist:free-tv-br
 Canais,Greece,Astra,https://server.gointernet.gr/live/livestream.m3u8,https://i.imgur.com/oYRPfZm.png,channel-playlist:free-tv-br
 Canais,Greece,Thessalia,https://www.youtube.com/c/thessaliatv1/live,https://i.imgur.com/KXz67LY.png,channel-playlist:free-tv-br
