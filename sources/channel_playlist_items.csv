@@ -555,6 +555,8 @@ Canais,Hungary,Kanizsa TV,https://cloudfront44.lexanetwork.com:1344/freerelay/ka
 Canais,Hungary,Líceum TV,http://193.225.32.62:8890/live.m3u8,,channel-playlist:free-tv-br
 Canais,Hungary,Pannon RTV,https://stream2.nmih.hu:4102/live.m3u8,https://i.imgur.com/iD5tCjX.png,channel-playlist:free-tv-br
 Canais,Hungary,Hegyvidék TV (Buda TV),http://budatv.streaming.aiproduction.hu/playlist.m3u,https://hegyvidektv.hu/wp-content/uploads/2025/05/BUDATV_logo_picon.png,channel-playlist:free-tv-br
+Canais,Hungary,ES TV (Esztergom),https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8,,channel-playlist:free-tv-br
+Canais,Hungary,Komáromi Televízió,https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8,,channel-playlist:free-tv-br
 Canais,Hungary,Duna World / M4+ Sport,http://88.212.15.19/live/duna_world_hun/index.m3u8,https://i.imgur.com/DciAdFF.png,channel-playlist:free-tv-br
 Canais,Hungary,Putnok Városi TV,http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8,https://i.imgur.com/eKXPBFb.png,channel-playlist:free-tv-br
 Canais,Iceland,RÚV,https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8,https://i.imgur.com/vxaSn1K.png,channel-playlist:free-tv-br
@@ -661,9 +663,9 @@ Canais,Israel,The Shopping Channel,https://shoppingil-rewriter.vidnt.com/index.m
 Canais,Israel,مكان 33,https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png,channel-playlist:free-tv-br
 Canais,Israel,כאן חינוכית,http://stream.mcquack.net/378/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/500px-KanHinuchit.svg.png,channel-playlist:free-tv-br
 Canais,Israel,Knesset,http://stream.mcquack.net/48/index.m3u8,https://i.imgur.com/PEdXHSE.png,channel-playlist:free-tv-br
-Canais,Italy,Rai 1 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/CAx7yRm.png,channel-playlist:free-tv-br
-Canais,Italy,Rai 2 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/zA0PTcs.png,channel-playlist:free-tv-br
-Canais,Italy,Rai 3 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/9kuQCIi.png,channel-playlist:free-tv-br
+Canais,Italy,Rai 1,https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8,https://i.imgur.com/CAx7yRm.png,channel-playlist:free-tv-br
+Canais,Italy,Rai 2,https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8,https://i.imgur.com/zA0PTcs.png,channel-playlist:free-tv-br
+Canais,Italy,Rai 3,https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8,https://i.imgur.com/9kuQCIi.png,channel-playlist:free-tv-br
 Canais,Italy,Rete 4 Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8,https://i.imgur.com/GWx2Fkl.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 5 Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8,https://i.imgur.com/p6YdiR1.png,channel-playlist:free-tv-br
 Canais,Italy,Italia 1 Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8,https://i.imgur.com/oCiOxBG.png,channel-playlist:free-tv-br
@@ -675,7 +677,7 @@ Canais,Italy,Rai 4 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?co
 Canais,Italy,Iris Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8,https://i.imgur.com/Ixz1BY3.png,channel-playlist:free-tv-br
 Canais,Italy,Rai 5 Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/Leu2zTO.png,channel-playlist:free-tv-br
 Canais,Italy,Rai Movie Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/RKpO8CE.png,channel-playlist:free-tv-br
-Canais,Italy,Rai Premium Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/RKI4nFy.png,channel-playlist:free-tv-br
+Canais,Italy,Rai Premium,https://d3k8wzt41aflvx.cloudfront.net/RaiPremium/Live.m3u8,https://i.imgur.com/RKI4nFy.png,channel-playlist:free-tv-br
 Canais,Italy,Cielo Ⓖ,https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556,https://i.imgur.com/cPluF03.png,channel-playlist:free-tv-br
 Canais,Italy,27 Twentyseven Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8,https://i.imgur.com/y2PdPCK.png,channel-playlist:free-tv-br
 Canais,Italy,TV 2000,https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8,https://i.imgur.com/x7RaK3a.png,channel-playlist:free-tv-br
@@ -702,17 +704,17 @@ Canais,Italy,Italia 2 Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-
 Canais,Italy,Sky TG24 Ⓖ,https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556,https://i.imgur.com/q4d3Dah.png,channel-playlist:free-tv-br
 Canais,Italy,TGCOM 24 Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8,https://i.imgur.com/xautVD8.png,channel-playlist:free-tv-br
 Canais,Italy,DMAX,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8,https://i.imgur.com/dmEmRX7.png,channel-playlist:free-tv-br
-Canais,Italy,Rai Storia Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/K8y5q8x.png,channel-playlist:free-tv-br
+Canais,Italy,Rai Storia,https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8,https://i.imgur.com/K8y5q8x.png,channel-playlist:free-tv-br
 Canais,Italy,Mediaset Extra Ⓖ,https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8,https://i.imgur.com/mM8lopo.png,channel-playlist:free-tv-br
 Canais,Italy,HGTV – Home & Garden Tv,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8,https://i.imgur.com/emLNC0U.png,channel-playlist:free-tv-br
-Canais,Italy,Rai Scuola Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/tmtJW6s.png,channel-playlist:free-tv-br
+Canais,Italy,Rai Scuola,https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8,https://i.imgur.com/tmtJW6s.png,channel-playlist:free-tv-br
 Canais,Italy,Rai Sport Ⓖ,https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5,https://i.imgur.com/xsGljsb.png,channel-playlist:free-tv-br
 Canais,Italy,Turbo,https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8,https://i.imgur.com/TjjVjV0.png,channel-playlist:free-tv-br
 Canais,Italy,Sportitalia Plus,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8,https://i.imgur.com/hu56Ya5.png,channel-playlist:free-tv-br
-Canais,Italy,Travel TV,https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8,https://i.imgur.com/aXAUyLN.png,channel-playlist:free-tv-br
-Canais,Italy,Donna TV Ⓢ,https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8,https://i.imgur.com/Aa1Abme.png,channel-playlist:free-tv-br
+Canais,Italy,Travel TV,https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8,https://i.imgur.com/aXAUyLN.png,channel-playlist:free-tv-br
+Canais,Italy,Donna TV Ⓢ,https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8,https://i.imgur.com/Aa1Abme.png,channel-playlist:free-tv-br
 Canais,Italy,SuperTennis,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8,https://i.imgur.com/GzsPlbX.png,channel-playlist:free-tv-br
-Canais,Italy,Alma TV,https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8,https://i.imgur.com/Y8JiDwN.png,channel-playlist:free-tv-br
+Canais,Italy,Alma TV,https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8,https://i.imgur.com/Y8JiDwN.png,channel-playlist:free-tv-br
 Canais,Italy,Radio 105 TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8,https://i.imgur.com/3NiLKvj.png,channel-playlist:free-tv-br
 Canais,Italy,R101 TV Ⓖ,https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8,https://i.imgur.com/mWeEa9T.png,channel-playlist:free-tv-br
 Canais,Italy,Deejay TV,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8,https://i.imgur.com/rlaKH6k.png,channel-playlist:free-tv-br
@@ -758,12 +760,12 @@ Canais,Italy,Bergamo Tv,https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/
 Canais,Italy,BOM Channel,https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8,https://i.imgur.com/hISoOK3.png,channel-playlist:free-tv-br
 Canais,Italy,ByoBlu,https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8,https://i.imgur.com/1xaHGtU.png,channel-playlist:free-tv-br
 Canais,Italy,Cafe Tv 24,https://srvx1.selftv.video/cafe/live/playlist.m3u8,https://i.imgur.com/KbcbxFw.png,channel-playlist:free-tv-br
-Canais,Italy,Calabria Uno Tv,https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8,https://i.imgur.com/2TK1GQ5.png,channel-playlist:free-tv-br
+Canais,Italy,Calabria Uno Tv,https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8,https://i.imgur.com/2TK1GQ5.png,channel-playlist:free-tv-br
 Canais,Italy,Calabria tv,https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8,https://i.imgur.com/qWirucd.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 10,https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8,https://i.imgur.com/KuQcjYV.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 2,https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8,https://i.imgur.com/ETqDkS1.png,channel-playlist:free-tv-br
-Canais,Italy,Canale 21,https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8,https://i.imgur.com/mU6Cq89.png,channel-playlist:free-tv-br
-Canais,Italy,Canale 21 Extra,https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8,https://i.imgur.com/cDAsrBl.png,channel-playlist:free-tv-br
+Canais,Italy,Canale 21,https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8,https://i.imgur.com/mU6Cq89.png,channel-playlist:free-tv-br
+Canais,Italy,Canale 21 Extra,https://ch21extra-cdn.encoders.immergo.tv/master.m3u8,https://i.imgur.com/cDAsrBl.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 7,http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8,https://i.imgur.com/9cuOLCn.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 74 Sicilia,https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8,https://i.imgur.com/18JIVgu.png,channel-playlist:free-tv-br
 Canais,Italy,Canale 8 Campania,https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8,https://i.imgur.com/ElAS2WC.png,channel-playlist:free-tv-br
@@ -798,21 +800,21 @@ Canais,Italy,Euro Tv,https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist
 Canais,Italy,Extra Tv,https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8,https://i.imgur.com/KCBurST.png,channel-playlist:free-tv-br
 Canais,Italy,FM Tv Marche,https://bbtv.intvstream.net:3988/hybrid/play.m3u8,https://i.imgur.com/yY01NhL.jpg,channel-playlist:free-tv-br
 Canais,Italy,Fano Tv,https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8,https://i.imgur.com/orqEzJ6.png,channel-playlist:free-tv-br
-Canais,Italy,Fascino Tv,https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8,https://i.imgur.com/4XYYY5B.png,channel-playlist:free-tv-br
+Canais,Italy,Fascino Tv,https://64b16f23efbee.streamlock.net/canale157/canale157/playlist.m3u8,https://i.imgur.com/4XYYY5B.png,channel-playlist:free-tv-br
 Canais,Italy,GRP Televisione,https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8,https://i.imgur.com/1zNPpVE.png,channel-playlist:free-tv-br
 Canais,Italy,GarganoTv,https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8,https://i.imgur.com/OlJohKK.png,channel-playlist:free-tv-br
 Canais,Italy,Giornale Radio Tv,https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8,https://i.imgur.com/TMtvCLL.jpg,channel-playlist:free-tv-br
 Canais,Italy,Giovanni Paolo Tv,https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8,https://i.imgur.com/GH5eJE6.png,channel-playlist:free-tv-br
 Canais,Italy,Globo Tv,https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8,https://i.imgur.com/lR08pb3.jpeg,channel-playlist:free-tv-br
 Canais,Italy,Globus Television,https://cdn.cubws.com/live/globus.m3u8,https://i.imgur.com/yUTYqCv.png,channel-playlist:free-tv-br
-Canais,Italy,Gold Tv,https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8,https://i.imgur.com/3rVi4kD.png,channel-playlist:free-tv-br
+Canais,Italy,Gold Tv,https://5f11919dca3bd.streamlock.net/goldtv/goldtv/playlist.m3u8,https://i.imgur.com/3rVi4kD.png,channel-playlist:free-tv-br
 Canais,Italy,GO-TV Channel,https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8,https://i.imgur.com/xgjrAAn.png,channel-playlist:free-tv-br
 Canais,Italy,GS Channel,https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8,https://i.imgur.com/ExfxCRv.png,channel-playlist:free-tv-br
 Canais,Italy,Icaro Tv Rimini,https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8,https://i.imgur.com/z05VSSN.png,channel-playlist:free-tv-br
 Canais,Italy,Idea Plus,https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8,https://i.imgur.com/2edmxYF.png,channel-playlist:free-tv-br
 Canais,Italy,il61,https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8,https://i.imgur.com/1rUZsBv.png,channel-playlist:free-tv-br
 Canais,Italy,Italia 2 Tv,https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8,https://i.imgur.com/ISbxfY0.png,channel-playlist:free-tv-br
-Canais,Italy,Italia 7,https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8,https://i.imgur.com/YBXkY4w.png,channel-playlist:free-tv-br
+Canais,Italy,Italia 7,https://5f11919dca3bd.streamlock.net/italia7/italia7/playlist.m3u8,https://i.imgur.com/YBXkY4w.png,channel-playlist:free-tv-br
 Canais,Italy,Italia 8 Prestige,https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8,https://i.imgur.com/uDxWI4a.png,channel-playlist:free-tv-br
 Canais,Italy,Italia Channel,https://stream1.aswifi.it/italiachannel/stream/index.m3u8,https://i.imgur.com/zuuKXGv.png,channel-playlist:free-tv-br
 Canais,Italy,Iunior Tv,https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8,https://i.imgur.com/9jeNlLE.png,channel-playlist:free-tv-br
@@ -823,20 +825,20 @@ Canais,Italy,La tr3 Marsala,https://tsw.streamingwebtv24.it:1936/eslife1/eslife1
 Canais,Italy,LaC News 24,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8,https://i.imgur.com/02vCECa.png,channel-playlist:free-tv-br
 Canais,Italy,LaC Tv Calabria,https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8,https://i.imgur.com/2Ef6crS.png,channel-playlist:free-tv-br
 Canais,Italy,Lab Tv,https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8,https://i.imgur.com/OpRS6Fl.png,channel-playlist:free-tv-br
-Canais,Italy,Lazio Tv,https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8,https://i.imgur.com/DAj5Uwb.png,channel-playlist:free-tv-br
+Canais,Italy,Lazio Tv,https://5f11919dca3bd.streamlock.net/laziotv/laziotv/playlist.m3u8,https://i.imgur.com/DAj5Uwb.png,channel-playlist:free-tv-br
 Canais,Italy,Le Cronache Lucane Tv,http://stucazz.com:8888/hls/cronache.m3u8,https://i.imgur.com/EBY3IZL.jpg,channel-playlist:free-tv-br
 Canais,Italy,Lira Tv,https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8,https://i.imgur.com/S0ReVEo.png,channel-playlist:free-tv-br
 Canais,Italy,Lombardia Tv,https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8,https://i.imgur.com/aksVy9f.jpg,channel-playlist:free-tv-br
-Canais,Italy,Love in Venice,http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8,https://i.imgur.com/lLBzzce.png,channel-playlist:free-tv-br
+Canais,Italy,Love in Venice,https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice.stream/playlist.m3u8,https://i.imgur.com/lLBzzce.png,channel-playlist:free-tv-br
 Canais,Italy,Lucania Tv,https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8,https://i.imgur.com/wuUNVR5.png,channel-playlist:free-tv-br
 Canais,Italy,Made in BO,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8,https://i.imgur.com/WFnrMS0.png,channel-playlist:free-tv-br
 Canais,Italy,Maria Vision,https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8,https://i.imgur.com/fdx5YXi.png,channel-playlist:free-tv-br
 Canais,Italy,Matrix Tv,https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8,https://i.imgur.com/m1HeXrn.png,channel-playlist:free-tv-br
-Canais,Italy,Mediterranea Tv,https://stream1.aswifi.it/mediterraneatv/live/index.m3u8,https://i.imgur.com/GUTOqRt.png,channel-playlist:free-tv-br
+Canais,Italy,Mediterranea Tv,https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u8,https://i.imgur.com/GUTOqRt.png,channel-playlist:free-tv-br
 Canais,Italy,Medjugorje Italia Tv,https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8,https://i.imgur.com/hkZScXf.png,channel-playlist:free-tv-br
 Canais,Italy,Medjugorje Tv Puglia,https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8,https://i.imgur.com/IWBeddh.png,channel-playlist:free-tv-br
 Canais,Italy,Minformo Tv,https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8,https://i.imgur.com/VJNtnZM.jpg,channel-playlist:free-tv-br
-Canais,Italy,Motori Tv,https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8,https://i.imgur.com/NWXQKbl.png,channel-playlist:free-tv-br
+Canais,Italy,Motori Tv,https://64b16f23efbee.streamlock.net/servizio01/servizio01/playlist.m3u8,https://i.imgur.com/NWXQKbl.png,channel-playlist:free-tv-br
 Canais,Italy,NTI Canale 271,https://www.ntimedia.it/video/S0B/S0B_master.m3u8,https://i.imgur.com/zlmcUe0.jpg,channel-playlist:free-tv-br
 Canais,Italy,News24 City,https://dc3.telesveva.com:4433/news24.mp4,https://i.imgur.com/dak9AtV.png,channel-playlist:free-tv-br
 Canais,Italy,Nuova TV Nazionale,https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8,https://i.imgur.com/QWlRuXg.png,channel-playlist:free-tv-br
@@ -881,7 +883,7 @@ Canais,Italy,Radio Radio Tv,https://200912.global.ssl.fastly.net/646b335e2291a20
 Canais,Italy,Radio Radiosa Tv,https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8,https://i.imgur.com/8kqyxvz.png,channel-playlist:free-tv-br
 Canais,Italy,Radio Roma,https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8,https://i.imgur.com/RKvfStm.png,channel-playlist:free-tv-br
 Canais,Italy,Radio Roma Television,https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8,https://i.imgur.com/RKvfStm.png,channel-playlist:free-tv-br
-Canais,Italy,Ran Friul,https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8,https://i.imgur.com/Qs5eQPM.png,channel-playlist:free-tv-br
+Canais,Italy,Ran Friul,https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8,https://i.imgur.com/Qs5eQPM.png,channel-playlist:free-tv-br
 Canais,Italy,RDE Tv,https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8,https://i.imgur.com/NiwPlrr.png,channel-playlist:free-tv-br
 Canais,Italy,Reggio Tv,https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8,https://i.imgur.com/merrg2C.png,channel-playlist:free-tv-br
 Canais,Italy,Rei Tv,https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8,https://i.imgur.com/YNRWFOo.png,channel-playlist:free-tv-br
@@ -923,26 +925,26 @@ Canais,Italy,T9,https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8,
 Canais,Italy,TRC Santeramo,https://stream7.livinlive.it/trc/trc/playlist.m3u8,https://i.imgur.com/VbYdS8P.jpg,channel-playlist:free-tv-br
 Canais,Italy,TRL Tele Radio Leo,https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8,https://i.imgur.com/qAagkJT.png,channel-playlist:free-tv-br
 Canais,Italy,TSD Tv Arezzo(Tele San Domenico),https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8,https://i.imgur.com/WQ8eQXc.png,channel-playlist:free-tv-br
-Canais,Italy,TVL (TV Libera Pistoia),http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8,https://i.imgur.com/07geF0L.png,channel-playlist:free-tv-br
+Canais,Italy,TVL (TV Libera Pistoia),https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8,https://i.imgur.com/07geF0L.png,channel-playlist:free-tv-br
 Canais,Italy,Tcf Tv,https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8,https://i.imgur.com/fiylFs2.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tci,https://tbn-jw.cdn.vustreams.com/live/tci/live.isml/2b7d53c5-b504-4d26-b25f-a70deb8d0faf.m3u8,https://i.imgur.com/lCZTaKs.jpg,channel-playlist:free-tv-br
-Canais,Italy,Teatro Tv,https://m.iostream.it/hls/teatrotv/teatrotv.m3u8,https://i.imgur.com/UsvffQL.png,channel-playlist:free-tv-br
+Canais,Italy,Teatro Tv,https://teatrotv.iostream.it/teatrotv.m3u8,https://i.imgur.com/UsvffQL.png,channel-playlist:free-tv-br
 Canais,Italy,Tele A,https://lostream.it/hls/telea/video.m3u8,https://i.imgur.com/l7Za9KH.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Abruzzo Tv,http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8,https://i.imgur.com/koB8J4b.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Acras,https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8,https://i.imgur.com/90Lsv8q.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Arena,https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8,https://i.imgur.com/9hsoWMO.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Bari,https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8,https://i.imgur.com/HYSz4rx.png,channel-playlist:free-tv-br
-Canais,Italy,Tele Belluno,https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8,https://i.imgur.com/YiM2Z7E.png,channel-playlist:free-tv-br
+Canais,Italy,Tele Belluno,https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8,https://i.imgur.com/YiM2Z7E.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Boario,https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8,https://i.imgur.com/LlLD3L6.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Bruzzano,https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8,https://i.imgur.com/7TWbCDt.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Chiara,http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8,https://i.imgur.com/Q5XpnXR.png,channel-playlist:free-tv-br
 Canais,Italy,Telecolor,https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8,https://i.imgur.com/urUG78J.png,channel-playlist:free-tv-br
 Canais,Italy,Telecolor Sicilia,https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8,https://i.imgur.com/rfNg6fw.png,channel-playlist:free-tv-br
-Canais,Italy,Tele Cupole,https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8,https://i.imgur.com/ZmUI9zb.png,channel-playlist:free-tv-br
+Canais,Italy,Tele Cupole,https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8,https://i.imgur.com/ZmUI9zb.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Estense,https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8,https://i.imgur.com/X7i7DWo.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Foggia,https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8,https://i.imgur.com/M7tqBu9.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Friuli,https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8,https://i.imgur.com/AoQxZxD.png,channel-playlist:free-tv-br
-Canais,Italy,Tele Ischia,https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8,https://i.imgur.com/vihHVQn.jpg,channel-playlist:free-tv-br
+Canais,Italy,Tele Ischia,https://57068da1deb21.streamlock.net/livetv/livetv/playlist.m3u8,https://i.imgur.com/vihHVQn.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Jonio,http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8,https://i.imgur.com/qJeDV8R.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Liberta' HD,https://streaming.liberta.it/hls/liberta.m3u8,https://i.imgur.com/XzAB5k7.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Liguria Sud,https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8,https://i.imgur.com/BeLAYJ6.jpg,channel-playlist:free-tv-br
@@ -964,7 +966,7 @@ Canais,Italy,Tele Pegaso,https://flash2.xdevel.com/telepegasocanale812/telepegas
 Canais,Italy,Tele Piadena,https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8,https://i.imgur.com/VqaPuQN.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Pordenone,https://video.wifi4all.it/telepn/telepn.m3u8,https://i.imgur.com/dbYwXwg.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Quattro Trieste,http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8,https://i.imgur.com/MFxQxve.png,channel-playlist:free-tv-br
-Canais,Italy,Tele Radio Ercolano,https://rst.saiuzwebnetwork.it:19360/teleradioercolano-1/teleradioercolano-1.m3u8,https://i.imgur.com/YPuoy8N.jpg,channel-playlist:free-tv-br
+Canais,Italy,Tele Radio Ercolano,https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8,https://i.imgur.com/YPuoy8N.jpg,channel-playlist:free-tv-br
 Canais,Italy,Tele Radio Pace 1,https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8,https://i.imgur.com/ORkkXM8.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Radio Pace 2,https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8,https://i.imgur.com/U4E3eEr.png,channel-playlist:free-tv-br
 Canais,Italy,Tele Radio Pace 3,https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8,https://i.imgur.com/pTqIxFD.png,channel-playlist:free-tv-br
@@ -989,7 +991,7 @@ Canais,Italy,Telecity Piemonte,https://64b16f23efbee.streamlock.net/telecitypiem
 Canais,Italy,Telecity Valle D'Aosta,https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8,https://i.imgur.com/T9EsAOX.jpeg,channel-playlist:free-tv-br
 Canais,Italy,TeleCostaSmeralda,https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8,https://i.imgur.com/QLqkbss.png,channel-playlist:free-tv-br
 Canais,Italy,Telegenova,https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8,https://i.imgur.com/D6HC0So.png,channel-playlist:free-tv-br
-Canais,Italy,Teleiblea,https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8,https://i.imgur.com/n1THygZ.png,channel-playlist:free-tv-br
+Canais,Italy,Teleiblea,https://64b16f23efbee.streamlock.net/teleiblea/teleiblea/playlist.m3u8,https://i.imgur.com/n1THygZ.png,channel-playlist:free-tv-br
 Canais,Italy,Teleitalia 41,https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8,https://i.imgur.com/lTuPSOn.png,channel-playlist:free-tv-br
 Canais,Italy,Telejato,https://telejato.liberotratto.com/hls/stream.m3u8,https://i.imgur.com/r3Dqzdj.png,channel-playlist:free-tv-br
 Canais,Italy,Teleleonessa,http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8,https://i.imgur.com/jq3etlV.png,channel-playlist:free-tv-br
@@ -1008,7 +1010,6 @@ Canais,Italy,Telesud Trapani,https://64b16f23efbee.streamlock.net/telesudtrapani
 Canais,Italy,Telesveva,https://dc3.telesveva.com:4433/cmaf/livetv/index.mpd,https://i.imgur.com/SCDETZC.jpeg,channel-playlist:free-tv-br
 Canais,Italy,Teleuniverso,https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8,https://i.imgur.com/u8E9wBb.png,channel-playlist:free-tv-br
 Canais,Italy,Televallo Trapani,https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8,https://i.imgur.com/P6zuiRH.png,channel-playlist:free-tv-br
-Canais,Italy,TG Norba 24,https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8,https://i.imgur.com/9MhrrJK.png,channel-playlist:free-tv-br
 Canais,Italy,TLT Molise,https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8,https://i.imgur.com/wgwD7gh.png,channel-playlist:free-tv-br
 Canais,Italy,Top Calcio 24,https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8,https://i.imgur.com/DnVPKPE.png,channel-playlist:free-tv-br
 Canais,Italy,Tremedia Tv,https://stream4.xdevel.com/video0s976062-1263/stream/playlist_dvr.m3u8,https://i.imgur.com/dqRV1ff.jpeg,channel-playlist:free-tv-br
@@ -1028,7 +1029,7 @@ Canais,Italy,Umbria+ TRT,https://diretta.teleterni.it:8080//show/show.m3u8,https
 Canais,Italy,Umbria Tv,https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8,https://i.imgur.com/XKCVEmK.png,channel-playlist:free-tv-br
 Canais,Italy,Uno Tv,https://stream1.aswifi.it/unotv/live/index.m3u8,https://i.imgur.com/4PNbqqL.png,channel-playlist:free-tv-br
 Canais,Italy,Uno4 Tv,https://cdn.uno4.it/index.m3u8,https://i.imgur.com/wfPPpBA.png,channel-playlist:free-tv-br
-Canais,Italy,Vera Tv,http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8,https://i.imgur.com/djMvkvN.png,channel-playlist:free-tv-br
+Canais,Italy,Vera Tv,https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8,https://i.imgur.com/djMvkvN.png,channel-playlist:free-tv-br
 Canais,Italy,VB33,https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8,https://i.imgur.com/ygDuIxU.png,channel-playlist:free-tv-br
 Canais,Italy,Video Calabria,https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8,https://i.imgur.com/Bc2AvIm.png,channel-playlist:free-tv-br
 Canais,Italy,Video Mediterraneo,https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8,https://i.imgur.com/hJHC3uQ.png,channel-playlist:free-tv-br
