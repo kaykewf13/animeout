@@ -1013,6 +1013,8 @@ http://stream.mcquack.net/175/index.m3u8
 https://i.mjh.nz/.r/10-nsw.m3u8
 #EXTINF:-1 group-title="CANAIS",ABC
 https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="CANAIS",SBS Ⓖ
+https://i.mjh.nz/.r/sbs-sbst.m3u8
 #EXTINF:-1 group-title="CANAIS",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
 #EXTINF:-1 group-title="CANAIS",Nine
@@ -1035,6 +1037,14 @@ https://c.mjh.nz/abc-news.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 group-title="CANAIS",M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",SBS Viceland Ⓖ
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+#EXTINF:-1 group-title="CANAIS",SBS World Movies Ⓖ
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+#EXTINF:-1 group-title="CANAIS",SBS Food Ⓖ
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+#EXTINF:-1 group-title="CANAIS",NITV Ⓖ
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
 #EXTINF:-1 group-title="CANAIS",7two
 https://i.mjh.nz/.r/7two-syd.m3u8
 #EXTINF:-1 group-title="CANAIS",7mate
@@ -1044,13 +1054,15 @@ https://i.mjh.nz/.r/7flix-syd.m3u8
 #EXTINF:-1 group-title="CANAIS",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title="CANAIS",9Gem Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+https://i.mjh.nz/.r/gem-nsw.m3u8
 #EXTINF:-1 group-title="CANAIS",9Go! Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 group-title="CANAIS",9Life Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+https://i.mjh.nz/.r/life-nsw.m3u8
 #EXTINF:-1 group-title="CANAIS",9Rush Ⓖ
-https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+https://i.mjh.nz/.r/rush-nsw.m3u8
+#EXTINF:-1 group-title="CANAIS",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 group-title="CANAIS",ORF 1 Ⓖ
 https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
 #EXTINF:-1 group-title="CANAIS",ORF 2 Ⓖ
@@ -1517,6 +1529,8 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CANAIS",CCTV-15 音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-16 奥林匹克
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="CANAIS",CCTV-17 农业农村
@@ -3286,7 +3300,7 @@ https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TDM Entertainment
 https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Smash TV
-http://a3.smashmalta.com/hls/smash/smash.m3u8
+https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
 #EXTINF:-1 group-title="CANAIS",TVM Ⓢ Ⓨ
 https://www.youtube.com/channel/UChlf9r1rzhJ_SVM_WCKFL1g/live
 #EXTINF:-1 group-title="CANAIS",Alcarria TV
@@ -3471,6 +3485,8 @@ https://wazobia.live:8333/channel/wmax.m3u8
 https://wazobia.live:8333/channel/wmaxph.m3u8
 #EXTINF:-1 group-title="CANAIS",KCTV
 https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Ryongnamsan TV
+https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MRT1 Ⓖ
 https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
 #EXTINF:-1 group-title="CANAIS",MRT2 Ⓖ
