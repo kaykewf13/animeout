@@ -944,9 +944,9 @@ https://stream.syritv.al/live/syritv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Tropoja
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TV 7 Albania
-https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Apollon Ⓢ
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
 #EXTINF:-1 group-title="CANAIS",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 group-title="CANAIS",Andorra TV
@@ -997,6 +997,8 @@ https://www.youtube.com/c/ComarcaTV/live
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",El Nueve
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Telefe
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",América
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="CANAIS",A24 Ⓨ
@@ -1589,6 +1591,10 @@ https://www.youtube.com/@N1_Hrvatska/live
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Ada TV
 https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Kibris TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 group-title="CANAIS",TV 2020 Ⓨ
+https://www.youtube.com/@TV2020KIBRIS/live
 #EXTINF:-1 group-title="CANAIS",ČT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ČT2
@@ -3159,8 +3165,8 @@ http://stream.mcquack.net/72/index.m3u8
 https://www.standardmedia.co.ke/ktnnews/live
 #EXTINF:-1 group-title="CANAIS",Citizen TV
 https://citizentv.co.ke/live
-#EXTINF:-1 group-title="CANAIS",NTV Kenya
-https://nation.africa/kenya/tv/live
+#EXTINF:-1 group-title="CANAIS",NTV Kenya Ⓨ
+https://www.youtube.com/c/NTVKenyaOnline/live
 #EXTINF:-1 group-title="CANAIS",KTN Home
 https://www.standardmedia.co.ke/ktnhome/live
 #EXTINF:-1 group-title="CANAIS",K24 TV
@@ -3703,6 +3709,8 @@ https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 group-title="CANAIS",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 group-title="CANAIS",RTS 3
+https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1 group-title="CANAIS",Red TV
 https://edge8.pink.rs/redtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Kurir TV
@@ -4416,7 +4424,7 @@ https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ABC News Live
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 group-title="CANAIS",LiveNOW from FOX
-https://lnc-fox-live-now.tubi.video/index.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CBC News Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Ticker News
