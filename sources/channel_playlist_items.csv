@@ -230,11 +230,11 @@ Canais,Costa Rica,Canal 6,https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8,
 Canais,Costa Rica,Canal 8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8,https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png,channel-playlist:free-tv-br
 Canais,Costa Rica,Canal 11,https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8,https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica-en-vivo-Online.png,channel-playlist:free-tv-br
 Canais,Costa Rica,88 Stereo,http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8,http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png,channel-playlist:free-tv-br
-Canais,Croatia,HRT 1,https://webtvstream.bhtelecom.ba/hls9/hrt1_1200.m3u8,https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png,channel-playlist:free-tv-br
-Canais,Croatia,HRT 2,https://webtvstream.bhtelecom.ba/hls9/hrt2_1200.m3u8,https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png,channel-playlist:free-tv-br
+Canais,Croatia,HRT 1 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/1/1f/HRT1-logo.png,channel-playlist:free-tv-br
+Canais,Croatia,HRT 2 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png,channel-playlist:free-tv-br
 Canais,Croatia,RTL,https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8,https://i.imgur.com/zAjr6pO.png,channel-playlist:free-tv-br
 Canais,Croatia,Nova TV,http://176.61.157.250/NovaTV/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png,channel-playlist:free-tv-br
-Canais,Croatia,HRT 3,https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8,https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png,channel-playlist:free-tv-br
+Canais,Croatia,HRT 3 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png,channel-playlist:free-tv-br
 Canais,Croatia,HRT 4 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png,channel-playlist:free-tv-br
 Canais,Croatia,RTL 2,https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8,https://i.imgur.com/dQLaylJ.png,channel-playlist:free-tv-br
 Canais,Croatia,Sportska televizija Ⓖ,https://stream.agatin.hr:3087/live/sptvlive.m3u8,https://i.imgur.com/xdxjcVh.png,channel-playlist:free-tv-br
@@ -296,7 +296,7 @@ Canais,Czech Republic,Šlágr Originál Ⓢ,https://stream-13.mazana.tv/slagrori
 Canais,Czech Republic,Šlágr Muzika Ⓢ,https://stream-23.mazana.tv/slagrmuzika.m3u8s,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png,channel-playlist:free-tv-br
 Canais,Czech Republic,Šlágr Premium Ⓢ,https://stream-15.mazana.tv/slagrpremium.m3u,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-premium-cz.png,channel-playlist:free-tv-br
 Canais,Czech Republic,Retro Music TV Ⓢ,https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png,channel-playlist:free-tv-br
-Canais,Czech Republic,Praha TV,https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png,channel-playlist:free-tv-br
+Canais,Czech Republic,Praha TV,https://1977134029.rsc.cdn77.org/1977134029/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png,channel-playlist:free-tv-br
 Canais,Czech Republic,Východoceská TV,https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/tv-v1-cz.png,channel-playlist:free-tv-br
 Canais,Czech Republic,UTV,https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8,https://imgur.com/ulfeIwM.png,channel-playlist:free-tv-br
 Canais,Denmark,DR1 Ⓖ,https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8,https://i.imgur.com/wEq8UnG.png,channel-playlist:free-tv-br
