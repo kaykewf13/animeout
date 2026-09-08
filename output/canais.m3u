@@ -5233,6 +5233,8 @@ https://jmp2.uk/plu-68f0f602a362b63a8df4efb4.m3u8
 https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
 #EXTINF:-1 group-title="CANAIS",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Merry Christmas from Viafree
 https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
 #EXTINF:-1 group-title="CANAIS",Merry Christmas from Viafree
