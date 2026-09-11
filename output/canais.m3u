@@ -4818,7 +4818,7 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 group-title="CANAIS",AVI Rewind (1080p)
 http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN (720p)
-http://45.190.28.50/AXN_HD/index.m3u8
+http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 group-title="CANAIS",AXN Black (576p)
@@ -5101,8 +5101,6 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 http://103.175.73.12:8080/live/51/51_0.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",MoviePlex (576p)
 http://103.175.73.12:8080/live/583/master.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
-http://103.175.73.12:8080/live/270/master.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)
 http://103.175.73.12:8080/live/347/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Grand Cinema
@@ -5243,6 +5241,8 @@ https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 #EXTINF:-1 group-title="CANAIS",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="CANAIS",MH One Movies (576p)
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 group-title="CANAIS",Mission Impossible
@@ -5973,8 +5973,6 @@ https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Cinema HD (1080p)
-http://103.72.101.252:8080/live/165.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Cine Friki (1080p)
@@ -6873,8 +6871,6 @@ http://stream.mcquack.net/46/index.m3u8
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Alwan (576p) [Not 24/7]
 https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Zee Cafe HD (1080p)
-http://103.72.101.252:8080/live/1319.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Fréquence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zylo Todo Novelas (1080p)
