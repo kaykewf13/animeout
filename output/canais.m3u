@@ -4899,6 +4899,12 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Blokbaster HD (1080p)
 http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Bollywood (576p)
+http://str2.iptvhd.ru:8080/bollywood/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 group-title="CANAIS",Bollywood HD (1080p)
+http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD (1080p)
 http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD Russia (576p)
@@ -5083,8 +5089,8 @@ http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ One Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
-#EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
-https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+#EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]
+https://iptv.prosto.tv/ch064/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmex (Xumo) (1080p) [Geo-blocked]
@@ -5175,12 +5181,24 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Horror Channel (1080p)
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HOT Cinema 1 (1080p)
+http://str2.iptvhd.ru:8080/Gold/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HOT Cinema 2 (1080p)
+http://str2.iptvhd.ru:8080/action/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HOT Cinema 3 (1080p)
+http://str2.iptvhd.ru:8080/fun/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HOT Cinema 4 (1080p)
+http://str2.iptvhd.ru:8080/drama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",ICC Plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",IFC (1080p)
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 group-title="CANAIS",iFilm Persian
 https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1 group-title="CANAIS",Illusion+ (576p)
+http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Indiyskoye Kino (576p)
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Indywood TV (720p)
@@ -5339,6 +5357,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Muzhskoy (1080p)
+http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MWD Movies [Not 24/7]
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 group-title="CANAIS",My Cinema Europe
@@ -5355,8 +5375,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Nash Kinomir (576p)
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
-#EXTINF:-1 group-title="CANAIS",Nashe HD (576p)
-http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Nashe HD (1080p)
+http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe Lubimoe Kino (576p)
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe muzhskoe HD (1080p)
@@ -5887,10 +5907,14 @@ https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1 group-title="CANAIS",START Air (576p)
-http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1 group-title="CANAIS",START Air (1080p)
+http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1 group-title="CANAIS",START Air HD (1080p)
+http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",START World (576p)
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="CANAIS",START World HD (1080p)
+http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Studio One + (720p)
@@ -6025,16 +6049,6 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Дом Кино Премиум HD (1080p)
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Иллюзион+ (576p)
-http://31.148.48.15/Illusion_plus/index.m3u8
-#EXTINF:-1 group-title="CANAIS",КИНОСАТ (576p)
-http://31.148.48.15/Kineko/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Феникс плюс Кино (576p)
-http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 group-title="CANAIS",江苏影视 (576p)
-http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Мир Сериала (576p)
-http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Кинеко (1080p)
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Русский Роман (1080p)
@@ -6049,6 +6063,12 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Новый Русский (720p)
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
+#EXTINF:-1 group-title="CANAIS",КИНОСАТ (576p)
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Феникс плюс Кино (576p)
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="CANAIS",江苏影视 (576p)
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Сити Эдем КиноАзия [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Сити Эдем КиноАрт [Not 24/7]
@@ -6097,6 +6117,8 @@ https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 group-title="CANAIS",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 group-title="CANAIS",A2 (576p)
+http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",ABC 5 Boston MA (WCVB) (720p)
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Acapulco Shore
@@ -6113,8 +6135,6 @@ https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8
 https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Always Funny Videos (720p)
 https://d24l3uppudokci.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Amedia 2 (576p)
-http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",America's Next Top Model
 https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
 #EXTINF:-1 group-title="CANAIS",America's Next Top Model
@@ -6331,6 +6351,8 @@ https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Frasier
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
+#EXTINF:-1 group-title="CANAIS",FX Life (576p)
+http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GEM Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Ghost Dimension
@@ -6491,6 +6513,8 @@ https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Minuto Para Ganar
 https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 group-title="CANAIS",Mir Seriala (576p)
+http://176.118.197.101/MirSeriala/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Mireasa (720p)
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Misterios Medicos
