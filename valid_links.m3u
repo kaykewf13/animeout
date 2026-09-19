@@ -4853,6 +4853,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="CANAIS",Alankar TV (720p)
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",All Time Movies (576p)
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Allo Cine (1080p)
@@ -4953,8 +4955,6 @@ https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Crime
 http://88.212.15.19/live/viasat_film/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",AXN Poland (1080p)
-https://polska.hach.workers.dev/14850.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",beIN Box Office 1
 https://nord.ayakkabiparti.lol/box1/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",beIN Box Office 2
@@ -4981,16 +4981,8 @@ https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+ (Hungary)
 http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Action
-https://polska.hach.workers.dev/14864.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Comedy
-https://polska.hach.workers.dev/14863.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Emotion
-https://polska.hach.workers.dev/14866.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",FILMBOX+ Emotion Romania
 https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Hits
-https://polska.hach.workers.dev/14865.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Kino 2 (1080p)
 http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Magyar Mozi TV
