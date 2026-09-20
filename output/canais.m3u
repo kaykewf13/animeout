@@ -4609,10 +4609,10 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1 group-title="CANAIS",312 Kino (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",&TV International (1080p)
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV HD (1080p)
 http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="CANAIS",&TV International (1080p)
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&xplor HD (1080p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies Channel (720p)
@@ -5059,8 +5059,8 @@ http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ One Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
-#EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]
-https://iptv.prosto.tv/ch064/index.m3u8
+#EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmex (1080p) [Geo-blocked]
@@ -5113,8 +5113,6 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Goldmines Movies (576p)
 http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",MoviePlex (576p)
-http://103.175.73.12:8080/live/583/master.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Biskope (576p)
 http://103.175.73.12:8080/live/347/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Grand Cinema
@@ -5247,8 +5245,8 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Manoranjan Grand (720p)
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
-#EXTINF:-1 group-title="CANAIS",Manoranjan Movies (720p)
-http://103.213.31.109:90/ManoranjanMovies/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Max (576p)
@@ -5727,8 +5725,6 @@ https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
 #EXTINF:-1 group-title="CANAIS",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 group-title="CANAIS",Pravah Picture HD (1080p)
-http://149.71.34.166:8000/play/a06f/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Premialnoe HD (1080p)
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Pro100TV (576p)
@@ -5813,8 +5809,6 @@ https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 group-title="CANAIS",Rodnoe Kino (576p)
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Romedy Now (576p)
-http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Cinema KSA (1080p) [Geo-blocked]
@@ -5893,8 +5887,6 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Gold 2 (576p)
 http://107.167.16.138/stargold2/index.m3u8?token=test
-#EXTINF:-1 group-title="CANAIS",Star Gold 2 HD (1080p)
-http://66.102.126.10:8000/play/a077/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Tamil Television (360p)
@@ -6177,8 +6169,6 @@ https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
 https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
 #EXTINF:-1 group-title="CANAIS",Car Chase (Sweden) NO (720p)
 https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8
-#EXTINF:-1 group-title="CANAIS",CBC Drama (576p)
-https://flu.systemnet.tv/CBCDrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Celebrity Name Game (1080p) [Geo-blocked]
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Chaos City
@@ -6723,7 +6713,7 @@ https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1 group-title="CANAIS",Rawhide (Sweden) NO
 https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1 group-title="CANAIS",REV'N Action (720p)
+#EXTINF:-1 group-title="CANAIS",REV'N Action (720p) [Geo-blocked]
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Drama (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
@@ -6797,7 +6787,7 @@ https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",The Conners
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
-#EXTINF:-1 group-title="CANAIS",The Doctors (720p)
+#EXTINF:-1 group-title="CANAIS",The Doctors (720p) [Geo-blocked]
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
 #EXTINF:-1 group-title="CANAIS",The Judge Judy Channel (720p)
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
