@@ -232,7 +232,6 @@ Filmes,Movies,Filmes Suspense,https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8,
 Filmes,Movies,Filmex (1080p) [Geo-blocked],https://filmex-filmex-xumo.amagi.tv/playlist.m3u8,https://i.imgur.com/Hiz2OyC.png,Filmex.mx@SD,iptv-org
 Filmes,Movies,Filmex Clasico (1080p) [Geo-blocked],https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8,https://i.imgur.com/D3dj4mv.png,FilmexClasico.mx@SD,iptv-org
 Filmes,Movies,FilmRise Forensic Files (720p) [Geo-blocked],https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8,https://i.imgur.com/8j2npVc.png,FilmRiseForensicFiles.us@SD,iptv-org
-Filmes,Movies,FilmRise Western (720p),https://dz05z8iljgvbe.cloudfront.net/master.m3u8,https://i.imgur.com/8j2npVc.png,FilmRiseWestern.us@SD,iptv-org
 Filmes,Movies,FilmUA Live,https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8,https://i.imgur.com/kizTBgS.png,FilmUALive.ua@SD,iptv-org
 Filmes,Movies;Series,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies;Series"",FilmUADrama (1080p)",http://88.99.215.227/FilmUADrama/index.m3u8,https://i.imgur.com/Hnwsh5d.png,FilmUADrama.ua@SD,iptv-org
 Filmes,Movies,Flicks of Fury,https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8,https://i.imgur.com/rtL5L81.png,FlicksofFury.us@SD,iptv-org
@@ -639,8 +638,8 @@ Filmes,Movies,Russkiy roman (1080p),http://31.148.48.15/Russkiy_Roman_HD/index.m
 Filmes,Movies,ScreamIN (1080p),https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8,https://i.imgur.com/tGmKbil.png,ScreamIN.fr@SD,iptv-org
 Filmes,Movies,SensaCine TV x Pluto,https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8,https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png,SensaCineTVxPluto.de@ES,iptv-org
 Filmes,Movies,ServusTV (1080p) [Geo-blocked],https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8,https://i.imgur.com/6W637Gn.png,ServusTV.at@SD,iptv-org
-Filmes,Movies;Music,Shemaroo Filmi Gaane (1080p),http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8,https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png,ShemarooFilmiGaane.in@HD,iptv-org
-Filmes,Movies,Shemaroo Josh (720p),https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540,ShemarooJosh.in@SD,iptv-org
+Filmes,Movies;Music,Shemaroo Filmi Gaane (1080p),https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8,https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png,ShemarooFilmiGaane.in@HD,iptv-org
+Filmes,Movies,Shemaroo Josh (576p),https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540,ShemarooJosh.in@SD,iptv-org
 Filmes,Movies,Shokiruyushchee HD (1080p),http://stream.mcquack.net/75/index.m3u8,https://i.imgur.com/UG63hZ0.png,Shokiruyushchee.ru@HD,iptv-org
 Filmes,Movies,Shot TV (576p),http://hls127.freeott.top:8080/SHOT_TV/video.m3u8,https://i.imgur.com/MLSG7tA.png,ShotTV.ru@SD,iptv-org
 Filmes,Movies,Shubh Cinema TV (720p),https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8,https://i.imgur.com/RQhorAG.png,ShubhCinemaTV.in@SD,iptv-org
@@ -1198,6 +1197,7 @@ Series,Family;Series,Velvet. Svaty (1080p),https://cdn.rostelekom-tv.xyz/live/HS
 Series,Comedy;Family;Series,Velvet. World Series (1080p),https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8,https://antiabuse-container.b-cdn.net/mirseriallogo.png,VelvetWorldSeries.ru@HD,iptv-org
 Series,Series,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Series"",Viasat Epic Drama Czechia",http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg,ViasatEpicDrama.uk@Czechia,iptv-org
 Series,Series,"like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Series"",Viasat Epic Drama Romania",https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8,https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg,ViasatEpicDrama.uk@Romania,iptv-org
+Series,Series,Viasat Epic Drama Ukraine (576p),http://195.189.60.253/118/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg,ViasatEpicDrama.uk@Ukraine,iptv-org
 Series,Series,viju+ Serial HD (1080p),http://stream.mcquack.net/311/index.m3u8,https://i.imgur.com/8yXZET5.png,vijuPlusSerial.ru@HD,iptv-org
 Series,Series,Walker Texas Ranger,https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8,https://i.imgur.com/0N7EhuD.png,WalkerTexasRanger.us@France,iptv-org
 Series,Series,We TV (720p),http://170.254.17.2/WE_TV/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png,WeTV.us@East,iptv-org
@@ -1209,5 +1209,4 @@ Series,Series,Wildfire DK,https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8,http
 Series,Series,Wildfire NO,https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8,https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png,Wildfire.se@NO,iptv-org
 Series,Series,XPTV US (720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8,https://i.imgur.com/1m7kDmc.png,XPTVUS.es@SD,iptv-org
 Series,Series,Yam Tichoni (1080p),http://stream.mcquack.net/46/index.m3u8,https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png,YamTichoni.il@SD,iptv-org
-Series,Series,Z Nation,https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png,ZNation.us@SD,iptv-org
 Series,Entertainment;Series,Zee Alwan (576p) [Not 24/7],https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8,https://i.imgur.com/OLuCox7.png,ZeeAlwan.ae@SD,iptv-org
