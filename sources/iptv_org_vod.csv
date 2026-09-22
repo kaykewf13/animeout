@@ -399,7 +399,7 @@ Filmes,Movies,Nollywood TV (720p),http://145.239.5.177/148/index.m3u8,https://i.
 Filmes,Movies,NonStop Kung Fu,https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8,https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png,NonStopKungFu.se@SE,iptv-org
 Filmes,Movies,NonStop Kung Fu DK,https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8,https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png,NonStopKungFu.se@DK,iptv-org
 Filmes,Movies,NonStop Kung Fu NO,https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8,https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png,NonStopKungFu.se@NO,iptv-org
-Filmes,Movies,NOST (720p),https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/This_TV_logo.svg/960px-This_TV_logo.svg.png,NOST.us@SD,iptv-org
+Filmes,Movies,NOST (720p),https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg,NOST.us@SD,iptv-org
 Filmes,Movies,Novyi Russkii (720p),https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8,https://i.imgur.com/iuRSScH.png,NovyiRusskii.ru@HD,iptv-org
 Filmes,Movies,ON Movies (720p),https://freem3u.xyz/api/live/play.m3u8?vid=181,https://i.ibb.co/fdbgvtT8/IMG-2523.webp,ONMovies.vn@SD,iptv-org
 Filmes,Movies;Music,Orbita Chile TV (1080p),https://orbitachiletv.org/hls/0/stream.m3u8,https://i.imgur.com/gbNh79Z.png,OrbitaChileTV.cl@HD,iptv-org
@@ -749,10 +749,8 @@ Filmes,Classic;Movies,Xtrema Cine Clasico,https://stmv6.voxtvhd.com.br/cineclasi
 Filmes,Movies,Xtrema Terror,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8,https://i.imgur.com/FcaTUym.png,XtremaTerror.ar@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Yes Movies Action (1080p)",http://stream.mcquack.net/380/index.m3u8,https://i.imgur.com/Bgz7p5F.png,YesMoviesAction.il@SD,iptv-org
 Filmes,Movies,Zee Action (576p),http://107.167.16.138/zeeaction/index.m3u8?token=test,https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540,ZeeAction.in@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/147.0.0.0 Safari/537.36"" group-title=""Movies"",Zee Biskope (576p)",http://103.175.73.12:8080/live/347/master.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png,ZeeBiskope.in@SD,iptv-org
 Filmes,Movies,Zee Cinema (576p),https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png,ZeeCinema.in@SD,iptv-org
 Filmes,Movies,Zee Cinema APAC (720p),https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png,ZeeCinema.in@APAC,iptv-org
-Filmes,Movies,Zee Cinema ME (432p) [Geo-blocked],https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png,ZeeCinema.in@ME,iptv-org
 Filmes,Movies,Zee Cinemalu HD (720p),https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540,ZeeCinemalu.in@HD,iptv-org
 Filmes,Movies,Zee South Flix (1080p),https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8,https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png,ZeeSouthFlix.in@HD,iptv-org
 Filmes,Movies,Zee Talkies (576p),http://107.167.16.138/zeetalkies/index.m3u8?token=test,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png,ZeeTalkies.in@SD,iptv-org
@@ -1176,8 +1174,8 @@ Series,Series,Tout le monde deteste Chris,https://jmp2.uk/plu-67b4b4a21a5ca76080
 Series,Series,True Crime (1080p),https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8,https://i.imgur.com/LK2NFst.png,TrueCrime.uk@SD,iptv-org
 Series,Series,True Crime by Pluto TV,https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8,https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png,TrueCrimebyPlutoTV.de@FR,iptv-org
 Series,Series,True crime fran Viaplay,https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8,https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png,TruecrimefranViaplay.se@SE,iptv-org
-Series,Series,True Crime Network (1080p) [Geo-blocked],https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png,TrueCrimeNetwork.us@SD,iptv-org
-Series,Series,True Crime Network WCVB-TV (720p),https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png,TrueCrimeNetwork.us@WCVBTV,iptv-org
+Series,Series,True Crime Network (1080p) [Geo-blocked],https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8,https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png,TrueCrimeNetwork.us@SD,iptv-org
+Series,Series,True Crime Network WCVB-TV (720p),https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8,https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png,TrueCrimeNetwork.us@WCVBTV,iptv-org
 Series,Series,TV Series (480p),https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8,https://i.imgur.com/Ff5mj0o.png,TVSeries.br@SD,iptv-org
 Series,Series,TVE Star (576p),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8,https://i.ibb.co/j98NY8Mr/starcolor.png,TVEStar.es@SD,iptv-org
 Series,Series,TVE Star HD (1080p),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8,https://i.ibb.co/j98NY8Mr/starcolor.png,TVEStar.es@HD,iptv-org
@@ -1209,4 +1207,3 @@ Series,Series,Wildfire DK,https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8,http
 Series,Series,Wildfire NO,https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8,https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png,Wildfire.se@NO,iptv-org
 Series,Series,XPTV US (720p),https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8,https://i.imgur.com/1m7kDmc.png,XPTVUS.es@SD,iptv-org
 Series,Series,Yam Tichoni (1080p),http://stream.mcquack.net/46/index.m3u8,https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png,YamTichoni.il@SD,iptv-org
-Series,Entertainment;Series,Zee Alwan (576p) [Not 24/7],https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8,https://i.imgur.com/OLuCox7.png,ZeeAlwan.ae@SD,iptv-org
