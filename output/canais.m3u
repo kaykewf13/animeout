@@ -6269,6 +6269,8 @@ https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Homicide Hunter
 https://jmp2.uk/plu-619e21b213ef6b0007d8c17a.m3u8
+#EXTINF:-1 group-title="CANAIS",HOT Comedy (1080p)
+http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
 #EXTINF:-1 group-title="CANAIS",House of Lies
 https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
 #EXTINF:-1 group-title="CANAIS",House of Lies DK
@@ -6813,10 +6815,12 @@ https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
 https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
 #EXTINF:-1 group-title="CANAIS",viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Viva Telenovelas (1080p)
+http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Walker Texas Ranger
 https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
-#EXTINF:-1 group-title="CANAIS",We TV (720p)
-http://170.254.17.2/WE_TV/index.m3u8
+#EXTINF:-1 group-title="CANAIS",We TV (1080p)
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Weeds & Nurse Jackie (720p)
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 group-title="CANAIS",Wild 'N Out
