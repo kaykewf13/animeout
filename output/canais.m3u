@@ -4643,8 +4643,6 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC (United States) (720p)
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AMC (United States) East (720p)
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AMC Europe Bulgary (576p)
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic
@@ -4965,8 +4963,6 @@ http://flussonic.linkintel.ru/cinema/index.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CinemaWorld (720p)
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Cinemax Action East HD (1080p)
-https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax Hits (1080p)
@@ -5009,6 +5005,8 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",De Pelicula Latin America (1080p)
 http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 group-title="CANAIS",De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 group-title="CANAIS",De Pelicula US (720p)
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Detskoe kino [Not 24/7]
@@ -5049,6 +5047,8 @@ http://31.148.48.15/Fan/index.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Film & Arts (1080p)
 http://15.204.246.24:8080/FilmArtsHD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Film Now HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmax (576p)
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 group-title="CANAIS",Filmazia (576p)
@@ -5141,8 +5141,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",HBO Drama (1080p)
 https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
-#EXTINF:-1 group-title="CANAIS",HBO Hits East HD (720p)
-http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="CANAIS",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Hero (720p) [Not 24/7]
@@ -5317,6 +5315,8 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Movify Kino (576p)
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 group-title="CANAIS",MultiPremier (1080p)
+http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Muzhskoy (1080p)
@@ -5699,8 +5699,8 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="CANAIS",Pro Cinema
-http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" group-title="Movies",Pro Cinema (576i)
+https://dokagents.site/live/procinema/mono.m3u8
 #EXTINF:-1 group-title="CANAIS",Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Public Movies (576p)
@@ -6799,6 +6799,8 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 group-title="CANAIS",TVI Ficcao (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 group-title="CANAIS",TVP Seriale (720p)
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_TVPSERIALE.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Unga Mammor
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1 group-title="CANAIS",Unga Mammor NO
