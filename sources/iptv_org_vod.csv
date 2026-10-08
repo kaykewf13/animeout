@@ -62,7 +62,6 @@ Filmes,Movies,AXN Latin America Mexico,http://190.11.225.124:5000/live/axn_hd/pl
 Filmes,Movies,AXN Latin America South (1080p),http://181.78.12.119:16123/play/ch46/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@South,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AXN Movies (Portugal) (720p)",http://50.7.120.34:8080/AXN_BLACK/index.m3u8,https://i.imgur.com/tJQckal.png,AXNMovies.pt@SD,iptv-org
 Filmes,Movies,AXN Movies (Spain),https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd,https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512,AXNMovies.es@SD,iptv-org
-Filmes,Movies,AXN Poland,https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8,https://i.imgur.com/i5wOhkf.png,AXNPoland.pl@SD,iptv-org
 Filmes,Movies,B4U Bhojpuri (1080p),https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@SD,iptv-org
 Filmes,Movies,B4U Bhojpuri Plus (1080p),http://51.75.127.199:3141/b4ubhojpuri/index.m3u8,https://i.imgur.com/NwOQUDp.png,B4UBhojpuri.in@Plus,iptv-org
 Filmes,Movies,B4U Kadak (576p),https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8,https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540,B4UKadak.in@SD,iptv-org
@@ -151,8 +150,10 @@ Filmes,Movies,Cinema (Russia) (576p),http://flussonic.linkintel.ru/cinema/index.
 Filmes,Movies,CineMaraton (576i),https://dokagents.site/live/cinemaraton/mono.m3u8,https://i.imgur.com/BY8UZa0.png,CineMaraton.ro@SD,iptv-org
 Filmes,Movies,Cinemaraton Plus (1080i),https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8,https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png,CinemaratonPlus.ro@HD,iptv-org
 Filmes,Movies,CinemaWorld (720p),http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8,https://i.imgur.com/D2qNVZ7.png,CinemaWorld.my@SD,iptv-org
+Filmes,Movies,Cinemax West (720p),http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png,Cinemax.us@West,iptv-org
 Filmes,Movies,Cinemax Classics (1080p),http://23.237.104.106:8080/USA_5STARMAX/index.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png,CinemaxClassics.us@East,iptv-org
 Filmes,Movies,Cinemax Hits (1080p),http://23.237.104.106:8080/USA_MOREMAX/index.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png,CinemaxHits.us@East,iptv-org
+Filmes,Movies,Cinemax Latin America HD (1080p),http://38.65.175.84:8000/play/a093/index.m3u8,https://i.imgur.com/cZWoJWD.png,CinemaxLatinAmerica.us@HD,iptv-org
 Filmes,Movies,CineStar 1 Bulgaria,http://213.91.179.28:8000/play/a05h,https://i.imgur.com/t9vVTLH.png,CineStar1Bulgaria.bg@SD,iptv-org
 Filmes,Movies,Cinevault 80s (720p),https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8,https://i.imgur.com/xaCyyDd.png,Cinevault80s.us@SD,iptv-org
 Filmes,Movies,City Eden KinoAction [Not 24/7],https://cityeden.catcast.tv/content/41333/index.m3u8,https://i.imgur.com/uuzuvD0.png,CityEdenKinoAction.ru@HD,iptv-org
@@ -1191,6 +1192,7 @@ Series,Series,Tlnovelas Latin America (1080p),http://209.14.115.253:8081/TELENOV
 Series,Series,Tlnovelas Mexico (1080p),http://167.249.23.102:8000/play/a0g8/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png,TlnovelasMexico.mx@SD,iptv-org
 Series,Series,TNT Novelas (1080p),http://190.93.224.42/TNT-NOVELAS/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png,TNTNovelas.us@Panregional,iptv-org
 Series,Series,TNT Novelas Brazil (720p),http://45.162.64.114/TNT_NOVELAS/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png,TNTNovelas.us@Brazil,iptv-org
+Series,Series,TNT Series Latin America (1080p),http://168.196.127.137:6001/play/a095/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png,TNTSeriesLatinAmerica.us@Panregional,iptv-org
 Series,Series,Todo Novelas (1080p),https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8,https://i.imgur.com/NuYwGok.png,TodoNovelas.es@SD,iptv-org
 Series,Series,Top Crime [Geo-blocked],https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png,TopCrime.it@SD,iptv-org
 Series,Series,Tosh.0 (United States),https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8,https://i.imgur.com/sXkluxg.png,Tosh0.us@SD,iptv-org

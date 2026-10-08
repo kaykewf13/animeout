@@ -5037,8 +5037,6 @@ http://181.78.8.199:8000/play/a0cu/index.m3u8
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AXN Latin America South (1080p)
 http://181.78.12.119:16123/play/ch46/index.m3u8
-#EXTINF:-1 group-title="CANAIS",AXN Poland
-https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri Plus (1080p)
@@ -5197,10 +5195,14 @@ https://dokagents.site/live/cinemaraton/mono.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",CinemaWorld (720p)
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Cinemax West (720p)
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax Hits (1080p)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Cinemax Latin America HD (1080p)
+http://38.65.175.84:8000/play/a093/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinevault 80s (720p)
 https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",City Eden KinoAction [Not 24/7]
@@ -7105,6 +7107,8 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 group-title="CANAIS",TNT Series Latin America (1080p)
+http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 group-title="CANAIS",Top Crime [Geo-blocked]
