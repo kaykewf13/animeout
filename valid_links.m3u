@@ -4841,8 +4841,8 @@ http://103.151.60.162:2122/play/a020/index.m3u8?hls
 http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",&xplor HD (1080p)
-http://51.75.127.199:3141/andxplorehd/index.m3u8
+#EXTINF:-1 group-title="CANAIS",&xplor HD (1080p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies Channel (720p)
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="CANAIS",Action 24 (1080p) [Not 24/7]
@@ -5009,8 +5009,6 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",ARTFLIX Movie Classics (720p)
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Asianet Movies (576p)
-http://51.75.127.199:3141/asianetmovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Asianet Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Aurora Media Films (720p)
@@ -5039,8 +5037,6 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://181.78.12.119:16123/play/ch46/index.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 group-title="CANAIS",B4U Bhojpuri Plus (1080p)
-http://51.75.127.199:3141/b4ubhojpuri/index.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Movies (576p)
@@ -5061,10 +5057,8 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Blokbaster HD (1080p)
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Bollywood (576p)
-http://str2.iptvhd.ru:8080/bollywood/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Bollywood HD (1080p)
-http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Bollywood HD (576p)
+http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD Russia (576p)
@@ -5083,6 +5077,8 @@ https://bravoohls.wns.live/hls/stream.m3u8
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Movies",Canal+ Action Europe (360p)
+https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal+ Action Europe Slovakia (720p)
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Canal+ Cinemas (720p)
@@ -5187,6 +5183,8 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 group-title="CANAIS",like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Movies",My Cinema [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Movies",Warner TV Asia (720p)
+https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinema (Russia) (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemaraton Plus (1080i)
@@ -5238,19 +5236,13 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CND Film Middle School Channel
 http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 #EXTINF:-1 group-title="CANAIS",Colors Bangla Cinema (576p)
-http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
+http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 #EXTINF:-1 group-title="SERIES",Colors Cineplex (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 group-title="SERIES",Colors Cineplex HD (1080p)
-http://51.75.127.199:3141/colorscineplexhd/index.m3u8
-#EXTINF:-1 group-title="SERIES",Colors Cineplex Bollywood (576p)
-http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
-#EXTINF:-1 group-title="SERIES",Colors Cineplex Superhits (576p)
-http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Colors Gujarati Cinema (576p)
-http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Colors Kannada Cinema (576p)
-http://51.75.127.199:3141/colorskannadacinema/index.m3u8
+http://103.151.60.162:2122/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="CANAIS",Colors Cineplex Bollywood (576p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=946375&extension=ts&play_token=5n2Zexr7WT
 #EXTINF:-1 group-title="CANAIS",Cosmos Tv SD
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 group-title="CANAIS",CTB Perth Movies Channel (720p)
@@ -5595,8 +5587,6 @@ https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Muzhskoy (1080p)
-http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8
 #EXTINF:-1 group-title="CANAIS",MWD Movies [Not 24/7]
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 group-title="CANAIS",My Cinema Europe
@@ -5615,8 +5605,8 @@ https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Nash Kinopokaz HD (576p)
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Nashe HD (1080p)
-http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Nashe HD (576p)
+http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe Lubimoe Kino (576p)
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe muzhskoe HD (1080p)
@@ -6063,8 +6053,6 @@ https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 group-title="CANAIS",Rodnoe Kino (576p)
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Romedy Now (1080p)
-http://51.75.127.199:3141/romedynow/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Rotana Cinema KSA (1080p) [Geo-blocked]
@@ -6099,8 +6087,6 @@ http://stream.mcquack.net/75/index.m3u8
 http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Sidharth Gold (576p)
-http://51.75.127.199:3141/sidharthgold/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Silk Way Cinema (1080p) [Geo-blocked]
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SL 1
@@ -6145,30 +6131,16 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Gold 2 (576p)
-http://51.75.127.199:3141/stargold2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Gold 2 HD (1080p)
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-#EXTINF:-1 group-title="CANAIS",Star Gold (576p)
-http://51.75.127.199:3141/stargold/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Gold HD (1080p)
 http://103.185.24.134:3001/Star-Gold/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Gold Select (576p)
-http://51.75.127.199:3141/stargoldselect/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Gold Select HD (1080p)
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Maa Movies (576p)
-http://51.75.127.199:3141/starmaamovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Movies (India) (576p)
-http://51.75.127.199:3141/starmovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Movies (India) HD (1080p)
-http://51.75.127.199:3141/starmovieshd/index.m3u8
+http://103.185.24.134:3001/Star-Movies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Movies Select HD (1080p)
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Suvarna Plus (576p)
-http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 group-title="CANAIS",Star Tamil Television (360p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
 #EXTINF:-1 group-title="CANAIS",Star Trek Movies
@@ -6189,16 +6161,10 @@ https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 group-title="CANAIS",Star Trek: Voyager (United States)
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1 group-title="CANAIS",Star Utsav Movies (576p)
-http://51.75.127.199:3141/starutsavmovies/index.m3u8
 #EXTINF:-1 group-title="CANAIS",START Air (1080p)
 http://176.118.197.101/START_AIR/index.m3u8
-#EXTINF:-1 group-title="CANAIS",START Air HD (1080p)
-http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",START World (576p)
 https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="CANAIS",START World HD (1080p)
-http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Studio One + (720p)
@@ -6213,6 +6179,10 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",TCM (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="CANAIS",TCM West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="CANAIS",Thalaa TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 #EXTINF:-1 group-title="CANAIS",The Film Detective (720p)
@@ -6279,8 +6249,6 @@ http://176.61.157.250/TV1000/index.m3u8
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Viasat Kino Action (576p)
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Vijay Super (576p)
-http://51.75.127.199:3141/vijaysuper/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="CANAIS",viju TV1000 action (576p)
@@ -6317,14 +6285,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema HD (1080p)
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
-#EXTINF:-1 group-title="CANAIS",Zee Cinemalu HD (1080p)
-http://51.75.127.199:3141/zeecinemaluhd/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Zee Cinemalu HD (720p)
+https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1 group-title="CANAIS",Zee Talkies HD (1080p)
-http://51.75.127.199:3141/zeetalkieshd/index.m3u8
 #EXTINF:-1 group-title="CANAIS",3Cat Plats bruts (1080p)
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 group-title="CANAIS",4ever Drama (1080p)
@@ -6350,7 +6316,7 @@ https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 group-title="CANAIS",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1 group-title="CANAIS",A2 (576p)
-http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
+http://31.148.48.15/A2/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 group-title="CANAIS",Acapulco Shore US
@@ -6571,8 +6537,6 @@ http://stream.mcquack.net/129/index.m3u8
 https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 group-title="CANAIS",Frequence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",FX Life (576p)
-http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",GEM Series +
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
 #EXTINF:-1 group-title="CANAIS",Ghost Dimension
@@ -6979,6 +6943,8 @@ https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1 group-title="CANAIS",Pluto TV Wipeout
 https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 group-title="CANAIS",Polsat Seriale (1080p)
+http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Rakuten Viki (1080p)
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Rakuten Viki Poland
