@@ -4743,8 +4743,6 @@ https://nord.ayakkabiparti.lol/box3/index.m3u8
 https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",beIN Movies Turk
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Classic;Movies",Bollywood Classic Romania
-https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies;Series",Bolt (Ukraine) (1080p)
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Enter-Film (1080p)
@@ -4841,6 +4839,8 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD (576p)
 http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Bollywood Classic Romania (576p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
 #EXTINF:-1 group-title="CANAIS",Bollywood Film
 https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 group-title="CANAIS",Bollywood HD Russia (576p)
@@ -5165,11 +5165,15 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 group-title="CANAIS",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",HBO 2 Latin America (576p)
-http://38.65.175.84:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HBO 2
+http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
-#EXTINF:-1 group-title="CANAIS",HBO (720p)
+#EXTINF:-1 group-title="CANAIS",HBO 3
+http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",HBO (Czech Republic)
+http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",HBO (United States) (720p)
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 group-title="CANAIS",HBO Hits (720p)
 http://tvsen7.aynascope.net/hbo2/index.m3u8
@@ -6843,6 +6847,8 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Novelas Brazil (720p)
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 group-title="CANAIS",TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="CANAIS",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Todo Novelas (1080p)
