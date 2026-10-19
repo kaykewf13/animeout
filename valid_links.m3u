@@ -1111,6 +1111,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:ont.smil/playlist.m3u8
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",כאן חינוכית
 http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 group-title="CANAIS",日本テレビ
+https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 group-title="CANAIS",テレビ朝日
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
 #EXTINF:-1 group-title="CANAIS",テレビ東京
