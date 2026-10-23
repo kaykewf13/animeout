@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="SERIES",Report TV
 https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 group-title="SERIES",Chilevisión Deportes Ⓖ
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8
 #EXTINF:-1 group-title="SERIES",Deportes13 Ⓖ
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 group-title="SERIES",Lepanto
