@@ -4835,10 +4835,8 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1 group-title="CANAIS",312 Kino (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",&TV (576p)
-http://103.151.60.162:2122/play/a020/index.m3u8?hls
-#EXTINF:-1 group-title="CANAIS",&TV HD (1080p)
-http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="CANAIS",&TV (720p)
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
 https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&xplor HD (1080p) [Geo-blocked]
@@ -5057,6 +5055,8 @@ http://92.114.85.87:8014/play/a004/index.m3u8
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Bhojpuri (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="CANAIS",B4U Bhojpuri Plus (1080p)
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Kadak (576p)
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Movies (576p)
@@ -5537,6 +5537,8 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 group-title="CANAIS",Maha Movie (576p)
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
+#EXTINF:-1 group-title="CANAIS",Mahua Play (1080p)
+https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Manoranjan Grand (720p)
 https://cdn.pishow.tv/ott/live/1011/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Manoranjan Movies (576p)
@@ -6095,6 +6097,8 @@ https://slonehls.wns.live/hls/stream.m3u8
 https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Smotrim 100% Klassika (720p)
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="CANAIS",Sonar Bangla (360p)
+https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Soneri Cinema (360p)
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony Canal Novelas
@@ -6281,6 +6285,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",ZB Cinema (1080p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 group-title="CANAIS",Zee Cinema APAC (720p)
