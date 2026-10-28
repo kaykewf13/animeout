@@ -368,6 +368,7 @@ Canais,France,CGTN Français,https://news.cgtn.com/resource/live/french/cgtn-f.m
 Canais,France,TV Mulhouse,http://194.163.157.137:8080/hls/radiomulhouse.m3u8,https://i.imgur.com/4esQG8H.png,channel-playlist:free-tv-br
 Canais,France,TV Alsace,http://194.163.157.137:8080/hls/radioalsace.m3u8,https://i.imgur.com/zaJDEOv.png,channel-playlist:free-tv-br
 Canais,France,Handicap TV,https://srv.webtvmanager.fr:3697/stream/play.m3u8,,channel-playlist:free-tv-br
+Canais,France,Air Connect TV,https://tv.airconnectradio.com/live.m3u8,onnectTV.f,channel-playlist:free-tv-br
 Canais,France,TF1,http://151.80.18.177:86/TF1_HD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/500px-Logo_TF1_2013.svg.png,channel-playlist:free-tv-br
 Canais,France,France 3,http://89.187.185.76:8080/France3/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png,channel-playlist:free-tv-br
 Canais,France,France 4,http://176.65.146.100:8047/play/a074/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png,channel-playlist:free-tv-br
