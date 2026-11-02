@@ -77,7 +77,6 @@ Filmes,Movies,Blokbaster HD (1080p),http://stream.mcquack.net/364/index.m3u8,htt
 Filmes,Movies,Bollygold (1080p),https://jmp2.uk/stvp-IN4000600Q,https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png,Bollygold.in@HD,iptv-org
 Filmes,Movies,Bollywood HD (576p),http://176.118.197.101/Bollywood_HD/index.m3u8,https://i.imgur.com/YLQRnXt.png,Bollywood.ru@HD,iptv-org
 Filmes,Classic;Movies,Bollywood Classic Romania (576p),https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8,https://i.imgur.com/ugPo6ca.png,BollywoodClassic.ro@Romania,iptv-org
-Filmes,Classic;Movies,Bollywood Film,https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8,https://i.imgur.com/bEMUpHZ.png,BollywoodFilm.ro@SD,iptv-org
 Filmes,Movies,Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8,https://i.imgur.com/scDKOLS.png,BollywoodHD.ro@Russia,iptv-org
 Filmes,Movies;Series,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies;Series"",Bolt (1080p)",http://stream.mcquack.net/73/index.m3u8,https://i.imgur.com/YdIHXOR.png,Bolt.ua@SD,iptv-org
 Filmes,Movies;Series,Bonanza,https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8,https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png,Bonanza.us@SD,iptv-org
@@ -91,6 +90,7 @@ Filmes,Movies,Cafe Film,https://cafefhls.wns.live/hls/stream.m3u8,,CafeFilm.ir@S
 Filmes,Movies,Canal Cine Dios,https://canal.mediaserver.com.co/live/cinedios.m3u8,https://i.imgur.com/S4xqZgV.png,CanalCineDios.co@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/154.0.0.0 Safari/537.36"" group-title=""Movies"",Canal+ Action Europe (360p)",https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png,CanalPlusActionEurope.nl@Netherlands,iptv-org
 Filmes,Movies,Canal+ Action Europe Czechia,http://46.149.191.219:9106/play/a01g,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png,CanalPlusActionEurope.nl@Czechia,iptv-org
+Filmes,Movies,Canal+ Action Europe Magyar,http://193.33.39.108:9016/play/a02n,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png,CanalPlusActionEurope.nl@Magyar,iptv-org
 Filmes,Movies,Canal+ Action Europe Slovakia (720p),http://151.80.18.177:86/Canal+_Family_HD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png,CanalPlusActionEurope.nl@Slovakia,iptv-org
 Filmes,Movies,CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8,https://i.imgur.com/rFiaef7.png,CCTV6.cn@SD,iptv-org
 Filmes,Movies,CCTV-6 HD (1080p),http://69.30.245.50/live/cctv6.m3u8,https://i.imgur.com/rFiaef7.png,CCTV6.cn@HD,iptv-org
@@ -120,7 +120,7 @@ Filmes,Movies,Cine Retro by Pluto TV,https://jmp2.uk/plu-5f8ed168f72fcd0007e5626
 Filmes,Movies,Cine Romance by Pluto TV,https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8,https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG_1775048649580.png,CineRomancebyPlutoTV.de@FR,iptv-org
 Filmes,Movies,Cine Romantico (720p),https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_channelId=88886011,https://i.imgur.com/FUrrDrb.png,CineRomantico.us@SD,iptv-org
 Filmes,Movies,Cine Sci-Fi by Pluto TV,https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8,https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png,CineSciFibyPlutoTV.de@FR,iptv-org
-Filmes,Movies,Cine Sony (720p),https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8,https://i.imgur.com/bZWoDTg.png,CineSony.us@SD,iptv-org
+Filmes,Movies,Cine Sony (720p),http://186.148.196.82:8001/play/a0a4,https://i.imgur.com/bZWoDTg.png,CineSony.us@SD,iptv-org
 Filmes,Movies,Cine Terror,https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8,https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png,CineTerror.us@US,iptv-org
 Filmes,Movies,Cine Terror BR,https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8,https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png,CineTerror.us@BR,iptv-org
 Filmes,Movies,Cine Terror LatAm,https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8,https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png,CineTerror.us@LatAm,iptv-org
@@ -143,10 +143,12 @@ Filmes,Movies,Cinema (Russia) (576p),http://flussonic.linkintel.ru/cinema/index.
 Filmes,Movies,Cinemaraton Plus (1080i),https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8,https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png,CinemaratonPlus.ro@HD,iptv-org
 Filmes,Movies,CinemaWorld (720p),http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8,https://i.imgur.com/D2qNVZ7.png,CinemaWorld.my@SD,iptv-org
 Filmes,Movies,Cinemax 2,http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png,Cinemax2.cz@Czechia,iptv-org
+Filmes,Movies,Cinemax 2 Central Europe,http://193.33.39.108:9009/play/a024,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png,Cinemax2CentralEurope.hu@SD,iptv-org
 Filmes,Movies,Cinemax (Czech Republic),http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png,Cinemax.cz@Czechia,iptv-org
 Filmes,Movies,Cinemax (United States) West (720p),http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png,Cinemax.us@West,iptv-org
 Filmes,Movies,Cinemax Asia (720p) [Geo-blocked],https://tinyurl.com/44efw2rx,https://i.imgur.com/c8crJfA.png,CinemaxAsia.sg@SD,iptv-org
 Filmes,Movies,Cinemax Asia HD (1080p),http://125.227.210.55:1001/VideoInput/play.ts,https://i.imgur.com/c8crJfA.png,CinemaxAsia.sg@HD,iptv-org
+Filmes,Movies,Cinemax Central Europe,http://193.33.39.108:9023/play/a01b,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png,CinemaxCentralEurope.hu@SD,iptv-org
 Filmes,Movies,Cinemax Classics (1080p),http://23.237.104.106:8080/USA_5STARMAX/index.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png,CinemaxClassics.us@East,iptv-org
 Filmes,Movies,Cinemax Hits (1080p),http://23.237.104.106:8080/USA_MOREMAX/index.m3u8,https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png,CinemaxHits.us@East,iptv-org
 Filmes,Movies,Cinemax Latin America (720p),https://streaming.onnethn.com/CINEMAX/playlist.m3u8,https://i.imgur.com/cZWoJWD.png,CinemaxLatinAmerica.us@SD,iptv-org
@@ -290,9 +292,9 @@ Filmes,Movies;Series,HBO 2 Latin America HD (1080p),http://45.171.64.30:6060/pla
 Filmes,Movies,HBO 3 (Czech Republic),http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8,https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202,HBO3.cz@SD,iptv-org
 Filmes,Movies,HBO (Czech Republic),http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8,https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924,HBO.cz@SD,iptv-org
 Filmes,Movies;Series,HBO (United States) (720p),http://tvsen7.aynascope.net/hbo/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png,HBO.us@East,iptv-org
-Filmes,Movies,HBO Asia HD (1080p),http://202.150.165.66:8088/play/100-HBO/index.m3u8,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png,HBOAsia.sg@HD,iptv-org
-Filmes,Movies,HBO Asia SD (720p) [Geo-blocked],https://tinyurl.com/yn3d3rmd,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png,HBOAsia.sg@SD,iptv-org
-Filmes,Movies,HBO Asia Taiwan (1080p),http://125.227.210.55:1003/VideoInput/play.ts,https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png,HBOAsia.sg@Taiwan,iptv-org
+Filmes,Movies,HBO Asia HD (1080p),http://202.150.165.66:8088/play/100-HBO/index.m3u8,https://i.imgur.com/cE2gBt6.png,HBOAsia.sg@HD,iptv-org
+Filmes,Movies,HBO Asia SD (720p) [Geo-blocked],https://tinyurl.com/yn3d3rmd,https://i.imgur.com/cE2gBt6.png,HBOAsia.sg@SD,iptv-org
+Filmes,Movies,HBO Asia Taiwan (1080p),http://125.227.210.55:1003/VideoInput/play.ts,https://i.imgur.com/cE2gBt6.png,HBOAsia.sg@Taiwan,iptv-org
 Filmes,Movies;Series,HBO Hits (720p),http://tvsen7.aynascope.net/hbo2/index.m3u8,https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png,HBOHits.us@East,iptv-org
 Filmes,Movies,HBO Hits Asia HD (1080p),http://202.150.165.66:8088/play/102-HBOHits/index.m3u8,https://i.imgur.com/CTjmocc.png,HBOHitsAsia.sg@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Movies"",HBO Mundi Latin America",https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png,HBOMundiLatinAmerica.us@SD,iptv-org
