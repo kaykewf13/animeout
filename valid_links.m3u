@@ -5216,6 +5216,8 @@ http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax (United States) West (720p)
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Cinemax Asia HD (1080p)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 group-title="CANAIS",Cinemax Asia Taiwan (1080p)
 http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 group-title="CANAIS",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -5343,12 +5345,8 @@ http://92.114.85.87:8018/play/a009/index.m3u8
 http://92.114.85.87:8008/play/a00a/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ Hits Romania (576p)
 https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
-#EXTINF:-1 group-title="CANAIS",FILMBOX+ Love & Crime Bulgaria (720p)
-http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
-#EXTINF:-1 group-title="CANAIS",FILMBOX+ One Bulgaria (576p)
-http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ One Magyar
 http://88.212.7.14/live/filmbox_hungary/index.m3u8
 #EXTINF:-1 group-title="CANAIS",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
@@ -5647,8 +5645,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",MyTime Movie Network East (1080p)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Nash Kinomir (576p)
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Nash Kinopokaz HD (576p)
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Nashe HD (576p)
@@ -6093,8 +6089,6 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Shokiruyushchee HD (1080p)
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 group-title="CANAIS",Shot TV (576p)
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1 group-title="CANAIS",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Silk Way Cinema (1080p) [Geo-blocked]
