@@ -5166,7 +5166,7 @@ https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1 group-title="CANAIS",312 Kino (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",&TV International (1080p)
-https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 group-title="CANAIS",ABN Bible Movies Channel (720p)
@@ -5199,8 +5199,6 @@ https://fta.ektv.in/live/47/47_0.m3u8
 https://fta.ektv.in/live/639/master.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Public Movies (576p)
 https://fta.ektv.in/live/239/master.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
-https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 group-title="CANAIS",Allo Cine (1080p)
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 group-title="CANAIS",alpha Cinema (1080p)
@@ -5255,8 +5253,6 @@ https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ One Czechia
 http://88.212.15.50/live/test_filmbox/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies;Series",FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Kino 1 (Ukraine) (1080p)
 http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 group-title="CANAIS",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Kino Barrandov
@@ -5388,7 +5384,7 @@ https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="CANAIS",B4U Kadak (1080p)
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",B4U Movies (1080p)
-http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 group-title="CANAIS",BET Cinema
@@ -5671,6 +5667,8 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
 #EXTINF:-1 group-title="CANAIS",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",FrightFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 #EXTINF:-1 group-title="CANAIS",GEM Bollywood
@@ -5777,8 +5775,6 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Jalsha Movies (1080p)
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CANAIS",Jalsha Movies HD (1080p)
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Jiangsu Movie Channel (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Jiangxi Movie Channel
@@ -6401,8 +6397,6 @@ https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Sony Max 1 (720p)
-https://bdix.ottking.top:8082/Sony-Max-1/video.m3u8?token=Sami-TV
 #EXTINF:-1 group-title="CANAIS",Sony Movies (Brazil) (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Sony Movies (United States) (720p)
