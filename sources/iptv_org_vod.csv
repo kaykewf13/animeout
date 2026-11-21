@@ -8,9 +8,9 @@ Filmes,Movies,70s Cinema,https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8,https
 Filmes,Movies,80s Rewind,https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8,https://i.imgur.com/nkEeYfI.png,80sRewind.us@SD,iptv-org
 Filmes,Movies,90s Throwback,https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8,https://i.imgur.com/KoGko6M.png,90sThrowback.us@SD,iptv-org
 Filmes,Movies,312 Kino (406p),http://176.126.166.43:1935/live/312kino/playlist.m3u8,https://i.ibb.co/3m9LrLj/k7gIibH.png,312Kino.kg@SD,iptv-org
+Filmes,Movies,&TV International (1080p),https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png,AndTV.in@International,iptv-org
 Filmes,Movies,&pictures HD (1080p),http://116.90.120.149:8000/play/a132/index.m3u8,https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540,Andpictures.in@HD,iptv-org
 Filmes,Movies,&TV HD (1080p),http://116.90.120.149:8000/play/a133/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png,AndTV.in@HD,iptv-org
-Filmes,Movies,&TV International (1080p),https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png,AndTV.in@International,iptv-org
 Filmes,Movies,&xplor HD (1080p),http://116.90.120.149:8000/play/a11o/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png,AndxplorHD.in@HD,iptv-org
 Filmes,Entertainment;General;Movies;Music,+MaisUm (720p),https://stream.ichibansys.com:3230/hybrid/play.m3u8,https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png,PlusMaisUm.br@HD,iptv-org
 Filmes,Movies;Religious,ABN Bible Movies Channel (720p),https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8,https://i.imgur.com/NCqZdaL.png,ABNBibleMoviesChannel.us@SD,iptv-org
@@ -44,7 +44,7 @@ Filmes,Movies,Aurora Media Films (720p),https://cdn.streamhispanatv.net:3417/liv
 Filmes,Movies,AVI Rewind (1080p),http://45.70.201.81:8000/play/a010/index.m3u8,https://zplay.cl/LogosV2/AVIREWINDS_NEW.png,AVIRewind.us@SD,iptv-org
 Filmes,Movies,AXN (Brazil) (720p),http://170.83.16.50/AXN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXN.br@SD,iptv-org
 Filmes,Movies,AXN (Portugal) (1080p),http://188.115.15.121:8000/play/a02z,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXN.pt@SD,iptv-org
-Filmes,Movies,AXN (Spain),http://sultanios.alwaysdata.net/vavo.php?ID=4238619703,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXN.es@SD,iptv-org
+Filmes,Movies,AXN (Spain) (1080p),https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXN.es@SD,iptv-org
 Filmes,Movies,AXN (Spain) HD (1080p),http://90.170.214.40:9700/stream/avatel/axn/master.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXN.es@HD,iptv-org
 Filmes,Movies;Series,AXN Asia Indonesia,http://202.150.165.66:8088/play/301-AXN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Indonesia,iptv-org
 Filmes,Movies;Series,AXN Asia Taiwan (1080p),http://125.227.210.55:4050/VideoInput/play.ts,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNAsia.sg@Taiwan,iptv-org
@@ -62,8 +62,7 @@ Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies
 Filmes,Movies,AXN Latin America (1080p),http://138.121.15.230:9002/AXN/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@CentralAmerica,iptv-org
 Filmes,Movies,AXN Latin America Andes (1080p),http://181.78.8.199:8000/play/a0cu/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@Andes,iptv-org
 Filmes,Movies,AXN Latin America South,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png,AXNLatinAmerica.us@South,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AXN Movies (Portugal) (720p)",http://50.7.120.34:8080/AXN_BLACK/index.m3u8,https://i.imgur.com/tJQckal.png,AXNMovies.pt@SD,iptv-org
-Filmes,Movies,AXN Movies (Spain),http://sultanios.alwaysdata.net/vavo.php?ID=2493319111,https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512,AXNMovies.es@SD,iptv-org
+Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",AXN Movies (720p)",http://50.7.120.34:8080/AXN_BLACK/index.m3u8,https://i.imgur.com/tJQckal.png,AXNMovies.pt@SD,iptv-org
 Filmes,Movies,AXN Poland (1080p),http://92.114.85.87:8015/play/a00f/index.m3u8,https://i.imgur.com/i5wOhkf.png,AXNPoland.pl@SD,iptv-org
 Filmes,Movies;Series,AXN White (Poland) (576i),http://92.114.85.87:8014/play/a004/index.m3u8,https://i.imgur.com/DaAyLE7.png,AXNWhite.pl@SD,iptv-org
 Filmes,Movies,Az Cinema (1080p),http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8,https://i.imgur.com/B5UN7C8.png,AzCinema.mx@SD,iptv-org
@@ -134,7 +133,7 @@ Filmes,Movies,Cine Western (France) (1080p),https://amg00711-zylo-amg00711c8-rak
 Filmes,Movies,Cine Western (Spain) (1080p),https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8,https://i.imgur.com/2UROzSc.png,CineWestern.es@SD,iptv-org
 Filmes,Movies,Cine Western by Pluto TV,https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8,https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png,CineWesternbyPlutoTV.de@FR,iptv-org
 Filmes,Movies,"like Gecko) Chrome/152.0.0.0 Safari/537.36"" group-title=""Movies"",Cine+",http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR,https://i.imgur.com/SAtdShq.png,CinePlus.ua@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Cine+ Classic",http://99.27.51.147/CineClassic/index.m3u8,https://i.imgur.com/y2zeLS3.jpeg,CinePlusClassic.fr@SD,iptv-org
+Filmes,Movies,Cine+ Classic (1080p),https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027,https://i.imgur.com/y2zeLS3.jpeg,CinePlusClassic.fr@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Cine+ Frisson (1080p)",http://99.27.51.147:8080/CineFrisson/index.m3u8,https://i.imgur.com/MwFtbnR.jpeg,CinePlusFrisson.fr@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/152.0.0.0 Safari/537.36"" group-title=""Movies"",Cine+ Hit",http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==,https://i.imgur.com/b3FcLU1.png,CinePlusHit.ua@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/152.0.0.0 Safari/537.36"" group-title=""Movies"",Cine+ Legend",http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==,https://i.imgur.com/QtOfzSH.png,CinePlusLegend.ua@SD,iptv-org
@@ -211,10 +210,6 @@ Filmes,Movies,Evrokino (576p),http://176.118.197.101/Evrokino/index.m3u8,https:/
 Filmes,Movies,Evrokino HD (1080p),http://stream.mcquack.net/385/index.m3u8,https://i.imgur.com/8LPtPf6.png,Evrokino.ru@HD,iptv-org
 Filmes,Animation;Movies,FAN (1080p),http://31.148.48.15/Fan/index.m3u8,https://i.imgur.com/mDeTbaF.png,FAN.ru@SD,iptv-org
 Filmes,Movies,Feniks plus Kino (576p),http://31.148.48.15/Feniks_plus_kino/index.m3u8,https://i.imgur.com/S9OPMLE.png,FeniksplusKino.ru@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Film1 Action",http://86.87.15.10:8008/play/a01l/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png,Film1Action.nl@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Film1 Drama",http://86.87.15.10:8008/play/a01k/index.m3u8,https://i.imgur.com/oqrnvib.png,Film1Drama.nl@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Film1 Family",http://86.87.15.10:8008/play/a01m/index.m3u8,https://i.imgur.com/8XRfXIa.png,Film1Family.nl@SD,iptv-org
-Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Film1 Premiere",http://86.87.15.10:8008/play/a01n/index.m3u8,https://i.imgur.com/Kn9LX8i.png,Film1Premiere.nl@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies"",Film4",http://88.212.7.14/live/film4_hun/index.m3u8,https://i.imgur.com/X5N8CHf.png,Film4.hu@SD,iptv-org
 Filmes,Movies,Film & Arts (1080p),http://15.204.246.24:8080/FilmArtsHD/index.m3u8,https://i.imgur.com/ukdmEKD.png,FilmArts.ar@Panregional,iptv-org
 Filmes,Movies,"like Gecko) Chrome/120.0.0.0 Safari/537.36"" group-title=""Movies"",Film Cafe",http://88.212.7.14/live/film_cafe/index.m3u8,https://i.imgur.com/jaKRnzU.png,FilmCafe.hu@Hungary,iptv-org
@@ -450,7 +445,7 @@ Filmes,Movies,Ostrosyuzhetnoye HD (1080p),http://stream.mcquack.net/214/index.m3
 Filmes,Movies;Series,OuterSphere (1080p),https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8,https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png,OuterSphere.us@SD,iptv-org
 Filmes,Movies;Series,Pantalla Clasica EC (512p) [Not 24/7],https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8,https://i.imgur.com/mhbERF9.jpg,PantallaClasicaEC.ec@SD,iptv-org
 Filmes,Movies,Paramount Movie Channel,https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8,https://i.imgur.com/sj5h9bl.png,ParamountMovieChannel.us@SD,iptv-org
-Filmes,Movies;Series,Paramount Network (Poland),http://sultanios.alwaysdata.net/vavo.php?ID=3390498693,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png,ParamountNetwork.pl@SD,iptv-org
+Filmes,Movies;Series,Paramount Network (Poland) (1080p),https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png,ParamountNetwork.pl@SD,iptv-org
 Filmes,Movies;Series,Paramount Network (United States) (1080p),http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png,ParamountNetwork.us@East,iptv-org
 Filmes,Movies,Paramount+ Picks,https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8,https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg,ParamountPlusPicks.us@SD,iptv-org
 Filmes,Movies,Patriot (720p),https://stream.smotrim.ru/hls2/static/playlist_4.m3u8,https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png,Patriot.ru@SD,iptv-org
@@ -464,10 +459,7 @@ Filmes,Movies,Pitaara (1080p),https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6
 Filmes,Movies;Series,Pluto Classic Movie Westerns,https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8,https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png,PlutoClassicMovieWesterns.us@CA,iptv-org
 Filmes,Movies;Series,Pluto TV 90's Classics,https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8,https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png,PlutoTV90sClassics.de@FR,iptv-org
 Filmes,Movies,Pluto TV A La Mexicana,https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png,PlutoTVALaMexicana.us@LatAm,iptv-org
-Filmes,Movies;Series,Pluto TV Action (Sweden),https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8,https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png,PlutoTVAction.se@SE,iptv-org
-Filmes,Movies;Series,Pluto TV Action (Sweden) DK,https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8,https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png,PlutoTVAction.se@DK,iptv-org
-Filmes,Movies;Series,Pluto TV Action (Sweden) NO,https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8,https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png,PlutoTVAction.se@NO,iptv-org
-Filmes,Movies,Pluto TV Action (United States),https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8,https://i.imgur.com/tDapGal.png,PlutoTVAction.us@US,iptv-org
+Filmes,Movies,Pluto TV Action,https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8,https://i.imgur.com/tDapGal.png,PlutoTVAction.us@US,iptv-org
 Filmes,Movies,Pluto TV Action Movies,https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8,https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png,PlutoTVActionMovies.us@CA,iptv-org
 Filmes,Movies,Pluto TV Alberto Sordi,https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8,https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png,PlutoTVAlbertoSordi.de@IT,iptv-org
 Filmes,Movies,Pluto TV Bang Bang,https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8,https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png,PlutoTVBangBang.us@BR,iptv-org
@@ -537,12 +529,8 @@ Filmes,Movies;Series,Pluto TV Haialarm,https://jmp2.uk/plu-69b015c5d29cc97de7da4
 Filmes,Movies,Pluto TV Harlequin,https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8,https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png,PlutoTVHarlequin.se@SE,iptv-org
 Filmes,Movies,Pluto TV Harlequin DK,https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8,https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png,PlutoTVHarlequin.se@DK,iptv-org
 Filmes,Movies,Pluto TV Harlequin NO,https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8,https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png,PlutoTVHarlequin.se@NO,iptv-org
-Filmes,Movies;Series,Pluto TV Horror (Sweden),https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8,https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png,PlutoTVHorror.se@SE,iptv-org
-Filmes,Movies;Series,Pluto TV Horror (Sweden) DK,https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8,https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png,PlutoTVHorror.se@DK,iptv-org
-Filmes,Movies;Series,Pluto TV Horror (Sweden) NO,https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8,https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png,PlutoTVHorror.se@NO,iptv-org
-Filmes,Movies;Series,Pluto TV Horror (United States),https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8,https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png,PlutoTVHorror.us@US,iptv-org
-Filmes,Movies;Series,Pluto TV Horror (United States) CA,https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8,https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png,PlutoTVHorror.us@CA,iptv-org
-Filmes,Comedy;Movies,Pluto TV Humor (Sweden),https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8,https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png,PlutoTVHumor.se@DK,iptv-org
+Filmes,Movies;Series,Pluto TV Horror,https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8,https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png,PlutoTVHorror.us@US,iptv-org
+Filmes,Movies;Series,Pluto TV Horror CA,https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8,https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png,PlutoTVHorror.us@CA,iptv-org
 Filmes,Movies,Pluto TV Icons,https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8,https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png,PlutoTVIcons.us@SD,iptv-org
 Filmes,Movies,Pluto TV Invasion Alien,https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png,PlutoTVInvasionAlien.de@ES,iptv-org
 Filmes,Movies,Pluto TV John Wayne,https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8,https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png,PlutoTVJohnWayne.se@SE,iptv-org
@@ -563,8 +551,6 @@ Filmes,Movies,Pluto TV Notti di Passione,https://jmp2.uk/plu-6911c9704316999535e
 Filmes,Movies,Pluto TV Notti di Sangue,https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8,https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png,PlutoTVNottidiSangue.de@IT,iptv-org
 Filmes,Movies,Pluto TV Notti di Terrore,https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8,https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png,PlutoTVNottidiTerrore.de@IT,iptv-org
 Filmes,Movies,Pluto TV Nuestro Cine,https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8,https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png,PlutoTVNuestroCine.us@LatAm,iptv-org
-Filmes,Movies,Pluto TV Paranormal (Sweden),https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8,https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png,PlutoTVParanormal.se@SE,iptv-org
-Filmes,Movies,Pluto TV Paranormal (Sweden) DK,https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8,https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png,PlutoTVParanormal.se@DK,iptv-org
 Filmes,Movies,Pluto TV Psycho,https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8,https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png,PlutoTVPsycho.de@ES,iptv-org
 Filmes,Movies,Pluto TV Reaction,https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8,https://i.imgur.com/H9k3OXN.png,PlutoTVReaction.us@SD,iptv-org
 Filmes,Classic;Movies,Pluto TV Retro Action Movies,https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8,https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png,PlutoTVRetroActionMovies.us@CA,iptv-org
@@ -572,12 +558,9 @@ Filmes,Movies;Series,Pluto TV Romance,https://jmp2.uk/plu-5a66795ef91fef2c7031c5
 Filmes,Movies,Pluto TV Romantik,https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8,https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png,PlutoTVRomantik.se@SE,iptv-org
 Filmes,Movies,Pluto TV Romantik DK,https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8,https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png,PlutoTVRomantik.se@DK,iptv-org
 Filmes,Movies,Pluto TV Romantikk,https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8,https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png,PlutoTVRomantikk.se@NO,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (Sweden),https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8,https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png,PlutoTVSciFi.se@SE,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (Sweden) DK,https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8,https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png,PlutoTVSciFi.se@DK,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (Sweden) NO,https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8,https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png,PlutoTVSciFi.se@NO,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (United States),https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@US,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (United States) CA,https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@CA,iptv-org
-Filmes,Movies;Series,Pluto TV Sci-Fi (United States) LatAm,https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@LatAm,iptv-org
+Filmes,Movies;Series,Pluto TV Sci-Fi,https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@US,iptv-org
+Filmes,Movies;Series,Pluto TV Sci-Fi CA,https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@CA,iptv-org
+Filmes,Movies;Series,Pluto TV Sci-Fi LatAm,https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png,PlutoTVSciFi.us@LatAm,iptv-org
 Filmes,Movies,Pluto TV Serie Sci-Fi,https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8,https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png,PlutoTVSerieSciFi.de@IT,iptv-org
 Filmes,Movies,Pluto TV Spotlight,https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8,https://i.imgur.com/UmuJkVB.png,PlutoTVSpotlight.us@SD,iptv-org
 Filmes,Movies,Pluto TV Staff Picks,https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8,https://i.imgur.com/JzwO8IO.png,PlutoTVStaffPicks.us@SD,iptv-org
@@ -592,9 +575,8 @@ Filmes,Movies,Pluto TV Weihnachten im Sommer,https://jmp2.uk/plu-642ad072283aa40
 Filmes,Movies,Pluto TV Western,https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8,https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png,PlutoTVWestern.de@DACH,iptv-org
 Filmes,Movies,Pluto TV Western ES,https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8,https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png,PlutoTVWestern.de@ES,iptv-org
 Filmes,Movies,Pluto TV Western IT,https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8,https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png,PlutoTVWestern.de@IT,iptv-org
-Filmes,Movies,Pluto TV Westerns (Germany),https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8,https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png,PlutoTVWesterns.de@GB,iptv-org
-Filmes,Movies,Pluto TV Westerns (United States),https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8,https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png,PlutoTVWesterns.us@US,iptv-org
-Filmes,Movies,Pluto TV Westerns (United States) CA,https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8,https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png,PlutoTVWesterns.us@CA,iptv-org
+Filmes,Movies,Pluto TV Westerns,https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8,https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png,PlutoTVWesterns.us@US,iptv-org
+Filmes,Movies,Pluto TV Westerns CA,https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8,https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png,PlutoTVWesterns.us@CA,iptv-org
 Filmes,Movies;Series,Pluto TV Wild West,https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8,https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png,PlutoTVWildWest.se@SE,iptv-org
 Filmes,Movies;Series,Pluto TV Wild West DK,https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8,https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png,PlutoTVWildWest.se@DK,iptv-org
 Filmes,Movies;Series,Pluto TV Wild West NO,https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8,https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png,PlutoTVWildWest.se@NO,iptv-org
@@ -642,8 +624,8 @@ Filmes,Movies,Rakuten TV Top Movies Finland (1080p),https://1d1b0d4cb6ae4c31985d
 Filmes,Movies,Rakuten TV Top Movies Germany (1080p),https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8,https://i.imgur.com/Meew6eX.png,RakutenTVTopMovies.es@Germany,iptv-org
 Filmes,Movies,Rakuten TV Top Movies Italy (1080p),https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8,https://i.imgur.com/Meew6eX.png,RakutenTVTopMovies.es@Italy,iptv-org
 Filmes,Movies,Rakuten TV Top Movies UK (1080p),https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8,https://i.imgur.com/Meew6eX.png,RakutenTVTopMovies.es@UK,iptv-org
-Filmes,Movies;Series,Rawhide (United States),https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8,https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png,Rawhide.us@SD,iptv-org
-Filmes,Movies;Series,Rawhide (United States) CA,https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8,https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png,Rawhide.us@CA,iptv-org
+Filmes,Movies;Series,Rawhide,https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8,https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png,Rawhide.us@SD,iptv-org
+Filmes,Movies;Series,Rawhide CA,https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8,https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png,Rawhide.us@CA,iptv-org
 Filmes,Movies,Rodnoe Kino (576p),http://stream.mcquack.net/242/index.m3u8,https://i.imgur.com/H70LxoZ.png,RodnoeKino.ru@SD,iptv-org
 Filmes,Movies,Rotana Cinema Egypt (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/dGlKoLW.png,RotanaCinemaEgypt.eg@SD,iptv-org
 Filmes,Movies,Rotana Cinema KSA (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/pGgp38I.png,RotanaCinemaKSA.sa@SD,iptv-org
@@ -699,23 +681,26 @@ Filmes,Movies;Series,Star Channel Latin America (1080p),http://15.204.246.24:808
 Filmes,Movies;Series,Star Channel Latin America South,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png,StarChannelLatinAmerica.us@South,iptv-org
 Filmes,Movies,Star Cinema (576p),http://s1.merlive.am/starsinema/index.m3u8,https://i.imgur.com/5sis895.png,StarCinema.ru@SD,iptv-org
 Filmes,Movies,Star Family (1080p),https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8,https://i.imgur.com/eGuGHnZ.png,StarFamily.ru@SD,iptv-org
+Filmes,Movies,Star Gold 2 (576p),http://116.90.120.149:8000/play/a12b/index.m3u8,https://i.imgur.com/G0ZfzZr.png,StarGold2.in@SD,iptv-org
+Filmes,Movies,Star Gold HD (1080p),http://116.90.120.149:8000/play/a12a/index.m3u8,https://i.imgur.com/xC460sj.png,StarGold.in@HD,iptv-org
+Filmes,Movies,Star Gold Romance (576p),http://116.90.120.149:8000/play/a12c/index.m3u8,https://i.imgur.com/gSWv9U3.png,StarGoldRomance.in@SD,iptv-org
+Filmes,Movies,Star Gold Select HD (1080p),http://116.90.120.149:8000/play/a131/index.m3u8,https://i.imgur.com/U7eiuqv.png,StarGoldSelect.in@HD,iptv-org
 Filmes,Movies,Star Maa Movies HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8,https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540,StarMaaMovies.in@HD,iptv-org
+Filmes,Movies,Star Movies (India) HD (1080p),http://116.90.120.149:8000/play/a13a/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png,StarMovies.in@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Star Movies (Portugal)",http://znty.dyndns.org:5010/hls/foxm.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png,StarMovies.pt@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Star Movies (Slovenia)",http://92.36.202.5:10001/play/a01o,https://i.imgur.com/JcoAgDF.png,StarMovies.si@SD,iptv-org
+Filmes,Movies,Star Movies Select HD (1080p),http://116.90.120.149:8000/play/a139/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png,StarMoviesSelect.in@HD,iptv-org
 Filmes,Movies,Star Tamil Television (360p),https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=,https://i.imgur.com/fjHcr9z.jpg,StarTamilTelevision.lk@SD,iptv-org
 Filmes,Movies,Star Trek Movies,https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8,https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png,StarTrekMovies.se@SE,iptv-org
 Filmes,Movies,Star Trek Movies DK,https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8,https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png,StarTrekMovies.se@DK,iptv-org
 Filmes,Movies,Star Trek Movies NO,https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8,https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png,StarTrekMovies.se@NO,iptv-org
 Filmes,Movies;Series,Star Trek: Deep Space Nine,https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8,https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png,StarTrekDeepSpaceNine.us@SD,iptv-org
-Filmes,Movies;Series,Star Trek: The Next Generation (Germany),https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8,https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png,StarTrekTheNextGeneration.de@DACH,iptv-org
-Filmes,Movies;Series,Star Trek: The Next Generation (United States),https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8,https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png,StarTrekTheNextGeneration.us@SD,iptv-org
+Filmes,Movies;Series,Star Trek: The Next Generation,https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8,https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png,StarTrekTheNextGeneration.us@SD,iptv-org
 Filmes,Movies;Series,Star Trek: The Original Series (Germany),https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8,https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png,StarTrekTheOriginalSeries.de@DACH,iptv-org
 Filmes,Movies;Series,Star Trek: The Original Series (Sweden),https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8,https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png,StarTrekTheOriginalSeries.se@SE,iptv-org
 Filmes,Movies;Series,Star Trek: The Original Series (Sweden) DK,https://jmp2.uk/plu-693add137e308621c051e733.m3u8,https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png,StarTrekTheOriginalSeries.se@DK,iptv-org
 Filmes,Movies;Series,Star Trek: The Original Series (Sweden) NO,https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8,https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png,StarTrekTheOriginalSeries.se@NO,iptv-org
-Filmes,Movies;Series,Star Trek: Voyager (Germany),https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png,StarTrekVoyager.de@ES,iptv-org
-Filmes,Movies;Series,Star Trek: Voyager (Germany) IT,https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png,StarTrekVoyager.de@IT,iptv-org
-Filmes,Movies;Series,Star Trek: Voyager (United States),https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8,https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png,StarTrekVoyager.us@SD,iptv-org
+Filmes,Movies;Series,Star Trek: Voyager,https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8,https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png,StarTrekVoyager.us@SD,iptv-org
 Filmes,Movies,Star Utsav Movies (576p),http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass,https://i.imgur.com/k5QHfH2.png,StarUtsavMovies.in@SD,iptv-org
 Filmes,Movies,START Air (1080p),http://176.118.197.101/START_AIR/index.m3u8,https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png,STARTAir.ru@SD,iptv-org
 Filmes,Movies,START World (576p),https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv,https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png,STARTWorld.ru@SD,iptv-org
@@ -742,7 +727,7 @@ Filmes,Movies,The Movie Club +2 (1080p),https://d3gnyty2vddhsg.cloudfront.net/v1
 Filmes,Movies;Series,The Twilight Zone,https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8,https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png,TheTwilightZone.se@SE,iptv-org
 Filmes,Movies;Series,The Twilight Zone DK,https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8,https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png,TheTwilightZone.se@DK,iptv-org
 Filmes,Movies;Series,The Twilight Zone NO,https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8,https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png,TheTwilightZone.se@NO,iptv-org
-Filmes,Movies;Series,The Wild Wild West (United States),https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8,https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png,TheWildWildWest.us@SD,iptv-org
+Filmes,Movies;Series,The Wild Wild West,https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8,https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png,TheWildWildWest.us@SD,iptv-org
 Filmes,Movies,Thrill (540p),https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd,https://i.imgur.com/Y282owj.png,Thrill.hk@SD,iptv-org
 Filmes,Movies,Tolly TV (1080p),https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8,https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png,TollyTV.in@HD,iptv-org
 Filmes,Movies,TV 21 (576p),http://178.134.1.158:8081/TVXXI/index.m3u8,https://i.imgur.com/nSmSnH6.png,TV21.ru@SD,iptv-org
@@ -794,6 +779,8 @@ Filmes,Movies,"like Gecko) Chrome/130.0.0.0 Safari/537.36"" group-title=""Movies
 Filmes,Classic;Movies,ZB Cinema (1080p),https://server.zillarbarta.com/ZBCINEMA/index.m3u8,https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png,ZBCinema.in@HD,iptv-org
 Filmes,Movies,Zee Cinema APAC (720p),https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png,ZeeCinema.in@APAC,iptv-org
 Filmes,Movies,Zee South Flix (1080p),https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8,https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png,ZeeSouthFlix.in@HD,iptv-org
+Filmes,Movies,Zee Talkies HD (1080p),http://116.90.120.149:8000/play/a116/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png,ZeeTalkies.in@HD,iptv-org
+Filmes,Movies,Zee Thirai HD (1080p),http://116.90.120.149:8000/play/a11q/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png,ZeeThirai.in@HD,iptv-org
 Series,Classic;Comedy;Public;Series,3Cat Plats bruts (1080p),https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8,https://i.imgur.com/49ZENis.png,3CatPlatsbruts.es@SD,iptv-org
 Series,Series,4ever Drama (1080p),http://stream.mcquack.net/260/index.m3u8,https://i.imgur.com/CD3vZU6.png,4everDrama.ua@SD,iptv-org
 Series,Series,5 Cops,https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8,https://i.imgur.com/QFPRaXK.png,5Cops.us@UK,iptv-org
@@ -853,9 +840,6 @@ Series,Series,BET NO,https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8,https://i
 Series,Series,Beverly Hills 90210,https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8,https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png,BeverlyHills90210.us@SD,iptv-org
 Series,Series,Black Ink Crew,https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8,https://i.imgur.com/QnuIVB6.png,BlackInkCrew.us@SD,iptv-org
 Series,Series,Blue Bloods,https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8,https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg,BlueBloods.us@SD,iptv-org
-Series,Series,Bondi Rescue (Sweden) (720p),https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8,https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png,BondiRescue.se@SE,iptv-org
-Series,Series,Bondi Rescue (Sweden) DK (720p),https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8,https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png,BondiRescue.se@DK,iptv-org
-Series,Series,Bondi Rescue (Sweden) NO (720p),https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8,https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png,BondiRescue.se@NO,iptv-org
 Series,Series,Britain's Next Top Model,https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8,https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png,BritainsNextTopModel.se@SE,iptv-org
 Series,Series,Britain's Next Top Model DK,https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8,https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png,BritainsNextTopModel.se@DK,iptv-org
 Series,Series,Britain's Next Top Model NO,https://jmp2.uk/plu-67a09e25c070cf00083c40fa.m3u8,https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png,BritainsNextTopModel.se@NO,iptv-org
@@ -863,12 +847,9 @@ Series,Series,Bull,https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8,https://ima
 Series,Series,Bull DK,https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8,https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png,Bull.se@DK,iptv-org
 Series,Series,Bull NO,https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8,https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png,Bull.se@NO,iptv-org
 Series,Series,Cagney & Lacey,https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8,https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png,CagneyLacey.de@GB,iptv-org
-Series,Series,Car Chase (Sweden) (720p),https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8,https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png,CarChase.se@SE,iptv-org
-Series,Series,Car Chase (Sweden) DK (720p),https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8,https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png,CarChase.se@DK,iptv-org
-Series,Series,Car Chase (Sweden) NO (720p),https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8,https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png,CarChase.se@NO,iptv-org
 Series,Series,Celebrity Name Game (1080p) [Geo-blocked],https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8,https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png,CelebrityNameGame.us@SD,iptv-org
 Series,Series,Chaos City,https://jmp2.uk/plu-60afbad343e3840007164348.m3u8,https://i.imgur.com/1UZNdRH.png,ChaosCity.us@Germany,iptv-org
-Series,Series,Cheers (United States),https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8,https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png,Cheers.us@CA,iptv-org
+Series,Series,Cheers,https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8,https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png,Cheers.us@CA,iptv-org
 Series,Auto;Series,Choppertown (720p),https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8,https://i.imgur.com/U6cu5Ms.png,Choppertown.us@SD,iptv-org
 Series,Classic;Series,Cin Cin,https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8,https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png,CinCin.de@IT,iptv-org
 Series,Documentary;Series,City Eden KinoDok [Not 24/7],https://cityeden.catcast.tv/content/38354/index.m3u8,https://i.imgur.com/itRbMX3.png,CityEdenKinoDok.ru@HD,iptv-org
@@ -877,8 +858,7 @@ Series,Business;Series,CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cn
 Series,Series,Cold Case Files (1080p),https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8,https://i.imgur.com/mowSfj6.png,ColdCaseFiles.us@SD,iptv-org
 Series,Series,Cops (720p),https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8,https://i.imgur.com/J3XO6V2.png,Cops.us@SD,iptv-org
 Series,Series,Crime District (540p),https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8,https://i.imgur.com/WQJ6Lbk.png,CrimeDistrict.fr@SD,iptv-org
-Series,Series,CSI (Sweden),https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8,https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png,CSI.se@DK,iptv-org
-Series,Series,CSI (United States),https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8,https://i.imgur.com/xLLNEfA.png,CSI.us@SD,iptv-org
+Series,Series,CSI,https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8,https://i.imgur.com/xLLNEfA.png,CSI.us@SD,iptv-org
 Series,Series,CSI: Crime Scene Investigation,https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8,https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png,CSICrimeSceneInvestigation.de@GB,iptv-org
 Series,Series,CSI: Miami,https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8,https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png,CSIMiami.us@SD,iptv-org
 Series,Series,CSI: Miami BR,https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8,https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png,CSIMiami.us@BR,iptv-org
@@ -896,12 +876,8 @@ Series,Series,Dating Naked UK NO,https://jmp2.uk/plu-692edcff77f0147d69f19498.m3
 Series,Series,Deal or No Deal (1080p),https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8,https://i.imgur.com/lZvNXA1.png,DealorNoDeal.us@SD,iptv-org
 Series,Series,Degrassi (720p),https://d3537vnymvfque.cloudfront.net/playlist.m3u8,https://i.imgur.com/vhSzfDC.png,Degrassi.us@US,iptv-org
 Series,Series,Designated Survivor (1080p) [Geo-blocked],https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8,https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png,DesignatedSurvivor.us@SD,iptv-org
-Series,Classic;Series,Diagnosis Murder,https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8,https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png,DiagnosisMurder.se@SE,iptv-org
-Series,Classic;Series,Diagnosis Murder DK,https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8,https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png,DiagnosisMurder.se@DK,iptv-org
-Series,Classic;Series,Diagnosis Murder NO,https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8,https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png,DiagnosisMurder.se@NO,iptv-org
 Series,Series,Diff'rent Strokes Arnold,https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8,https://i.imgur.com/jkmouY3.png,DiffrentStrokesArnold.us@Brazil,iptv-org
-Series,Series,Doc Martin (Sweden),https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8,https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png,DocMartin.se@SE,iptv-org
-Series,Series,Doc Martin (United States),https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8,https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png,DocMartin.us@CA,iptv-org
+Series,Series,Doc Martin,https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8,https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png,DocMartin.us@CA,iptv-org
 Series,Series,Doctor Who Classic (1080p),https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8,https://i.imgur.com/JIqJQQM.png,DoctorWhoClassic.us@US,iptv-org
 Series,Series,Dog the Bounty Hunter (1080p),https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8,https://i.imgur.com/lMICupK.png,DogtheBountyHunter.us@US,iptv-org
 Series,Series,Dog the Bounty Hunter UK (1080p),https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8,https://i.imgur.com/lMICupK.png,DogtheBountyHunter.us@UK,iptv-org
@@ -915,24 +891,21 @@ Series,Series,El Comisario,https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8,htt
 Series,Series,El encantador de perros,https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8,https://i.imgur.com/hYqjQ1n.png,Elencantadordeperros.us@Spain,iptv-org
 Series,Series,Empenos a lo bestia,https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8,https://i.imgur.com/EOttSdW.png,Empenosalobestia.us@Spain,iptv-org
 Series,Series,Europa Europa (1080p),http://38.252.238.18:8000/play/a01d/index.m3u8,https://i.imgur.com/w5SOfyJ.png,EuropaEuropa.ar@SD,iptv-org
-Series,Series,Family Ties (United States),https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8,https://i.imgur.com/WJEkKCb.png,FamilyTies.us@SD,iptv-org
+Series,Series,Family Ties,https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8,https://i.imgur.com/WJEkKCb.png,FamilyTies.us@SD,iptv-org
 Series,Series,Farscape,https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8,https://i.imgur.com/2WH4lSc.png,Farscape.us@SD,iptv-org
 Series,Series,FBoy Island,https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8,https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png,FBoyIsland.se@DK,iptv-org
 Series,Series,Fear Factor (1080p),https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8,https://i.imgur.com/CIYnLWz.png,FearFactor.us@US,iptv-org
 Series,Series,Feel Good Drama,https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8,https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png,FeelGoodDrama.us@SD,iptv-org
 Series,Series,Fox Life (576p),http://stream.mcquack.net/129/index.m3u8,https://i.imgur.com/O2miSLA.png,FoxLife.ru@SD,iptv-org
-Series,Series,Frasier (United States),https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png,Frasier.us@CA,iptv-org
+Series,Series,Frasier,https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png,Frasier.us@CA,iptv-org
 Series,Series,Frequence Novelas (1080p),https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8,https://i.imgur.com/fEjNAps.png,FrequenceNovelas.fr@SD,iptv-org
 Series,Series,GEM Series +,https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202,https://gemgroup.tv/assets/images/channels/icon_33.png,GEMSeriesPlus.tr@SD,iptv-org
 Series,Series,Ghost Dimension,https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8,https://i.imgur.com/a0jOxez.png,GhostDimension.us@UK,iptv-org
 Series,Series,Ghost Hunters (1080p),https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8,https://i.imgur.com/KdBr6rG.png,GhostHunters.us@UK,iptv-org
 Series,Series,Gunsmoke,https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8,https://images.pluto.tv/channels/62e916affb29c60007211c8a/colorLogoPNG.png,Gunsmoke.us@SD,iptv-org
 Series,Documentary;Series,GZT (1080p),https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png,GZT.tr@SD,iptv-org
-Series,Classic;Series,Happy Days (Sweden),https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8,https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png,HappyDays.se@SE,iptv-org
-Series,Classic;Series,Happy Days (Sweden) DK,https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8,https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png,HappyDays.se@DK,iptv-org
-Series,Classic;Series,Happy Days (Sweden) NO,https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8,https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png,HappyDays.se@NO,iptv-org
-Series,Series,Happy Days (United States),https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png,HappyDays.us@SD,iptv-org
-Series,Series,Happy Days (United States) CA,https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png,HappyDays.us@CA,iptv-org
+Series,Series,Happy Days,https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png,HappyDays.us@SD,iptv-org
+Series,Series,Happy Days CA,https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png,HappyDays.us@CA,iptv-org
 Series,Series,HauntTV (1080p),https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png,HauntTV.ca@SD,iptv-org
 Series,Series,HauntTV CA (720p),https://jmp2.uk/plu-63934c218ef524000757b122.m3u8,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png,HauntTV.ca@CA,iptv-org
 Series,Series,Helene et les garcons,https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8,https://i.imgur.com/EjjzjF9.png,Heleneetlesgarcons.us@France,iptv-org
@@ -946,9 +919,9 @@ Series,Series,House of Lies,https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8,ht
 Series,Series,House of Lies DK,https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8,https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png,HouseofLies.se@DK,iptv-org
 Series,Series,House of Lies NO,https://jmp2.uk/plu-693ae65fab5959c036fa6c1e.m3u8,https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png,HouseofLies.se@NO,iptv-org
 Series,Entertainment;General;Series,HTV3 (720p),https://dethich.pw/htv3/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/6/65/HTV3-2018.png,HTV3.vn@SD,iptv-org
-Series,Series,iCarly (United States),https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@BR,iptv-org
-Series,Series,iCarly (United States) LatAm,https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@LatAm,iptv-org
-Series,Series,iCarly (United States) SD,https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@SD,iptv-org
+Series,Series,iCarly,https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@BR,iptv-org
+Series,Series,iCarly LatAm,https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@LatAm,iptv-org
+Series,Series,iCarly SD,https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png,iCarly.us@SD,iptv-org
 Series,Series,Ice Pilots,https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8,https://i.imgur.com/F8GBYq3.png,IcePilots.us@Germany,iptv-org
 Series,Series,Impossible Quiz Show (1080p),https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8,https://i.imgur.com/9EWffqx.png,ImpossibleQuizShow.us@SD,iptv-org
 Series,Kids;Series,Inazuma Eleven,https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8,https://i.imgur.com/pLv0T3D.png,InazumaEleven.us@France,iptv-org
@@ -958,11 +931,8 @@ Series,Series,Investiga,https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8,https:
 Series,Series,Investiga US,https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8,https://images.pluto.tv/channels/5cf96b8f4f1ca3f0629f4bf1/colorLogoPNG.png,Investiga.us@US,iptv-org
 Series,Series,Investigation by Pluto TV,https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8,https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png,InvestigationbyPlutoTV.de@FR,iptv-org
 Series,Series,Iron Chef,https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8,https://i.imgur.com/rk7fMNe.png,IronChef.us@US,iptv-org
-Series,Classic;Series,JAG (Sweden),https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8,https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png,JAG.se@SE,iptv-org
-Series,Classic;Series,JAG (Sweden) DK,https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8,https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png,JAG.se@DK,iptv-org
-Series,Classic;Series,JAG (Sweden) NO,https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8,https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png,JAG.se@NO,iptv-org
-Series,Series,JAG (United States),https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8,https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png,JAG.us@CA,iptv-org
-Series,Series,Jersey Shore (United States),https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8,https://i.imgur.com/SssCaj1.png,JerseyShore.us@SD,iptv-org
+Series,Series,JAG,https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8,https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png,JAG.us@CA,iptv-org
+Series,Series,Jersey Shore,https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8,https://i.imgur.com/SssCaj1.png,JerseyShore.us@SD,iptv-org
 Series,Series,Johnny Carson TV (720p),https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8,https://i.imgur.com/KBTqpJ7.png,JohnnyCarsonTV.us@SD,iptv-org
 Series,Series,Jornada nas Estrelas: A Nova Geracao,https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8,https://images.pluto.tv/channels/69162ad79505d0f3b1ebf07d/colorLogoPNG_1766066212478.png,JornadanasEstrelasANovaGeracao.us@BR,iptv-org
 Series,Series,Jornada nas Estrelas: Deep Space Nine,https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8,https://images.pluto.tv/channels/69162af591700f4c4c135c95/colorLogoPNG_1766066526851.png,JornadanasEstrelasDeepSpaceNine.us@BR,iptv-org
@@ -987,17 +957,11 @@ Series,Series,Louis La Brocante,https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u
 Series,Series,Love & Hip Hop,https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8,https://i.imgur.com/rhGyebf.png,LoveHipHop.us@SD,iptv-org
 Series,Series,Love Thy Neighbor (1080p) [Geo-blocked],https://amg00353-amg00353c48-vizio-us-8534.playouts.now.amagi.tv/playlist.m3u8,https://i.imgur.com/tBPSVDr.png,LoveThyNeighbor.us@SD,iptv-org
 Series,Series,Luksusfellen Sverige,https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8,https://images.pluto.tv/channels/61c1e0f1d6d97900076ea16f/colorLogoPNG.png,LuksusfellenSverige.se@NO,iptv-org
-Series,Classic;Series,MacGyver (Sweden),https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8,https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png,MacGyver.se@SE,iptv-org
-Series,Classic;Series,MacGyver (Sweden) DK,https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8,https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png,MacGyver.se@DK,iptv-org
-Series,Classic;Series,MacGyver (Sweden) NO,https://jmp2.uk/plu-654a59d483595c0008187514.m3u8,https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png,MacGyver.se@NO,iptv-org
 Series,Series,Maraya (1080p),https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8,https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png,Maraya.sa@HD,iptv-org
 Series,Series,Married with Children,https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8,https://i.imgur.com/L9Epmtf.png,MarriedwithChildren.us@UK,iptv-org
 Series,Series,MasterChef,https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8,https://i.imgur.com/lOuySbz.png,MasterChef.us@Brazil,iptv-org
-Series,Classic;Series,Matlock (Sweden),https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8,https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png,Matlock.se@SE,iptv-org
-Series,Classic;Series,Matlock (Sweden) DK,https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8,https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png,Matlock.se@DK,iptv-org
-Series,Classic;Series,Matlock (Sweden) NO,https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8,https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png,Matlock.se@NO,iptv-org
-Series,Series,Matlock (United States),https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8,https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png,Matlock.us@SD,iptv-org
-Series,Series,Matlock (United States) CA,https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8,https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png,Matlock.us@CA,iptv-org
+Series,Series,Matlock,https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8,https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png,Matlock.us@SD,iptv-org
+Series,Series,Matlock CA,https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8,https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png,Matlock.us@CA,iptv-org
 Series,Series,MBC Drama USA (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8,https://i.imgur.com/g5PWnqp.png,MBCDramaUSA.us@SD,iptv-org
 Series,Series,MBC Masr Drama (1080p),https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8,https://media0070.elcinema.com/tvguide/1399_1.png,MBCMasrDrama.sa@SD,iptv-org
 Series,Series,McLeod's Daughters (1080p),https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8,https://i.imgur.com/q4BBDzw.png,McLeodsDaughters.us@UK,iptv-org
@@ -1010,11 +974,8 @@ Series,Series,Mi Extrana Obsesion,https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m
 Series,Series,Midsomer Murders (1080p),https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8,https://i.imgur.com/VFqfyfY.png,MidsomerMurders.us@SD,iptv-org
 Series,Series,Mir Seriala (576p),http://176.118.197.101/MirSeriala/index.m3u8,https://i.imgur.com/uzj7wVp.png,MirSeriala.ru@SD,iptv-org
 Series,Series,Mireasa (720p),https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8,https://i.imgur.com/k0VO0LH.png,Mireasa.ro@SD,iptv-org
-Series,Classic;Series,Mission Impossible (Sweden),https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8,https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png,MissionImpossible.se@SE,iptv-org
-Series,Classic;Series,Mission Impossible (Sweden) DK,https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8,https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png,MissionImpossible.se@DK,iptv-org
-Series,Classic;Series,Mission Impossible (Sweden) NO,https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8,https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png,MissionImpossible.se@NO,iptv-org
-Series,Series,Mission Impossible (United States),https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8,https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png,MissionImpossible.us@SD,iptv-org
-Series,Series,Mission Impossible (United States) CA,https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8,https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png,MissionImpossible.us@CA,iptv-org
+Series,Series,Mission Impossible,https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8,https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png,MissionImpossible.us@SD,iptv-org
+Series,Series,Mission Impossible CA,https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8,https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png,MissionImpossible.us@CA,iptv-org
 Series,Series,Misterios sin resolver,https://jmp2.uk/plu-5f610042272f68000867685b.m3u8,https://i.imgur.com/8mnvubb.png,Misteriossinresolver.us@SD,iptv-org
 Series,Series,More True Crime,https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8,https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png,MoreTrueCrime.us@SD,iptv-org
 Series,Series,More TV Crime,https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8,https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png,MoreTVCrime.de@GB,iptv-org
@@ -1022,21 +983,19 @@ Series,Series,Most Haunted (1080p),https://amg00426-lds-amg00426c17-samsung-gb-1
 Series,Series,MST3K (1080p),https://mst3k-roku.amagi.tv/playlist.m3u8,https://i.imgur.com/2LSdcga.png,MST3K.us@US,iptv-org
 Series,Series,MTV Are you the One?,https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8,https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png,MTVAreyoutheOne.us@BR,iptv-org
 Series,Series,MTV Com o Ex,https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8,https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png,MTVComoEx.us@BR,iptv-org
-Series,Series,MTV Dating (United States),https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@BR,iptv-org
-Series,Series,MTV Dating (United States) CA,https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@CA,iptv-org
-Series,Series,MTV Dating (United States) LatAm (720p),https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@LatAm,iptv-org
-Series,Series,MTV Teen Mom (United States) (720p),https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png,MTVTeenMom.us@LatAm,iptv-org
+Series,Series,MTV Dating,https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@BR,iptv-org
+Series,Series,MTV Dating CA,https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@CA,iptv-org
+Series,Series,MTV Dating LatAm (720p),https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8,https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png,MTVDating.us@LatAm,iptv-org
+Series,Series,MTV Teen Mom (720p),https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png,MTVTeenMom.us@LatAm,iptv-org
 Series,Series,Mythbusters (1080p),https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8,https://i.imgur.com/wzzjvcH.png,Mythbusters.us@UK,iptv-org
 Series,Series,Nash Bridges (720p),https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8,https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png,NashBridges.us@SD,iptv-org
 Series,Series,Nashville CA,https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8,https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png,Nashville.us@CA,iptv-org
-Series,Series,NCIS (Sweden),https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8,https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png,NCIS.se@DK,iptv-org
-Series,Series,NCIS (United States),https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@BR,iptv-org
-Series,Series,NCIS (United States) CA,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@CA,iptv-org
-Series,Series,NCIS (United States) LatAm,https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@LatAm,iptv-org
+Series,Series,NCIS,https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@BR,iptv-org
+Series,Series,NCIS CA,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@CA,iptv-org
+Series,Series,NCIS LatAm,https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8,https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png,NCIS.us@LatAm,iptv-org
 Series,Series,NCIS: Det bedste med Gibbs,https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8,https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png,NCISDetbedstemedGibbs.se@DK,iptv-org
 Series,Series,NCIS: Det bedste med Tony & Ziva,https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8,https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png,NCISDetbedstemedTonyZiva.se@DK,iptv-org
-Series,Series,NCIS: Los Angeles (Sweden),https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8,https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png,NCISLosAngeles.se@DK,iptv-org
-Series,Series,NCIS: Los Angeles (United States),https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8,https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png,NCISLosAngeles.us@CA,iptv-org
+Series,Series,NCIS: Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8,https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png,NCISLosAngeles.us@CA,iptv-org
 Series,Series,Nevskiy (1080p),https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8,https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg,Nevskiy.ru@SD,iptv-org
 Series,Series,Nordisk krim fra Viaplay,https://jmp2.uk/plu-64eca23c9c1e390008524ae6.m3u8,https://images.pluto.tv/channels/64eca23c9c1e390008524ae6/colorLogoPNG.png,NordiskkrimfraViaplay.se@NO,iptv-org
 Series,Series,Nosey (1080p),https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8,https://i.imgur.com/i5doCQK.png,Nosey.us@US,iptv-org
@@ -1045,10 +1004,7 @@ Series,Series,Novela Channel (720p) [Not 24/7],https://video1.getstreamhosting.c
 Series,Series,Novelisima (1080p),http://138.59.177.78:9999/play/a0gg/index.m3u8,https://i.imgur.com/8dUS3Ih.png,Novelisima.us@SD,iptv-org
 Series,Series,NTV Series (576p),http://stream.mcquack.net/301/index.m3u8,https://i.imgur.com/QdVa8tl.png,NTVSeries.ru@SD,iptv-org
 Series,Series,NTV-Hit (576p),http://178.134.1.158:8081/ntvhit/index.m3u8,https://i.imgur.com/FfKBvz5.png,NTVHit.ru@SD,iptv-org
-Series,Series,Numb3rs,https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8,https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png,Numb3rs.se@SE,iptv-org
-Series,Series,Numb3rs NO,https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8,https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png,Numb3rs.se@NO,iptv-org
-Series,Series,Numbers (Sweden),https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8,https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png,Numbers.se@DK,iptv-org
-Series,Series,Numbers (United States),https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8,https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png,Numbers.us@BR,iptv-org
+Series,Series,Numbers,https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8,https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png,Numbers.us@BR,iptv-org
 Series,Series,Numeros,https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8,https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png,Numeros.us@LatAm,iptv-org
 Series,Series,ON Cine,https://freem3u.xyz/api/live/play.m3u8?vid=176,https://i.ibb.co/Jw0J5fnW/IMG-2509.png,ONCine.vn@SD,iptv-org
 Series,Series,On Patrol: Live (1080p),https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8,https://i.imgur.com/OAThfQx.png,OnPatrolLive.us@HD,iptv-org
@@ -1121,20 +1077,14 @@ Series,Series,Pluto TV Storage Wars (720p),https://jmp2.uk/plu-6887aaf4e3703b7d4
 Series,Series,Pluto TV Telenovelas Clasicas,https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png,PlutoTVTelenovelasClasicas.de@ES,iptv-org
 Series,Classic;Series,Pluto TV The Twilight Zone,https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8,https://i.imgur.com/FiIRQAR.png,PlutoTVTheTwilightZone.us@SD,iptv-org
 Series,Documentary;Series,Pluto TV Tough Jobs,https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8,https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png,PlutoTVToughJobs.de@GB,iptv-org
-Series,Documentary;Series,Pluto TV True Crime (Sweden),https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8,https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png,PlutoTVTrueCrime.se@SE,iptv-org
-Series,Documentary;Series,Pluto TV True Crime (Sweden) DK,https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8,https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png,PlutoTVTrueCrime.se@DK,iptv-org
-Series,Documentary;Series,Pluto TV True Crime (Sweden) NO,https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8,https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png,PlutoTVTrueCrime.se@NO,iptv-org
-Series,Documentary;Series,Pluto TV True Crime (United States),https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8,https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png,PlutoTVTrueCrime.us@US,iptv-org
-Series,Documentary;Series,Pluto TV True Crime (United States) CA,https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8,https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png,PlutoTVTrueCrime.us@CA,iptv-org
+Series,Documentary;Series,Pluto TV True Crime,https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8,https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png,PlutoTVTrueCrime.us@US,iptv-org
+Series,Documentary;Series,Pluto TV True Crime CA,https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8,https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png,PlutoTVTrueCrime.us@CA,iptv-org
 Series,Series,Pluto TV Western Serien,https://jmp2.uk/plu-682453215c646751955e1204.m3u8,https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png,PlutoTVWesternSerien.de@DACH,iptv-org
 Series,Series,Pluto TV Wipeout,https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8,https://i.imgur.com/KVTNBFr.png,PlutoTVWipeout.us@SD,iptv-org
 Series,Series,Polsat Seriale (1080p),http://57.128.210.196:8080/196/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png,PolsatSeriale.pl@SD,iptv-org
 Series,Series,Polsat Seriale HD (1080i),http://92.114.85.87:8014/play/a00a/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png,PolsatSeriale.pl@HD,iptv-org
 Series,Entertainment;Series,Rakuten Viki (1080p),https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8,https://i.imgur.com/pbyd1g2.png,RakutenViki.us@Spain,iptv-org
 Series,Entertainment;Series,Rakuten Viki Poland (720p),https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8,https://i.imgur.com/pbyd1g2.png,RakutenViki.us@Poland,iptv-org
-Series,Classic;Series,Rawhide (Sweden),https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8,https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png,Rawhide.se@SE,iptv-org
-Series,Classic;Series,Rawhide (Sweden) DK,https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8,https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png,Rawhide.se@DK,iptv-org
-Series,Classic;Series,Rawhide (Sweden) NO,https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8,https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png,Rawhide.se@NO,iptv-org
 Series,Auto;Outdoor;Series;Sports,REV'N Action (720p) [Geo-blocked],https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8,https://i.imgur.com/xsm8mMd.png,REVNAction.us@SD,iptv-org
 Series,Series,Rotana Drama (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/btnhPjZ.png,RotanaDrama.sa@SD,iptv-org
 Series,Series,Saphire (1080p),http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8,https://i.imgur.com/NMOBvle.png,Saphire.ru@SD,iptv-org
@@ -1183,18 +1133,11 @@ Series,Series,The L Word,https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8,https
 Series,Series,The L Word DK,https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8,https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png,TheLWord.se@DK,iptv-org
 Series,Series,The L Word NO,https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8,https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png,TheLWord.se@NO,iptv-org
 Series,Classic;Series,The Loop (1080p),https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8,https://i.imgur.com/iyYLuJj.png,TheLoop.us@SD,iptv-org
-Series,Series,The New Detectives (Germany),https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8,https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png,TheNewDetectives.de@GB,iptv-org
-Series,Series,The New Detectives (Sweden),https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8,https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png,TheNewDetectives.se@SE,iptv-org
-Series,Series,The New Detectives (Sweden) DK,https://jmp2.uk/plu-618147d2a814250007b42916.m3u8,https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png,TheNewDetectives.se@DK,iptv-org
-Series,Series,The New Detectives (Sweden) NO,https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8,https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png,TheNewDetectives.se@NO,iptv-org
-Series,Series,The New Detectives (United States),https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@US,iptv-org
-Series,Series,The New Detectives (United States) CA,https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@CA,iptv-org
-Series,Series,The New Detectives (United States) LatAm,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@LatAm,iptv-org
+Series,Series,The New Detectives,https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@US,iptv-org
+Series,Series,The New Detectives CA,https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@CA,iptv-org
+Series,Series,The New Detectives LatAm,https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png,TheNewDetectives.us@LatAm,iptv-org
 Series,Series,The Rifleman,https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8,https://i.imgur.com/60YejJs.png,TheRifleman.us@SD,iptv-org
 Series,Series,The Walking Dead Universe (1080p),https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8,https://i.imgur.com/IwJ5Pnc.png,TheWalkingDeadUniverse.us@SD,iptv-org
-Series,Classic;Series,The Wild Wild West (Sweden),https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8,https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png,TheWildWildWest.se@SE,iptv-org
-Series,Classic;Series,The Wild Wild West (Sweden) DK,https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8,https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png,TheWildWildWest.se@DK,iptv-org
-Series,Classic;Series,The Wild Wild West (Sweden) NO,https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8,https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png,TheWildWildWest.se@NO,iptv-org
 Series,Series,This Old House (1080p),https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8,https://i.imgur.com/nrVLyE6.png,ThisOldHouse.us@SD,iptv-org
 Series,Series,Three's Company,https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8,https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png,ThreesCompany.us@SD,iptv-org
 Series,Series,Three's Company CA (720p),https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8,https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png,ThreesCompany.us@CA,iptv-org
@@ -1208,7 +1151,7 @@ Series,Series,TNT Series Latin America (1080p),http://168.196.127.137:6001/play/
 Series,Series,"like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"" group-title=""Series"",TNT Series Latin America South",https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png,TNTSeriesLatinAmerica.us@South,iptv-org
 Series,Series,Todo Novelas (1080p),https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8,https://i.imgur.com/NuYwGok.png,TodoNovelas.es@SD,iptv-org
 Series,Series,Top Crime [Geo-blocked],https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Top_Crime_-_Logo_2013.svg/960px-Top_Crime_-_Logo_2013.svg.png,TopCrime.it@SD,iptv-org
-Series,Series,Tosh.0 (United States),https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8,https://i.imgur.com/sXkluxg.png,Tosh0.us@SD,iptv-org
+Series,Series,Tosh.0,https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8,https://i.imgur.com/sXkluxg.png,Tosh0.us@SD,iptv-org
 Series,Series,Tout le monde deteste Chris,https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8,https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png,ToutlemondedetesteChris.de@FR,iptv-org
 Series,Series,True Crime (1080p),https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8,https://i.imgur.com/LK2NFst.png,TrueCrime.uk@SD,iptv-org
 Series,Series,True Crime by Pluto TV,https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8,https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png,TrueCrimebyPlutoTV.de@FR,iptv-org
