@@ -174,7 +174,6 @@ Filmes,Movies;Series,Classic Movie Westerns,https://jmp2.uk/plu-61f3331821054900
 Filmes,Movies,Classic Movies Channel,https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8,https://i.imgur.com/pQJxov2.png,ClassicMoviesChannel.us@SD,iptv-org
 Filmes,Movies,Classique TV (360p),https://stmv1.srvif.com/classique/classique/playlist.m3u8,https://i.imgur.com/rHxcraT.png,ClassiqueTV.br@SD,iptv-org
 Filmes,Movies,CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=,https://i.imgur.com/4uG8HsQ.png,CNDFilmMiddleSchoolChannel.cn@SD,iptv-org
-Filmes,Movies,Colors Bangla Cinema (576p),http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png,ColorsBanglaCinema.in@SD,iptv-org
 Filmes,Movies,Colors Cineplex (576p),https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX/images/LOGO_HD/image.png,ColorsCineplex.in@SD,iptv-org
 Filmes,Movies,Colors Cineplex Bollywood (576p),http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png,ColorsCineplexBollywood.in@SD,iptv-org
 Filmes,Movies,Colors Cineplex Superhits (576p),http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png,ColorsCineplexSuperhits.in@SD,iptv-org
@@ -355,7 +354,6 @@ Filmes,Movies,Klasik (576p) [Not 24/7],https://178.253.194.105/klasiktv/playlist
 Filmes,Movies,Komsan TV [Not 24/7],http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8,https://i.imgur.com/SNTf2r3.png,KomsanTV.kh@SD,iptv-org
 Filmes,Movies,Kuriakos Cine (1080p),https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8,https://i.imgur.com/CZViCwB.jpg,KuriakosCine.pt@SD,iptv-org
 Filmes,Movies,Laxmi TV Gujarati (576p),http://27.124.71.27/Sun_Bangla/index.m3u8,https://i.imgur.com/8wLfkl9.jpg,LaxmiTVGujarati.in@SD,iptv-org
-Filmes,Movies,Lifetime Movies (1080p),http://23.237.104.106:8080/USA_LMN/index.m3u8,https://i.imgur.com/BWmqYTO.png,LifetimeMovies.us@East,iptv-org
 Filmes,Movies,Lollywood HD TV,https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8,https://i.imgur.com/fQhrsdr.png,LollywoodHDTV.cd@SD,iptv-org
 Filmes,Movies,Maah TV (720p),https://hls.maahtv.live/hls/stream.m3u8,https://i.imgur.com/FkyueH6.png,MaahTV.my@SD,iptv-org
 Filmes,Movies,Made In Hollywood (720p),https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8,https://i.imgur.com/p16HNIM.png,MadeInHollywood.us@SD,iptv-org
@@ -626,7 +624,7 @@ Filmes,Movies;Series,Rawhide,https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8,h
 Filmes,Movies;Series,Rawhide CA,https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8,https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png,Rawhide.us@CA,iptv-org
 Filmes,Movies,Rodnoe Kino (1080p),https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8,https://i.imgur.com/H70LxoZ.png,RodnoeKino.ru@SD,iptv-org
 Filmes,Movies,Rotana Cinema Egypt (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/dGlKoLW.png,RotanaCinemaEgypt.eg@SD,iptv-org
-Filmes,Movies,Rotana Cinema KSA (1080p) [Geo-blocked],https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/pGgp38I.png,RotanaCinemaKSA.sa@SD,iptv-org
+Filmes,Movies,Rotana Cinema KSA (540p),https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8,https://i.imgur.com/pGgp38I.png,RotanaCinemaKSA.sa@SD,iptv-org
 Filmes,Movies,RTSH Shqip (1080p),http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8,https://i.imgur.com/88kRsW3.png,RTSHShqip.al@SD,iptv-org
 Filmes,Movies,Runtime (720p),https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8,https://i.imgur.com/2USCMvP.png,Runtime.us@SD,iptv-org
 Filmes,Movies,Runtime Espanol (720p),https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8,https://i.imgur.com/OMQq19N.png,RuntimeEspanol.us@SD,iptv-org
@@ -678,7 +676,6 @@ Filmes,Movies;Series,Star Channel Latin America South,http://45.184.109.10/live/
 Filmes,Movies,Star Cinema (576p),http://s1.merlive.am/starsinema/index.m3u8,https://i.imgur.com/5sis895.png,StarCinema.ru@SD,iptv-org
 Filmes,Movies,Star Family (1080p),https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8,https://i.imgur.com/eGuGHnZ.png,StarFamily.ru@SD,iptv-org
 Filmes,Movies,Star Maa Movies HD (720p),https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8,https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540,StarMaaMovies.in@HD,iptv-org
-Filmes,Movies,Star Movies (India) HD (1080p),http://116.90.120.149:8000/play/a13a/index.m3u8,https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png,StarMovies.in@HD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.36"" group-title=""Movies"",Star Movies (Portugal)",http://znty.dyndns.org:5010/hls/foxm.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png,StarMovies.pt@SD,iptv-org
 Filmes,Movies,"like Gecko) Chrome/149.0.0.0 Safari/537.3"" group-title=""Movies"",Star Movies (Slovenia)",http://92.36.202.5:10001/play/a01o,https://i.imgur.com/JcoAgDF.png,StarMovies.si@SD,iptv-org
 Filmes,Movies,Star Tamil Television (360p),https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=,https://i.imgur.com/fjHcr9z.jpg,StarTamilTelevision.lk@SD,iptv-org
@@ -695,7 +692,6 @@ Filmes,Movies;Series,Star Trek: Voyager,https://jmp2.uk/plu-634dacf51d90320007fc
 Filmes,Movies,Star Utsav Movies (576p),http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass,https://i.imgur.com/k5QHfH2.png,StarUtsavMovies.in@SD,iptv-org
 Filmes,Movies,START Air (1080p),http://176.118.197.101/START_AIR/index.m3u8,https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png,STARTAir.ru@SD,iptv-org
 Filmes,Movies,START World (576p),https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv,https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png,STARTWorld.ru@SD,iptv-org
-Filmes,Movies,Starz Cinema (720p),http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8,https://i.imgur.com/ghzzKoT.png,StarzCinema.us@East,iptv-org
 Filmes,Movies,Studio One + (720p),https://cdn.pishow.tv/ott/live/276/master.m3u8,https://i.imgur.com/yOPB7JB.png,StudioOnePlus.in@SD,iptv-org
 Filmes,Movies,Summer of Movies,https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8,https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png,SummerofMovies.us@CA,iptv-org
 Filmes,Movies,Sundance TV (Poland) (576i),http://92.114.85.87:8003/play/a004/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png,SundanceTV.pl@SD,iptv-org
@@ -755,6 +751,7 @@ Filmes,Movies,viju TV1000 russkoe (1080p),https://stream8.cinerama.uz/1058/track
 Filmes,Movies,viju+ Megahit HD (1080p),http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8,https://i.imgur.com/oIQNddV.png,vijuPlusMegahit.ru@HD,iptv-org
 Filmes,Movies,viju+ Premiere HD (1080p),http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8,https://i.imgur.com/klRvhR5.png,vijuPlusPremiere.ru@HD,iptv-org
 Filmes,Entertainment;Movies,Vinh Long TV 3 (720p),https://dethich.pw/thvl3/index.m3u8,https://i.imgur.com/OQXEhqu.png,VinhLongTV3.vn@SD,iptv-org
+Filmes,Movies,Warner Channel (720p),http://181.78.197.59:8000/play/a07s/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png,WarnerChannel.us@Panregional,iptv-org
 Filmes,Movies,Warner Channel Colombia (1080p),http://38.134.250.110:8000/play/a029/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png,WarnerChannel.us@Colombia,iptv-org
 Filmes,Movies,Warner Channel Mexico (1080p) [Geo-blocked],http://15.204.246.24:8080/WarnerChannelHD/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png,WarnerChannel.us@Mexico,iptv-org
 Filmes,Movies,Warner Channel South,http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png,WarnerChannel.us@South,iptv-org
