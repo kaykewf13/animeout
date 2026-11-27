@@ -1301,12 +1301,10 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 https://live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Bruzz
 https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",BHT 1
+#EXTINF:-1 group-title="CANAIS",BHT 1 Ⓖ
 https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8
-#EXTINF:-1 group-title="CANAIS",BHT 1 Ⓢ
+#EXTINF:-1 group-title="CANAIS",BHT 1 Ⓢ Ⓖ
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
-#EXTINF:-1 group-title="CANAIS",Federalna televizija (FTV) Ⓢ
-http://94.250.2.6:7374/play/a02s/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Televizija Republike Srpske (RTRS)
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTRS PLUS Ⓢ
@@ -1315,24 +1313,16 @@ https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTV BN
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
-#EXTINF:-1 group-title="CANAIS",RTV Glas Drine
-http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",TNT Kids
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 group-title="CANAIS",Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1 group-title="CANAIS",Kanal 6
-https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1 group-title="CANAIS",SuperTV
-https://live.tv-m.net/hls/stream.m3u8
+https://live.probaj.net/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 group-title="CANAIS",RTV USK Ⓨ
-https://www.youtube.com/@rtvusk/live
+#EXTINF:-1 group-title="CANAIS",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 group-title="CANAIS",RTV ZE Ⓢ
 https://stream.rtvze.ba/live/123/123.m3u8
-#EXTINF:-1 group-title="CANAIS",TV BPK Ⓢ
-http://94.250.2.6:7374/play/a02u/index.m3u8
 #EXTINF:-1 group-title="CANAIS",COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",AgroBrasil TV
@@ -1531,6 +1521,10 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Nova TV
 http://176.61.157.250/NovaTV/index.m3u8
+#EXTINF:-1 group-title="CANAIS",HRT 3
+https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8
+#EXTINF:-1 group-title="CANAIS",HRT 4 Ⓨ
+https://www.youtube.com/@HRT_vijesti/live
 #EXTINF:-1 group-title="CANAIS",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Sportska televizija Ⓖ
@@ -1540,37 +1534,21 @@ https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 group-title="CANAIS",Plava Vinkovačka
-https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
+https://edge2.livebroadcastsolutions.com/hls/stream.m3u8
 #EXTINF:-1 group-title="CANAIS",Televizija Slavonije i Baranje (STV)
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:-1 group-title="CANAIS",Osječka televizija (OSTV) Ⓢ
-https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
+https://live.osjecka.com/live/index.m3u8
 #EXTINF:-1 group-title="CANAIS",SBTV
 https://live.leveex.hr/hls/live.m3u8
-#EXTINF:-1 group-title="CANAIS",OTV
-https://stream.agatin.hr:3559/live/otvlive.m3u8
-#EXTINF:-1 group-title="CANAIS",Z1 Ⓨ
-https://www.youtube.com/@z1televizija/live
 #EXTINF:-1 group-title="CANAIS",Kanal Ri
-https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+https://live.kanalri-transfer.org/kanalri/main_stream.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 group-title="CANAIS",Diadora
-https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",TV Jadran
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
-#EXTINF:-1 group-title="CANAIS",TV Dalmacija Ⓨ
-https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live
 #EXTINF:-1 group-title="CANAIS",Libertas TV
-https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 group-title="CANAIS",Trend TV
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8
-#EXTINF:-1 group-title="CANAIS",Televizija Zapad
-http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
-#EXTINF:-1 group-title="CANAIS",Al Jazeera Balkans
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 group-title="CANAIS",N1 Hrvatska Ⓨ
-https://www.youtube.com/@N1_Hrvatska/live
+https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8
 #EXTINF:-1 group-title="CANAIS",RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",Ada TV
@@ -4097,14 +4075,12 @@ https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 group-title="CANAIS",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 group-title="CANAIS",RTS 3
-https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1 group-title="CANAIS",Red TV
 https://edge8.pink.rs/redtv/index.m3u8
 #EXTINF:-1 group-title="CANAIS",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:-1 group-title="CANAIS",Informer TV
-https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",Blic TV
+https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS",RTS Svet
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
 #EXTINF:-1 group-title="CANAIS",Markíza

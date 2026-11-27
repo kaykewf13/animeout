@@ -120,22 +120,17 @@ Canais,Belgium,LN24,https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d
 Canais,Belgium,BX1,https://59959724487e3.streamlock.net/stream/live/playlist.m3u8,https://i.imgur.com/YjKqWru.png,channel-playlist:free-tv-br
 Canais,Belgium,EEN,https://live-vrt.rabah.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8,https://i.imgur.com/66GQlc7.png,channel-playlist:free-tv-br
 Canais,Belgium,Bruzz,https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8,https://www.bruzz.be/themes/custom/drupack/favicons/favicon-32x32.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,BHT 1,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,BHT 1 Ⓢ,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,Federalna televizija (FTV) Ⓢ,http://94.250.2.6:7374/play/a02s/index.m3u8,https://i.imgur.com/Jpvs4u3.png,channel-playlist:free-tv-br
+Canais,Bosnia and Herzegovina,BHT 1 Ⓖ,https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
+Canais,Bosnia and Herzegovina,BHT 1 Ⓢ Ⓖ,https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8,https://i.imgur.com/LEwlEEE.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,Televizija Republike Srpske (RTRS),https://parh.rtrs.tv/tv/live/playlist.m3u8,https://i.imgur.com/2Sgs5gM.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,RTRS PLUS Ⓢ,https://pluslive.rtrs.tv/plus/plus/playlist.m3u8,https://i.imgur.com/k06WvYl.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,N1 Bosna i Hercegovina,https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info,https://i.imgur.com/72oMSWz.png,channel-playlist:free-tv-br
+Canais,Bosnia and Herzegovina,N1 Bosna i Hercegovina,https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8,https://i.imgur.com/72oMSWz.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,RTV HB Ⓢ,https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8,https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,RTV BN,https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8,https://i.imgur.com/DUBvfWb.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,RTV Glas Drine,http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8,https://i.imgur.com/9NgxOdb.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,TNT Kids,https://restreamer1.tnt.ba/hls/tntkids.m3u8,https://i.imgur.com/irTDbpn.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,Televizija 5,https://balkanmedia.dynu.net/hls/tv5web.m3u8,https://i.imgur.com/znpvJys.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,Kanal 6,https://restreamer1.tnt.ba/hls/kanal6.m3u8,https://i.imgur.com/GGhvR0l.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,SuperTV,https://live.tv-m.net/hls/stream.m3u8,https://i.imgur.com/XYWgd3E.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,RTV USK Ⓨ,https://www.youtube.com/@rtvusk/live,https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png,channel-playlist:free-tv-br
+Canais,Bosnia and Herzegovina,SuperTV,https://live.probaj.net/live/mirtv/index.m3u8,https://i.imgur.com/XYWgd3E.png,channel-playlist:free-tv-br
+Canais,Bosnia and Herzegovina,Newsmax Balkans,https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8,https://i.imgur.com/BXFPz8c.png,channel-playlist:free-tv-br
 Canais,Bosnia and Herzegovina,RTV ZE Ⓢ,https://stream.rtvze.ba/live/123/123.m3u8,https://i.imgur.com/TKUaflB.png,channel-playlist:free-tv-br
-Canais,Bosnia and Herzegovina,TV BPK Ⓢ,http://94.250.2.6:7374/play/a02u/index.m3u8,https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg,channel-playlist:free-tv-br
 Canais,Brazil,COM Brasil,https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8,https://i.imgur.com/c8ztQnF.png,channel-playlist:free-tv-br
 Canais,Brazil,SBT Ⓨ,https://www.youtube.com/watch?v=ABVQXgr2LW4,https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png,channel-playlist:free-tv-br
 Canais,Brazil,AgroBrasil TV,http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8,https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg,channel-playlist:free-tv-br
@@ -234,28 +229,21 @@ Canais,Croatia,HRT 1 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/i
 Canais,Croatia,HRT 2 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/d/d0/Htv2-logo.png,channel-playlist:free-tv-br
 Canais,Croatia,RTL,https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8,https://i.imgur.com/zAjr6pO.png,channel-playlist:free-tv-br
 Canais,Croatia,Nova TV,http://176.61.157.250/NovaTV/index.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/500px-Nova_TV_Croatia_logo.png,channel-playlist:free-tv-br
-Canais,Croatia,HRT 3 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png,channel-playlist:free-tv-br
-Canais,Croatia,HRT 4 Ⓖ,https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd,https://upload.wikimedia.org/wikipedia/commons/7/76/HRT4-logo.png,channel-playlist:free-tv-br
+Canais,Croatia,HRT 3,https://webtvstream.bhtelecom.ba/hls9/hrt3_1200.m3u8,https://upload.wikimedia.org/wikipedia/commons/9/96/HRT3_Logo_aktuell.png,channel-playlist:free-tv-br
+Canais,Croatia,HRT 4 Ⓨ,https://www.youtube.com/@HRT_vijesti/live,https://i.imgur.com/VcNrY0m.png,channel-playlist:free-tv-br
 Canais,Croatia,RTL 2,https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8,https://i.imgur.com/dQLaylJ.png,channel-playlist:free-tv-br
 Canais,Croatia,Sportska televizija Ⓖ,https://stream.agatin.hr:3087/live/sptvlive.m3u8,https://i.imgur.com/xdxjcVh.png,channel-playlist:free-tv-br
 Canais,Croatia,RTL Kockica,https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8,https://i.imgur.com/BiSVmRa.png,channel-playlist:free-tv-br
 Canais,Croatia,CMC TV,https://stream.cmctv.hr:49998/cmc/live.m3u8,https://i.imgur.com/Fh2vawT.png,channel-playlist:free-tv-br
-Canais,Croatia,Plava Vinkovačka,https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8,https://i.imgur.com/WJJNtQ3.jpg,channel-playlist:free-tv-br
+Canais,Croatia,Plava Vinkovačka,https://edge2.livebroadcastsolutions.com/hls/stream.m3u8,https://i.imgur.com/WJJNtQ3.jpg,channel-playlist:free-tv-br
 Canais,Croatia,Televizija Slavonije i Baranje (STV),http://89.201.163.244:8080/hls/hdmi.m3u8,https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG,channel-playlist:free-tv-br
-Canais,Croatia,Osječka televizija (OSTV) Ⓢ,https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8,https://i.imgur.com/o9JgEyG.png,channel-playlist:free-tv-br
-Canais,Croatia,SBTV,https://live.leveex.hr/hls/live.m3u8,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SBTV_Logo.svg/500px-SBTV_Logo.svg.png,channel-playlist:free-tv-br
-Canais,Croatia,OTV,https://stream.agatin.hr:3559/live/otvlive.m3u8,https://i.imgur.com/67zVdu2.png,channel-playlist:free-tv-br
-Canais,Croatia,Z1 Ⓨ,https://www.youtube.com/@z1televizija/live,https://upload.wikimedia.org/wikipedia/hr/9/9e/Z1-tv_logo.png,channel-playlist:free-tv-br
-Canais,Croatia,Kanal Ri,https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8,https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png,channel-playlist:free-tv-br
+Canais,Croatia,Osječka televizija (OSTV) Ⓢ,https://live.osjecka.com/live/index.m3u8,https://i.imgur.com/o9JgEyG.png,channel-playlist:free-tv-br
+Canais,Croatia,SBTV,https://live.leveex.hr/hls/live.m3u8,https://i.imgur.com/MIampxZ.png,channel-playlist:free-tv-br
+Canais,Croatia,Kanal Ri,https://live.kanalri-transfer.org/kanalri/main_stream.m3u8,https://i.imgur.com/aSPMh0o.png,channel-playlist:free-tv-br
 Canais,Croatia,TV Nova,https://stream.agatin.hr:3727/live/tvnovalive.m3u8,https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png,channel-playlist:free-tv-br
-Canais,Croatia,Diadora,https://diadoratv.stream/live/diadora/playlist.m3u8,https://i.imgur.com/qZzsASl.png,channel-playlist:free-tv-br
 Canais,Croatia,TV Jadran,https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8,https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png,channel-playlist:free-tv-br
-Canais,Croatia,TV Dalmacija Ⓨ,https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live,https://upload.wikimedia.org/wikipedia/hr/b/ba/Televizija_dalmacija_logo.jpg,channel-playlist:free-tv-br
-Canais,Croatia,Libertas TV,https://stream.luci.xyz/hls/LTV.m3u8,https://upload.wikimedia.org/wikipedia/hr/8/8a/LibertasTV.png,channel-playlist:free-tv-br
-Canais,Croatia,Trend TV,http://185.62.75.22:1935/trend/myStream/playlist.m3u8,https://upload.wikimedia.org/wikipedia/hr/2/22/TrendTV.jpg,channel-playlist:free-tv-br
-Canais,Croatia,Televizija Zapad,http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8,https://upload.wikimedia.org/wikipedia/hr/9/97/TVZ-2018.png,channel-playlist:free-tv-br
-Canais,Croatia,Al Jazeera Balkans,https://live-hls-web-ajb.getaj.net/AJB/index.m3u8,https://i.imgur.com/Z1FB6wl.png,channel-playlist:free-tv-br
-Canais,Croatia,N1 Hrvatska Ⓨ,https://www.youtube.com/@N1_Hrvatska/live,https://i.imgur.com/qcD1OOZ.png,channel-playlist:free-tv-br
+Canais,Croatia,Libertas TV,https://stream.libertas.tv/memfs/6767a62d-34ce-4756-8df5-0722b0475870.m3u8,https://i.imgur.com/4R4fhbd.png,channel-playlist:free-tv-br
+Canais,Croatia,N1 Hrvatska,https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8,https://i.imgur.com/qcD1OOZ.png,channel-playlist:free-tv-br
 Canais,Cyprus,RIK 1 Ⓢ,http://213.7.216.229:8888/udp/239.23.0.1:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/500px-Logo_RIK_1_2017.svg.png,channel-playlist:free-tv-br
 Canais,Cyprus,RIK 2 Ⓢ,http://213.7.216.229:8888/udp/239.23.0.2:1234,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_RIK_2_2017.svg/500px-Logo_RIK_2_2017.svg.png,channel-playlist:free-tv-br
 Canais,Cyprus,RIK HD,http://213.7.216.229:8888/udp/239.23.0.5:1234,https://upload.wikimedia.org/wikipedia/el/7/7d/RIKHD2.png,channel-playlist:free-tv-br
@@ -1616,11 +1604,11 @@ Canais,Saudi Arabia,Rotana Ciip,https://rotana.hibridcdn.net/rotananet/clip_net-
 Canais,Saudi Arabia,Rotana Music,https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8,https://i.imgur.com/2zFQbQi.png,channel-playlist:free-tv-br
 Canais,Serbia,RTS 1,https://webtvstream.bhtelecom.ba/rts1.m3u8,https://i.imgur.com/S1pKHSR.png,channel-playlist:free-tv-br
 Canais,Serbia,RTS 2,https://webtvstream.bhtelecom.ba/rts2.m3u8,https://i.imgur.com/jltAf5h.png,channel-playlist:free-tv-br
-Canais,Serbia,RTS 3,https://webtvstream.bhtelecom.ba/rts_sat.m3u8,https://i.imgur.com/gxuGB4J.png,channel-playlist:free-tv-br
 Canais,Serbia,Red TV,https://edge8.pink.rs/redtv/index.m3u8,https://i.imgur.com/cpN7NrL.png,channel-playlist:free-tv-br
 Canais,Serbia,Kurir TV,https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8,https://i.imgur.com/HBPnUD5.png,channel-playlist:free-tv-br
-Canais,Serbia,Informer TV,https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8,https://i.imgur.com/9wdEHRf.png,channel-playlist:free-tv-br
-Canais,Serbia,RTS Svet,https://webtvstream.bhtelecom.ba/rts_svet.m3u8,https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png,channel-playlist:free-tv-br
+Canais,Serbia,Blic TV,https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8,https://i.imgur.com/XM5Qz1i.png,channel-playlist:free-tv-br
+Canais,Serbia,RTS Svet,https://webtvstream.bhtelecom.ba/rts_svet.m3u8,https://i.imgur.com/LjunOdy.png,channel-playlist:free-tv-br
+Canais,Serbia,IDJ TV,https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8,https://i.imgur.com/btvyrzr.png,channel-playlist:free-tv-br
 Canais,Slovakia,Markíza,https://cdnsk003.panaccess.com/local/Markiza/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png,channel-playlist:free-tv-br
 Canais,Slovakia,Klasik,https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png,channel-playlist:free-tv-br
 Canais,Slovakia,STVR :24,https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24,https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png,channel-playlist:free-tv-br
